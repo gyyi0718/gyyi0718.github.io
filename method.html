@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>데이터 집계 방법 — 업무추진비를 식당 순위로 바꾸는 과정</title>
+<meta name="description" content="전국 지자체 업무추진비 공개자료를 수집·정제해 식당별 순위로 집계하는 절차와 제외 기준, 한계를 공개합니다.">
+<meta property="og:title" content="데이터 집계 방법 — 업무추진비를 식당 순위로 바꾸는 과정"><meta property="og:description" content="전국 지자체 업무추진비 공개자료를 수집·정제해 식당별 순위로 집계하는 절차와 제외 기준, 한계를 공개합니다."><meta property="og:type" content="article">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3133301641364865" crossorigin="anonymous"></script>
+<style>*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Apple SD Gothic Neo','Malgun Gothic',sans-serif;background:#fafbfa;color:#222;-webkit-text-size-adjust:100%}
+.wrap{max-width:760px;margin:0 auto;padding:18px 16px 60px}
+header{position:sticky;top:0;background:#fff;border-bottom:1px solid #eee;padding:11px 16px;z-index:10}
+header a.logo{color:#0B9D58;font-size:18px;font-weight:700;text-decoration:none}
+header nav{float:right;font-size:13px;padding-top:4px}
+header nav a{color:#666;margin-left:13px;text-decoration:none}
+.card{background:#fff;border:1px solid #eee;border-radius:16px;padding:26px 24px;margin:16px 0}
+h1{font-size:24px;line-height:1.4;margin-bottom:10px}
+h2{font-size:17px;margin:2px 0 12px;color:#0B9D58}
+.meta{color:#888;font-size:13.5px;margin-bottom:4px}
+p.body{line-height:1.9;margin:12px 0;color:#333;font-size:15px}
+p.body b{color:#111}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin-top:6px}
+.stat{flex:1 1 140px;background:#f7faf8;border-radius:12px;padding:12px 14px}
+.stat .k{font-size:12px;color:#888}
+.stat .v{font-size:17px;font-weight:700;margin-top:3px}
+.rk{display:flex;gap:14px;align-items:flex-start;padding:15px 4px;border-bottom:1px solid #f2f2f2}
+.rk:last-child{border-bottom:none}
+.rk .no{font-size:21px;width:34px;text-align:center;flex-shrink:0}
+.rk .nm{font-size:16.5px;font-weight:700}
+.rk .in{color:#666;font-size:13.5px;line-height:1.7;margin-top:3px}
+.rk a{color:#0B9D58;text-decoration:none;font-size:13px}
+.pill{display:inline-block;background:#f3f7f4;color:#0B9D58;font-size:11px;border-radius:10px;padding:1px 8px;vertical-align:2px}
+.near a{display:inline-block;background:#f5f6f5;border-radius:14px;padding:5px 11px;margin:3px 4px 3px 0;font-size:13px;color:#444;text-decoration:none}
+.src{font-size:13.5px;line-height:1.85;color:#666}
+.src li{margin-left:18px;margin-top:4px}
+footer{text-align:center;color:#aaa;font-size:12px;padding:26px 16px;line-height:1.8}
+footer a{color:#0B9D58;text-decoration:none}</style>
+</head><body>
+<header><a class="logo" href="index.html">🍚 세금맛집</a><nav><a href="index.html">지도</a><a href="report-2025.html">전국 리포트</a><a href="about.html">소개</a><a href="method.html">데이터</a><a href="contact.html">문의</a></nav><div style="clear:both"></div></header>
+<div class="wrap">
+<div class="card"><h1>데이터를 이렇게 모았습니다</h1>
+<p class="body">이 사이트의 모든 숫자는 지방자치단체가 공개한 2025년 업무추진비 집행내역에서 나옵니다.
+추정도, 표본조사도 아닙니다. 공개된 기록을 전부 세었습니다. 아래는 그 과정 전부입니다.</p>
+
+<h2>1. 어디서 가져왔나</h2>
+<p class="body">각 지자체 홈페이지의 '업무추진비 공개' 게시판, 그리고 일부는 행정안전부 정보공개 포털에 올라온 파일을 이용했습니다.
+공개 형식은 지역마다 제각각입니다. 엑셀(xlsx/csv)로 부서별 파일을 매달 올리는 곳이 가장 많고,
+한글(hwp)이나 PDF로 올리는 곳, 게시판 본문에 표로 붙여 넣는 곳도 있습니다. 형식별로 다른 방식으로 표를 추출했습니다.</p>
+
+<h2>2. 무엇을 뺐나</h2>
+<p class="body">공개 자료에는 식사 외 지출이 함께 들어 있습니다. 다음 항목은 집계에서 제외했습니다.</p>
+<ul class="src">
+<li>카페·베이커리·편의점·마트 등 음료·물품 구매</li>
+<li>화환·경조사비·기념품·소모품 구매</li>
+<li>숙박·교통·주차 등 식당이 아닌 결제처</li>
+<li>사용처가 비어 있거나 '○○식당' 처럼 상호를 알 수 없게 표기된 건</li>
+<li>구내식당·급식 등 외부 식당이 아닌 결제</li>
+</ul>
+
+<h2>3. 같은 가게를 어떻게 하나로 묶었나</h2>
+<p class="body">같은 식당인데 부서마다 다르게 적는 경우가 대단히 많습니다.
+띄어쓰기 차이('한우 마을'/'한우마을'), 지점명 유무('○○식당 본점'/'○○식당'),
+법인명 표기('(주)○○'), 오탈자까지 섞입니다. 표기를 정규화한 뒤 상호와 주소를 함께 비교해 동일 업소로 합쳤습니다.
+서로 다른 동네의 같은 상호(예: 전국에 흔한 상호)는 주소가 다르면 별개 업소로 두었습니다.</p>
+<p class="body">주소와 좌표, 업종 분류는 지도 서비스의 장소 검색 결과를 대조해 채웠습니다.
+지도에서 찾지 못한 업소는 순위에는 남기되 지도 표시에서 빠질 수 있습니다.</p>
+
+<h2>4. 무엇을 계산했나</h2>
+<ul class="src">
+<li><b>결제 횟수</b> — 순위의 기준. 금액이 아니라 '몇 번 갔는가'입니다.</li>
+<li><b>집행액</b> — 해당 식당에서 한 해 동안 결제된 금액의 합</li>
+<li><b>회당 평균</b> — 집행액 ÷ 결제 횟수. 1인당 금액이 아니라 한 번 결제할 때의 금액입니다. 참석 인원은 공개되지 않습니다.</li>
+<li><b>이용 부서 수</b> — 그 식당에서 결제한 서로 다른 부서의 수. 클수록 청사 전체가 쓰는 자리입니다.</li>
+<li><b>TOP10 비중</b> — 상위 10개 식당의 결제 건수 ÷ 그 지역 전체 결제 건수</li>
+</ul>
+
+<h2>5. 이 데이터의 한계</h2>
+<p class="body"><b>지역 간 단순 비교는 조심해야 합니다.</b> 공개 범위가 지역마다 다릅니다.
+기관장 업무추진비만 공개하는 곳, 전 부서를 공개하는 곳, 월별로만 공개하는 곳이 섞여 있습니다.
+결제 건수가 적은 지역은 자료가 적을 뿐 지출이 적다는 뜻이 아닐 수 있습니다.
+각 지역 페이지 하단에 그 지역의 공개 형태를 따로 적어 두었습니다.</p>
+<p class="body"><b>참석 인원을 알 수 없습니다.</b> 회당 20만 원이 2명의 고급 식사인지 15명의 회식인지는 공개 자료로 구분되지 않습니다.
+회당 단가를 '비싼 밥'으로 곧장 읽지 않도록 주의해 주세요.</p>
+<p class="body"><b>실시간이 아닙니다.</b> 2025년 1~12월 집행분 기준이며, 이후의 폐업·상호 변경·이전은 반영되지 않았습니다.
+방문 전 영업 여부를 꼭 확인하시기 바랍니다.</p>
+<p class="body"><b>수기 자료의 오류가 섞일 수 있습니다.</b> 원자료 자체에 금액 오기나 사용처 오타가 있는 경우가 있습니다.
+명백한 이상치는 검토해 제외했지만 전부 걸러내지는 못합니다. 이상한 숫자를 발견하시면
+<a href="contact.html" style="color:#0B9D58">문의</a>로 알려주시면 확인해 정정하겠습니다.</p>
+
+<h2>6. 갱신</h2>
+<p class="body">2025년 결산분은 집계가 끝났습니다. 2026년분은 지자체가 매월 공개하는 대로 모으고 있으며, 연말 결산 후 반영할 예정입니다.
+집계 대상 지역은 현재 229곳이며, 공개 자료가 확보되는 대로 늘려갑니다.</p>
+</div>
+</div>
+<footer>ⓒ 세금맛집 · 데이터 출처: 전국 지방자치단체 2025년 업무추진비 공개자료<br>
+<a href="report-2025.html">전국 리포트</a> · <a href="about.html">소개</a> · <a href="method.html">집계 방법</a> · <a href="contact.html">문의</a> · <a href="privacy.html">개인정보처리방침</a> · <a href="https://dum-insight.tistory.com" target="_blank" rel="noopener">블로그</a></footer></body></html>
