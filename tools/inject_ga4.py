@@ -34,6 +34,7 @@ def block(mid: str) -> str:
 def pages():
     yield from sorted(ROOT.glob('*.html'))
     yield from sorted((ROOT / 'regions').glob('*.html'))
+    yield from sorted((ROOT / 'maechul').glob('*.html'))
 
 
 def main() -> int:
