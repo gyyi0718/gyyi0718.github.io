@@ -70,6 +70,13 @@ header h1{font-size:19px;color:#0B9D58;cursor:pointer;white-space:nowrap}
 .leaflet-popup-content b{font-size:15px}
 footer{text-align:center;color:#aaa;font-size:12px;padding:26px 0 40px}
 footer a{color:#0B9D58;text-decoration:none}
+.rds{display:grid;grid-template-columns:repeat(auto-fill,minmax(248px,1fr));gap:9px}
+.rd{display:block;background:#fff;border:1px solid #e8ebe9;border-radius:12px;padding:13px 15px;text-decoration:none;color:#222}
+.rd:hover{border-color:#0B9D58;background:#fbfdfc}
+.rd b{font-size:15px}
+.rd .n{color:#0B9D58;font-size:12px;margin-left:7px;font-weight:700}
+.rd .s{display:block;color:#777;font-size:12.5px;line-height:1.55;margin-top:5px}
+
 @media(max-width:760px){#browse .cols{flex-direction:column}#sidebox{width:100%;position:static;max-height:200px}#hq{width:130px}}
 </style>
 </head>
@@ -105,6 +112,43 @@ footer a{color:#0B9D58;text-decoration:none}
   블로그 후기나 별점이 아니라 실제 결제 기록입니다. 광고를 받고 올린 식당은 한 곳도 없습니다.</p>
   <p>위 지도에서 핀을 눌러 지역별 순위를 보거나, 아래 목록에서 지역을 골라 결제 횟수·회당 단가·이용 부서 수까지 정리한 상세 페이지로 들어갈 수 있습니다.
   전국 순위를 한 번에 비교한 <a href="report-2025.html">2025 전국 업무추진비 밥상 리포트</a>도 함께 보세요. 집계 기준과 제외 항목은 <a href="method.html">데이터 집계 방법</a>에, 이 사이트를 만든 이유는 <a href="about.html">소개</a>에 적어두었습니다.</p>
+<div class="card" id="reads">
+<h2 style="text-align:left">직접 분석해 쓴 지역 30곳</h2>
+<p style="color:#555;font-size:14px;line-height:1.85;margin:6px 0 14px">집계만 한 표가 아니라, 그 지역 데이터를 뜯어보고 사람이 쓴 글입니다. 어느 골목에 몰려 있는지, 쏠림이 왜 생겼는지, 숫자 중에 믿으면 안 되는 게 무엇인지까지 적었습니다. 나머지 199곳은 <a href="sources.html" style="color:#0B9D58">CSV</a>와 데이터 표로 제공합니다.</p>
+<div class="rds">
+<a class="rd" href="regions/seoul_city.html"><b>서울시</b><span class="n">49,425건</span><span class="s">열 곳이 전부 중구, 시청에서 걸어서 갈 수 있다</span></a>
+<a class="rd" href="regions/gwanak.html"><b>관악구</b><span class="n">18,860건</span><span class="s">관악로 한 블록에 다섯 곳</span></a>
+<a class="rd" href="regions/hwaseong.html"><b>화성시</b><span class="n">15,393건</span><span class="s">서울 면적 1.4배인데 밥은 남양읍에서</span></a>
+<a class="rd" href="regions/eunpyeong.html"><b>은평구</b><span class="n">14,080건</span><span class="s">1위가 카페인 유일한 서울 자치구</span></a>
+<a class="rd" href="regions/siheung.html"><b>시흥시</b><span class="n">14,054건</span><span class="s">1만 4천 건인데 1위가 72회, 전국에서 가장 안 쏠린 순위</span></a>
+<a class="rd" href="regions/gwangju_city.html"><b>광주광역시</b><span class="n">12,402건</span><span class="s">내방로 세 집이 나란히, 열 곳 전부 서구</span></a>
+<a class="rd" href="regions/daejeon_city.html"><b>대전광역시</b><span class="n">11,807건</span><span class="s">여덟 곳이 둔산, 한 건물에 두 집</span></a>
+<a class="rd" href="regions/gwangjin.html"><b>광진구</b><span class="n">11,040건</span><span class="s">회당 7.4만원, 서울에서 가장 소박한 밥상</span></a>
+<a class="rd" href="regions/daegu_city.html"><b>대구광역시</b><span class="n">10,937건</span><span class="s">여섯 곳이 북구 침산, 열 곳 전부 회당 13만원 이상</span></a>
+<a class="rd" href="regions/goyang.html"><b>고양시</b><span class="n">10,776건</span><span class="s">1만 건 넘는데 쏠림 3.2%, 전국에서 가장 흩어진 밥상</span></a>
+<a class="rd" href="regions/yeoju.html"><b>여주시</b><span class="n">10,761건</span><span class="s">10위가 정미소, 회당 51만원</span></a>
+<a class="rd" href="regions/junggu.html"><b>서울 중구</b><span class="n">10,569건</span><span class="s">1위가 한식뷔페, 회당 6.9만원</span></a>
+<a class="rd" href="regions/busan_city.html"><b>부산광역시</b><span class="n">10,459건</span><span class="s">회당 27만원, 광역시 중 가장 비싼 밥상</span></a>
+<a class="rd" href="regions/gangbuk.html"><b>강북구</b><span class="n">9,970건</span><span class="s">1위와 10위가 1.5배 차이, 전국에서 가장 고른 순위</span></a>
+<a class="rd" href="regions/seodaemun.html"><b>서대문구</b><span class="n">9,619건</span><span class="s">연희로 한 길에 여덟 곳</span></a>
+<a class="rd" href="regions/bupyeong.html"><b>부평구</b><span class="n">9,285건</span><span class="s">260회 중국집 1위, 복어집이 두 곳</span></a>
+<a class="rd" href="regions/namdong.html"><b>남동구</b><span class="n">8,505건</span><span class="s">1위가 이탈리안, 장승로 네 집</span></a>
+<a class="rd" href="regions/ulsan_city.html"><b>울산광역시</b><span class="n">7,303건</span><span class="s">열 곳 전부 회당 22만원 이상, 1위는 150개 부서가 쓴 갈비집</span></a>
+<a class="rd" href="regions/gyeonggi_do.html"><b>경기도청</b><span class="n">4,783건</span><span class="s">광교 신청사 앞 두 건물에 여섯 곳</span></a>
+<a class="rd" href="regions/gwangju_seo.html"><b>광주 서구</b><span class="n">2,858건</span><span class="s">1위가 2위의 4배, 전국에서 가장 독점적인 순위</span></a>
+<a class="rd" href="regions/gunpo.html"><b>군포시</b><span class="n">2,235건</span><span class="s">산본로323번길 한 골목에 세 곳</span></a>
+<a class="rd" href="regions/namhae.html"><b>남해군</b><span class="n">1,834건</span><span class="s">아홉 곳이 남해읍, 화전로에만 다섯 곳</span></a>
+<a class="rd" href="regions/busan_namgu.html"><b>부산 남구</b><span class="n">1,540건</span><span class="s">회당 34.5만원, 1위는 26회뿐인데 43.7만원</span></a>
+<a class="rd" href="regions/jeongseon.html"><b>정선군</b><span class="n">1,531건</span><span class="s">봉양5길 한 골목에 네 곳, 1위는 97회</span></a>
+<a class="rd" href="regions/yeonggwang.html"><b>영광군</b><span class="n">1,493건</span><span class="s">열 곳 전부 영광읍, 한우집이 1위</span></a>
+<a class="rd" href="regions/cheorwon.html"><b>철원군</b><span class="n">1,449건</span><span class="s">아홉 곳이 갈말읍, 1위가 2위의 세 배</span></a>
+<a class="rd" href="regions/seosan.html"><b>서산시</b><span class="n">1,371건</span><span class="s">1위가 28회, 회당 34.3만원</span></a>
+<a class="rd" href="regions/wando.html"><b>완도군</b><span class="n">1,332건</span><span class="s">1위가 10위의 8.7배, 2위는 여객선터미널</span></a>
+<a class="rd" href="regions/uiryeong.html"><b>의령군</b><span class="n">1,196건</span><span class="s">1·2위가 똑같이 35회, 횟집이 나란히</span></a>
+<a class="rd" href="regions/ulsan_dong.html"><b>울산 동구</b><span class="n">977건</span><span class="s">해수욕장 길에 네 곳, 1·2위가 36회 동률</span></a>
+</div>
+</div>
+
 <p class="note" style="text-align:left;color:#555;font-size:13.5px;line-height:1.8">믿고 보시라고만 하지 않겠습니다. <b>집계 결과 전체를 CSV로 공개</b>하고, 229개 지역 페이지의 숫자가 그 파일과 맞는지 대조하는 검산 스크립트도 함께 올려두었습니다. <a href="sources.html" style="color:#0B9D58;font-weight:700">출처·데이터 내려받기 →</a></p>
   <p class="cav">※ 결제 횟수 순위이지 맛의 순위가 아닙니다. 청사에서 가깝고 단체석이 있는 식당이 유리하며, 지자체마다 자료 공개 범위가 달라 지역 간 단순 비교는 어렵습니다.</p>
 </section>
