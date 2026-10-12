@@ -6,6 +6,7 @@
 - '데이터로 읽는 X 밥상' 카드 본문을 원고 본문으로 교체
 - 손으로 쓴 페이지임을 표시하는 마커를 남겨 noindex 대상에서 제외한다
 """
+raise SystemExit("2026-10-12: 구 스크립트는 미검증 통계를 복원할 수 있어 중단했습니다. python3 tools/rebuild_reviewed.py 를 사용하세요.")
 import sys, os, re, html as H
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'tools', 'prose'))

@@ -7,6 +7,7 @@
 - follow  : 링크는 따라가게 두어 지도·리포트 등 본문 페이지로 크롤러가 흐르게 한다
 사이트에서 링크는 그대로 살아 있으므로 사람은 평소대로 볼 수 있다.
 """
+raise SystemExit("2026-10-12: 구 스크립트는 미검증 통계를 복원할 수 있어 중단했습니다. python3 tools/rebuild_reviewed.py 를 사용하세요.")
 import os, re, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TAG = '<meta name="robots" content="noindex, follow">'

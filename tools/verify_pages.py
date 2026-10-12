@@ -1,79 +1,90 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""세금맛집 전수 검산 — 229개 지역 페이지의 숫자가 공개 CSV와 일치하는지 대조한다.
-
-사용법:  python3 tools/verify_pages.py
-대조 항목(페이지당 5개): 집계 건수 · 등장한 식당 수 · TOP10 비중 · 1위 식당명 · 1위 결제 횟수
-불일치가 있으면 목록을 출력하고 exit code 1 로 끝난다.
-"""
-import csv, glob, os, sys, collections
-
-HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(HERE)
-
-def locate(name):
-    """저장소 안, 스크립트 옆, 현재 폴더 어디에 두어도 찾아낸다."""
-    for d in (os.path.join(ROOT, 'data'), HERE, os.getcwd(), ROOT):
-        p = os.path.join(d, name)
-        if os.path.exists(p):
-            return p
-    sys.exit(f'{name} 을 찾을 수 없습니다. 내려받은 CSV를 이 스크립트와 같은 폴더에 두고 다시 실행해 주세요.')
-
-TOP  = locate('segeummatjib-2025-top10.csv')
-REGS = locate('segeummatjib-2025-regions.csv')
-
-def num(x):
-    try: return int(x)
-    except (TypeError, ValueError): return None
-
-def load():
-    top = collections.defaultdict(list)
-    for r in csv.DictReader(open(TOP, encoding='utf-8-sig')):
-        top[r['지역코드']].append(r)
-    regs = {r['지역코드']: r for r in csv.DictReader(open(REGS, encoding='utf-8-sig'))}
-    return top, regs
+"""Output consistency + independent semantic checks; not a nationwide source audit."""
+import csv, json, re, sys, html
+from pathlib import Path
+from collections import defaultdict
+ROOT=Path(__file__).resolve().parents[1]
+def check_evidence(ev, cat):
+ rows=ev['rows']; keys=[(x['source_id'],x['parsed_row']) for x in rows]
+ assert len(keys)==len(set(keys)), 'duplicate source document/row'
+ groups=defaultdict(list)
+ for x in rows:
+  assert x['date'].startswith('2025-') and x['amount']>0
+  assert x['source_url']=='https://opengov.seoul.go.kr/expense/'+x['source_id'].split(':')[-1]
+  groups[(x['merchant'],x['road_address'])].append(x)
+ seoul=next(x for x in cat if x['slug']=='seoul_city')
+ assert len(rows)==ev['selected_records']==seoul['selected_transaction_count']
+ assert len(groups)==seoul['selected_merchant_address_count']==len(seoul['items'])
+ assert sum(i['v'] for i in seoul['items'])==len(rows)
+ for i in seoul['items']:
+  group=groups[(i['n'],i['ad'])]
+  assert len(group)==i['v']
+  assert sum(x['amount'] for x in group)==i['a']
+  assert len({x['department'] for x in group if x['department']})==i['d']
+ n=len(rows);u=len(groups);top=sorted((len(x) for x in groups.values()),reverse=True)[:10]
+ assert u<=n-(sum(top)-len(top)) and n<=u*max(top)
+def check_jeju():
+ meta=json.loads((ROOT/'data/jeju-review.json').read_text())
+ for filename,key in [('maechul/index.html','M'),('maechul/map.html','D')]:
+  page=(ROOT/filename).read_text()
+  data=json.loads(re.search(r'const '+key+r'=(\[.*?\]);',page,re.S)[1])
+  assert all(32<float(x['lat'])<35 and 125<float(x['lon'])<128 for x in data),'Jeju coordinate bounds'
+  assert all(not re.search(r'유흥|숙박|판매',x.get('inds') or '') for x in data),'prohibited Jeju category'
+  assert len(data)==len({(x['nm'],x['dong']) for x in data}),'duplicate Jeju display key'
+  assert meta['source_url'] in page,'missing Jeju primary source'
+  assert not re.search(r'카드매출이 가장 큰|점포 간 순서와 배수는 비교|동별 매출 1위',page),'unsupported Jeju sales claim'
+  if key=='D':
+   assert len(data)==meta['map_points']
+   assert all(1<=x['mon']<=12 for x in data),'row count confused with month count'
+   assert all(1<=x['candidate_position']<=5 for x in data)
+   assert sum(x['candidate_position']>1 for x in data)==meta['map_later_candidates']
+  else:
+   assert len(data)==meta['displayed_nonairport']
+   assert f"{meta['stats']['surv']['50']:.0f}%" in page,'stale reobservation rate'
+ return True
 
 def main():
-    top, regs = load()
-    bad, checked = [], 0
-    pages = sorted(glob.glob(os.path.join(ROOT, 'regions', '*.html'))) \
-            or sorted(glob.glob(os.path.join(os.getcwd(), 'regions', '*.html')))
-    if not pages:
-        sys.exit('regions/*.html 을 찾을 수 없습니다. 저장소 루트에서 실행해 주세요.')
-    for path in pages:
-        slug = os.path.basename(path)[:-5]
-        if slug not in regs:
-            bad.append((slug, 'CSV에 지역 없음', '')); continue
-        html = open(path, encoding='utf-8').read()
-        m, items = regs[slug], top[slug]
-        rec, posts = num(m['집계건수']), num(m['등장식당수'])
-        if rec is None:
-            bad.append((slug, '집계건수 비숫자', m['집계건수'])); continue
-
-        if f'{rec:,}건' not in html:
-            bad.append((slug, '집계 건수', f'{rec:,}'))
-        if posts is not None and f'{posts:,}곳' not in html:
-            bad.append((slug, '등장한 식당 수', f'{posts:,}'))
-
-        visits = sum(int(i['결제횟수']) for i in items)
-        share = round(visits / rec * 100, 1)
-        if f'{share}%' not in html:
-            bad.append((slug, 'TOP10 비중', f'{share}%'))
-
-        first = items[0]
-        if first['식당명'] not in html:
-            bad.append((slug, '1위 식당명', first['식당명']))
-        if f"<b>{int(first['결제횟수'])}회</b>" not in html:
-            bad.append((slug, '1위 결제 횟수', first['결제횟수']))
-        checked += 1
-
-    print(f'검증 {checked}개 · 불일치 {len(bad)}건')
-    if bad:
-        for slug, what, val in bad:
-            print(f'  {slug:20} {what:16} CSV={val}')
-        return 1
-    print('모든 페이지의 숫자가 공개 CSV와 일치합니다.')
-    return 0
-
-if __name__ == '__main__':
-    sys.exit(main())
+ check_jeju()
+ cat=json.loads((ROOT/'data/catalogue.json').read_text())
+ held=json.loads((ROOT/'data/review-held.json').read_text())
+ ev=json.loads((ROOT/'data/seoul-2025-evidence.json').read_text())
+ check_evidence(ev,cat)
+ mutant={**ev,'rows':ev['rows']+[ev['rows'][0]]}
+ try:check_evidence(mutant,cat)
+ except AssertionError:pass
+ else:raise AssertionError('duplicate-row regression failed')
+ csvrows=list(csv.DictReader((ROOT/'data/segeummatjib-2025-top10.csv').open(encoding='utf-8-sig')))
+ regrows=list(csv.DictReader((ROOT/'data/segeummatjib-2025-regions.csv').open(encoding='utf-8-sig')))
+ assert len(cat)==len(regrows)==229
+ assert len(csvrows)==sum(len(r['items']) for r in cat)
+ keyed={(r['지역코드'],int(r['기존번호_표시순서'])):r for r in csvrows}
+ all_items={(r['slug'],i['n'],i['ad']) for r in cat for i in r['items']}
+ for h in held:assert (h['slug'],h['n'],h['ad']) not in all_items,'held item remains in catalogue'
+ for r in cat:
+  assert r['unique_restaurant_count'] is None and r['restaurant_transaction_count'] is None
+  assert r['display_record_sum']==sum(i['v'] for i in r['items'])
+  s=(ROOT/'regions'/f'{r["slug"]}.html').read_text()
+  assert 'adsbygoogle.js' not in s and 'google-adsense-account' in s
+  for i in r['items']:
+   assert i['v']>0 and i['a']>0 and i['a']/i['v']<=1000000
+   assert i['c'] not in ('여객선터미널','공원','정육점','컴퓨터주변기기','카페','농업')
+   cr=keyed[(r['slug'],i['r'])]
+   assert cr['식당명']==i['n'] and int(cr['결제횟수'])==i['v'] and int(cr['집행액(원)'])==i['a']
+   assert html.escape(i['n']) in s and f'<b>{i["v"]}회</b>' in s
+   if r['slug']!='seoul_city':assert i['d'] is None
+ home=(ROOT/'index.html').read_text()
+ mapdata=json.loads(re.search(r'const REGIONS_2025=(\[.*?\]);',home,re.S)[1])
+ assert [(r['slug'],r['items']) for r in cat]==[(r['slug'],r['items']) for r in mapdata]
+ for p in list((ROOT/'regions').glob('*.html'))+list(ROOT.glob('*.html'))+list((ROOT/'maechul').glob('*.html')):
+  s=p.read_text()
+  assert 'adsbygoogle.js' not in s,str(p)+' has ad serving script'
+  assert not re.search(r'5년 내내|30%는 문을 닫|시청 거의 모든 부서|세금으로 검증된',s),str(p)+' unsupported claim'
+  for ref in re.findall(r'href="([^"]+)"',s):
+   if ref.startswith(('https:','http:','mailto:','javascript:','#','data:')) or '${' in ref:continue
+   target=(ROOT/ref.lstrip('/')) if ref.startswith('/') else (p.parent/ref.split('#')[0].split('?')[0])
+   assert target.exists(),f'missing local link {p}: {ref}'
+ print(f'PASS: {len(cat)} regions; {len(csvrows)} candidate rows; {len(held)} held; {len(ev["rows"])} selected source rows.')
+ print('Checked outputs, source-row uniqueness, grouped amounts/departments, population bounds, hold exclusion, links, claims. Nationwide original records not re-audited.')
+if __name__=='__main__':
+ try:main()
+ except (AssertionError,KeyError,ValueError) as e:print('FAIL:',str(e));sys.exit(1)

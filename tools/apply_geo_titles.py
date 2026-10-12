@@ -7,6 +7,7 @@
 - 첫 카드에 질문에 바로 답하는 한 문장을 넣는다 (AI 검색이 문단 단위로 인용하므로)
 여러 번 돌려도 같은 결과가 나온다. noindex 여부는 건드리지 않는다.
 """
+raise SystemExit("2026-10-12: 구 스크립트는 미검증 통계를 복원할 수 있어 중단했습니다. python3 tools/rebuild_reviewed.py 를 사용하세요.")
 import os, re, glob
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OLD = re.compile(r'2025 (.+?) 업무추진비 맛집 TOP10')
