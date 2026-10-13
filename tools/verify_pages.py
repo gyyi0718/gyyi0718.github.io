@@ -78,6 +78,10 @@ def main():
  for p in list((ROOT/'regions').glob('*.html'))+list(ROOT.glob('*.html'))+list((ROOT/'maechul').glob('*.html')):
   s=p.read_text()
   assert 'adsbygoogle.js' not in s,str(p)+' has ad serving script'
+  if 'L.tileLayer(' in s:
+   assert 'https://tile.openstreetmap.org/{z}/{x}/{y}.png' in s,'unexpected tile service'
+   assert 'https://www.openstreetmap.org/copyright' in s,'missing map attribution'
+   assert 'cartocdn.com' not in s,'key-required CARTO tile regression'
   assert not re.search(r'5년 내내|30%는 문을 닫|시청 거의 모든 부서|세금으로 검증된',s),str(p)+' unsupported claim'
   for ref in re.findall(r'href="([^"]+)"',s):
    if ref.startswith(('https:','http:','mailto:','javascript:','#','data:')) or '${' in ref:continue

@@ -45,8 +45,8 @@ footer{padding:13px 16px;font-size:11.5px;color:#999;line-height:1.75;background
 const D=''' + json.dumps(data, ensure_ascii=False) + ''';
 const MX=''' + str(mx) + ''';
 const map=L.map('map').setView([33.38,126.55],10);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
- {attribution:'&copy; OpenStreetMap &copy; CARTO',maxZoom:19}).addTo(map);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+ {attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',maxZoom:19}).addTo(map);
 const mk=[];
 D.forEach((p,i)=>{
   const r=6+14*Math.sqrt(p.rate/MX);

@@ -78,7 +78,7 @@ html+='''</tbody></table></div>
 const M=''' + json.dumps(main,ensure_ascii=False) + ''';
 const MX=''' + str(MX) + ''';
 const map=L.map('map').setView([33.38,126.55],10);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; OpenStreetMap &copy; CARTO',maxZoom:19}).addTo(map);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',maxZoom:19}).addTo(map);
 M.forEach((p,i)=>{
   const r=6+13*Math.sqrt(p.v25/MX);
   L.circleMarker([p.lat,p.lon],{radius:r,color:'#fff',weight:1.5,

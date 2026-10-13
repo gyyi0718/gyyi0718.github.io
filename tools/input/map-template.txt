@@ -267,7 +267,7 @@ function initLeaflet(){
   document.getElementById('engine').textContent='기본지도 (호스팅하면 카카오맵으로 전환)';
   lmap=L.map('map',{zoomControl:false}).setView([36.3,127.8],7);
   L.control.zoom({position:'bottomright'}).addTo(lmap);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'© OpenStreetMap'}).addTo(lmap);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(lmap);
   lLayer=L.layerGroup().addTo(lmap);
   lmap.on('zoomend',drawLeaflet);
   drawLeaflet();
