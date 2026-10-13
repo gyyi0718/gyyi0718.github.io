@@ -5,4 +5,6 @@ Validate: python3 tools/verify_site.py
 
 Only the files in this current tree are published. 228 retired regional pages and old catalogue/template snapshots were removed, not hidden using robots/noindex. The build never re-creates them. Retired URLs use the Pages 404 response. tools is excluded by Jekyll.
 
-Input data: data/seoul-2025-evidence.json and data/jeju-observation.json. Field definitions and source restrictions are in method.html and sources.html. Build is deterministic and does not crawl, publish, or run paid generation.
+Nationwide map: data/nationwide-locations.json preserves all 229 regional datasets and 2,189 place entries from the previous curated catalogue. It omits unverified counts, amounts and rankings; saved coordinates are not current business verification. Home and map.html share tools/map_component.py. Leaflet 1.9.4 is vendored with its license; OpenStreetMap provides attributed background tiles.
+
+Input data: data/nationwide-locations.json, data/seoul-2025-evidence.json and data/jeju-observation.json. Field definitions and source restrictions are in method.html and sources.html. Build is deterministic and does not crawl, publish, or run paid generation.

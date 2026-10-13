@@ -44,14 +44,28 @@ def run():
  for y in ('2021','2025'):assert sum(j['month_histogram'][y].values())==j['keys'+y]
  assert j['month_histogram']['2021']['12']==9257 and j['month_histogram']['2025']['12']==9442
  assert all(x['rows']>=x['keys'] and x['extra_rows']==x['rows']-x['keys'] for x in j['monthly'])
- files=list(ROOT.rglob('*.html'));assert len(files)==14;assert len(list((ROOT/'regions').glob('*.html')))==1
+ nationwide=json.loads((ROOT/'data/nationwide-locations.json').read_text());regions=nationwide['regions'];items=[i for r in regions for i in r['items']]
+ assert len(regions)==229 and len({r['slug'] for r in regions})==229
+ assert len({r['province'] for r in regions})==17 and len(items)==2189
+ assert len({i['id'] for i in items})==2189
+ assert sum(bool(i['coordinates']) for i in items)==2172
+ assert sum(i['record_status']=='source_linked' for i in items)==13
+ for i in items:
+  assert not {'v','a','r','legacy_record_value','amount','rank','visits'}.intersection(i)
+  if i['coordinates']:assert len(i['coordinates'])==2 and 32<i['coordinates'][0]<40 and 124<i['coordinates'][1]<133
+  if i.get('sources'):assert all(x['url'].startswith('https://opengov.seoul.go.kr/expense/') for x in i['sources'])
+ for name in ['index.html','map.html']:
+  text=(ROOT/name).read_text()
+  assert all('/map.html?region='+r['slug'] in text for r in regions)
+  assert 'nationwide-map.js' in text and 'map-region' in text
+ files=list(ROOT.rglob('*.html'));assert len(files)==15;assert len(list((ROOT/'regions').glob('*.html')))==1
  forbidden=['data/catalogue.json','data/review-held.json','data/quality-status.json','data/segeummatjib-2025-top10.csv','data/segeummatjib-2025-regions.csv','tools/input','ga-events.js','maechul/og-map.png','maechul/og-survivors.png']
  for p in forbidden:assert not (ROOT/p).exists(),p
  parsed={p:Page(p.read_text()) for p in files}
  for p,d in parsed.items():
   assert len(d.headings)==1,(p,'h1');assert len(d.ids)==len(set(d.ids)),(p,'duplicate id')
   assert any(m.get('name')=='google-adsense-account' and m.get('content')=='ca-pub-3133301641364865' for m in d.meta)
-  assert not d.scripts or d.scripts==['/assets/explorer.js'],(p,'unexpected external scripts')
+  assert not d.scripts or d.scripts in (['/assets/explorer.js'],['/assets/vendor/leaflet/leaflet.js','/assets/nationwide-map.js']),(p,'unexpected external scripts')
   assert not any(m.get('name')=='robots' and 'noindex' in m.get('content','') for m in d.meta) or p.name=='404.html'
   for u in d.links+d.scripts:
    sp=urlsplit(u)
@@ -64,7 +78,7 @@ def run():
  assert 'Disallow:' not in (ROOT/'robots.txt').read_text()
  assert (ROOT/'ads.txt').read_text().strip()=='google.com, pub-3133301641364865, DIRECT, f08c47fec0942fa0'
  assert '  - tools' in (ROOT/'_config.yml').read_text()
- urls=[x.text for x in ET.parse(ROOT/'sitemap.xml').findall('.//{*}loc')];assert len(urls)==len(set(urls))==13
- result={'status':'PASS','html_pages':14,'indexable_pages':13,'retired_region_files_absent':228,'seoul_rows':2699,'seoul_groups':13,'jeju_dongs':43,'jeju_inputs':24,'checks':['source row identity and duplicate regression','Seoul CSV equality and derived aggregates','Jeju cohort/month/dong reconciliation','all internal resources and anchor targets','publication boundary and retired bulk endpoints absent','metadata sitemap robots ads ownership'],'file_hashes':{str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in files}}
+ urls=[x.text for x in ET.parse(ROOT/'sitemap.xml').findall('.//{*}loc')];assert len(urls)==len(set(urls))==14
+ result={'status':'PASS','html_pages':15,'indexable_pages':14,'retired_region_files_absent':228,'nationwide_regions':229,'nationwide_entries':2189,'nationwide_coordinates':2172,'seoul_rows':2699,'seoul_groups':13,'jeju_dongs':43,'jeju_inputs':24,'checks':['source row identity and duplicate regression','Seoul CSV equality and derived aggregates','Jeju cohort/month/dong reconciliation','all internal resources and anchor targets','publication boundary and retired bulk endpoints absent','metadata sitemap robots ads ownership'],'file_hashes':{str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in files}}
  print(json.dumps(result,ensure_ascii=False,indent=2))
 if __name__=='__main__':run()
