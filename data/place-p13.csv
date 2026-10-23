@@ -1,365 +1,365 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:32804039,1,https://opengov.seoul.go.kr/expense/32804039,2025-01-02,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:32792955,46,https://opengov.seoul.go.kr/expense/32792955,2025-01-07,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,86000,p13
-opengov:32793528,8,https://opengov.seoul.go.kr/expense/32793528,2025-01-07,seoul_city,시민건강국 보건의료정책과,참숯골,서울 중구 무교로 16,143000,p13
-opengov:32765831,7,https://opengov.seoul.go.kr/expense/32765831,2025-01-09,seoul_city,자치경찰위원회 자치경찰총괄과,참숯골,서울 중구 무교로 16,120000,p13
-opengov:32793510,11,https://opengov.seoul.go.kr/expense/32793510,2025-01-09,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,184000,p13
-opengov:32793720,4,https://opengov.seoul.go.kr/expense/32793720,2025-01-09,seoul_city,디자인정책관 도시경관담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:32743311,4,https://opengov.seoul.go.kr/expense/32743311,2025-01-10,seoul_city,창의행정담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:32773767,7,https://opengov.seoul.go.kr/expense/32773767,2025-01-10,seoul_city,재난안전실 재난안전예방과,참숯골,서울 중구 무교로 16,94000,p13
-opengov:32793491,12,https://opengov.seoul.go.kr/expense/32793491,2025-01-10,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,120000,p13
-opengov:32765863,4,https://opengov.seoul.go.kr/expense/32765863,2025-01-13,seoul_city,복지실 1인가구지원과,참숯골,서울 중구 무교로 16,140000,p13
-opengov:32804034,4,https://opengov.seoul.go.kr/expense/32804034,2025-01-13,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,207000,p13
-opengov:32764491,10,https://opengov.seoul.go.kr/expense/32764491,2025-01-14,seoul_city,문화본부 문화유산활용과,참숯골,서울 중구 무교로 16,59000,p13
-opengov:32764495,5,https://opengov.seoul.go.kr/expense/32764495,2025-01-15,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,175000,p13
-opengov:32775008,25,https://opengov.seoul.go.kr/expense/32775008,2025-01-15,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,165000,p13
-opengov:32775009,21,https://opengov.seoul.go.kr/expense/32775009,2025-01-15,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,163000,p13
-opengov:32792955,124,https://opengov.seoul.go.kr/expense/32792955,2025-01-15,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,90000,p13
-opengov:32743361,21,https://opengov.seoul.go.kr/expense/32743361,2025-01-16,seoul_city,디자인정책관디자인정책담당관,참숯골,서울 중구 무교로 16,161000,p13
-opengov:32784035,8,https://opengov.seoul.go.kr/expense/32784035,2025-01-16,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,참숯골,서울 중구 무교로 16,84000,p13
-opengov:32773754,3,https://opengov.seoul.go.kr/expense/32773754,2025-01-17,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,138000,p13
-opengov:32782833,4,https://opengov.seoul.go.kr/expense/32782833,2025-01-17,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:32743389,14,https://opengov.seoul.go.kr/expense/32743389,2025-01-20,seoul_city,재난안전실 도로기획관 도로계획과,참숯골,서울 중구 무교로 16,90000,p13
-opengov:32793771,15,https://opengov.seoul.go.kr/expense/32793771,2025-01-20,seoul_council,의사담당관,참숯골,서울 중구 무교로 16,219000,p13
-opengov:32804034,7,https://opengov.seoul.go.kr/expense/32804034,2025-01-20,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,70500,p13
-opengov:32793771,16,https://opengov.seoul.go.kr/expense/32793771,2025-01-21,seoul_council,의사담당관,참숯골,서울 중구 무교로 16,216000,p13
-opengov:32773754,5,https://opengov.seoul.go.kr/expense/32773754,2025-01-23,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,120000,p13
-opengov:32951634,1,https://opengov.seoul.go.kr/expense/32951634,2025-02-03,seoul_city,자치경찰위원회 자치경찰총괄과,참숯골,서울 중구 무교로 16,138000,p13
-opengov:32974336,1,https://opengov.seoul.go.kr/expense/32974336,2025-02-04,seoul_city,재난안전실 중대재해예방과,참숯골,서울 중구 무교로 16,161000,p13
-opengov:33017152,4,https://opengov.seoul.go.kr/expense/33017152,2025-02-04,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,69000,p13
-opengov:32940007,3,https://opengov.seoul.go.kr/expense/32940007,2025-02-05,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,46000,p13
-opengov:32985443,3,https://opengov.seoul.go.kr/expense/32985443,2025-02-05,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,92000,p13
-opengov:32985681,4,https://opengov.seoul.go.kr/expense/32985681,2025-02-05,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,293000,p13
-opengov:33025262,2,https://opengov.seoul.go.kr/expense/33025262,2025-02-05,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,118000,p13
-opengov:32963611,5,https://opengov.seoul.go.kr/expense/32963611,2025-02-06,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:33017153,10,https://opengov.seoul.go.kr/expense/33017153,2025-02-06,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,312000,p13
-opengov:32963674,3,https://opengov.seoul.go.kr/expense/32963674,2025-02-07,seoul_city,시민건강국 식품정책과,참숯골,서울 중구 무교로 16,156000,p13
-opengov:32985435,9,https://opengov.seoul.go.kr/expense/32985435,2025-02-10,seoul_council,의정담당관,참숯골,서울 중구 무교로 16,30000,p13
-opengov:32952994,10,https://opengov.seoul.go.kr/expense/32952994,2025-02-11,seoul_city,여성가족실 저출생담당관,참숯골,서울 중구 무교로 16,380000,p13
-opengov:32938940,2,https://opengov.seoul.go.kr/expense/32938940,2025-02-13,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,p13
-opengov:32985443,8,https://opengov.seoul.go.kr/expense/32985443,2025-02-13,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,46000,p13
-opengov:32951616,21,https://opengov.seoul.go.kr/expense/32951616,2025-02-14,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,93000,p13
-opengov:32941233,45,https://opengov.seoul.go.kr/expense/32941233,2025-02-17,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,297000,p13
-opengov:32962298,19,https://opengov.seoul.go.kr/expense/32962298,2025-02-17,seoul_council,서울특별시의회사무처 현장민원담당관,참숯골,서울 중구 무교로 16,92000,p13
-opengov:32983269,144,https://opengov.seoul.go.kr/expense/32983269,2025-02-17,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,200000,p13
-opengov:32985644,58,https://opengov.seoul.go.kr/expense/32985644,2025-02-17,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,120000,p13
-opengov:33025262,4,https://opengov.seoul.go.kr/expense/33025262,2025-02-17,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,56000,p13
-opengov:32985681,21,https://opengov.seoul.go.kr/expense/32985681,2025-02-18,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,317000,p13
-opengov:32951634,40,https://opengov.seoul.go.kr/expense/32951634,2025-02-19,seoul_city,자치경찰위원회 자치경찰총괄과,참숯골,서울 중구 무교로 16,348000,p13
-opengov:33017152,27,https://opengov.seoul.go.kr/expense/33017152,2025-02-19,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,92000,p13
-opengov:32962293,15,https://opengov.seoul.go.kr/expense/32962293,2025-02-20,seoul_city,재무국 재무과,참숯골,서울 중구 무교로 16,146000,p13
-opengov:32974374,8,https://opengov.seoul.go.kr/expense/32974374,2025-02-21,seoul_council,서울시의회사무처 인사담당관,참숯골,서울 중구 무교로 16,55000,p13
-opengov:32940007,11,https://opengov.seoul.go.kr/expense/32940007,2025-02-24,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:32985450,9,https://opengov.seoul.go.kr/expense/32985450,2025-02-24,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,86000,p13
-opengov:33017152,32,https://opengov.seoul.go.kr/expense/33017152,2025-02-24,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,400000,p13
-opengov:32940296,4,https://opengov.seoul.go.kr/expense/32940296,2025-02-25,seoul_office,도시기반시설본부 도시철도국 토목부,참숯골,서울 중구 무교로 16,76000,p13
-opengov:32983269,258,https://opengov.seoul.go.kr/expense/32983269,2025-02-27,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,200000,p13
-opengov:32985457,20,https://opengov.seoul.go.kr/expense/32985457,2025-02-28,seoul_council,시의회사무처 언론홍보실,참숯골,서울 중구 무교로 16,138000,p13
-opengov:33164994,3,https://opengov.seoul.go.kr/expense/33164994,2025-03-05,seoul_city,비상기획관 민방위담당관,참숯골,서울 중구 무교로 16,144000,p13
-opengov:33164995,4,https://opengov.seoul.go.kr/expense/33164995,2025-03-05,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,212000,p13
-opengov:33165002,2,https://opengov.seoul.go.kr/expense/33165002,2025-03-06,seoul_city,복지실 장애인자립지원과,참숯골,서울 중구 무교로 16,138000,p13
-opengov:33239279,4,https://opengov.seoul.go.kr/expense/33239279,2025-03-06,seoul_city,글로벌도시정책관 국제협력담당관 국제협력담당관,참숯골,서울 중구 무교로 16,328000,p13
-opengov:33220315,11,https://opengov.seoul.go.kr/expense/33220315,2025-03-07,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,184000,p13
-opengov:33220316,7,https://opengov.seoul.go.kr/expense/33220316,2025-03-10,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,92000,p13
-opengov:33239277,5,https://opengov.seoul.go.kr/expense/33239277,2025-03-10,seoul_city,문화본부 박물관과,참숯골,서울 중구 무교로 16,69000,p13
-opengov:33188815,3,https://opengov.seoul.go.kr/expense/33188815,2025-03-11,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,140000,p13
-opengov:33164995,20,https://opengov.seoul.go.kr/expense/33164995,2025-03-12,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,139000,p13
-opengov:33229619,13,https://opengov.seoul.go.kr/expense/33229619,2025-03-12,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,253000,p13
-opengov:33152582,7,https://opengov.seoul.go.kr/expense/33152582,2025-03-13,seoul_council,서울시의회사무처 인사담당관,참숯골,서울 중구 무교로 16,80000,p13
-opengov:33199368,15,https://opengov.seoul.go.kr/expense/33199368,2025-03-14,seoul_city,기획조정실 정책기획관 조직담당관,참숯골,서울 중구 무교로 16,140000,p13
-opengov:33177875,22,https://opengov.seoul.go.kr/expense/33177875,2025-03-17,seoul_city,민생노동국 소상공인정책과,참숯골,서울 중구 무교로 16,70000,p13
-opengov:33229601,13,https://opengov.seoul.go.kr/expense/33229601,2025-03-18,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,191000,p13
-opengov:33152545,2,https://opengov.seoul.go.kr/expense/33152545,2025-03-19,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,p13
-opengov:33177855,24,https://opengov.seoul.go.kr/expense/33177855,2025-03-20,seoul_city,재무국 재무과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:33219256,6,https://opengov.seoul.go.kr/expense/33219256,2025-03-20,seoul_city,재난안전실 교량안전과,참숯골,서울 중구 무교로 16,96000,p13
-opengov:33210233,26,https://opengov.seoul.go.kr/expense/33210233,2025-03-21,seoul_city,여성가족실 저출생담당관,참숯골,서울 중구 무교로 16,144000,p13
-opengov:33229581,7,https://opengov.seoul.go.kr/expense/33229581,2025-03-21,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,46000,p13
-opengov:33164995,44,https://opengov.seoul.go.kr/expense/33164995,2025-03-24,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,98000,p13
-opengov:33220315,49,https://opengov.seoul.go.kr/expense/33220315,2025-03-24,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,78000,p13
-opengov:33210230,5,https://opengov.seoul.go.kr/expense/33210230,2025-03-26,seoul_city,기획조정실 재정담당관,참숯골,서울 중구 무교로 16,287000,p13
-opengov:33199446,115,https://opengov.seoul.go.kr/expense/33199446,2025-03-28,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,58000,p13
-opengov:33199449,8,https://opengov.seoul.go.kr/expense/33199449,2025-03-31,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,138000,p13
-opengov:33404726,4,https://opengov.seoul.go.kr/expense/33404726,2025-04-01,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:33392400,6,https://opengov.seoul.go.kr/expense/33392400,2025-04-03,seoul_city,디자인정책담당관,참숯골,서울 중구 무교로 16,30000,p13
-opengov:33430079,6,https://opengov.seoul.go.kr/expense/33430079,2025-04-03,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,310000,p13
-opengov:33382607,2,https://opengov.seoul.go.kr/expense/33382607,2025-04-08,seoul_office,도시기반시설본부 도시철도설비부,참숯골,서울 중구 무교로 16,156000,p13
-opengov:33383926,1,https://opengov.seoul.go.kr/expense/33383926,2025-04-08,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,200000,p13
-opengov:33392428,4,https://opengov.seoul.go.kr/expense/33392428,2025-04-09,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,84000,p13
-opengov:33404726,110,https://opengov.seoul.go.kr/expense/33404726,2025-04-10,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,156000,p13
-opengov:33416493,18,https://opengov.seoul.go.kr/expense/33416493,2025-04-11,seoul_council,의정담당관(의장실),참숯골,서울 중구 무교로 16,92000,p13
-opengov:33392400,27,https://opengov.seoul.go.kr/expense/33392400,2025-04-16,seoul_city,디자인정책담당관,참숯골,서울 중구 무교로 16,93000,p13
-opengov:33417518,37,https://opengov.seoul.go.kr/expense/33417518,2025-04-16,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,72000,p13
-opengov:33406011,3,https://opengov.seoul.go.kr/expense/33406011,2025-04-17,seoul_office,도시기반시설본부 시설국 건축부,참숯골,서울 중구 무교로 16,69000,p13
-opengov:33429143,54,https://opengov.seoul.go.kr/expense/33429143,2025-04-17,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,140000,p13
-opengov:33430102,27,https://opengov.seoul.go.kr/expense/33430102,2025-04-17,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,360000,p13
-opengov:33383929,6,https://opengov.seoul.go.kr/expense/33383929,2025-04-18,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,150000,p13
-opengov:33383881,14,https://opengov.seoul.go.kr/expense/33383881,2025-04-21,seoul_city,복지실 장애인자립지원과,참숯골,서울 중구 무교로 16,119000,p13
-opengov:33429130,10,https://opengov.seoul.go.kr/expense/33429130,2025-04-21,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,138000,p13
-opengov:33383929,10,https://opengov.seoul.go.kr/expense/33383929,2025-04-25,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,105000,p13
-opengov:33404726,263,https://opengov.seoul.go.kr/expense/33404726,2025-04-25,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,80000,p13
-opengov:33404726,276,https://opengov.seoul.go.kr/expense/33404726,2025-04-28,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,101000,p13
-opengov:33417514,41,https://opengov.seoul.go.kr/expense/33417514,2025-04-30,seoul_city,정원도시국 정원도시정책과,참숯골,서울 중구 무교로 16,98000,p13
-opengov:33430079,47,https://opengov.seoul.go.kr/expense/33430079,2025-04-30,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,248000,p13
-opengov:33624119,3,https://opengov.seoul.go.kr/expense/33624119,2025-05-02,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,74000,p13
-opengov:33624318,10,https://opengov.seoul.go.kr/expense/33624318,2025-05-12,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,117000,p13
-opengov:33636146,14,https://opengov.seoul.go.kr/expense/33636146,2025-05-12,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,140000,p13
-opengov:33612364,10,https://opengov.seoul.go.kr/expense/33612364,2025-05-14,seoul_city,재무국 재무과,참숯골,서울 중구 무교로 16,94000,p13
-opengov:33634981,18,https://opengov.seoul.go.kr/expense/33634981,2025-05-14,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,185000,p13
-opengov:33598537,4,https://opengov.seoul.go.kr/expense/33598537,2025-05-16,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,155000,p13
-opengov:33600330,33,https://opengov.seoul.go.kr/expense/33600330,2025-05-16,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,32000,p13
-opengov:33636126,10,https://opengov.seoul.go.kr/expense/33636126,2025-05-16,seoul_council,의회사무처 의사담당관,참숯골,서울 중구 무교로 16,20000,p13
-opengov:33586934,18,https://opengov.seoul.go.kr/expense/33586934,2025-05-19,seoul_city,재난안전실 도로기획관 도로계획과,참숯골,서울 중구 무교로 16,58000,p13
-opengov:33598537,5,https://opengov.seoul.go.kr/expense/33598537,2025-05-19,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,72000,p13
-opengov:33600619,50,https://opengov.seoul.go.kr/expense/33600619,2025-05-19,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,92000,p13
-opengov:33635000,10,https://opengov.seoul.go.kr/expense/33635000,2025-05-20,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:33586932,11,https://opengov.seoul.go.kr/expense/33586932,2025-05-21,seoul_city,물순환안전국 치수안전과,참숯골,서울 중구 무교로 16,51000,p13
-opengov:33624210,7,https://opengov.seoul.go.kr/expense/33624210,2025-05-21,seoul_city,행정국 평화기반조성과,참숯골,서울 중구 무교로 16,175000,p13
-opengov:33624130,183,https://opengov.seoul.go.kr/expense/33624130,2025-05-22,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,186000,p13
-opengov:33635004,3,https://opengov.seoul.go.kr/expense/33635004,2025-05-22,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,138000,p13
-opengov:33636126,13,https://opengov.seoul.go.kr/expense/33636126,2025-05-22,seoul_council,의회사무처 의사담당관,참숯골,서울 중구 무교로 16,80000,p13
-opengov:33624102,10,https://opengov.seoul.go.kr/expense/33624102,2025-05-27,seoul_city,관광체육국 체육진흥과,참숯골,서울 중구 무교로 16,74000,p13
-opengov:33624130,221,https://opengov.seoul.go.kr/expense/33624130,2025-05-27,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,84000,p13
-opengov:33636126,18,https://opengov.seoul.go.kr/expense/33636126,2025-05-27,seoul_council,의회사무처 의사담당관,참숯골,서울 중구 무교로 16,127000,p13
-opengov:33600330,66,https://opengov.seoul.go.kr/expense/33600330,2025-05-30,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,42000,p13
-opengov:33790708,1,https://opengov.seoul.go.kr/expense/33790708,2025-06-04,seoul_city,비상기획관 민방위담당관,참숯골,서울 중구 무교로 16,92000,p13
-opengov:33868904,4,https://opengov.seoul.go.kr/expense/33868904,2025-06-04,seoul_city,시민건강국 보건의료정책과,참숯골,서울 중구 무교로 16,215000,p13
-opengov:33826560,2,https://opengov.seoul.go.kr/expense/33826560,2025-06-05,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,155000,p13
-opengov:33826572,6,https://opengov.seoul.go.kr/expense/33826572,2025-06-09,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,143000,p13
-opengov:33836851,7,https://opengov.seoul.go.kr/expense/33836851,2025-06-10,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,207000,p13
-opengov:33867833,2,https://opengov.seoul.go.kr/expense/33867833,2025-06-10,seoul_city,재난안전실 재난안전예방과,참숯골,서울 중구 무교로 16,49000,p13
-opengov:33825304,6,https://opengov.seoul.go.kr/expense/33825304,2025-06-11,seoul_city,복지실 돌봄복지과,참숯골,서울 중구 무교로 16,120000,p13
-opengov:33867837,7,https://opengov.seoul.go.kr/expense/33867837,2025-06-12,seoul_city,자치경찰위원회 자치경찰협력과,참숯골,서울 중구 무교로 16,61000,p13
-opengov:33867834,28,https://opengov.seoul.go.kr/expense/33867834,2025-06-18,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,50500,p13
-opengov:33826560,6,https://opengov.seoul.go.kr/expense/33826560,2025-06-20,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,142000,p13
-opengov:33867837,11,https://opengov.seoul.go.kr/expense/33867837,2025-06-23,seoul_city,자치경찰위원회 자치경찰협력과,참숯골,서울 중구 무교로 16,64000,p13
-opengov:33877271,12,https://opengov.seoul.go.kr/expense/33877271,2025-06-23,seoul_city,복지실 디딤돌소득과,참숯골,서울 중구 무교로 16,69000,p13
-opengov:33792086,23,https://opengov.seoul.go.kr/expense/33792086,2025-06-24,seoul_city,재난안전실 도로기획관 도로계획과,참숯골,서울 중구 무교로 16,174000,p13
-opengov:33826572,37,https://opengov.seoul.go.kr/expense/33826572,2025-06-24,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,161000,p13
-opengov:33847533,14,https://opengov.seoul.go.kr/expense/33847533,2025-06-25,seoul_city,행정국 인사과,참숯골,서울 중구 무교로 16,138000,p13
-opengov:33867841,23,https://opengov.seoul.go.kr/expense/33867841,2025-06-25,seoul_council,시의회사무처 의사담당관,참숯골,서울 중구 무교로 16,127000,p13
-opengov:33836851,31,https://opengov.seoul.go.kr/expense/33836851,2025-06-26,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,115000,p13
-opengov:33877271,14,https://opengov.seoul.go.kr/expense/33877271,2025-06-26,seoul_city,복지실 디딤돌소득과,참숯골,서울 중구 무교로 16,70000,p13
-opengov:34037605,1,https://opengov.seoul.go.kr/expense/34037605,2025-07-01,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,138000,p13
-opengov:34077472,1,https://opengov.seoul.go.kr/expense/34077472,2025-07-01,seoul_city,글로벌도시정책관 국제협력담당관,참숯골,서울 중구 무교로 16,93000,p13
-opengov:34026235,2,https://opengov.seoul.go.kr/expense/34026235,2025-07-03,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,184000,p13
-opengov:34037571,3,https://opengov.seoul.go.kr/expense/34037571,2025-07-04,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,75000,p13
-opengov:34077470,8,https://opengov.seoul.go.kr/expense/34077470,2025-07-04,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,345000,p13
-opengov:34037571,4,https://opengov.seoul.go.kr/expense/34037571,2025-07-07,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34067539,20,https://opengov.seoul.go.kr/expense/34067539,2025-07-07,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,200000,p13
-opengov:34058153,3,https://opengov.seoul.go.kr/expense/34058153,2025-07-09,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,116000,p13
-opengov:34077510,51,https://opengov.seoul.go.kr/expense/34077510,2025-07-09,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34037571,6,https://opengov.seoul.go.kr/expense/34037571,2025-07-10,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,164000,p13
-opengov:34087190,19,https://opengov.seoul.go.kr/expense/34087190,2025-07-10,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,211000,p13
-opengov:34096978,5,https://opengov.seoul.go.kr/expense/34096978,2025-07-10,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34037571,7,https://opengov.seoul.go.kr/expense/34037571,2025-07-11,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,105000,p13
-opengov:34123773,5,https://opengov.seoul.go.kr/expense/34123773,2025-07-11,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,212000,p13
-opengov:34037571,8,https://opengov.seoul.go.kr/expense/34037571,2025-07-14,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,94000,p13
-opengov:34077510,90,https://opengov.seoul.go.kr/expense/34077510,2025-07-14,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,166000,p13
-opengov:34077520,61,https://opengov.seoul.go.kr/expense/34077520,2025-07-14,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,138000,p13
-opengov:34087189,14,https://opengov.seoul.go.kr/expense/34087189,2025-07-14,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,240000,p13
-opengov:34026235,6,https://opengov.seoul.go.kr/expense/34026235,2025-07-16,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,185000,p13
-opengov:34016223,6,https://opengov.seoul.go.kr/expense/34016223,2025-07-17,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,91000,p13
-opengov:34067537,50,https://opengov.seoul.go.kr/expense/34067537,2025-07-17,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,214000,p13
-opengov:34067537,55,https://opengov.seoul.go.kr/expense/34067537,2025-07-18,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,216000,p13
-opengov:34037437,1,https://opengov.seoul.go.kr/expense/34037437,2025-07-21,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,p13
-opengov:34077510,149,https://opengov.seoul.go.kr/expense/34077510,2025-07-21,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,232000,p13
-opengov:34087189,26,https://opengov.seoul.go.kr/expense/34087189,2025-07-21,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,120000,p13
-opengov:34049248,19,https://opengov.seoul.go.kr/expense/34049248,2025-07-22,seoul_city,관광체육국 체육정책과,참숯골,서울 중구 무교로 16,116000,p13
-opengov:34058176,33,https://opengov.seoul.go.kr/expense/34058176,2025-07-22,seoul_city,민생노동국 소상공인정책과,참숯골,서울 중구 무교로 16,94000,p13
-opengov:34037594,19,https://opengov.seoul.go.kr/expense/34037594,2025-07-23,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,95000,p13
-opengov:34049249,30,https://opengov.seoul.go.kr/expense/34049249,2025-07-28,seoul_office,은평병원 원무과,참숯골,서울 중구 무교로 16,72000,p13
-opengov:34037571,11,https://opengov.seoul.go.kr/expense/34037571,2025-07-29,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,104000,p13
-opengov:34123773,38,https://opengov.seoul.go.kr/expense/34123773,2025-07-29,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34067500,11,https://opengov.seoul.go.kr/expense/34067500,2025-07-30,seoul_city,디자인정책관 도시경관담당관,참숯골,서울 중구 무교로 16,138000,p13
-opengov:34220928,5,https://opengov.seoul.go.kr/expense/34220928,2025-08-07,seoul_council,운영전문위원실,참숯골,서울 중구 무교로 16,157000,p13
-opengov:34266475,10,https://opengov.seoul.go.kr/expense/34266475,2025-08-13,seoul_city,물순환안전국 물재생시설과,참숯골,서울 중구 무교로 16,64000,p13
-opengov:34277795,7,https://opengov.seoul.go.kr/expense/34277795,2025-08-13,seoul_city,시민건강국 공공의료과,참숯골,서울 중구 무교로 16,163000,p13
-opengov:34243915,7,https://opengov.seoul.go.kr/expense/34243915,2025-08-14,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,125000,p13
-opengov:34232742,30,https://opengov.seoul.go.kr/expense/34232742,2025-08-20,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,162000,p13
-opengov:34243915,15,https://opengov.seoul.go.kr/expense/34243915,2025-08-22,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,95000,p13
-opengov:34257445,10,https://opengov.seoul.go.kr/expense/34257445,2025-08-25,seoul_city,행정국 대외협력과,참숯골,서울 중구 무교로 16,70000,p13
-opengov:34298517,22,https://opengov.seoul.go.kr/expense/34298517,2025-08-25,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,51000,p13
-opengov:34299643,38,https://opengov.seoul.go.kr/expense/34299643,2025-08-25,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,148000,p13
-opengov:34299643,44,https://opengov.seoul.go.kr/expense/34299643,2025-08-26,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,30000,p13
-opengov:34221065,10,https://opengov.seoul.go.kr/expense/34221065,2025-08-27,seoul_city,문화본부 문화예술과,참숯골,서울 중구 무교로 16,42000,p13
-opengov:34232742,38,https://opengov.seoul.go.kr/expense/34232742,2025-08-27,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,143000,p13
-opengov:34233942,12,https://opengov.seoul.go.kr/expense/34233942,2025-08-27,seoul_city,기후환경본부 친환경차량과,참숯골,서울 중구 무교로 16,34000,p13
-opengov:34245182,45,https://opengov.seoul.go.kr/expense/34245182,2025-08-29,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,48000,p13
-opengov:34467232,1,https://opengov.seoul.go.kr/expense/34467232,2025-09-01,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,167000,p13
-opengov:34454112,2,https://opengov.seoul.go.kr/expense/34454112,2025-09-02,seoul_council,의정국 언론홍보과,참숯골,서울 중구 무교로 16,123000,p13
-opengov:34467232,4,https://opengov.seoul.go.kr/expense/34467232,2025-09-03,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,120000,p13
-opengov:34467188,13,https://opengov.seoul.go.kr/expense/34467188,2025-09-04,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,138000,p13
-opengov:34467230,1,https://opengov.seoul.go.kr/expense/34467230,2025-09-04,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,73000,p13
-opengov:34467230,3,https://opengov.seoul.go.kr/expense/34467230,2025-09-05,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,85000,p13
-opengov:34454143,5,https://opengov.seoul.go.kr/expense/34454143,2025-09-08,seoul_city,기획조정실 창의규제담당관,참숯골,서울 중구 무교로 16,121000,p13
-opengov:34669097,5,https://opengov.seoul.go.kr/expense/34669097,2025-09-08,seoul_city,여성가족실 아동담당관,참숯골,서울 중구 무교로 16,98000,p13
-opengov:34467170,7,https://opengov.seoul.go.kr/expense/34467170,2025-09-12,seoul_office,서북병원 진료부,참숯골,서울 중구 무교로 16,56000,p13
-opengov:34484002,73,https://opengov.seoul.go.kr/expense/34484002,2025-09-17,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,450000,p13
-opengov:34483820,27,https://opengov.seoul.go.kr/expense/34483820,2025-09-18,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,386000,p13
-opengov:34484002,78,https://opengov.seoul.go.kr/expense/34484002,2025-09-18,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,252000,p13
-opengov:34454112,18,https://opengov.seoul.go.kr/expense/34454112,2025-09-19,seoul_council,의정국 언론홍보과,참숯골,서울 중구 무교로 16,121000,p13
-opengov:34495706,28,https://opengov.seoul.go.kr/expense/34495706,2025-09-19,seoul_city,기획조정실 정책기획관 조직담당관,참숯골,서울 중구 무교로 16,184000,p13
-opengov:34452829,9,https://opengov.seoul.go.kr/expense/34452829,2025-09-22,seoul_city,건설기술정책관 지역건축안전센터,참숯골,서울 중구 무교로 16,72000,p13
-opengov:34465655,33,https://opengov.seoul.go.kr/expense/34465655,2025-09-26,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34467230,8,https://opengov.seoul.go.kr/expense/34467230,2025-09-26,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,85000,p13
-opengov:34711173,2,https://opengov.seoul.go.kr/expense/34711173,2025-10-01,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,213000,p13
-opengov:34690047,2,https://opengov.seoul.go.kr/expense/34690047,2025-10-02,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,85000,p13
-opengov:34711325,2,https://opengov.seoul.go.kr/expense/34711325,2025-10-02,seoul_city,복지실 고독대응과,참숯골,서울 중구 무교로 16,93000,p13
-opengov:34680972,5,https://opengov.seoul.go.kr/expense/34680972,2025-10-10,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,400000,p13
-opengov:34690029,3,https://opengov.seoul.go.kr/expense/34690029,2025-10-10,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34669120,4,https://opengov.seoul.go.kr/expense/34669120,2025-10-13,seoul_city,복지실 디딤돌소득과,참숯골,서울 중구 무교로 16,50000,p13
-opengov:34701384,82,https://opengov.seoul.go.kr/expense/34701384,2025-10-16,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,193000,p13
-opengov:34711200,19,https://opengov.seoul.go.kr/expense/34711200,2025-10-17,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,72000,p13
-opengov:34655493,9,https://opengov.seoul.go.kr/expense/34655493,2025-10-22,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,69000,p13
-opengov:34691335,7,https://opengov.seoul.go.kr/expense/34691335,2025-10-23,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34701384,190,https://opengov.seoul.go.kr/expense/34701384,2025-10-28,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,178000,p13
-opengov:34711309,6,https://opengov.seoul.go.kr/expense/34711309,2025-10-28,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,72000,p13
-opengov:34655618,14,https://opengov.seoul.go.kr/expense/34655618,2025-10-30,seoul_office,강서도로사업소 관리단속과,참숯골,서울 중구 무교로 16,93000,p13
-opengov:34669128,82,https://opengov.seoul.go.kr/expense/34669128,2025-10-30,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,144000,p13
-opengov:34690047,14,https://opengov.seoul.go.kr/expense/34690047,2025-10-31,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,165000,p13
-opengov:34710683,11,https://opengov.seoul.go.kr/expense/34710683,2025-10-31,seoul_city,기획조정실 법률지원담당관,참숯골,서울 중구 무교로 16,200000,p13
-opengov:34952051,2,https://opengov.seoul.go.kr/expense/34952051,2025-11-03,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,31000,p13
-opengov:34963727,2,https://opengov.seoul.go.kr/expense/34963727,2025-11-03,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,30000,p13
-opengov:34904043,4,https://opengov.seoul.go.kr/expense/34904043,2025-11-04,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,164000,p13
-opengov:34938415,4,https://opengov.seoul.go.kr/expense/34938415,2025-11-05,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,240000,p13
-opengov:34889823,8,https://opengov.seoul.go.kr/expense/34889823,2025-11-07,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,76500,p13
-opengov:34938415,7,https://opengov.seoul.go.kr/expense/34938415,2025-11-07,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,32000,p13
-opengov:34952051,66,https://opengov.seoul.go.kr/expense/34952051,2025-11-10,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,88000,p13
-opengov:34963727,20,https://opengov.seoul.go.kr/expense/34963727,2025-11-11,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,37000,p13
-opengov:35166171,2,https://opengov.seoul.go.kr/expense/35166171,2025-11-12,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,30000,p13
-opengov:34891341,35,https://opengov.seoul.go.kr/expense/34891341,2025-11-13,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,94000,p13
-opengov:34876530,10,https://opengov.seoul.go.kr/expense/34876530,2025-11-17,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,115000,p13
-opengov:34915136,7,https://opengov.seoul.go.kr/expense/34915136,2025-11-20,seoul_city,재난안전실 교량안전과,참숯골,서울 중구 무교로 16,96000,p13
-opengov:34926686,13,https://opengov.seoul.go.kr/expense/34926686,2025-11-20,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,120000,p13
-opengov:34939510,37,https://opengov.seoul.go.kr/expense/34939510,2025-11-21,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,349000,p13
-opengov:34889815,57,https://opengov.seoul.go.kr/expense/34889815,2025-11-24,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,69000,p13
-opengov:34876530,16,https://opengov.seoul.go.kr/expense/34876530,2025-11-25,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,46000,p13
-opengov:34926686,16,https://opengov.seoul.go.kr/expense/34926686,2025-11-25,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,107000,p13
-opengov:34973593,39,https://opengov.seoul.go.kr/expense/34973593,2025-11-25,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,95000,p13
-opengov:34926686,18,https://opengov.seoul.go.kr/expense/34926686,2025-11-26,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,147500,p13
-opengov:34952051,223,https://opengov.seoul.go.kr/expense/34952051,2025-11-26,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,142000,p13
-opengov:34902477,12,https://opengov.seoul.go.kr/expense/34902477,2025-11-27,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,160000,p13
-opengov:34950548,10,https://opengov.seoul.go.kr/expense/34950548,2025-11-28,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,81000,p13
-opengov:35196497,4,https://opengov.seoul.go.kr/expense/35196497,2025-12-02,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,130500,p13
-opengov:35197509,3,https://opengov.seoul.go.kr/expense/35197509,2025-12-02,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,184000,p13
-opengov:35240417,1,https://opengov.seoul.go.kr/expense/35240417,2025-12-02,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,139000,p13
-opengov:35205486,6,https://opengov.seoul.go.kr/expense/35205486,2025-12-03,seoul_city,기획조정실 창의규제담당관,참숯골,서울 중구 무교로 16,98000,p13
-opengov:35167213,6,https://opengov.seoul.go.kr/expense/35167213,2025-12-08,seoul_city,문화본부 문화예술과,참숯골,서울 중구 무교로 16,79000,p13
-opengov:35177679,5,https://opengov.seoul.go.kr/expense/35177679,2025-12-08,seoul_city,홍보기획관 서울브랜드담당관,참숯골,서울 중구 무교로 16,169000,p13
-opengov:35196497,15,https://opengov.seoul.go.kr/expense/35196497,2025-12-09,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,65500,p13
-opengov:35111762,2,https://opengov.seoul.go.kr/expense/35111762,2025-12-11,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,160000,p13
-opengov:35196497,19,https://opengov.seoul.go.kr/expense/35196497,2025-12-11,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,96000,p13
-opengov:35196497,21,https://opengov.seoul.go.kr/expense/35196497,2025-12-12,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,115000,p13
-opengov:35177671,149,https://opengov.seoul.go.kr/expense/35177671,2025-12-15,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,167000,p13
-opengov:35196497,22,https://opengov.seoul.go.kr/expense/35196497,2025-12-15,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,152000,p13
-opengov:35214377,28,https://opengov.seoul.go.kr/expense/35214377,2025-12-16,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,118000,p13
-opengov:35167235,28,https://opengov.seoul.go.kr/expense/35167235,2025-12-17,seoul_city,정원도시국 정원도시정책과,참숯골,서울 중구 무교로 16,125000,p13
-opengov:35177671,193,https://opengov.seoul.go.kr/expense/35177671,2025-12-18,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,360000,p13
-opengov:35177671,231,https://opengov.seoul.go.kr/expense/35177671,2025-12-23,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,160000,p13
-opengov:35205483,37,https://opengov.seoul.go.kr/expense/35205483,2025-12-23,seoul_city,외국인이민담당관,참숯골,서울 중구 무교로 16,92000,p13
-opengov:35240417,21,https://opengov.seoul.go.kr/expense/35240417,2025-12-23,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,119000,p13
-opengov:35205478,40,https://opengov.seoul.go.kr/expense/35205478,2025-12-26,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,150000,p13
-opengov:35157875,11,https://opengov.seoul.go.kr/expense/35157875,2025-12-30,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,94500,p13
-opengov:35166172,17,https://opengov.seoul.go.kr/expense/35166172,2025-12-30,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,250600,p13
-opengov:35196490,17,https://opengov.seoul.go.kr/expense/35196490,2025-12-30,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,172000,p13
-opengov:35204422,35,https://opengov.seoul.go.kr/expense/35204422,2025-12-30,seoul_city,기획조정실 정책기획관 조직담당관,참숯골,서울 중구 무교로 16,131000,p13
-opengov:35357577,1,https://opengov.seoul.go.kr/expense/35357577,2026-01-02,seoul_city,재난안전실 교량안전과,참숯골,서울 중구 무교로 16,195000,p13
-opengov:35421566,2,https://opengov.seoul.go.kr/expense/35421566,2026-01-05,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,116000,p13
-opengov:35421566,3,https://opengov.seoul.go.kr/expense/35421566,2026-01-05,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,165000,p13
-opengov:35434650,3,https://opengov.seoul.go.kr/expense/35434650,2026-01-05,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,116000,p13
-opengov:35380371,2,https://opengov.seoul.go.kr/expense/35380371,2026-01-06,seoul_city,기획조정실 창의규제담당관,참숯골,서울 중구 무교로 16,138000,p13
-opengov:35398244,4,https://opengov.seoul.go.kr/expense/35398244,2026-01-06,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,460000,p13
-opengov:35420389,4,https://opengov.seoul.go.kr/expense/35420389,2026-01-07,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,280000,p13
-opengov:35388719,5,https://opengov.seoul.go.kr/expense/35388719,2026-01-12,seoul_city,여성가족실 가족담당관,참숯골,서울 중구 무교로 16,188000,p13
-opengov:35420384,4,https://opengov.seoul.go.kr/expense/35420384,2026-01-15,seoul_office,동부도로사업소 관리단속과,참숯골,서울 중구 무교로 16,150000,p13
-opengov:35398244,27,https://opengov.seoul.go.kr/expense/35398244,2026-01-19,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,169000,p13
-opengov:35346220,6,https://opengov.seoul.go.kr/expense/35346220,2026-01-20,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,230000,p13
-opengov:35421566,24,https://opengov.seoul.go.kr/expense/35421566,2026-01-20,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,98000,p13
-opengov:35378916,5,https://opengov.seoul.go.kr/expense/35378916,2026-01-21,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:35398212,31,https://opengov.seoul.go.kr/expense/35398212,2026-01-22,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,97000,p13
-opengov:35420373,26,https://opengov.seoul.go.kr/expense/35420373,2026-01-22,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,120000,p13
-opengov:35421579,10,https://opengov.seoul.go.kr/expense/35421579,2026-01-22,seoul_city,미래공간기획관 용산입체도시담당관,참숯골,서울 중구 무교로 16,82000,p13
-opengov:35357555,7,https://opengov.seoul.go.kr/expense/35357555,2026-01-27,seoul_city,시민건강국 식품정책과,참숯골,서울 중구 무교로 16,95000,p13
-opengov:35398243,58,https://opengov.seoul.go.kr/expense/35398243,2026-01-28,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,95000,p13
-opengov:35398221,226,https://opengov.seoul.go.kr/expense/35398221,2026-01-29,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:35410266,11,https://opengov.seoul.go.kr/expense/35410266,2026-01-29,seoul_city,관광체육국 체육진흥과,참숯골,서울 중구 무교로 16,299000,p13
-opengov:35421566,37,https://opengov.seoul.go.kr/expense/35421566,2026-01-29,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,46000,p13
-opengov:35595078,1,https://opengov.seoul.go.kr/expense/35595078,2026-02-02,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,69000,p13
-opengov:35547926,4,https://opengov.seoul.go.kr/expense/35547926,2026-02-03,seoul_city,도시공간본부 도시공간전략과,참숯골,서울 중구 무교로 16,198000,p13
-opengov:35547894,1,https://opengov.seoul.go.kr/expense/35547894,2026-02-04,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,96000,p13
-opengov:35559486,3,https://opengov.seoul.go.kr/expense/35559486,2026-02-06,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,117000,p13
-opengov:35581596,2,https://opengov.seoul.go.kr/expense/35581596,2026-02-10,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,참숯골,서울 중구 무교로 16,115000,p13
-opengov:35605725,18,https://opengov.seoul.go.kr/expense/35605725,2026-02-12,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,163000,p13
-opengov:35559469,5,https://opengov.seoul.go.kr/expense/35559469,2026-02-19,seoul_city,여성가족실 아동담당관,참숯골,서울 중구 무교로 16,30000,p13
-opengov:35605715,32,https://opengov.seoul.go.kr/expense/35605715,2026-02-19,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:35605738,147,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,171000,p13
-opengov:35605738,150,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,134000,p13
-opengov:35606788,83,https://opengov.seoul.go.kr/expense/35606788,2026-02-23,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,83000,p13
-opengov:35547876,2,https://opengov.seoul.go.kr/expense/35547876,2026-02-24,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,p13
-opengov:35606788,95,https://opengov.seoul.go.kr/expense/35606788,2026-02-25,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,167000,p13
-opengov:35571123,16,https://opengov.seoul.go.kr/expense/35571123,2026-02-27,seoul_city,정원도시국 공원조성과,참숯골,서울 중구 무교로 16,81000,p13
-opengov:35812084,7,https://opengov.seoul.go.kr/expense/35812084,2026-03-05,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,325000,p13
-opengov:35812214,5,https://opengov.seoul.go.kr/expense/35812214,2026-03-05,seoul_city,주거정비과,참숯골,서울 중구 무교로 16,256000,p13
-opengov:35876286,2,https://opengov.seoul.go.kr/expense/35876286,2026-03-05,seoul_council,의정국 의사과,참숯골,서울 중구 무교로 16,167000,p13
-opengov:35824078,3,https://opengov.seoul.go.kr/expense/35824078,2026-03-09,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,48000,p13
-opengov:35834086,50,https://opengov.seoul.go.kr/expense/35834086,2026-03-09,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,142000,p13
-opengov:35845468,6,https://opengov.seoul.go.kr/expense/35845468,2026-03-10,seoul_office,정원도시국 중부공원여가센터 공원운영과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:35834100,21,https://opengov.seoul.go.kr/expense/35834100,2026-03-12,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,26500,p13
-opengov:35855664,5,https://opengov.seoul.go.kr/expense/35855664,2026-03-12,seoul_city,재난안전실 중대재해예방과,참숯골,서울 중구 무교로 16,33000,p13
-opengov:35855699,42,https://opengov.seoul.go.kr/expense/35855699,2026-03-12,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,87000,p13
-opengov:35834086,112,https://opengov.seoul.go.kr/expense/35834086,2026-03-17,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,84000,p13
-opengov:35824118,16,https://opengov.seoul.go.kr/expense/35824118,2026-03-18,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,200000,p13
-opengov:35845460,53,https://opengov.seoul.go.kr/expense/35845460,2026-03-19,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,89500,p13
-opengov:35865973,7,https://opengov.seoul.go.kr/expense/35865973,2026-03-19,seoul_city,미래공간기획관 용산입체도시담당관,참숯골,서울 중구 무교로 16,78000,p13
-opengov:35799961,8,https://opengov.seoul.go.kr/expense/35799961,2026-03-23,seoul_city,복지실 1인가구지원과,참숯골,서울 중구 무교로 16,46000,p13
-opengov:35834086,189,https://opengov.seoul.go.kr/expense/35834086,2026-03-24,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,164000,p13
-opengov:35834100,57,https://opengov.seoul.go.kr/expense/35834100,2026-03-24,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,116000,p13
-opengov:35835449,92,https://opengov.seoul.go.kr/expense/35835449,2026-03-25,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,120000,p13
-opengov:36059171,1,https://opengov.seoul.go.kr/expense/36059171,2026-04-01,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,48000,p13
-opengov:36037100,1,https://opengov.seoul.go.kr/expense/36037100,2026-04-03,seoul_office,정원도시국 중부공원여가센터 공원운영과,참숯골,서울 중구 무교로 16,166000,p13
-opengov:36024957,10,https://opengov.seoul.go.kr/expense/36024957,2026-04-07,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,86000,p13
-opengov:36047152,6,https://opengov.seoul.go.kr/expense/36047152,2026-04-08,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,참숯골,서울 중구 무교로 16,63000,p13
-opengov:36058328,87,https://opengov.seoul.go.kr/expense/36058328,2026-04-09,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,192000,p13
-opengov:36042193,31,https://opengov.seoul.go.kr/expense/36042193,2026-04-10,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,96000,p13
-opengov:36026846,22,https://opengov.seoul.go.kr/expense/36026846,2026-04-14,seoul_city,시민건강국 보건의료정책과,참숯골,서울 중구 무교로 16,186000,p13
-opengov:36024958,28,https://opengov.seoul.go.kr/expense/36024958,2026-04-15,seoul_city,여성가족실 저출생담당관,참숯골,서울 중구 무교로 16,91000,p13
-opengov:36058328,175,https://opengov.seoul.go.kr/expense/36058328,2026-04-20,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:36012986,30,https://opengov.seoul.go.kr/expense/36012986,2026-04-22,seoul_city,물순환안전국 수변감성도시과,참숯골,서울 중구 무교로 16,45000,p13
-opengov:36037066,7,https://opengov.seoul.go.kr/expense/36037066,2026-04-22,seoul_city,경제실 금융투자과,참숯골,서울 중구 무교로 16,48000,p13
-opengov:36037114,17,https://opengov.seoul.go.kr/expense/36037114,2026-04-22,seoul_council,운영전문위원실,참숯골,서울 중구 무교로 16,124000,p13
-opengov:36058328,201,https://opengov.seoul.go.kr/expense/36058328,2026-04-22,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,192000,p13
-opengov:36013019,10,https://opengov.seoul.go.kr/expense/36013019,2026-04-24,seoul_city,균형발전본부 광화문광장사업과,참숯골,서울 중구 무교로 16,60000,p13
-opengov:36059179,21,https://opengov.seoul.go.kr/expense/36059179,2026-04-24,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,184000,p13
-opengov:36214403,4,https://opengov.seoul.go.kr/expense/36214403,2026-05-08,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,69000,p13
-opengov:36261043,10,https://opengov.seoul.go.kr/expense/36261043,2026-05-15,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,70000,p13
-opengov:36202435,19,https://opengov.seoul.go.kr/expense/36202435,2026-05-19,seoul_city,물순환안전국 수변감성도시과,참숯골,서울 중구 무교로 16,100000,p13
-opengov:36414577,12,https://opengov.seoul.go.kr/expense/36414577,2026-05-27,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,46000,p13
-opengov:36512446,1,https://opengov.seoul.go.kr/expense/36512446,2026-06-01,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,184000,p13
-opengov:36492733,24,https://opengov.seoul.go.kr/expense/36492733,2026-06-08,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,89500,p13
-opengov:36449891,4,https://opengov.seoul.go.kr/expense/36449891,2026-06-11,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,115000,p13
-opengov:36414586,9,https://opengov.seoul.go.kr/expense/36414586,2026-06-12,seoul_council,의정국 의사과,참숯골,서울 중구 무교로 16,117000,p13
-opengov:36438873,21,https://opengov.seoul.go.kr/expense/36438873,2026-06-15,seoul_city,관광체육국 관광정책과,참숯골,서울 중구 무교로 16,119000,p13
-opengov:36492736,33,https://opengov.seoul.go.kr/expense/36492736,2026-06-17,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,172000,p13
-opengov:36438873,33,https://opengov.seoul.go.kr/expense/36438873,2026-06-19,seoul_city,관광체육국 관광정책과,참숯골,서울 중구 무교로 16,89000,p13
-opengov:36501216,59,https://opengov.seoul.go.kr/expense/36501216,2026-06-19,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,48000,p13
-opengov:36512446,37,https://opengov.seoul.go.kr/expense/36512446,2026-06-19,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,100000,p13
-opengov:36413373,3,https://opengov.seoul.go.kr/expense/36413373,2026-06-24,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,p13
-opengov:36533635,117,https://opengov.seoul.go.kr/expense/36533635,2026-06-26,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,195000,p13
-opengov:36427695,19,https://opengov.seoul.go.kr/expense/36427695,2026-06-30,seoul_city,시민건강국 식품정책과,참숯골,서울 중구 무교로 16,45000,p13
-opengov:36654894,1,https://opengov.seoul.go.kr/expense/36654894,2026-07-01,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,230000,p13
-opengov:36697260,1,https://opengov.seoul.go.kr/expense/36697260,2026-07-01,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,140000,p13
-opengov:36687844,1,https://opengov.seoul.go.kr/expense/36687844,2026-07-02,seoul_city,디지털도시국 디지털정책과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:36707715,2,https://opengov.seoul.go.kr/expense/36707715,2026-07-02,seoul_city,미래청년기획관 청년정책담당관,참숯골,서울 중구 무교로 16,134000,p13
-opengov:36697259,19,https://opengov.seoul.go.kr/expense/36697259,2026-07-07,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,437000,p13
-opengov:36707487,18,https://opengov.seoul.go.kr/expense/36707487,2026-07-09,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,96000,p13
-opengov:36707487,28,https://opengov.seoul.go.kr/expense/36707487,2026-07-15,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,161000,p13
-opengov:36697260,26,https://opengov.seoul.go.kr/expense/36697260,2026-07-20,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,280000,p13
-opengov:36697311,36,https://opengov.seoul.go.kr/expense/36697311,2026-07-23,seoul_city,물순환안전국 수변감성도시과,참숯골,서울 중구 무교로 16,70000,p13
-opengov:36655910,28,https://opengov.seoul.go.kr/expense/36655910,2026-07-27,seoul_city,기획조정실 조직담당관,참숯골,서울 중구 무교로 16,65500,p13
-opengov:36697259,59,https://opengov.seoul.go.kr/expense/36697259,2026-07-28,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,201000,p13
-opengov:36668085,13,https://opengov.seoul.go.kr/expense/36668085,2026-07-29,seoul_city,글로벌도시정책관 다문화담당관,참숯골,서울 중구 무교로 16,69000,p13
-opengov:36706844,201,https://opengov.seoul.go.kr/expense/36706844,2026-07-31,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,120000,p13
-opengov:36707751,40,https://opengov.seoul.go.kr/expense/36707751,2026-07-31,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,120000,p13
-opengov:36869660,9,https://opengov.seoul.go.kr/expense/36869660,2026-08-13,seoul_city,글로벌도시정책관 다문화담당관,참숯골,서울 중구 무교로 16,145000,p13
-opengov:36844670,5,https://opengov.seoul.go.kr/expense/36844670,2026-08-24,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,92000,p13
-opengov:36868555,12,https://opengov.seoul.go.kr/expense/36868555,2026-08-28,seoul_city,디지털도시국 정보시스템과,참숯골,서울 중구 무교로 16,91000,p13
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:32804039,1,https://opengov.seoul.go.kr/expense/32804039,2025-01-02,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:32792955,46,https://opengov.seoul.go.kr/expense/32792955,2025-01-07,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,86000,uncertain,meeting_only_uncertain,p13
+opengov:32793528,8,https://opengov.seoul.go.kr/expense/32793528,2025-01-07,seoul_city,시민건강국 보건의료정책과,참숯골,서울 중구 무교로 16,143000,uncertain,meeting_only_uncertain,p13
+opengov:32765831,7,https://opengov.seoul.go.kr/expense/32765831,2025-01-09,seoul_city,자치경찰위원회 자치경찰총괄과,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:32793510,11,https://opengov.seoul.go.kr/expense/32793510,2025-01-09,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,184000,uncertain,meeting_only_uncertain,p13
+opengov:32793720,4,https://opengov.seoul.go.kr/expense/32793720,2025-01-09,seoul_city,디자인정책관 도시경관담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:32743311,4,https://opengov.seoul.go.kr/expense/32743311,2025-01-10,seoul_city,창의행정담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:32773767,7,https://opengov.seoul.go.kr/expense/32773767,2025-01-10,seoul_city,재난안전실 재난안전예방과,참숯골,서울 중구 무교로 16,94000,uncertain,meeting_only_uncertain,p13
+opengov:32793491,12,https://opengov.seoul.go.kr/expense/32793491,2025-01-10,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:32765863,4,https://opengov.seoul.go.kr/expense/32765863,2025-01-13,seoul_city,복지실 1인가구지원과,참숯골,서울 중구 무교로 16,140000,uncertain,meeting_only_uncertain,p13
+opengov:32804034,4,https://opengov.seoul.go.kr/expense/32804034,2025-01-13,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,207000,uncertain,meeting_only_uncertain,p13
+opengov:32764491,10,https://opengov.seoul.go.kr/expense/32764491,2025-01-14,seoul_city,문화본부 문화유산활용과,참숯골,서울 중구 무교로 16,59000,uncertain,meeting_only_uncertain,p13
+opengov:32764495,5,https://opengov.seoul.go.kr/expense/32764495,2025-01-15,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,175000,uncertain,meeting_only_uncertain,p13
+opengov:32775008,25,https://opengov.seoul.go.kr/expense/32775008,2025-01-15,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,165000,uncertain,meeting_only_uncertain,p13
+opengov:32775009,21,https://opengov.seoul.go.kr/expense/32775009,2025-01-15,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,163000,meal,explicit_meal_word,p13
+opengov:32792955,124,https://opengov.seoul.go.kr/expense/32792955,2025-01-15,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,90000,uncertain,meeting_only_uncertain,p13
+opengov:32743361,21,https://opengov.seoul.go.kr/expense/32743361,2025-01-16,seoul_city,디자인정책관디자인정책담당관,참숯골,서울 중구 무교로 16,161000,uncertain,meeting_only_uncertain,p13
+opengov:32784035,8,https://opengov.seoul.go.kr/expense/32784035,2025-01-16,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,참숯골,서울 중구 무교로 16,84000,uncertain,meeting_only_uncertain,p13
+opengov:32773754,3,https://opengov.seoul.go.kr/expense/32773754,2025-01-17,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:32782833,4,https://opengov.seoul.go.kr/expense/32782833,2025-01-17,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:32743389,14,https://opengov.seoul.go.kr/expense/32743389,2025-01-20,seoul_city,재난안전실 도로기획관 도로계획과,참숯골,서울 중구 무교로 16,90000,uncertain,meeting_only_uncertain,p13
+opengov:32793771,15,https://opengov.seoul.go.kr/expense/32793771,2025-01-20,seoul_council,의사담당관,참숯골,서울 중구 무교로 16,219000,uncertain,meeting_only_uncertain,p13
+opengov:32804034,7,https://opengov.seoul.go.kr/expense/32804034,2025-01-20,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,70500,uncertain,meeting_only_uncertain,p13
+opengov:32793771,16,https://opengov.seoul.go.kr/expense/32793771,2025-01-21,seoul_council,의사담당관,참숯골,서울 중구 무교로 16,216000,uncertain,meeting_only_uncertain,p13
+opengov:32773754,5,https://opengov.seoul.go.kr/expense/32773754,2025-01-23,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:32951634,1,https://opengov.seoul.go.kr/expense/32951634,2025-02-03,seoul_city,자치경찰위원회 자치경찰총괄과,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:32974336,1,https://opengov.seoul.go.kr/expense/32974336,2025-02-04,seoul_city,재난안전실 중대재해예방과,참숯골,서울 중구 무교로 16,161000,uncertain,meeting_only_uncertain,p13
+opengov:33017152,4,https://opengov.seoul.go.kr/expense/33017152,2025-02-04,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,69000,meal,explicit_meal_word,p13
+opengov:32940007,3,https://opengov.seoul.go.kr/expense/32940007,2025-02-05,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:32985443,3,https://opengov.seoul.go.kr/expense/32985443,2025-02-05,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:32985681,4,https://opengov.seoul.go.kr/expense/32985681,2025-02-05,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,293000,meal,explicit_meal_word,p13
+opengov:33025262,2,https://opengov.seoul.go.kr/expense/33025262,2025-02-05,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,118000,uncertain,meeting_only_uncertain,p13
+opengov:32963611,5,https://opengov.seoul.go.kr/expense/32963611,2025-02-06,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:33017153,10,https://opengov.seoul.go.kr/expense/33017153,2025-02-06,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,312000,uncertain,meeting_only_uncertain,p13
+opengov:32963674,3,https://opengov.seoul.go.kr/expense/32963674,2025-02-07,seoul_city,시민건강국 식품정책과,참숯골,서울 중구 무교로 16,156000,uncertain,meeting_only_uncertain,p13
+opengov:32985435,9,https://opengov.seoul.go.kr/expense/32985435,2025-02-10,seoul_council,의정담당관,참숯골,서울 중구 무교로 16,30000,uncertain,meeting_only_uncertain,p13
+opengov:32952994,10,https://opengov.seoul.go.kr/expense/32952994,2025-02-11,seoul_city,여성가족실 저출생담당관,참숯골,서울 중구 무교로 16,380000,uncertain,meeting_only_uncertain,p13
+opengov:32938940,2,https://opengov.seoul.go.kr/expense/32938940,2025-02-13,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:32985443,8,https://opengov.seoul.go.kr/expense/32985443,2025-02-13,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:32951616,21,https://opengov.seoul.go.kr/expense/32951616,2025-02-14,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,93000,uncertain,meeting_only_uncertain,p13
+opengov:32941233,45,https://opengov.seoul.go.kr/expense/32941233,2025-02-17,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,297000,uncertain,meeting_only_uncertain,p13
+opengov:32962298,19,https://opengov.seoul.go.kr/expense/32962298,2025-02-17,seoul_council,서울특별시의회사무처 현장민원담당관,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:32983269,144,https://opengov.seoul.go.kr/expense/32983269,2025-02-17,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,200000,uncertain,meeting_only_uncertain,p13
+opengov:32985644,58,https://opengov.seoul.go.kr/expense/32985644,2025-02-17,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:33025262,4,https://opengov.seoul.go.kr/expense/33025262,2025-02-17,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,56000,uncertain,meeting_only_uncertain,p13
+opengov:32985681,21,https://opengov.seoul.go.kr/expense/32985681,2025-02-18,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,317000,meal,explicit_meal_word,p13
+opengov:32951634,40,https://opengov.seoul.go.kr/expense/32951634,2025-02-19,seoul_city,자치경찰위원회 자치경찰총괄과,참숯골,서울 중구 무교로 16,348000,uncertain,meeting_only_uncertain,p13
+opengov:33017152,27,https://opengov.seoul.go.kr/expense/33017152,2025-02-19,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,92000,meal,explicit_meal_word,p13
+opengov:32962293,15,https://opengov.seoul.go.kr/expense/32962293,2025-02-20,seoul_city,재무국 재무과,참숯골,서울 중구 무교로 16,146000,uncertain,meeting_only_uncertain,p13
+opengov:32974374,8,https://opengov.seoul.go.kr/expense/32974374,2025-02-21,seoul_council,서울시의회사무처 인사담당관,참숯골,서울 중구 무교로 16,55000,uncertain,meeting_only_uncertain,p13
+opengov:32940007,11,https://opengov.seoul.go.kr/expense/32940007,2025-02-24,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:32985450,9,https://opengov.seoul.go.kr/expense/32985450,2025-02-24,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,86000,uncertain,meeting_only_uncertain,p13
+opengov:33017152,32,https://opengov.seoul.go.kr/expense/33017152,2025-02-24,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,400000,meal,explicit_meal_word,p13
+opengov:32940296,4,https://opengov.seoul.go.kr/expense/32940296,2025-02-25,seoul_office,도시기반시설본부 도시철도국 토목부,참숯골,서울 중구 무교로 16,76000,uncertain,meeting_only_uncertain,p13
+opengov:32983269,258,https://opengov.seoul.go.kr/expense/32983269,2025-02-27,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,200000,uncertain,meeting_only_uncertain,p13
+opengov:32985457,20,https://opengov.seoul.go.kr/expense/32985457,2025-02-28,seoul_council,시의회사무처 언론홍보실,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:33164994,3,https://opengov.seoul.go.kr/expense/33164994,2025-03-05,seoul_city,비상기획관 민방위담당관,참숯골,서울 중구 무교로 16,144000,uncertain,meeting_only_uncertain,p13
+opengov:33164995,4,https://opengov.seoul.go.kr/expense/33164995,2025-03-05,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,212000,uncertain,meeting_only_uncertain,p13
+opengov:33165002,2,https://opengov.seoul.go.kr/expense/33165002,2025-03-06,seoul_city,복지실 장애인자립지원과,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:33239279,4,https://opengov.seoul.go.kr/expense/33239279,2025-03-06,seoul_city,글로벌도시정책관 국제협력담당관 국제협력담당관,참숯골,서울 중구 무교로 16,328000,uncertain,meeting_only_uncertain,p13
+opengov:33220315,11,https://opengov.seoul.go.kr/expense/33220315,2025-03-07,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,184000,uncertain,meeting_only_uncertain,p13
+opengov:33220316,7,https://opengov.seoul.go.kr/expense/33220316,2025-03-10,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:33239277,5,https://opengov.seoul.go.kr/expense/33239277,2025-03-10,seoul_city,문화본부 박물관과,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:33188815,3,https://opengov.seoul.go.kr/expense/33188815,2025-03-11,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,140000,uncertain,meeting_only_uncertain,p13
+opengov:33164995,20,https://opengov.seoul.go.kr/expense/33164995,2025-03-12,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,139000,uncertain,meeting_only_uncertain,p13
+opengov:33229619,13,https://opengov.seoul.go.kr/expense/33229619,2025-03-12,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,253000,meal,explicit_meal_word,p13
+opengov:33152582,7,https://opengov.seoul.go.kr/expense/33152582,2025-03-13,seoul_council,서울시의회사무처 인사담당관,참숯골,서울 중구 무교로 16,80000,uncertain,meeting_only_uncertain,p13
+opengov:33199368,15,https://opengov.seoul.go.kr/expense/33199368,2025-03-14,seoul_city,기획조정실 정책기획관 조직담당관,참숯골,서울 중구 무교로 16,140000,uncertain,meeting_only_uncertain,p13
+opengov:33177875,22,https://opengov.seoul.go.kr/expense/33177875,2025-03-17,seoul_city,민생노동국 소상공인정책과,참숯골,서울 중구 무교로 16,70000,uncertain,meeting_only_uncertain,p13
+opengov:33229601,13,https://opengov.seoul.go.kr/expense/33229601,2025-03-18,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,191000,uncertain,meeting_only_uncertain,p13
+opengov:33152545,2,https://opengov.seoul.go.kr/expense/33152545,2025-03-19,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:33177855,24,https://opengov.seoul.go.kr/expense/33177855,2025-03-20,seoul_city,재무국 재무과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:33219256,6,https://opengov.seoul.go.kr/expense/33219256,2025-03-20,seoul_city,재난안전실 교량안전과,참숯골,서울 중구 무교로 16,96000,uncertain,meeting_only_uncertain,p13
+opengov:33210233,26,https://opengov.seoul.go.kr/expense/33210233,2025-03-21,seoul_city,여성가족실 저출생담당관,참숯골,서울 중구 무교로 16,144000,uncertain,meeting_only_uncertain,p13
+opengov:33229581,7,https://opengov.seoul.go.kr/expense/33229581,2025-03-21,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:33164995,44,https://opengov.seoul.go.kr/expense/33164995,2025-03-24,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,98000,uncertain,meeting_only_uncertain,p13
+opengov:33220315,49,https://opengov.seoul.go.kr/expense/33220315,2025-03-24,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,78000,uncertain,meeting_only_uncertain,p13
+opengov:33210230,5,https://opengov.seoul.go.kr/expense/33210230,2025-03-26,seoul_city,기획조정실 재정담당관,참숯골,서울 중구 무교로 16,287000,uncertain,meeting_only_uncertain,p13
+opengov:33199446,115,https://opengov.seoul.go.kr/expense/33199446,2025-03-28,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,58000,uncertain,meeting_only_uncertain,p13
+opengov:33199449,8,https://opengov.seoul.go.kr/expense/33199449,2025-03-31,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:33404726,4,https://opengov.seoul.go.kr/expense/33404726,2025-04-01,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:33392400,6,https://opengov.seoul.go.kr/expense/33392400,2025-04-03,seoul_city,디자인정책담당관,참숯골,서울 중구 무교로 16,30000,uncertain,meeting_only_uncertain,p13
+opengov:33430079,6,https://opengov.seoul.go.kr/expense/33430079,2025-04-03,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,310000,uncertain,meeting_only_uncertain,p13
+opengov:33382607,2,https://opengov.seoul.go.kr/expense/33382607,2025-04-08,seoul_office,도시기반시설본부 도시철도설비부,참숯골,서울 중구 무교로 16,156000,uncertain,meeting_only_uncertain,p13
+opengov:33383926,1,https://opengov.seoul.go.kr/expense/33383926,2025-04-08,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,200000,uncertain,meeting_only_uncertain,p13
+opengov:33392428,4,https://opengov.seoul.go.kr/expense/33392428,2025-04-09,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,84000,uncertain,meeting_only_uncertain,p13
+opengov:33404726,110,https://opengov.seoul.go.kr/expense/33404726,2025-04-10,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,156000,uncertain,meeting_only_uncertain,p13
+opengov:33416493,18,https://opengov.seoul.go.kr/expense/33416493,2025-04-11,seoul_council,의정담당관(의장실),참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:33392400,27,https://opengov.seoul.go.kr/expense/33392400,2025-04-16,seoul_city,디자인정책담당관,참숯골,서울 중구 무교로 16,93000,uncertain,meeting_only_uncertain,p13
+opengov:33417518,37,https://opengov.seoul.go.kr/expense/33417518,2025-04-16,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,72000,uncertain,meeting_only_uncertain,p13
+opengov:33406011,3,https://opengov.seoul.go.kr/expense/33406011,2025-04-17,seoul_office,도시기반시설본부 시설국 건축부,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:33429143,54,https://opengov.seoul.go.kr/expense/33429143,2025-04-17,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,140000,uncertain,meeting_only_uncertain,p13
+opengov:33430102,27,https://opengov.seoul.go.kr/expense/33430102,2025-04-17,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,360000,meal,explicit_meal_word,p13
+opengov:33383929,6,https://opengov.seoul.go.kr/expense/33383929,2025-04-18,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:33383881,14,https://opengov.seoul.go.kr/expense/33383881,2025-04-21,seoul_city,복지실 장애인자립지원과,참숯골,서울 중구 무교로 16,119000,uncertain,meeting_only_uncertain,p13
+opengov:33429130,10,https://opengov.seoul.go.kr/expense/33429130,2025-04-21,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:33383929,10,https://opengov.seoul.go.kr/expense/33383929,2025-04-25,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,105000,uncertain,meeting_only_uncertain,p13
+opengov:33404726,263,https://opengov.seoul.go.kr/expense/33404726,2025-04-25,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,80000,uncertain,meeting_only_uncertain,p13
+opengov:33404726,276,https://opengov.seoul.go.kr/expense/33404726,2025-04-28,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,101000,uncertain,meeting_only_uncertain,p13
+opengov:33417514,41,https://opengov.seoul.go.kr/expense/33417514,2025-04-30,seoul_city,정원도시국 정원도시정책과,참숯골,서울 중구 무교로 16,98000,uncertain,meeting_only_uncertain,p13
+opengov:33430079,47,https://opengov.seoul.go.kr/expense/33430079,2025-04-30,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,248000,meal,explicit_meal_word,p13
+opengov:33624119,3,https://opengov.seoul.go.kr/expense/33624119,2025-05-02,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,74000,uncertain,meeting_only_uncertain,p13
+opengov:33624318,10,https://opengov.seoul.go.kr/expense/33624318,2025-05-12,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,117000,uncertain,meeting_only_uncertain,p13
+opengov:33636146,14,https://opengov.seoul.go.kr/expense/33636146,2025-05-12,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,140000,uncertain,meeting_only_uncertain,p13
+opengov:33612364,10,https://opengov.seoul.go.kr/expense/33612364,2025-05-14,seoul_city,재무국 재무과,참숯골,서울 중구 무교로 16,94000,uncertain,meeting_only_uncertain,p13
+opengov:33634981,18,https://opengov.seoul.go.kr/expense/33634981,2025-05-14,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,185000,meal,explicit_meal_word,p13
+opengov:33598537,4,https://opengov.seoul.go.kr/expense/33598537,2025-05-16,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,155000,uncertain,meeting_only_uncertain,p13
+opengov:33600330,33,https://opengov.seoul.go.kr/expense/33600330,2025-05-16,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,32000,uncertain,meeting_only_uncertain,p13
+opengov:33636126,10,https://opengov.seoul.go.kr/expense/33636126,2025-05-16,seoul_council,의회사무처 의사담당관,참숯골,서울 중구 무교로 16,20000,uncertain,meeting_only_uncertain,p13
+opengov:33586934,18,https://opengov.seoul.go.kr/expense/33586934,2025-05-19,seoul_city,재난안전실 도로기획관 도로계획과,참숯골,서울 중구 무교로 16,58000,uncertain,meeting_only_uncertain,p13
+opengov:33598537,5,https://opengov.seoul.go.kr/expense/33598537,2025-05-19,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,72000,uncertain,meeting_only_uncertain,p13
+opengov:33600619,50,https://opengov.seoul.go.kr/expense/33600619,2025-05-19,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:33635000,10,https://opengov.seoul.go.kr/expense/33635000,2025-05-20,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:33586932,11,https://opengov.seoul.go.kr/expense/33586932,2025-05-21,seoul_city,물순환안전국 치수안전과,참숯골,서울 중구 무교로 16,51000,uncertain,no_explicit_meal_word,p13
+opengov:33624210,7,https://opengov.seoul.go.kr/expense/33624210,2025-05-21,seoul_city,행정국 평화기반조성과,참숯골,서울 중구 무교로 16,175000,uncertain,meeting_only_uncertain,p13
+opengov:33624130,183,https://opengov.seoul.go.kr/expense/33624130,2025-05-22,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,186000,uncertain,meeting_only_uncertain,p13
+opengov:33635004,3,https://opengov.seoul.go.kr/expense/33635004,2025-05-22,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:33636126,13,https://opengov.seoul.go.kr/expense/33636126,2025-05-22,seoul_council,의회사무처 의사담당관,참숯골,서울 중구 무교로 16,80000,uncertain,meeting_only_uncertain,p13
+opengov:33624102,10,https://opengov.seoul.go.kr/expense/33624102,2025-05-27,seoul_city,관광체육국 체육진흥과,참숯골,서울 중구 무교로 16,74000,uncertain,meeting_only_uncertain,p13
+opengov:33624130,221,https://opengov.seoul.go.kr/expense/33624130,2025-05-27,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,84000,uncertain,meeting_only_uncertain,p13
+opengov:33636126,18,https://opengov.seoul.go.kr/expense/33636126,2025-05-27,seoul_council,의회사무처 의사담당관,참숯골,서울 중구 무교로 16,127000,uncertain,meeting_only_uncertain,p13
+opengov:33600330,66,https://opengov.seoul.go.kr/expense/33600330,2025-05-30,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,42000,uncertain,meeting_only_uncertain,p13
+opengov:33790708,1,https://opengov.seoul.go.kr/expense/33790708,2025-06-04,seoul_city,비상기획관 민방위담당관,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:33868904,4,https://opengov.seoul.go.kr/expense/33868904,2025-06-04,seoul_city,시민건강국 보건의료정책과,참숯골,서울 중구 무교로 16,215000,uncertain,meeting_only_uncertain,p13
+opengov:33826560,2,https://opengov.seoul.go.kr/expense/33826560,2025-06-05,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,155000,uncertain,meeting_only_uncertain,p13
+opengov:33826572,6,https://opengov.seoul.go.kr/expense/33826572,2025-06-09,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,143000,uncertain,meeting_only_uncertain,p13
+opengov:33836851,7,https://opengov.seoul.go.kr/expense/33836851,2025-06-10,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,207000,meal,explicit_meal_word,p13
+opengov:33867833,2,https://opengov.seoul.go.kr/expense/33867833,2025-06-10,seoul_city,재난안전실 재난안전예방과,참숯골,서울 중구 무교로 16,49000,uncertain,meeting_only_uncertain,p13
+opengov:33825304,6,https://opengov.seoul.go.kr/expense/33825304,2025-06-11,seoul_city,복지실 돌봄복지과,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:33867837,7,https://opengov.seoul.go.kr/expense/33867837,2025-06-12,seoul_city,자치경찰위원회 자치경찰협력과,참숯골,서울 중구 무교로 16,61000,uncertain,meeting_only_uncertain,p13
+opengov:33867834,28,https://opengov.seoul.go.kr/expense/33867834,2025-06-18,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,50500,uncertain,meeting_only_uncertain,p13
+opengov:33826560,6,https://opengov.seoul.go.kr/expense/33826560,2025-06-20,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,142000,uncertain,meeting_only_uncertain,p13
+opengov:33867837,11,https://opengov.seoul.go.kr/expense/33867837,2025-06-23,seoul_city,자치경찰위원회 자치경찰협력과,참숯골,서울 중구 무교로 16,64000,uncertain,meeting_only_uncertain,p13
+opengov:33877271,12,https://opengov.seoul.go.kr/expense/33877271,2025-06-23,seoul_city,복지실 디딤돌소득과,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:33792086,23,https://opengov.seoul.go.kr/expense/33792086,2025-06-24,seoul_city,재난안전실 도로기획관 도로계획과,참숯골,서울 중구 무교로 16,174000,uncertain,meeting_only_uncertain,p13
+opengov:33826572,37,https://opengov.seoul.go.kr/expense/33826572,2025-06-24,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,161000,uncertain,meeting_only_uncertain,p13
+opengov:33847533,14,https://opengov.seoul.go.kr/expense/33847533,2025-06-25,seoul_city,행정국 인사과,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:33867841,23,https://opengov.seoul.go.kr/expense/33867841,2025-06-25,seoul_council,시의회사무처 의사담당관,참숯골,서울 중구 무교로 16,127000,uncertain,meeting_only_uncertain,p13
+opengov:33836851,31,https://opengov.seoul.go.kr/expense/33836851,2025-06-26,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,115000,meal,explicit_meal_word,p13
+opengov:33877271,14,https://opengov.seoul.go.kr/expense/33877271,2025-06-26,seoul_city,복지실 디딤돌소득과,참숯골,서울 중구 무교로 16,70000,uncertain,meeting_only_uncertain,p13
+opengov:34037605,1,https://opengov.seoul.go.kr/expense/34037605,2025-07-01,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:34077472,1,https://opengov.seoul.go.kr/expense/34077472,2025-07-01,seoul_city,글로벌도시정책관 국제협력담당관,참숯골,서울 중구 무교로 16,93000,uncertain,meeting_only_uncertain,p13
+opengov:34026235,2,https://opengov.seoul.go.kr/expense/34026235,2025-07-03,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,184000,uncertain,meeting_only_uncertain,p13
+opengov:34037571,3,https://opengov.seoul.go.kr/expense/34037571,2025-07-04,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,75000,uncertain,meeting_only_uncertain,p13
+opengov:34077470,8,https://opengov.seoul.go.kr/expense/34077470,2025-07-04,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,345000,meal,explicit_meal_word,p13
+opengov:34037571,4,https://opengov.seoul.go.kr/expense/34037571,2025-07-07,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34067539,20,https://opengov.seoul.go.kr/expense/34067539,2025-07-07,seoul_office,도시기반시설본부 총무부,참숯골,서울 중구 무교로 16,200000,uncertain,meeting_only_uncertain,p13
+opengov:34058153,3,https://opengov.seoul.go.kr/expense/34058153,2025-07-09,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,116000,uncertain,meeting_only_uncertain,p13
+opengov:34077510,51,https://opengov.seoul.go.kr/expense/34077510,2025-07-09,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34037571,6,https://opengov.seoul.go.kr/expense/34037571,2025-07-10,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,164000,uncertain,meeting_only_uncertain,p13
+opengov:34087190,19,https://opengov.seoul.go.kr/expense/34087190,2025-07-10,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,211000,uncertain,meeting_only_uncertain,p13
+opengov:34096978,5,https://opengov.seoul.go.kr/expense/34096978,2025-07-10,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34037571,7,https://opengov.seoul.go.kr/expense/34037571,2025-07-11,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,105000,uncertain,meeting_only_uncertain,p13
+opengov:34123773,5,https://opengov.seoul.go.kr/expense/34123773,2025-07-11,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,212000,uncertain,meeting_only_uncertain,p13
+opengov:34037571,8,https://opengov.seoul.go.kr/expense/34037571,2025-07-14,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,94000,uncertain,meeting_only_uncertain,p13
+opengov:34077510,90,https://opengov.seoul.go.kr/expense/34077510,2025-07-14,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,166000,uncertain,meeting_only_uncertain,p13
+opengov:34077520,61,https://opengov.seoul.go.kr/expense/34077520,2025-07-14,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:34087189,14,https://opengov.seoul.go.kr/expense/34087189,2025-07-14,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,240000,meal,explicit_meal_word,p13
+opengov:34026235,6,https://opengov.seoul.go.kr/expense/34026235,2025-07-16,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,185000,uncertain,meeting_only_uncertain,p13
+opengov:34016223,6,https://opengov.seoul.go.kr/expense/34016223,2025-07-17,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,91000,uncertain,meeting_only_uncertain,p13
+opengov:34067537,50,https://opengov.seoul.go.kr/expense/34067537,2025-07-17,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,214000,uncertain,meeting_only_uncertain,p13
+opengov:34067537,55,https://opengov.seoul.go.kr/expense/34067537,2025-07-18,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,216000,uncertain,meeting_only_uncertain,p13
+opengov:34037437,1,https://opengov.seoul.go.kr/expense/34037437,2025-07-21,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:34077510,149,https://opengov.seoul.go.kr/expense/34077510,2025-07-21,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,232000,uncertain,meeting_only_uncertain,p13
+opengov:34087189,26,https://opengov.seoul.go.kr/expense/34087189,2025-07-21,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:34049248,19,https://opengov.seoul.go.kr/expense/34049248,2025-07-22,seoul_city,관광체육국 체육정책과,참숯골,서울 중구 무교로 16,116000,uncertain,meeting_only_uncertain,p13
+opengov:34058176,33,https://opengov.seoul.go.kr/expense/34058176,2025-07-22,seoul_city,민생노동국 소상공인정책과,참숯골,서울 중구 무교로 16,94000,uncertain,meeting_only_uncertain,p13
+opengov:34037594,19,https://opengov.seoul.go.kr/expense/34037594,2025-07-23,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,95000,uncertain,meeting_only_uncertain,p13
+opengov:34049249,30,https://opengov.seoul.go.kr/expense/34049249,2025-07-28,seoul_office,은평병원 원무과,참숯골,서울 중구 무교로 16,72000,uncertain,meeting_only_uncertain,p13
+opengov:34037571,11,https://opengov.seoul.go.kr/expense/34037571,2025-07-29,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,104000,uncertain,meeting_only_uncertain,p13
+opengov:34123773,38,https://opengov.seoul.go.kr/expense/34123773,2025-07-29,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34067500,11,https://opengov.seoul.go.kr/expense/34067500,2025-07-30,seoul_city,디자인정책관 도시경관담당관,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:34220928,5,https://opengov.seoul.go.kr/expense/34220928,2025-08-07,seoul_council,운영전문위원실,참숯골,서울 중구 무교로 16,157000,uncertain,meeting_only_uncertain,p13
+opengov:34266475,10,https://opengov.seoul.go.kr/expense/34266475,2025-08-13,seoul_city,물순환안전국 물재생시설과,참숯골,서울 중구 무교로 16,64000,uncertain,meeting_only_uncertain,p13
+opengov:34277795,7,https://opengov.seoul.go.kr/expense/34277795,2025-08-13,seoul_city,시민건강국 공공의료과,참숯골,서울 중구 무교로 16,163000,meal,explicit_meal_word,p13
+opengov:34243915,7,https://opengov.seoul.go.kr/expense/34243915,2025-08-14,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,125000,uncertain,meeting_only_uncertain,p13
+opengov:34232742,30,https://opengov.seoul.go.kr/expense/34232742,2025-08-20,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,162000,uncertain,meeting_only_uncertain,p13
+opengov:34243915,15,https://opengov.seoul.go.kr/expense/34243915,2025-08-22,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,95000,uncertain,meeting_only_uncertain,p13
+opengov:34257445,10,https://opengov.seoul.go.kr/expense/34257445,2025-08-25,seoul_city,행정국 대외협력과,참숯골,서울 중구 무교로 16,70000,uncertain,meeting_only_uncertain,p13
+opengov:34298517,22,https://opengov.seoul.go.kr/expense/34298517,2025-08-25,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,51000,uncertain,meeting_only_uncertain,p13
+opengov:34299643,38,https://opengov.seoul.go.kr/expense/34299643,2025-08-25,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,148000,uncertain,meeting_only_uncertain,p13
+opengov:34299643,44,https://opengov.seoul.go.kr/expense/34299643,2025-08-26,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,30000,uncertain,meeting_only_uncertain,p13
+opengov:34221065,10,https://opengov.seoul.go.kr/expense/34221065,2025-08-27,seoul_city,문화본부 문화예술과,참숯골,서울 중구 무교로 16,42000,uncertain,meeting_only_uncertain,p13
+opengov:34232742,38,https://opengov.seoul.go.kr/expense/34232742,2025-08-27,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,143000,uncertain,meeting_only_uncertain,p13
+opengov:34233942,12,https://opengov.seoul.go.kr/expense/34233942,2025-08-27,seoul_city,기후환경본부 친환경차량과,참숯골,서울 중구 무교로 16,34000,uncertain,meeting_only_uncertain,p13
+opengov:34245182,45,https://opengov.seoul.go.kr/expense/34245182,2025-08-29,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,48000,uncertain,meeting_only_uncertain,p13
+opengov:34467232,1,https://opengov.seoul.go.kr/expense/34467232,2025-09-01,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,167000,uncertain,meeting_only_uncertain,p13
+opengov:34454112,2,https://opengov.seoul.go.kr/expense/34454112,2025-09-02,seoul_council,의정국 언론홍보과,참숯골,서울 중구 무교로 16,123000,uncertain,meeting_only_uncertain,p13
+opengov:34467232,4,https://opengov.seoul.go.kr/expense/34467232,2025-09-03,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:34467188,13,https://opengov.seoul.go.kr/expense/34467188,2025-09-04,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:34467230,1,https://opengov.seoul.go.kr/expense/34467230,2025-09-04,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,73000,uncertain,meeting_only_uncertain,p13
+opengov:34467230,3,https://opengov.seoul.go.kr/expense/34467230,2025-09-05,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,85000,uncertain,meeting_only_uncertain,p13
+opengov:34454143,5,https://opengov.seoul.go.kr/expense/34454143,2025-09-08,seoul_city,기획조정실 창의규제담당관,참숯골,서울 중구 무교로 16,121000,uncertain,meeting_only_uncertain,p13
+opengov:34669097,5,https://opengov.seoul.go.kr/expense/34669097,2025-09-08,seoul_city,여성가족실 아동담당관,참숯골,서울 중구 무교로 16,98000,uncertain,meeting_only_uncertain,p13
+opengov:34467170,7,https://opengov.seoul.go.kr/expense/34467170,2025-09-12,seoul_office,서북병원 진료부,참숯골,서울 중구 무교로 16,56000,uncertain,meeting_only_uncertain,p13
+opengov:34484002,73,https://opengov.seoul.go.kr/expense/34484002,2025-09-17,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,450000,uncertain,meeting_only_uncertain,p13
+opengov:34483820,27,https://opengov.seoul.go.kr/expense/34483820,2025-09-18,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,386000,uncertain,meeting_only_uncertain,p13
+opengov:34484002,78,https://opengov.seoul.go.kr/expense/34484002,2025-09-18,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,252000,uncertain,meeting_only_uncertain,p13
+opengov:34454112,18,https://opengov.seoul.go.kr/expense/34454112,2025-09-19,seoul_council,의정국 언론홍보과,참숯골,서울 중구 무교로 16,121000,uncertain,meeting_only_uncertain,p13
+opengov:34495706,28,https://opengov.seoul.go.kr/expense/34495706,2025-09-19,seoul_city,기획조정실 정책기획관 조직담당관,참숯골,서울 중구 무교로 16,184000,uncertain,meeting_only_uncertain,p13
+opengov:34452829,9,https://opengov.seoul.go.kr/expense/34452829,2025-09-22,seoul_city,건설기술정책관 지역건축안전센터,참숯골,서울 중구 무교로 16,72000,uncertain,meeting_only_uncertain,p13
+opengov:34465655,33,https://opengov.seoul.go.kr/expense/34465655,2025-09-26,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34467230,8,https://opengov.seoul.go.kr/expense/34467230,2025-09-26,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,85000,uncertain,meeting_only_uncertain,p13
+opengov:34711173,2,https://opengov.seoul.go.kr/expense/34711173,2025-10-01,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,213000,meal,explicit_meal_word,p13
+opengov:34690047,2,https://opengov.seoul.go.kr/expense/34690047,2025-10-02,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,85000,uncertain,meeting_only_uncertain,p13
+opengov:34711325,2,https://opengov.seoul.go.kr/expense/34711325,2025-10-02,seoul_city,복지실 고독대응과,참숯골,서울 중구 무교로 16,93000,uncertain,meeting_only_uncertain,p13
+opengov:34680972,5,https://opengov.seoul.go.kr/expense/34680972,2025-10-10,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,400000,uncertain,meeting_only_uncertain,p13
+opengov:34690029,3,https://opengov.seoul.go.kr/expense/34690029,2025-10-10,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34669120,4,https://opengov.seoul.go.kr/expense/34669120,2025-10-13,seoul_city,복지실 디딤돌소득과,참숯골,서울 중구 무교로 16,50000,uncertain,meeting_only_uncertain,p13
+opengov:34701384,82,https://opengov.seoul.go.kr/expense/34701384,2025-10-16,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,193000,uncertain,meeting_only_uncertain,p13
+opengov:34711200,19,https://opengov.seoul.go.kr/expense/34711200,2025-10-17,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,72000,uncertain,meeting_only_uncertain,p13
+opengov:34655493,9,https://opengov.seoul.go.kr/expense/34655493,2025-10-22,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:34691335,7,https://opengov.seoul.go.kr/expense/34691335,2025-10-23,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34701384,190,https://opengov.seoul.go.kr/expense/34701384,2025-10-28,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,178000,uncertain,meeting_only_uncertain,p13
+opengov:34711309,6,https://opengov.seoul.go.kr/expense/34711309,2025-10-28,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,72000,uncertain,meeting_only_uncertain,p13
+opengov:34655618,14,https://opengov.seoul.go.kr/expense/34655618,2025-10-30,seoul_office,강서도로사업소 관리단속과,참숯골,서울 중구 무교로 16,93000,uncertain,meeting_only_uncertain,p13
+opengov:34669128,82,https://opengov.seoul.go.kr/expense/34669128,2025-10-30,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,144000,uncertain,meeting_only_uncertain,p13
+opengov:34690047,14,https://opengov.seoul.go.kr/expense/34690047,2025-10-31,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,165000,uncertain,meeting_only_uncertain,p13
+opengov:34710683,11,https://opengov.seoul.go.kr/expense/34710683,2025-10-31,seoul_city,기획조정실 법률지원담당관,참숯골,서울 중구 무교로 16,200000,uncertain,meeting_only_uncertain,p13
+opengov:34952051,2,https://opengov.seoul.go.kr/expense/34952051,2025-11-03,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,31000,uncertain,meeting_only_uncertain,p13
+opengov:34963727,2,https://opengov.seoul.go.kr/expense/34963727,2025-11-03,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,30000,uncertain,meeting_only_uncertain,p13
+opengov:34904043,4,https://opengov.seoul.go.kr/expense/34904043,2025-11-04,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,164000,uncertain,meeting_only_uncertain,p13
+opengov:34938415,4,https://opengov.seoul.go.kr/expense/34938415,2025-11-05,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,240000,uncertain,meeting_only_uncertain,p13
+opengov:34889823,8,https://opengov.seoul.go.kr/expense/34889823,2025-11-07,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,76500,uncertain,meeting_only_uncertain,p13
+opengov:34938415,7,https://opengov.seoul.go.kr/expense/34938415,2025-11-07,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,32000,uncertain,meeting_only_uncertain,p13
+opengov:34952051,66,https://opengov.seoul.go.kr/expense/34952051,2025-11-10,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,88000,uncertain,meeting_only_uncertain,p13
+opengov:34963727,20,https://opengov.seoul.go.kr/expense/34963727,2025-11-11,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,37000,uncertain,meeting_only_uncertain,p13
+opengov:35166171,2,https://opengov.seoul.go.kr/expense/35166171,2025-11-12,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,30000,uncertain,meeting_only_uncertain,p13
+opengov:34891341,35,https://opengov.seoul.go.kr/expense/34891341,2025-11-13,seoul_city,기획조정실 기획담당관,참숯골,서울 중구 무교로 16,94000,uncertain,meeting_only_uncertain,p13
+opengov:34876530,10,https://opengov.seoul.go.kr/expense/34876530,2025-11-17,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:34915136,7,https://opengov.seoul.go.kr/expense/34915136,2025-11-20,seoul_city,재난안전실 교량안전과,참숯골,서울 중구 무교로 16,96000,uncertain,meeting_only_uncertain,p13
+opengov:34926686,13,https://opengov.seoul.go.kr/expense/34926686,2025-11-20,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:34939510,37,https://opengov.seoul.go.kr/expense/34939510,2025-11-21,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,349000,meal,explicit_meal_word,p13
+opengov:34889815,57,https://opengov.seoul.go.kr/expense/34889815,2025-11-24,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:34876530,16,https://opengov.seoul.go.kr/expense/34876530,2025-11-25,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:34926686,16,https://opengov.seoul.go.kr/expense/34926686,2025-11-25,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,107000,uncertain,meeting_only_uncertain,p13
+opengov:34973593,39,https://opengov.seoul.go.kr/expense/34973593,2025-11-25,seoul_city,도시외교담당관,참숯골,서울 중구 무교로 16,95000,uncertain,meeting_only_uncertain,p13
+opengov:34926686,18,https://opengov.seoul.go.kr/expense/34926686,2025-11-26,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,147500,uncertain,meeting_only_uncertain,p13
+opengov:34952051,223,https://opengov.seoul.go.kr/expense/34952051,2025-11-26,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,142000,uncertain,meeting_only_uncertain,p13
+opengov:34902477,12,https://opengov.seoul.go.kr/expense/34902477,2025-11-27,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,160000,uncertain,meeting_only_uncertain,p13
+opengov:34950548,10,https://opengov.seoul.go.kr/expense/34950548,2025-11-28,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,81000,uncertain,meeting_only_uncertain,p13
+opengov:35196497,4,https://opengov.seoul.go.kr/expense/35196497,2025-12-02,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,130500,uncertain,meeting_only_uncertain,p13
+opengov:35197509,3,https://opengov.seoul.go.kr/expense/35197509,2025-12-02,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,184000,meal,explicit_meal_word,p13
+opengov:35240417,1,https://opengov.seoul.go.kr/expense/35240417,2025-12-02,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,139000,uncertain,meeting_only_uncertain,p13
+opengov:35205486,6,https://opengov.seoul.go.kr/expense/35205486,2025-12-03,seoul_city,기획조정실 창의규제담당관,참숯골,서울 중구 무교로 16,98000,uncertain,meeting_only_uncertain,p13
+opengov:35167213,6,https://opengov.seoul.go.kr/expense/35167213,2025-12-08,seoul_city,문화본부 문화예술과,참숯골,서울 중구 무교로 16,79000,uncertain,meeting_only_uncertain,p13
+opengov:35177679,5,https://opengov.seoul.go.kr/expense/35177679,2025-12-08,seoul_city,홍보기획관 서울브랜드담당관,참숯골,서울 중구 무교로 16,169000,uncertain,meeting_only_uncertain,p13
+opengov:35196497,15,https://opengov.seoul.go.kr/expense/35196497,2025-12-09,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,65500,uncertain,meeting_only_uncertain,p13
+opengov:35111762,2,https://opengov.seoul.go.kr/expense/35111762,2025-12-11,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,160000,uncertain,meeting_only_uncertain,p13
+opengov:35196497,19,https://opengov.seoul.go.kr/expense/35196497,2025-12-11,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,96000,uncertain,meeting_only_uncertain,p13
+opengov:35196497,21,https://opengov.seoul.go.kr/expense/35196497,2025-12-12,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:35177671,149,https://opengov.seoul.go.kr/expense/35177671,2025-12-15,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,167000,uncertain,meeting_only_uncertain,p13
+opengov:35196497,22,https://opengov.seoul.go.kr/expense/35196497,2025-12-15,seoul_city,기획조정실 공기업담당관,참숯골,서울 중구 무교로 16,152000,uncertain,meeting_only_uncertain,p13
+opengov:35214377,28,https://opengov.seoul.go.kr/expense/35214377,2025-12-16,seoul_city,홍보기획관 홍보담당관,참숯골,서울 중구 무교로 16,118000,uncertain,meeting_only_uncertain,p13
+opengov:35167235,28,https://opengov.seoul.go.kr/expense/35167235,2025-12-17,seoul_city,정원도시국 정원도시정책과,참숯골,서울 중구 무교로 16,125000,uncertain,meeting_only_uncertain,p13
+opengov:35177671,193,https://opengov.seoul.go.kr/expense/35177671,2025-12-18,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,360000,uncertain,meeting_only_uncertain,p13
+opengov:35177671,231,https://opengov.seoul.go.kr/expense/35177671,2025-12-23,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,160000,uncertain,meeting_only_uncertain,p13
+opengov:35205483,37,https://opengov.seoul.go.kr/expense/35205483,2025-12-23,seoul_city,외국인이민담당관,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:35240417,21,https://opengov.seoul.go.kr/expense/35240417,2025-12-23,seoul_city,디자인정책관 디자인산업담당관,참숯골,서울 중구 무교로 16,119000,uncertain,meeting_only_uncertain,p13
+opengov:35205478,40,https://opengov.seoul.go.kr/expense/35205478,2025-12-26,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:35157875,11,https://opengov.seoul.go.kr/expense/35157875,2025-12-30,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,94500,uncertain,meeting_only_uncertain,p13
+opengov:35166172,17,https://opengov.seoul.go.kr/expense/35166172,2025-12-30,seoul_city,시민건강국 정신건강과,참숯골,서울 중구 무교로 16,250600,meal,explicit_meal_word,p13
+opengov:35196490,17,https://opengov.seoul.go.kr/expense/35196490,2025-12-30,seoul_city,문화본부 문화유산보존과,참숯골,서울 중구 무교로 16,172000,uncertain,meeting_only_uncertain,p13
+opengov:35204422,35,https://opengov.seoul.go.kr/expense/35204422,2025-12-30,seoul_city,기획조정실 정책기획관 조직담당관,참숯골,서울 중구 무교로 16,131000,uncertain,meeting_only_uncertain,p13
+opengov:35357577,1,https://opengov.seoul.go.kr/expense/35357577,2026-01-02,seoul_city,재난안전실 교량안전과,참숯골,서울 중구 무교로 16,195000,uncertain,meeting_only_uncertain,p13
+opengov:35421566,2,https://opengov.seoul.go.kr/expense/35421566,2026-01-05,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,116000,uncertain,meeting_only_uncertain,p13
+opengov:35421566,3,https://opengov.seoul.go.kr/expense/35421566,2026-01-05,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,165000,uncertain,meeting_only_uncertain,p13
+opengov:35434650,3,https://opengov.seoul.go.kr/expense/35434650,2026-01-05,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,116000,uncertain,meeting_only_uncertain,p13
+opengov:35380371,2,https://opengov.seoul.go.kr/expense/35380371,2026-01-06,seoul_city,기획조정실 창의규제담당관,참숯골,서울 중구 무교로 16,138000,uncertain,meeting_only_uncertain,p13
+opengov:35398244,4,https://opengov.seoul.go.kr/expense/35398244,2026-01-06,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,460000,uncertain,meeting_only_uncertain,p13
+opengov:35420389,4,https://opengov.seoul.go.kr/expense/35420389,2026-01-07,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,280000,uncertain,meeting_only_uncertain,p13
+opengov:35388719,5,https://opengov.seoul.go.kr/expense/35388719,2026-01-12,seoul_city,여성가족실 가족담당관,참숯골,서울 중구 무교로 16,188000,uncertain,meeting_only_uncertain,p13
+opengov:35420384,4,https://opengov.seoul.go.kr/expense/35420384,2026-01-15,seoul_office,동부도로사업소 관리단속과,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:35398244,27,https://opengov.seoul.go.kr/expense/35398244,2026-01-19,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,169000,uncertain,meeting_only_uncertain,p13
+opengov:35346220,6,https://opengov.seoul.go.kr/expense/35346220,2026-01-20,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,230000,uncertain,meeting_only_uncertain,p13
+opengov:35421566,24,https://opengov.seoul.go.kr/expense/35421566,2026-01-20,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,98000,uncertain,meeting_only_uncertain,p13
+opengov:35378916,5,https://opengov.seoul.go.kr/expense/35378916,2026-01-21,seoul_city,시민건강국 스마트건강과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:35398212,31,https://opengov.seoul.go.kr/expense/35398212,2026-01-22,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,97000,uncertain,meeting_only_uncertain,p13
+opengov:35420373,26,https://opengov.seoul.go.kr/expense/35420373,2026-01-22,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:35421579,10,https://opengov.seoul.go.kr/expense/35421579,2026-01-22,seoul_city,미래공간기획관 용산입체도시담당관,참숯골,서울 중구 무교로 16,82000,uncertain,meeting_only_uncertain,p13
+opengov:35357555,7,https://opengov.seoul.go.kr/expense/35357555,2026-01-27,seoul_city,시민건강국 식품정책과,참숯골,서울 중구 무교로 16,95000,uncertain,meeting_only_uncertain,p13
+opengov:35398243,58,https://opengov.seoul.go.kr/expense/35398243,2026-01-28,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,95000,uncertain,meeting_only_uncertain,p13
+opengov:35398221,226,https://opengov.seoul.go.kr/expense/35398221,2026-01-29,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:35410266,11,https://opengov.seoul.go.kr/expense/35410266,2026-01-29,seoul_city,관광체육국 체육진흥과,참숯골,서울 중구 무교로 16,299000,uncertain,meeting_only_uncertain,p13
+opengov:35421566,37,https://opengov.seoul.go.kr/expense/35421566,2026-01-29,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:35595078,1,https://opengov.seoul.go.kr/expense/35595078,2026-02-02,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:35547926,4,https://opengov.seoul.go.kr/expense/35547926,2026-02-03,seoul_city,도시공간본부 도시공간전략과,참숯골,서울 중구 무교로 16,198000,uncertain,meeting_only_uncertain,p13
+opengov:35547894,1,https://opengov.seoul.go.kr/expense/35547894,2026-02-04,seoul_city,미래청년기획관 청년사업담당관,참숯골,서울 중구 무교로 16,96000,uncertain,meeting_only_uncertain,p13
+opengov:35559486,3,https://opengov.seoul.go.kr/expense/35559486,2026-02-06,seoul_city,미래공간기획관 미래공간담당관,참숯골,서울 중구 무교로 16,117000,uncertain,meeting_only_uncertain,p13
+opengov:35581596,2,https://opengov.seoul.go.kr/expense/35581596,2026-02-10,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:35605725,18,https://opengov.seoul.go.kr/expense/35605725,2026-02-12,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,163000,uncertain,meeting_only_uncertain,p13
+opengov:35559469,5,https://opengov.seoul.go.kr/expense/35559469,2026-02-19,seoul_city,여성가족실 아동담당관,참숯골,서울 중구 무교로 16,30000,uncertain,meeting_only_uncertain,p13
+opengov:35605715,32,https://opengov.seoul.go.kr/expense/35605715,2026-02-19,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:35605738,147,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,171000,uncertain,meeting_only_uncertain,p13
+opengov:35605738,150,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,134000,uncertain,meeting_only_uncertain,p13
+opengov:35606788,83,https://opengov.seoul.go.kr/expense/35606788,2026-02-23,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,83000,uncertain,meeting_only_uncertain,p13
+opengov:35547876,2,https://opengov.seoul.go.kr/expense/35547876,2026-02-24,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:35606788,95,https://opengov.seoul.go.kr/expense/35606788,2026-02-25,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,167000,uncertain,meeting_only_uncertain,p13
+opengov:35571123,16,https://opengov.seoul.go.kr/expense/35571123,2026-02-27,seoul_city,정원도시국 공원조성과,참숯골,서울 중구 무교로 16,81000,uncertain,meeting_only_uncertain,p13
+opengov:35812084,7,https://opengov.seoul.go.kr/expense/35812084,2026-03-05,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,325000,uncertain,meeting_only_uncertain,p13
+opengov:35812214,5,https://opengov.seoul.go.kr/expense/35812214,2026-03-05,seoul_city,주거정비과,참숯골,서울 중구 무교로 16,256000,uncertain,meeting_only_uncertain,p13
+opengov:35876286,2,https://opengov.seoul.go.kr/expense/35876286,2026-03-05,seoul_council,의정국 의사과,참숯골,서울 중구 무교로 16,167000,uncertain,meeting_only_uncertain,p13
+opengov:35824078,3,https://opengov.seoul.go.kr/expense/35824078,2026-03-09,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,48000,uncertain,meeting_only_uncertain,p13
+opengov:35834086,50,https://opengov.seoul.go.kr/expense/35834086,2026-03-09,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,142000,uncertain,meeting_only_uncertain,p13
+opengov:35845468,6,https://opengov.seoul.go.kr/expense/35845468,2026-03-10,seoul_office,정원도시국 중부공원여가센터 공원운영과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:35834100,21,https://opengov.seoul.go.kr/expense/35834100,2026-03-12,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,26500,uncertain,meeting_only_uncertain,p13
+opengov:35855664,5,https://opengov.seoul.go.kr/expense/35855664,2026-03-12,seoul_city,재난안전실 중대재해예방과,참숯골,서울 중구 무교로 16,33000,uncertain,meeting_only_uncertain,p13
+opengov:35855699,42,https://opengov.seoul.go.kr/expense/35855699,2026-03-12,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,87000,uncertain,meeting_only_uncertain,p13
+opengov:35834086,112,https://opengov.seoul.go.kr/expense/35834086,2026-03-17,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,84000,uncertain,meeting_only_uncertain,p13
+opengov:35824118,16,https://opengov.seoul.go.kr/expense/35824118,2026-03-18,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,200000,uncertain,meeting_only_uncertain,p13
+opengov:35845460,53,https://opengov.seoul.go.kr/expense/35845460,2026-03-19,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,89500,uncertain,meeting_only_uncertain,p13
+opengov:35865973,7,https://opengov.seoul.go.kr/expense/35865973,2026-03-19,seoul_city,미래공간기획관 용산입체도시담당관,참숯골,서울 중구 무교로 16,78000,uncertain,meeting_only_uncertain,p13
+opengov:35799961,8,https://opengov.seoul.go.kr/expense/35799961,2026-03-23,seoul_city,복지실 1인가구지원과,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:35834086,189,https://opengov.seoul.go.kr/expense/35834086,2026-03-24,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,164000,uncertain,meeting_only_uncertain,p13
+opengov:35834100,57,https://opengov.seoul.go.kr/expense/35834100,2026-03-24,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,116000,uncertain,meeting_only_uncertain,p13
+opengov:35835449,92,https://opengov.seoul.go.kr/expense/35835449,2026-03-25,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:36059171,1,https://opengov.seoul.go.kr/expense/36059171,2026-04-01,seoul_city,정무부시장실,참숯골,서울 중구 무교로 16,48000,uncertain,meeting_only_uncertain,p13
+opengov:36037100,1,https://opengov.seoul.go.kr/expense/36037100,2026-04-03,seoul_office,정원도시국 중부공원여가센터 공원운영과,참숯골,서울 중구 무교로 16,166000,uncertain,meeting_only_uncertain,p13
+opengov:36024957,10,https://opengov.seoul.go.kr/expense/36024957,2026-04-07,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,86000,uncertain,meeting_only_uncertain,p13
+opengov:36047152,6,https://opengov.seoul.go.kr/expense/36047152,2026-04-08,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,참숯골,서울 중구 무교로 16,63000,uncertain,meeting_only_uncertain,p13
+opengov:36058328,87,https://opengov.seoul.go.kr/expense/36058328,2026-04-09,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,192000,uncertain,meeting_only_uncertain,p13
+opengov:36042193,31,https://opengov.seoul.go.kr/expense/36042193,2026-04-10,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,96000,uncertain,meeting_only_uncertain,p13
+opengov:36026846,22,https://opengov.seoul.go.kr/expense/36026846,2026-04-14,seoul_city,시민건강국 보건의료정책과,참숯골,서울 중구 무교로 16,186000,uncertain,meeting_only_uncertain,p13
+opengov:36024958,28,https://opengov.seoul.go.kr/expense/36024958,2026-04-15,seoul_city,여성가족실 저출생담당관,참숯골,서울 중구 무교로 16,91000,uncertain,meeting_only_uncertain,p13
+opengov:36058328,175,https://opengov.seoul.go.kr/expense/36058328,2026-04-20,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:36012986,30,https://opengov.seoul.go.kr/expense/36012986,2026-04-22,seoul_city,물순환안전국 수변감성도시과,참숯골,서울 중구 무교로 16,45000,uncertain,meeting_only_uncertain,p13
+opengov:36037066,7,https://opengov.seoul.go.kr/expense/36037066,2026-04-22,seoul_city,경제실 금융투자과,참숯골,서울 중구 무교로 16,48000,uncertain,meeting_only_uncertain,p13
+opengov:36037114,17,https://opengov.seoul.go.kr/expense/36037114,2026-04-22,seoul_council,운영전문위원실,참숯골,서울 중구 무교로 16,124000,uncertain,meeting_only_uncertain,p13
+opengov:36058328,201,https://opengov.seoul.go.kr/expense/36058328,2026-04-22,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,192000,uncertain,meeting_only_uncertain,p13
+opengov:36013019,10,https://opengov.seoul.go.kr/expense/36013019,2026-04-24,seoul_city,균형발전본부 광화문광장사업과,참숯골,서울 중구 무교로 16,60000,uncertain,meeting_only_uncertain,p13
+opengov:36059179,21,https://opengov.seoul.go.kr/expense/36059179,2026-04-24,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,184000,uncertain,meeting_only_uncertain,p13
+opengov:36214403,4,https://opengov.seoul.go.kr/expense/36214403,2026-05-08,seoul_city,디자인정책관 디자인정책담당관,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:36261043,10,https://opengov.seoul.go.kr/expense/36261043,2026-05-15,seoul_city,기획조정실 예산담당관,참숯골,서울 중구 무교로 16,70000,uncertain,meeting_only_uncertain,p13
+opengov:36202435,19,https://opengov.seoul.go.kr/expense/36202435,2026-05-19,seoul_city,물순환안전국 수변감성도시과,참숯골,서울 중구 무교로 16,100000,uncertain,meeting_only_uncertain,p13
+opengov:36414577,12,https://opengov.seoul.go.kr/expense/36414577,2026-05-27,seoul_city,재난안전실 도로기획관 도로시설과,참숯골,서울 중구 무교로 16,46000,uncertain,meeting_only_uncertain,p13
+opengov:36512446,1,https://opengov.seoul.go.kr/expense/36512446,2026-06-01,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,184000,meal,explicit_meal_word,p13
+opengov:36492733,24,https://opengov.seoul.go.kr/expense/36492733,2026-06-08,seoul_council,운영지원과,참숯골,서울 중구 무교로 16,89500,uncertain,meeting_only_uncertain,p13
+opengov:36449891,4,https://opengov.seoul.go.kr/expense/36449891,2026-06-11,seoul_city,시민건강국 건강관리과,참숯골,서울 중구 무교로 16,115000,uncertain,meeting_only_uncertain,p13
+opengov:36414586,9,https://opengov.seoul.go.kr/expense/36414586,2026-06-12,seoul_council,의정국 의사과,참숯골,서울 중구 무교로 16,117000,uncertain,meeting_only_uncertain,p13
+opengov:36438873,21,https://opengov.seoul.go.kr/expense/36438873,2026-06-15,seoul_city,관광체육국 관광정책과,참숯골,서울 중구 무교로 16,119000,uncertain,meeting_only_uncertain,p13
+opengov:36492736,33,https://opengov.seoul.go.kr/expense/36492736,2026-06-17,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,172000,uncertain,meeting_only_uncertain,p13
+opengov:36438873,33,https://opengov.seoul.go.kr/expense/36438873,2026-06-19,seoul_city,관광체육국 관광정책과,참숯골,서울 중구 무교로 16,89000,uncertain,meeting_only_uncertain,p13
+opengov:36501216,59,https://opengov.seoul.go.kr/expense/36501216,2026-06-19,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,48000,uncertain,meeting_only_uncertain,p13
+opengov:36512446,37,https://opengov.seoul.go.kr/expense/36512446,2026-06-19,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,100000,uncertain,meeting_only_uncertain,p13
+opengov:36413373,3,https://opengov.seoul.go.kr/expense/36413373,2026-06-24,seoul_office,도시기반시설본부 시설국 안전관리과,참숯골,서울 중구 무교로 16,150000,uncertain,meeting_only_uncertain,p13
+opengov:36533635,117,https://opengov.seoul.go.kr/expense/36533635,2026-06-26,seoul_city,대변인 언론담당관,참숯골,서울 중구 무교로 16,195000,uncertain,meeting_only_uncertain,p13
+opengov:36427695,19,https://opengov.seoul.go.kr/expense/36427695,2026-06-30,seoul_city,시민건강국 식품정책과,참숯골,서울 중구 무교로 16,45000,uncertain,meeting_only_uncertain,p13
+opengov:36654894,1,https://opengov.seoul.go.kr/expense/36654894,2026-07-01,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,230000,uncertain,meeting_only_uncertain,p13
+opengov:36697260,1,https://opengov.seoul.go.kr/expense/36697260,2026-07-01,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,140000,uncertain,meeting_only_uncertain,p13
+opengov:36687844,1,https://opengov.seoul.go.kr/expense/36687844,2026-07-02,seoul_city,디지털도시국 디지털정책과,참숯골,서울 중구 무교로 16,92000,meal,explicit_meal_word,p13
+opengov:36707715,2,https://opengov.seoul.go.kr/expense/36707715,2026-07-02,seoul_city,미래청년기획관 청년정책담당관,참숯골,서울 중구 무교로 16,134000,uncertain,meeting_only_uncertain,p13
+opengov:36697259,19,https://opengov.seoul.go.kr/expense/36697259,2026-07-07,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,437000,uncertain,meeting_only_uncertain,p13
+opengov:36707487,18,https://opengov.seoul.go.kr/expense/36707487,2026-07-09,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,96000,uncertain,meeting_only_uncertain,p13
+opengov:36707487,28,https://opengov.seoul.go.kr/expense/36707487,2026-07-15,seoul_city,행정1부시장실,참숯골,서울 중구 무교로 16,161000,uncertain,meeting_only_uncertain,p13
+opengov:36697260,26,https://opengov.seoul.go.kr/expense/36697260,2026-07-20,seoul_city,행정2부시장실,참숯골,서울 중구 무교로 16,280000,uncertain,meeting_only_uncertain,p13
+opengov:36697311,36,https://opengov.seoul.go.kr/expense/36697311,2026-07-23,seoul_city,물순환안전국 수변감성도시과,참숯골,서울 중구 무교로 16,70000,uncertain,meeting_only_uncertain,p13
+opengov:36655910,28,https://opengov.seoul.go.kr/expense/36655910,2026-07-27,seoul_city,기획조정실 조직담당관,참숯골,서울 중구 무교로 16,65500,uncertain,meeting_only_uncertain,p13
+opengov:36697259,59,https://opengov.seoul.go.kr/expense/36697259,2026-07-28,seoul_city,재난안전실 재난안전정책과,참숯골,서울 중구 무교로 16,201000,uncertain,meeting_only_uncertain,p13
+opengov:36668085,13,https://opengov.seoul.go.kr/expense/36668085,2026-07-29,seoul_city,글로벌도시정책관 다문화담당관,참숯골,서울 중구 무교로 16,69000,uncertain,meeting_only_uncertain,p13
+opengov:36706844,201,https://opengov.seoul.go.kr/expense/36706844,2026-07-31,seoul_city,행정국 총무과,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:36707751,40,https://opengov.seoul.go.kr/expense/36707751,2026-07-31,seoul_city,글로벌도시정책관 외국인이민담당관,참숯골,서울 중구 무교로 16,120000,uncertain,meeting_only_uncertain,p13
+opengov:36869660,9,https://opengov.seoul.go.kr/expense/36869660,2026-08-13,seoul_city,글로벌도시정책관 다문화담당관,참숯골,서울 중구 무교로 16,145000,uncertain,meeting_only_uncertain,p13
+opengov:36844670,5,https://opengov.seoul.go.kr/expense/36844670,2026-08-24,seoul_city,재난안전실 재난상황관리과,참숯골,서울 중구 무교로 16,92000,uncertain,meeting_only_uncertain,p13
+opengov:36868555,12,https://opengov.seoul.go.kr/expense/36868555,2026-08-28,seoul_city,디지털도시국 정보시스템과,참숯골,서울 중구 무교로 16,91000,uncertain,meeting_only_uncertain,p13

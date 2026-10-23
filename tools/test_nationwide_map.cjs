@@ -32,7 +32,7 @@ async function environment({leaflet=true,failFetch=false,search=''}={}) {
 }
 (async()=>{
   const env=await environment(),e=env.ids;
-  assert.match(e['map-status'].textContent,/229개 지역 자료 · 2,189개 항목 · 지도 좌표 2,172개/);
+  assert.match(e['map-status'].textContent,/229개 지역 자료 · 2,186개 항목 · 지도 좌표 2,160개/);
   assert.equal(e['map-region'].options.length,230);
   // Every region remains reachable, including zero-coordinate Seoul evidence.
   for(const r of data.regions){
@@ -49,9 +49,9 @@ async function environment({leaflet=true,failFetch=false,search=''}={}) {
   e['map-download'].click();const csv=await env.blob().text();assert.equal(csv.trim().split('\r\n').length,expected.length+1);assert.ok(csv.includes('삼우정'));assert.ok(!csv.includes('방문 횟수'));
   e['map-query'].value='없는장소_xyz_987654321';e['map-query'].events.input();await new Promise(r=>setImmediate(r));
   assert.match(e['map-status'].textContent,/0개 항목/);assert.ok(e['map-results'].innerHTML.includes('조건에 맞는 장소가 없습니다'));assert.ok(e['map-download'].disabled);
-  e['map-reset'].click();assert.match(e['map-status'].textContent,/2,189개 항목/);
+  e['map-reset'].click();assert.match(e['map-status'].textContent,/2,186개 항목/);
   const deep=await environment({search:'?region=sn2025'});assert.equal(deep.ids['map-province'].value,'경기');assert.match(deep.ids['map-status'].textContent,/9개 항목/);
-  const absent=await environment({leaflet:false});assert.match(absent.ids['map-status'].textContent,/2,189개 항목/);assert.equal(absent.ids['map-error'].hidden,false);
+  const absent=await environment({leaflet:false});assert.match(absent.ids['map-status'].textContent,/2,186개 항목/);assert.equal(absent.ids['map-error'].hidden,false);
   const failed=await environment({failFetch:true});assert.match(failed.ids['map-status'].textContent,/불러오지 못했습니다/);assert.match(failed.ids['map-error'].innerHTML,/nationwide-locations.json/);
   console.log(JSON.stringify({status:'PASS',all_region_filters:229,checks:['full map population','every region reachable including missing coordinates','pagination','search','filtered CSV row count','empty result feedback','reset','region deep link','Leaflet failure list fallback','data fetch failure feedback']},null,2));
 })().catch(error=>{console.error(error);process.exitCode=1;});

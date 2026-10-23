@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-23",
+  "original_entries": 2189,
+  "published_entries": 2186,
+  "original_coordinates": 2172,
+  "published_coordinates": 2160,
+  "changes": [
+    {
+      "id": "anseong-4",
+      "action": "quarantined",
+      "reason": "지명 분류이고 건물번호가 없어 식당 위치 확인 불가"
+    },
+    {
+      "id": "boseong-10",
+      "action": "quarantined",
+      "reason": "지명 분류이고 건물번호가 없어 식당 위치 확인 불가"
+    },
+    {
+      "id": "gn2025-5",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "gn2025-6",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "gn2025-7",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "gn2025-10",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "hn2025-2",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "sc2025-5",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "sc2025-6",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "sc2025-7",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "sc2025-8",
+      "action": "coordinates_removed",
+      "reason": "상세 번지 없이 관내·동 일대만 표기"
+    },
+    {
+      "id": "yecheon-4",
+      "action": "quarantined",
+      "reason": "지명 분류이고 건물번호가 없어 식당 위치 확인 불가"
+    }
+  ],
+  "limitation": "주소 정밀도 검사이며 모든 보관 좌표를 현행 업소 위치와 대조한 것은 아님"
+}

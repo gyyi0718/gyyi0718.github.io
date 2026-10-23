@@ -58,6 +58,14 @@
       "canonical": "https://gyyi0718.github.io/places/"
     },
     {
+      "path": "coverage.html",
+      "canonical": "https://gyyi0718.github.io/coverage.html"
+    },
+    {
+      "path": "seoul/index.html",
+      "canonical": "https://gyyi0718.github.io/seoul/"
+    },
+    {
       "path": "index.html",
       "canonical": "https://gyyi0718.github.io/"
     },
@@ -120,9 +128,12 @@
   ],
   "scope": "Nationwide saved-place map, Seoul source-linked records and Jeju observation analysis; no unverified expense rankings",
   "nationwide_regions": 229,
-  "nationwide_place_entries": 2189,
-  "nationwide_coordinates": 2172,
+  "nationwide_place_entries": 2186,
+  "nationwide_coordinates": 2160,
   "seoul_selected_records": 2699,
+  "seoul_directory_groups": 1005,
+  "seoul_directory_rows": 27175,
+  "seoul_directory_districts": 23,
   "place_guide_records": 4478,
   "place_guide_pages": 13,
   "seoul_address_keys": 13,

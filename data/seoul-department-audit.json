@@ -1,7 +1,7 @@
 {
   "checked_on": "2026-10-23",
-  "scope": "2025 서울시 본청 기존 수집 JSONL 중 지정 9개 상호·13개 주소 조합의 식사 관련 기록",
-  "input_sha256": "b5bda47f3b6a871d68acd4aaa9324dfeb8f0840a461a9a058045b57b779dce53",
+  "scope": "2025 서울시 본청 기존 수집 JSONL 중 지정 9개 상호·13개 주소 조합의 과거 선정 지출 기록; 목적 분류 별도",
+  "input_sha256": "961e3959f20357d00a820d74b3e200daa3c3dcf121fa6d893f22dc0af087c86e",
   "raw_files": [
     {
       "file": "2025-01.jsonl",
@@ -126,13 +126,12 @@
       "source_url": "https://opengov.seoul.go.kr/expense/34711308"
     }
   ],
-  "official_check_method": "Official HTML samples were inspected earlier on checked_on. This rerun checked saved raw files and selected rows only; it did not fetch official pages again.",
+  "official_check_method": "Manually inspected official public HTML tables on checked_on; not rerun by this offline audit script.",
   "privacy": "No attendee names, recipient fields, or free-text purpose exported.",
   "limitations": [
     "Fixed selected sample, not all Seoul restaurants",
     "Saved department labels are not unique organizational IDs",
     "Current official source checked for samples only",
     "Business identity and current operation unverified"
-  ],
-  "raw_reaudit_status": "passed"
+  ]
 }

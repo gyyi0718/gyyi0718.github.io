@@ -1,276 +1,276 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:32743353,10,https://opengov.seoul.go.kr/expense/32743353,2025-01-03,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,82000,p09
-opengov:32764521,2,https://opengov.seoul.go.kr/expense/32764521,2025-01-03,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,157000,p09
-opengov:32793457,5,https://opengov.seoul.go.kr/expense/32793457,2025-01-07,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 을지로 16,157000,p09
-opengov:32793764,5,https://opengov.seoul.go.kr/expense/32793764,2025-01-08,seoul_city,복지실 고독대응과,브이아이피참치,서울 중구 을지로 16,270000,p09
-opengov:32755471,12,https://opengov.seoul.go.kr/expense/32755471,2025-01-09,seoul_city,민생사법경찰국 경제수사과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:32804039,14,https://opengov.seoul.go.kr/expense/32804039,2025-01-10,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:32754064,6,https://opengov.seoul.go.kr/expense/32754064,2025-01-15,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,126000,p09
-opengov:32784035,7,https://opengov.seoul.go.kr/expense/32784035,2025-01-15,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,브이아이피참치,서울 중구 을지로 16,99000,p09
-opengov:32775010,7,https://opengov.seoul.go.kr/expense/32775010,2025-01-17,seoul_city,미래공간기획관 용산입체도시담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:32804039,27,https://opengov.seoul.go.kr/expense/32804039,2025-01-20,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,51000,p09
-opengov:32764521,15,https://opengov.seoul.go.kr/expense/32764521,2025-01-21,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,319000,p09
-opengov:32782807,13,https://opengov.seoul.go.kr/expense/32782807,2025-01-23,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,144000,p09
-opengov:32784055,9,https://opengov.seoul.go.kr/expense/32784055,2025-01-23,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:32793753,36,https://opengov.seoul.go.kr/expense/32793753,2025-01-24,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,215000,p09
-opengov:32985428,2,https://opengov.seoul.go.kr/expense/32985428,2025-02-03,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:32997045,6,https://opengov.seoul.go.kr/expense/32997045,2025-02-05,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:32951607,3,https://opengov.seoul.go.kr/expense/32951607,2025-02-06,seoul_city,복지실 돌봄고독정책관,브이아이피참치,서울 중구 을지로 16,134000,p09
-opengov:32985654,19,https://opengov.seoul.go.kr/expense/32985654,2025-02-11,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:32983269,156,https://opengov.seoul.go.kr/expense/32983269,2025-02-18,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,180000,p09
-opengov:32997045,27,https://opengov.seoul.go.kr/expense/32997045,2025-02-19,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,48600,p09
-opengov:32941223,36,https://opengov.seoul.go.kr/expense/32941223,2025-02-24,seoul_city,민생사법경찰국 경제수사과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:32983269,243,https://opengov.seoul.go.kr/expense/32983269,2025-02-25,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,264000,p09
-opengov:32985681,33,https://opengov.seoul.go.kr/expense/32985681,2025-02-26,seoul_city,행정1부시장실,브이아이피참치,서울 중구 을지로 16,198000,p09
-opengov:32962307,10,https://opengov.seoul.go.kr/expense/32962307,2025-02-27,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:32962306,16,https://opengov.seoul.go.kr/expense/32962306,2025-02-28,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:33152552,1,https://opengov.seoul.go.kr/expense/33152552,2025-03-05,seoul_city,글로벌도시정책관 다문화담당관,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:33152566,2,https://opengov.seoul.go.kr/expense/33152566,2025-03-05,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,144000,p09
-opengov:33166326,1,https://opengov.seoul.go.kr/expense/33166326,2025-03-05,seoul_city,재난안전실 도로기획관 도로계획과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:33229602,6,https://opengov.seoul.go.kr/expense/33229602,2025-03-06,seoul_office,미래한강본부 총무부 총무과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:33210273,2,https://opengov.seoul.go.kr/expense/33210273,2025-03-07,seoul_city,디자인정책관 도시경관담당관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:33209069,4,https://opengov.seoul.go.kr/expense/33209069,2025-03-10,seoul_city,복지실 돌봄고독정책관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:33177847,12,https://opengov.seoul.go.kr/expense/33177847,2025-03-11,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:33166326,14,https://opengov.seoul.go.kr/expense/33166326,2025-03-14,seoul_city,재난안전실 도로기획관 도로계획과,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:33199365,22,https://opengov.seoul.go.kr/expense/33199365,2025-03-18,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:33210213,7,https://opengov.seoul.go.kr/expense/33210213,2025-03-20,seoul_city,관광체육국 체육진흥과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:33220330,21,https://opengov.seoul.go.kr/expense/33220330,2025-03-20,seoul_city,디지털도시국 디지털정책과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:33166340,12,https://opengov.seoul.go.kr/expense/33166340,2025-03-25,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:33177164,5,https://opengov.seoul.go.kr/expense/33177164,2025-03-26,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:33199367,16,https://opengov.seoul.go.kr/expense/33199367,2025-03-27,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,153000,p09
-opengov:33177164,7,https://opengov.seoul.go.kr/expense/33177164,2025-03-31,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:33361814,2,https://opengov.seoul.go.kr/expense/33361814,2025-04-02,seoul_city,교통실 보행자전거과,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:33382614,1,https://opengov.seoul.go.kr/expense/33382614,2025-04-02,seoul_city,글로벌도시정책관 다문화담당관,브이아이피참치,서울 중구 을지로 16,178000,p09
-opengov:33429137,2,https://opengov.seoul.go.kr/expense/33429137,2025-04-03,seoul_city,시민건강국 감염병관리과,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:33429149,2,https://opengov.seoul.go.kr/expense/33429149,2025-04-03,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:33430112,8,https://opengov.seoul.go.kr/expense/33430112,2025-04-07,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:33417502,2,https://opengov.seoul.go.kr/expense/33417502,2025-04-08,seoul_city,재무국 계약심사과,브이아이피참치,서울 중구 을지로 16,195000,p09
-opengov:33392434,31,https://opengov.seoul.go.kr/expense/33392434,2025-04-09,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,170000,p09
-opengov:33430079,14,https://opengov.seoul.go.kr/expense/33430079,2025-04-09,seoul_city,행정1부시장실,브이아이피참치,서울 중구 을지로 16,326000,p09
-opengov:33392432,7,https://opengov.seoul.go.kr/expense/33392432,2025-04-10,seoul_city,재무국 세무과,브이아이피참치,서울 중구 을지로 16,135000,p09
-opengov:33406214,7,https://opengov.seoul.go.kr/expense/33406214,2025-04-10,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,348000,p09
-opengov:33392423,10,https://opengov.seoul.go.kr/expense/33392423,2025-04-17,seoul_city,복지실 돌봄고독정책관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:33430102,32,https://opengov.seoul.go.kr/expense/33430102,2025-04-22,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:33383923,6,https://opengov.seoul.go.kr/expense/33383923,2025-04-23,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,126000,p09
-opengov:33636148,7,https://opengov.seoul.go.kr/expense/33636148,2025-05-07,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:33636103,9,https://opengov.seoul.go.kr/expense/33636103,2025-05-08,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:33624318,9,https://opengov.seoul.go.kr/expense/33624318,2025-05-09,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,69000,p09
-opengov:33636103,14,https://opengov.seoul.go.kr/expense/33636103,2025-05-13,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:33565801,4,https://opengov.seoul.go.kr/expense/33565801,2025-05-14,seoul_city,교통실 보행자전거과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:33600307,7,https://opengov.seoul.go.kr/expense/33600307,2025-05-14,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,210000,p09
-opengov:33636138,4,https://opengov.seoul.go.kr/expense/33636138,2025-05-15,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:33636138,5,https://opengov.seoul.go.kr/expense/33636138,2025-05-19,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,84000,p09
-opengov:33636103,30,https://opengov.seoul.go.kr/expense/33636103,2025-05-21,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,51000,p09
-opengov:33636103,34,https://opengov.seoul.go.kr/expense/33636103,2025-05-22,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,60000,p09
-opengov:33624210,8,https://opengov.seoul.go.kr/expense/33624210,2025-05-26,seoul_city,행정국 평화기반조성과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:33636108,21,https://opengov.seoul.go.kr/expense/33636108,2025-05-26,seoul_council,시의회사무처 언론홍보실,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:33611261,15,https://opengov.seoul.go.kr/expense/33611261,2025-05-27,seoul_city,건축기획과,브이아이피참치,서울 중구 을지로 16,180000,p09
-opengov:33634997,52,https://opengov.seoul.go.kr/expense/33634997,2025-05-27,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:33675340,50,https://opengov.seoul.go.kr/expense/33675340,2025-05-28,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:33611262,22,https://opengov.seoul.go.kr/expense/33611262,2025-05-29,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,392000,p09
-opengov:33803296,2,https://opengov.seoul.go.kr/expense/33803296,2025-06-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,174000,p09
-opengov:33889470,9,https://opengov.seoul.go.kr/expense/33889470,2025-06-12,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:33889467,9,https://opengov.seoul.go.kr/expense/33889467,2025-06-13,seoul_city,디지털도시국 데이터정책과,브이아이피참치,서울 중구 을지로 16,276000,p09
-opengov:33826578,163,https://opengov.seoul.go.kr/expense/33826578,2025-06-17,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,168500,p09
-opengov:33889470,13,https://opengov.seoul.go.kr/expense/33889470,2025-06-17,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:33847551,6,https://opengov.seoul.go.kr/expense/33847551,2025-06-20,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:33790688,46,https://opengov.seoul.go.kr/expense/33790688,2025-06-24,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 을지로 16,223000,p09
-opengov:33790690,30,https://opengov.seoul.go.kr/expense/33790690,2025-06-24,seoul_city,디자인정책담당관,브이아이피참치,서울 중구 을지로 16,60000,p09
-opengov:33792112,8,https://opengov.seoul.go.kr/expense/33792112,2025-06-27,seoul_city,디지털도시국 정보시스템과,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:34077520,13,https://opengov.seoul.go.kr/expense/34077520,2025-07-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,250000,p09
-opengov:34066369,5,https://opengov.seoul.go.kr/expense/34066369,2025-07-03,seoul_office,미래한강본부 총무부 총무과,브이아이피참치,서울 중구 을지로 16,262000,p09
-opengov:34067508,5,https://opengov.seoul.go.kr/expense/34067508,2025-07-08,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,170000,p09
-opengov:34058154,8,https://opengov.seoul.go.kr/expense/34058154,2025-07-17,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,105000,p09
-opengov:34049248,15,https://opengov.seoul.go.kr/expense/34049248,2025-07-18,seoul_city,관광체육국 체육정책과,브이아이피참치,서울 중구 을지로 16,75000,p09
-opengov:34067526,23,https://opengov.seoul.go.kr/expense/34067526,2025-07-18,seoul_city,기획조정실 예산담당관,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:34077510,173,https://opengov.seoul.go.kr/expense/34077510,2025-07-23,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,288000,p09
-opengov:34086707,23,https://opengov.seoul.go.kr/expense/34086707,2025-07-23,seoul_city,디지털도시국 디지털정책과,브이아이피참치,서울 중구 을지로 16,135000,p09
-opengov:34077539,7,https://opengov.seoul.go.kr/expense/34077539,2025-07-24,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:34047857,20,https://opengov.seoul.go.kr/expense/34047857,2025-07-25,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,75000,p09
-opengov:34015215,5,https://opengov.seoul.go.kr/expense/34015215,2025-07-28,seoul_office,도시기반시설본부 도시철도설비부,브이아이피참치,서울 중구 을지로 16,217000,p09
-opengov:34037606,9,https://opengov.seoul.go.kr/expense/34037606,2025-07-28,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:34049243,17,https://opengov.seoul.go.kr/expense/34049243,2025-07-29,seoul_council,재정분석담당관,브이아이피참치,서울 중구 을지로 16,162000,p09
-opengov:34037603,30,https://opengov.seoul.go.kr/expense/34037603,2025-07-30,seoul_city,외국인이민담당관,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:34025089,34,https://opengov.seoul.go.kr/expense/34025089,2025-07-31,seoul_city,비상기획관 민방위담당관,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:34087195,22,https://opengov.seoul.go.kr/expense/34087195,2025-07-31,seoul_city,행정국 인사과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:34288313,2,https://opengov.seoul.go.kr/expense/34288313,2025-08-01,seoul_city,행정1부시장실,브이아이피참치,서울 중구 을지로 16,330000,p09
-opengov:34278432,3,https://opengov.seoul.go.kr/expense/34278432,2025-08-05,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:34220920,1,https://opengov.seoul.go.kr/expense/34220920,2025-08-07,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,118000,p09
-opengov:34277794,9,https://opengov.seoul.go.kr/expense/34277794,2025-08-07,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,96000,p09
-opengov:34233923,2,https://opengov.seoul.go.kr/expense/34233923,2025-08-08,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,69000,p09
-opengov:34233923,3,https://opengov.seoul.go.kr/expense/34233923,2025-08-11,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:34257458,6,https://opengov.seoul.go.kr/expense/34257458,2025-08-11,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,220000,p09
-opengov:34254470,22,https://opengov.seoul.go.kr/expense/34254470,2025-08-14,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:34327281,4,https://opengov.seoul.go.kr/expense/34327281,2025-08-19,seoul_city,교통실 물류정책과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:34233923,13,https://opengov.seoul.go.kr/expense/34233923,2025-08-25,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:34266460,18,https://opengov.seoul.go.kr/expense/34266460,2025-08-25,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:34277794,19,https://opengov.seoul.go.kr/expense/34277794,2025-08-25,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:34254446,11,https://opengov.seoul.go.kr/expense/34254446,2025-08-28,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:34257458,10,https://opengov.seoul.go.kr/expense/34257458,2025-08-28,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,126000,p09
-opengov:34267818,43,https://opengov.seoul.go.kr/expense/34267818,2025-08-28,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:34483996,18,https://opengov.seoul.go.kr/expense/34483996,2025-09-02,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,84000,p09
-opengov:34482217,2,https://opengov.seoul.go.kr/expense/34482217,2025-09-04,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:34483946,12,https://opengov.seoul.go.kr/expense/34483946,2025-09-10,seoul_city,기획조정실 예산담당관,브이아이피참치,서울 중구 을지로 16,66000,p09
-opengov:34484005,3,https://opengov.seoul.go.kr/expense/34484005,2025-09-10,seoul_city,교통실 물류정책과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:34484008,24,https://opengov.seoul.go.kr/expense/34484008,2025-09-15,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:34467183,10,https://opengov.seoul.go.kr/expense/34467183,2025-09-16,seoul_city,민생노동국 노동정책과,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:34483992,7,https://opengov.seoul.go.kr/expense/34483992,2025-09-17,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:34467226,7,https://opengov.seoul.go.kr/expense/34467226,2025-09-22,seoul_city,행정국 평화기반조성과,브이아이피참치,서울 중구 을지로 16,52000,p09
-opengov:34483842,16,https://opengov.seoul.go.kr/expense/34483842,2025-09-22,seoul_city,행정국 인사과,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:34484007,20,https://opengov.seoul.go.kr/expense/34484007,2025-09-26,seoul_council,의정국 의사과,브이아이피참치,서울 중구 을지로 16,175000,p09
-opengov:34483828,13,https://opengov.seoul.go.kr/expense/34483828,2025-09-29,seoul_city,평생교육국 청소년정책과,브이아이피참치,서울 중구 을지로 16,69000,p09
-opengov:34483838,34,https://opengov.seoul.go.kr/expense/34483838,2025-09-29,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 을지로 16,134000,p09
-opengov:34680957,5,https://opengov.seoul.go.kr/expense/34680957,2025-10-10,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:34669098,2,https://opengov.seoul.go.kr/expense/34669098,2025-10-13,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,148000,p09
-opengov:34701384,49,https://opengov.seoul.go.kr/expense/34701384,2025-10-13,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,84000,p09
-opengov:34680957,10,https://opengov.seoul.go.kr/expense/34680957,2025-10-15,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:34711170,5,https://opengov.seoul.go.kr/expense/34711170,2025-10-15,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 을지로 16,174000,p09
-opengov:34711335,4,https://opengov.seoul.go.kr/expense/34711335,2025-10-16,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:34669113,37,https://opengov.seoul.go.kr/expense/34669113,2025-10-22,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:34711343,8,https://opengov.seoul.go.kr/expense/34711343,2025-10-22,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,123000,p09
-opengov:34691315,14,https://opengov.seoul.go.kr/expense/34691315,2025-10-23,seoul_office,미래한강본부 총무부 총무과,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:34711295,9,https://opengov.seoul.go.kr/expense/34711295,2025-10-23,seoul_city,기획조정실 정책기획관 법무담당관,브이아이피참치,서울 중구 을지로 16,80000,p09
-opengov:34711344,32,https://opengov.seoul.go.kr/expense/34711344,2025-10-27,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:34669113,53,https://opengov.seoul.go.kr/expense/34669113,2025-10-30,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,84000,p09
-opengov:34655484,16,https://opengov.seoul.go.kr/expense/34655484,2025-10-31,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:34669113,55,https://opengov.seoul.go.kr/expense/34669113,2025-10-31,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:34973593,4,https://opengov.seoul.go.kr/expense/34973593,2025-11-04,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:34928405,6,https://opengov.seoul.go.kr/expense/34928405,2025-11-06,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:34952051,49,https://opengov.seoul.go.kr/expense/34952051,2025-11-06,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,222000,p09
-opengov:34963716,19,https://opengov.seoul.go.kr/expense/34963716,2025-11-06,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:34876707,3,https://opengov.seoul.go.kr/expense/34876707,2025-11-10,seoul_city,민생노동국 상권활성화과,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:34952062,7,https://opengov.seoul.go.kr/expense/34952062,2025-11-10,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,브이아이피참치,서울 중구 을지로 16,174000,p09
-opengov:34889827,4,https://opengov.seoul.go.kr/expense/34889827,2025-11-13,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:34902478,16,https://opengov.seoul.go.kr/expense/34902478,2025-11-13,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:34973593,29,https://opengov.seoul.go.kr/expense/34973593,2025-11-14,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:34973590,9,https://opengov.seoul.go.kr/expense/34973590,2025-11-18,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:34876704,7,https://opengov.seoul.go.kr/expense/34876704,2025-11-19,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,174000,p09
-opengov:34902466,5,https://opengov.seoul.go.kr/expense/34902466,2025-11-19,seoul_city,기후환경본부 친환경차량과,브이아이피참치,서울 중구 을지로 16,204000,p09
-opengov:34952051,154,https://opengov.seoul.go.kr/expense/34952051,2025-11-19,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:34876506,43,https://opengov.seoul.go.kr/expense/34876506,2025-11-21,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 을지로 16,60000,p09
-opengov:34889815,55,https://opengov.seoul.go.kr/expense/34889815,2025-11-21,seoul_council,운영지원과,브이아이피참치,서울 중구 을지로 16,190000,p09
-opengov:34904043,22,https://opengov.seoul.go.kr/expense/34904043,2025-11-21,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,198000,p09
-opengov:34952066,15,https://opengov.seoul.go.kr/expense/34952066,2025-11-21,seoul_office,동부공원여가센터 공원운영과,브이아이피참치,서울 중구 을지로 16,106000,p09
-opengov:34973590,15,https://opengov.seoul.go.kr/expense/34973590,2025-11-27,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:34891350,14,https://opengov.seoul.go.kr/expense/34891350,2025-11-28,seoul_city,기획조정실 평가담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:34904042,60,https://opengov.seoul.go.kr/expense/34904042,2025-11-28,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,385000,p09
-opengov:35205486,2,https://opengov.seoul.go.kr/expense/35205486,2025-12-01,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:35157875,1,https://opengov.seoul.go.kr/expense/35157875,2025-12-02,seoul_city,미래청년기획관 청년사업담당관,브이아이피참치,서울 중구 을지로 16,234000,p09
-opengov:35177670,3,https://opengov.seoul.go.kr/expense/35177670,2025-12-02,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,126000,p09
-opengov:35261045,1,https://opengov.seoul.go.kr/expense/35261045,2025-12-02,seoul_city,건설기술정책관 건설혁신담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:35157243,5,https://opengov.seoul.go.kr/expense/35157243,2025-12-05,seoul_city,재무국 세무과,브이아이피참치,서울 중구 을지로 16,99000,p09
-opengov:35197521,18,https://opengov.seoul.go.kr/expense/35197521,2025-12-10,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,286000,p09
-opengov:35158202,4,https://opengov.seoul.go.kr/expense/35158202,2025-12-12,seoul_city,여성가족실 가족담당관,브이아이피참치,서울 중구 을지로 16,174000,p09
-opengov:35177671,163,https://opengov.seoul.go.kr/expense/35177671,2025-12-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:35205493,20,https://opengov.seoul.go.kr/expense/35205493,2025-12-17,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:35205479,31,https://opengov.seoul.go.kr/expense/35205479,2025-12-18,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,488000,p09
-opengov:35186072,14,https://opengov.seoul.go.kr/expense/35186072,2025-12-23,seoul_city,재무국 계약심사과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:35204397,11,https://opengov.seoul.go.kr/expense/35204397,2025-12-24,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,98000,p09
-opengov:35231588,16,https://opengov.seoul.go.kr/expense/35231588,2025-12-24,seoul_city,관광체육국 체육진흥과,브이아이피참치,서울 중구 을지로 16,228000,p09
-opengov:35177688,24,https://opengov.seoul.go.kr/expense/35177688,2025-12-29,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,450000,p09
-opengov:35389969,1,https://opengov.seoul.go.kr/expense/35389969,2026-01-02,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:35398221,24,https://opengov.seoul.go.kr/expense/35398221,2026-01-06,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,249000,p09
-opengov:35380371,8,https://opengov.seoul.go.kr/expense/35380371,2026-01-12,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,93000,p09
-opengov:35398221,73,https://opengov.seoul.go.kr/expense/35398221,2026-01-12,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:35420381,6,https://opengov.seoul.go.kr/expense/35420381,2026-01-13,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:35421534,23,https://opengov.seoul.go.kr/expense/35421534,2026-01-13,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:35398212,22,https://opengov.seoul.go.kr/expense/35398212,2026-01-15,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:35421551,39,https://opengov.seoul.go.kr/expense/35421551,2026-01-15,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:35398221,141,https://opengov.seoul.go.kr/expense/35398221,2026-01-19,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,273000,p09
-opengov:35369443,6,https://opengov.seoul.go.kr/expense/35369443,2026-01-23,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:35378925,48,https://opengov.seoul.go.kr/expense/35378925,2026-01-29,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:35410193,8,https://opengov.seoul.go.kr/expense/35410193,2026-01-30,seoul_city,도시공간본부 토지관리과,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:35571145,1,https://opengov.seoul.go.kr/expense/35571145,2026-02-02,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:35605738,19,https://opengov.seoul.go.kr/expense/35605738,2026-02-03,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,186000,p09
-opengov:36037106,1,https://opengov.seoul.go.kr/expense/36037106,2026-02-03,seoul_office,여성가족실 아동복지센터,브이아이피참치,서울 중구 을지로 16,128000,p09
-opengov:35606789,5,https://opengov.seoul.go.kr/expense/35606789,2026-02-04,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:35559500,7,https://opengov.seoul.go.kr/expense/35559500,2026-02-05,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,90000,p09
-opengov:35560788,2,https://opengov.seoul.go.kr/expense/35560788,2026-02-06,seoul_city,시민건강국 감염병관리과,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:35605733,4,https://opengov.seoul.go.kr/expense/35605733,2026-02-06,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:35606789,12,https://opengov.seoul.go.kr/expense/35606789,2026-02-06,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:35548096,5,https://opengov.seoul.go.kr/expense/35548096,2026-02-09,seoul_city,뷰티패션산업과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:35606789,22,https://opengov.seoul.go.kr/expense/35606789,2026-02-10,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:35559500,20,https://opengov.seoul.go.kr/expense/35559500,2026-02-11,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,69000,p09
-opengov:35605738,95,https://opengov.seoul.go.kr/expense/35605738,2026-02-11,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:35605738,120,https://opengov.seoul.go.kr/expense/35605738,2026-02-13,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:35595244,11,https://opengov.seoul.go.kr/expense/35595244,2026-02-23,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,브이아이피참치,서울 중구 을지로 16,126000,p09
-opengov:35583670,28,https://opengov.seoul.go.kr/expense/35583670,2026-02-25,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,246000,p09
-opengov:35605738,186,https://opengov.seoul.go.kr/expense/35605738,2026-02-26,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:35559496,29,https://opengov.seoul.go.kr/expense/35559496,2026-02-27,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:35834086,28,https://opengov.seoul.go.kr/expense/35834086,2026-03-05,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:35855696,2,https://opengov.seoul.go.kr/expense/35855696,2026-03-05,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:35855662,6,https://opengov.seoul.go.kr/expense/35855662,2026-03-09,seoul_city,디지털도시국 디지털정책과,브이아이피참치,서울 중구 을지로 16,168000,p09
-opengov:35834100,23,https://opengov.seoul.go.kr/expense/35834100,2026-03-12,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,420000,p09
-opengov:35775001,7,https://opengov.seoul.go.kr/expense/35775001,2026-03-13,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,66000,p09
-opengov:35845469,4,https://opengov.seoul.go.kr/expense/35845469,2026-03-13,seoul_city,교통실 택시정책과,브이아이피참치,서울 중구 을지로 16,91000,p09
-opengov:35835471,21,https://opengov.seoul.go.kr/expense/35835471,2026-03-16,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:35787121,35,https://opengov.seoul.go.kr/expense/35787121,2026-03-17,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 을지로 16,146000,p09
-opengov:35776336,9,https://opengov.seoul.go.kr/expense/35776336,2026-03-18,seoul_city,교통실 도시철도과,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:35798931,4,https://opengov.seoul.go.kr/expense/35798931,2026-03-18,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:35824092,8,https://opengov.seoul.go.kr/expense/35824092,2026-03-18,seoul_city,홍보기획관 서울브랜드담당관,브이아이피참치,서울 중구 을지로 16,33000,p09
-opengov:35835447,10,https://opengov.seoul.go.kr/expense/35835447,2026-03-18,seoul_city,여성가족실 가족담당관,브이아이피참치,서울 중구 을지로 16,80000,p09
-opengov:35835471,25,https://opengov.seoul.go.kr/expense/35835471,2026-03-18,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:35824079,11,https://opengov.seoul.go.kr/expense/35824079,2026-03-19,seoul_city,기후환경본부 친환경차량과,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:35877464,16,https://opengov.seoul.go.kr/expense/35877464,2026-03-19,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:35799976,41,https://opengov.seoul.go.kr/expense/35799976,2026-03-20,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,38000,p09
-opengov:35835471,32,https://opengov.seoul.go.kr/expense/35835471,2026-03-24,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:35834100,62,https://opengov.seoul.go.kr/expense/35834100,2026-03-25,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,420000,p09
-opengov:35812194,39,https://opengov.seoul.go.kr/expense/35812194,2026-03-26,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 을지로 16,117000,p09
-opengov:35823020,23,https://opengov.seoul.go.kr/expense/35823020,2026-03-26,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,150000,p09
-opengov:35775001,14,https://opengov.seoul.go.kr/expense/35775001,2026-03-27,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:35824092,17,https://opengov.seoul.go.kr/expense/35824092,2026-03-30,seoul_city,홍보기획관 서울브랜드담당관,브이아이피참치,서울 중구 을지로 16,51000,p09
-opengov:36026832,9,https://opengov.seoul.go.kr/expense/36026832,2026-04-07,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:36048311,8,https://opengov.seoul.go.kr/expense/36048311,2026-04-09,seoul_city,재무국 재무과,브이아이피참치,서울 중구 을지로 16,95000,p09
-opengov:36048334,10,https://opengov.seoul.go.kr/expense/36048334,2026-04-09,seoul_city,기획조정실 예산담당관,브이아이피참치,서울 중구 을지로 16,351000,p09
-opengov:36048342,5,https://opengov.seoul.go.kr/expense/36048342,2026-04-09,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 을지로 16,74000,p09
-opengov:36037116,23,https://opengov.seoul.go.kr/expense/36037116,2026-04-13,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,74000,p09
-opengov:36047148,14,https://opengov.seoul.go.kr/expense/36047148,2026-04-13,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,91000,p09
-opengov:36037116,42,https://opengov.seoul.go.kr/expense/36037116,2026-04-24,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,73000,p09
-opengov:36012986,36,https://opengov.seoul.go.kr/expense/36012986,2026-04-27,seoul_city,물순환안전국 수변감성도시과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:36026846,48,https://opengov.seoul.go.kr/expense/36026846,2026-04-28,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,144000,p09
-opengov:36059179,24,https://opengov.seoul.go.kr/expense/36059179,2026-04-28,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,232000,p09
-opengov:36013028,21,https://opengov.seoul.go.kr/expense/36013028,2026-04-30,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:36261042,6,https://opengov.seoul.go.kr/expense/36261042,2026-05-07,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,p09
-opengov:36203672,3,https://opengov.seoul.go.kr/expense/36203672,2026-05-12,seoul_city,평생교육국 청소년정책과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:36251013,10,https://opengov.seoul.go.kr/expense/36251013,2026-05-12,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:36203888,8,https://opengov.seoul.go.kr/expense/36203888,2026-05-14,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,84000,p09
-opengov:36214403,13,https://opengov.seoul.go.kr/expense/36214403,2026-05-14,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:36593999,12,https://opengov.seoul.go.kr/expense/36593999,2026-05-21,seoul_city,주택실 주택정책과,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:36261042,29,https://opengov.seoul.go.kr/expense/36261042,2026-05-26,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,105000,p09
-opengov:36239608,29,https://opengov.seoul.go.kr/expense/36239608,2026-05-29,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,116000,p09
-opengov:36261042,35,https://opengov.seoul.go.kr/expense/36261042,2026-05-29,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,36000,p09
-opengov:36427706,2,https://opengov.seoul.go.kr/expense/36427706,2026-06-04,seoul_city,물순환안전국 수변감성도시과,브이아이피참치,서울 중구 을지로 16,232000,p09
-opengov:36438128,4,https://opengov.seoul.go.kr/expense/36438128,2026-06-09,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,136000,p09
-opengov:36449212,10,https://opengov.seoul.go.kr/expense/36449212,2026-06-09,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,87000,p09
-opengov:36449224,9,https://opengov.seoul.go.kr/expense/36449224,2026-06-09,seoul_office,서북병원 간호부,브이아이피참치,서울 중구 을지로 16,200000,p09
-opengov:36401986,3,https://opengov.seoul.go.kr/expense/36401986,2026-06-10,seoul_office,강서도로사업소 관리단속과,브이아이피참치,서울 중구 을지로 16,78000,p09
-opengov:36426422,7,https://opengov.seoul.go.kr/expense/36426422,2026-06-11,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,100000,p09
-opengov:36492738,39,https://opengov.seoul.go.kr/expense/36492738,2026-06-15,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,66000,p09
-opengov:36436339,15,https://opengov.seoul.go.kr/expense/36436339,2026-06-17,seoul_city,재난안전실 도로기획관 도로계획과,브이아이피참치,서울 중구 을지로 16,58000,p09
-opengov:36438876,13,https://opengov.seoul.go.kr/expense/36438876,2026-06-18,seoul_city,디지털도시국 정보시스템과,브이아이피참치,서울 중구 을지로 16,75000,p09
-opengov:36449212,26,https://opengov.seoul.go.kr/expense/36449212,2026-06-18,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,75000,p09
-opengov:36501216,57,https://opengov.seoul.go.kr/expense/36501216,2026-06-18,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,324000,p09
-opengov:36426425,8,https://opengov.seoul.go.kr/expense/36426425,2026-06-23,seoul_office,도시기반시설본부 도시철도설비부,브이아이피참치,서울 중구 을지로 16,49000,p09
-opengov:36492733,65,https://opengov.seoul.go.kr/expense/36492733,2026-06-23,seoul_council,운영지원과,브이아이피참치,서울 중구 을지로 16,232000,p09
-opengov:36473051,27,https://opengov.seoul.go.kr/expense/36473051,2026-06-24,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,94000,p09
-opengov:36492738,57,https://opengov.seoul.go.kr/expense/36492738,2026-06-24,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,210000,p09
-opengov:36473051,33,https://opengov.seoul.go.kr/expense/36473051,2026-06-29,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,145000,p09
-opengov:36450406,38,https://opengov.seoul.go.kr/expense/36450406,2026-06-30,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:36707683,7,https://opengov.seoul.go.kr/expense/36707683,2026-07-01,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,300000,p09
-opengov:36716785,12,https://opengov.seoul.go.kr/expense/36716785,2026-07-03,seoul_council,운영지원과,브이아이피참치,서울 중구 을지로 16,192000,p09
-opengov:36697268,4,https://opengov.seoul.go.kr/expense/36697268,2026-07-06,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,174000,p09
-opengov:36707491,13,https://opengov.seoul.go.kr/expense/36707491,2026-07-08,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 을지로 16,94000,p09
-opengov:36707570,17,https://opengov.seoul.go.kr/expense/36707570,2026-07-08,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 을지로 16,226000,p09
-opengov:36678309,17,https://opengov.seoul.go.kr/expense/36678309,2026-07-09,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:36687794,16,https://opengov.seoul.go.kr/expense/36687794,2026-07-13,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 을지로 16,156000,p09
-opengov:36707751,20,https://opengov.seoul.go.kr/expense/36707751,2026-07-13,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,136000,p09
-opengov:36706441,21,https://opengov.seoul.go.kr/expense/36706441,2026-07-14,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,350000,p09
-opengov:36687853,19,https://opengov.seoul.go.kr/expense/36687853,2026-07-15,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 을지로 16,312000,p09
-opengov:36706844,110,https://opengov.seoul.go.kr/expense/36706844,2026-07-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,330000,p09
-opengov:36707716,9,https://opengov.seoul.go.kr/expense/36707716,2026-07-20,seoul_city,교통실 도시철도과,브이아이피참치,서울 중구 을지로 16,189000,p09
-opengov:36649528,11,https://opengov.seoul.go.kr/expense/36649528,2026-07-21,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,138000,p09
-opengov:36707641,8,https://opengov.seoul.go.kr/expense/36707641,2026-07-21,seoul_city,정보보안과,브이아이피참치,서울 중구 을지로 16,114000,p09
-opengov:36678309,29,https://opengov.seoul.go.kr/expense/36678309,2026-07-22,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,108000,p09
-opengov:36707578,54,https://opengov.seoul.go.kr/expense/36707578,2026-07-23,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 을지로 16,54000,p09
-opengov:36869660,11,https://opengov.seoul.go.kr/expense/36869660,2026-08-21,seoul_city,글로벌도시정책관 다문화담당관,브이아이피참치,서울 중구 을지로 16,74000,p09
-opengov:36856985,38,https://opengov.seoul.go.kr/expense/36856985,2026-08-27,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 을지로 16,116000,p09
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:32743353,10,https://opengov.seoul.go.kr/expense/32743353,2025-01-03,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,82000,uncertain,meeting_only_uncertain,p09
+opengov:32764521,2,https://opengov.seoul.go.kr/expense/32764521,2025-01-03,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,157000,uncertain,meeting_only_uncertain,p09
+opengov:32793457,5,https://opengov.seoul.go.kr/expense/32793457,2025-01-07,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 을지로 16,157000,uncertain,meeting_only_uncertain,p09
+opengov:32793764,5,https://opengov.seoul.go.kr/expense/32793764,2025-01-08,seoul_city,복지실 고독대응과,브이아이피참치,서울 중구 을지로 16,270000,uncertain,meeting_only_uncertain,p09
+opengov:32755471,12,https://opengov.seoul.go.kr/expense/32755471,2025-01-09,seoul_city,민생사법경찰국 경제수사과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:32804039,14,https://opengov.seoul.go.kr/expense/32804039,2025-01-10,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:32754064,6,https://opengov.seoul.go.kr/expense/32754064,2025-01-15,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,126000,uncertain,meeting_only_uncertain,p09
+opengov:32784035,7,https://opengov.seoul.go.kr/expense/32784035,2025-01-15,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,브이아이피참치,서울 중구 을지로 16,99000,uncertain,meeting_only_uncertain,p09
+opengov:32775010,7,https://opengov.seoul.go.kr/expense/32775010,2025-01-17,seoul_city,미래공간기획관 용산입체도시담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:32804039,27,https://opengov.seoul.go.kr/expense/32804039,2025-01-20,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,51000,uncertain,meeting_only_uncertain,p09
+opengov:32764521,15,https://opengov.seoul.go.kr/expense/32764521,2025-01-21,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,319000,uncertain,meeting_only_uncertain,p09
+opengov:32782807,13,https://opengov.seoul.go.kr/expense/32782807,2025-01-23,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,144000,uncertain,meeting_only_uncertain,p09
+opengov:32784055,9,https://opengov.seoul.go.kr/expense/32784055,2025-01-23,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:32793753,36,https://opengov.seoul.go.kr/expense/32793753,2025-01-24,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,215000,uncertain,meeting_only_uncertain,p09
+opengov:32985428,2,https://opengov.seoul.go.kr/expense/32985428,2025-02-03,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:32997045,6,https://opengov.seoul.go.kr/expense/32997045,2025-02-05,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:32951607,3,https://opengov.seoul.go.kr/expense/32951607,2025-02-06,seoul_city,복지실 돌봄고독정책관,브이아이피참치,서울 중구 을지로 16,134000,uncertain,meeting_only_uncertain,p09
+opengov:32985654,19,https://opengov.seoul.go.kr/expense/32985654,2025-02-11,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:32983269,156,https://opengov.seoul.go.kr/expense/32983269,2025-02-18,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,180000,uncertain,meeting_only_uncertain,p09
+opengov:32997045,27,https://opengov.seoul.go.kr/expense/32997045,2025-02-19,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,48600,uncertain,meeting_only_uncertain,p09
+opengov:32941223,36,https://opengov.seoul.go.kr/expense/32941223,2025-02-24,seoul_city,민생사법경찰국 경제수사과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:32983269,243,https://opengov.seoul.go.kr/expense/32983269,2025-02-25,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,264000,uncertain,meeting_only_uncertain,p09
+opengov:32985681,33,https://opengov.seoul.go.kr/expense/32985681,2025-02-26,seoul_city,행정1부시장실,브이아이피참치,서울 중구 을지로 16,198000,meal,explicit_meal_word,p09
+opengov:32962307,10,https://opengov.seoul.go.kr/expense/32962307,2025-02-27,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:32962306,16,https://opengov.seoul.go.kr/expense/32962306,2025-02-28,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 을지로 16,90000,meal,explicit_meal_word,p09
+opengov:33152552,1,https://opengov.seoul.go.kr/expense/33152552,2025-03-05,seoul_city,글로벌도시정책관 다문화담당관,브이아이피참치,서울 중구 을지로 16,36000,uncertain,meeting_only_uncertain,p09
+opengov:33152566,2,https://opengov.seoul.go.kr/expense/33152566,2025-03-05,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,144000,uncertain,meeting_only_uncertain,p09
+opengov:33166326,1,https://opengov.seoul.go.kr/expense/33166326,2025-03-05,seoul_city,재난안전실 도로기획관 도로계획과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:33229602,6,https://opengov.seoul.go.kr/expense/33229602,2025-03-06,seoul_office,미래한강본부 총무부 총무과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:33210273,2,https://opengov.seoul.go.kr/expense/33210273,2025-03-07,seoul_city,디자인정책관 도시경관담당관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:33209069,4,https://opengov.seoul.go.kr/expense/33209069,2025-03-10,seoul_city,복지실 돌봄고독정책관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:33177847,12,https://opengov.seoul.go.kr/expense/33177847,2025-03-11,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:33166326,14,https://opengov.seoul.go.kr/expense/33166326,2025-03-14,seoul_city,재난안전실 도로기획관 도로계획과,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:33199365,22,https://opengov.seoul.go.kr/expense/33199365,2025-03-18,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:33210213,7,https://opengov.seoul.go.kr/expense/33210213,2025-03-20,seoul_city,관광체육국 체육진흥과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:33220330,21,https://opengov.seoul.go.kr/expense/33220330,2025-03-20,seoul_city,디지털도시국 디지털정책과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:33166340,12,https://opengov.seoul.go.kr/expense/33166340,2025-03-25,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,policy_topic_uncertain,p09
+opengov:33177164,5,https://opengov.seoul.go.kr/expense/33177164,2025-03-26,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:33199367,16,https://opengov.seoul.go.kr/expense/33199367,2025-03-27,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,153000,uncertain,meeting_only_uncertain,p09
+opengov:33177164,7,https://opengov.seoul.go.kr/expense/33177164,2025-03-31,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:33361814,2,https://opengov.seoul.go.kr/expense/33361814,2025-04-02,seoul_city,교통실 보행자전거과,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:33382614,1,https://opengov.seoul.go.kr/expense/33382614,2025-04-02,seoul_city,글로벌도시정책관 다문화담당관,브이아이피참치,서울 중구 을지로 16,178000,uncertain,meeting_only_uncertain,p09
+opengov:33429137,2,https://opengov.seoul.go.kr/expense/33429137,2025-04-03,seoul_city,시민건강국 감염병관리과,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:33429149,2,https://opengov.seoul.go.kr/expense/33429149,2025-04-03,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:33430112,8,https://opengov.seoul.go.kr/expense/33430112,2025-04-07,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:33417502,2,https://opengov.seoul.go.kr/expense/33417502,2025-04-08,seoul_city,재무국 계약심사과,브이아이피참치,서울 중구 을지로 16,195000,uncertain,meeting_only_uncertain,p09
+opengov:33392434,31,https://opengov.seoul.go.kr/expense/33392434,2025-04-09,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,170000,uncertain,meeting_only_uncertain,p09
+opengov:33430079,14,https://opengov.seoul.go.kr/expense/33430079,2025-04-09,seoul_city,행정1부시장실,브이아이피참치,서울 중구 을지로 16,326000,uncertain,meeting_only_uncertain,p09
+opengov:33392432,7,https://opengov.seoul.go.kr/expense/33392432,2025-04-10,seoul_city,재무국 세무과,브이아이피참치,서울 중구 을지로 16,135000,uncertain,meeting_only_uncertain,p09
+opengov:33406214,7,https://opengov.seoul.go.kr/expense/33406214,2025-04-10,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,348000,uncertain,meeting_only_uncertain,p09
+opengov:33392423,10,https://opengov.seoul.go.kr/expense/33392423,2025-04-17,seoul_city,복지실 돌봄고독정책관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:33430102,32,https://opengov.seoul.go.kr/expense/33430102,2025-04-22,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,36000,meal,explicit_meal_word,p09
+opengov:33383923,6,https://opengov.seoul.go.kr/expense/33383923,2025-04-23,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,126000,uncertain,meeting_only_uncertain,p09
+opengov:33636148,7,https://opengov.seoul.go.kr/expense/33636148,2025-05-07,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,54000,meal,explicit_meal_word,p09
+opengov:33636103,9,https://opengov.seoul.go.kr/expense/33636103,2025-05-08,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:33624318,9,https://opengov.seoul.go.kr/expense/33624318,2025-05-09,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,69000,uncertain,meeting_only_uncertain,p09
+opengov:33636103,14,https://opengov.seoul.go.kr/expense/33636103,2025-05-13,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:33565801,4,https://opengov.seoul.go.kr/expense/33565801,2025-05-14,seoul_city,교통실 보행자전거과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:33600307,7,https://opengov.seoul.go.kr/expense/33600307,2025-05-14,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,210000,uncertain,meeting_only_uncertain,p09
+opengov:33636138,4,https://opengov.seoul.go.kr/expense/33636138,2025-05-15,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:33636138,5,https://opengov.seoul.go.kr/expense/33636138,2025-05-19,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,84000,uncertain,meeting_only_uncertain,p09
+opengov:33636103,30,https://opengov.seoul.go.kr/expense/33636103,2025-05-21,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,51000,uncertain,meeting_only_uncertain,p09
+opengov:33636103,34,https://opengov.seoul.go.kr/expense/33636103,2025-05-22,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,60000,uncertain,meeting_only_uncertain,p09
+opengov:33624210,8,https://opengov.seoul.go.kr/expense/33624210,2025-05-26,seoul_city,행정국 평화기반조성과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:33636108,21,https://opengov.seoul.go.kr/expense/33636108,2025-05-26,seoul_council,시의회사무처 언론홍보실,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:33611261,15,https://opengov.seoul.go.kr/expense/33611261,2025-05-27,seoul_city,건축기획과,브이아이피참치,서울 중구 을지로 16,180000,uncertain,meeting_only_uncertain,p09
+opengov:33634997,52,https://opengov.seoul.go.kr/expense/33634997,2025-05-27,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:33675340,50,https://opengov.seoul.go.kr/expense/33675340,2025-05-28,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:33611262,22,https://opengov.seoul.go.kr/expense/33611262,2025-05-29,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,392000,uncertain,meeting_only_uncertain,p09
+opengov:33803296,2,https://opengov.seoul.go.kr/expense/33803296,2025-06-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,174000,uncertain,meeting_only_uncertain,p09
+opengov:33889470,9,https://opengov.seoul.go.kr/expense/33889470,2025-06-12,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,36000,uncertain,meeting_only_uncertain,p09
+opengov:33889467,9,https://opengov.seoul.go.kr/expense/33889467,2025-06-13,seoul_city,디지털도시국 데이터정책과,브이아이피참치,서울 중구 을지로 16,276000,uncertain,meeting_only_uncertain,p09
+opengov:33826578,163,https://opengov.seoul.go.kr/expense/33826578,2025-06-17,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,168500,uncertain,meeting_only_uncertain,p09
+opengov:33889470,13,https://opengov.seoul.go.kr/expense/33889470,2025-06-17,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:33847551,6,https://opengov.seoul.go.kr/expense/33847551,2025-06-20,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:33790688,46,https://opengov.seoul.go.kr/expense/33790688,2025-06-24,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 을지로 16,223000,uncertain,meeting_only_uncertain,p09
+opengov:33790690,30,https://opengov.seoul.go.kr/expense/33790690,2025-06-24,seoul_city,디자인정책담당관,브이아이피참치,서울 중구 을지로 16,60000,uncertain,meeting_only_uncertain,p09
+opengov:33792112,8,https://opengov.seoul.go.kr/expense/33792112,2025-06-27,seoul_city,디지털도시국 정보시스템과,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:34077520,13,https://opengov.seoul.go.kr/expense/34077520,2025-07-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,250000,uncertain,meeting_only_uncertain,p09
+opengov:34066369,5,https://opengov.seoul.go.kr/expense/34066369,2025-07-03,seoul_office,미래한강본부 총무부 총무과,브이아이피참치,서울 중구 을지로 16,262000,uncertain,meeting_only_uncertain,p09
+opengov:34067508,5,https://opengov.seoul.go.kr/expense/34067508,2025-07-08,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,170000,uncertain,meeting_only_uncertain,p09
+opengov:34058154,8,https://opengov.seoul.go.kr/expense/34058154,2025-07-17,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,105000,uncertain,meeting_only_uncertain,p09
+opengov:34049248,15,https://opengov.seoul.go.kr/expense/34049248,2025-07-18,seoul_city,관광체육국 체육정책과,브이아이피참치,서울 중구 을지로 16,75000,uncertain,meeting_only_uncertain,p09
+opengov:34067526,23,https://opengov.seoul.go.kr/expense/34067526,2025-07-18,seoul_city,기획조정실 예산담당관,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:34077510,173,https://opengov.seoul.go.kr/expense/34077510,2025-07-23,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,288000,uncertain,meeting_only_uncertain,p09
+opengov:34086707,23,https://opengov.seoul.go.kr/expense/34086707,2025-07-23,seoul_city,디지털도시국 디지털정책과,브이아이피참치,서울 중구 을지로 16,135000,uncertain,meeting_only_uncertain,p09
+opengov:34077539,7,https://opengov.seoul.go.kr/expense/34077539,2025-07-24,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,145000,meal,explicit_meal_word,p09
+opengov:34047857,20,https://opengov.seoul.go.kr/expense/34047857,2025-07-25,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,75000,uncertain,meeting_only_uncertain,p09
+opengov:34015215,5,https://opengov.seoul.go.kr/expense/34015215,2025-07-28,seoul_office,도시기반시설본부 도시철도설비부,브이아이피참치,서울 중구 을지로 16,217000,uncertain,meeting_only_uncertain,p09
+opengov:34037606,9,https://opengov.seoul.go.kr/expense/34037606,2025-07-28,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:34049243,17,https://opengov.seoul.go.kr/expense/34049243,2025-07-29,seoul_council,재정분석담당관,브이아이피참치,서울 중구 을지로 16,162000,uncertain,meeting_only_uncertain,p09
+opengov:34037603,30,https://opengov.seoul.go.kr/expense/34037603,2025-07-30,seoul_city,외국인이민담당관,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:34025089,34,https://opengov.seoul.go.kr/expense/34025089,2025-07-31,seoul_city,비상기획관 민방위담당관,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:34087195,22,https://opengov.seoul.go.kr/expense/34087195,2025-07-31,seoul_city,행정국 인사과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:34288313,2,https://opengov.seoul.go.kr/expense/34288313,2025-08-01,seoul_city,행정1부시장실,브이아이피참치,서울 중구 을지로 16,330000,uncertain,meeting_only_uncertain,p09
+opengov:34278432,3,https://opengov.seoul.go.kr/expense/34278432,2025-08-05,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:34220920,1,https://opengov.seoul.go.kr/expense/34220920,2025-08-07,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,118000,uncertain,meeting_only_uncertain,p09
+opengov:34277794,9,https://opengov.seoul.go.kr/expense/34277794,2025-08-07,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,96000,uncertain,meeting_only_uncertain,p09
+opengov:34233923,2,https://opengov.seoul.go.kr/expense/34233923,2025-08-08,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,69000,uncertain,meeting_only_uncertain,p09
+opengov:34233923,3,https://opengov.seoul.go.kr/expense/34233923,2025-08-11,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:34257458,6,https://opengov.seoul.go.kr/expense/34257458,2025-08-11,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,220000,uncertain,meeting_only_uncertain,p09
+opengov:34254470,22,https://opengov.seoul.go.kr/expense/34254470,2025-08-14,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:34327281,4,https://opengov.seoul.go.kr/expense/34327281,2025-08-19,seoul_city,교통실 물류정책과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:34233923,13,https://opengov.seoul.go.kr/expense/34233923,2025-08-25,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:34266460,18,https://opengov.seoul.go.kr/expense/34266460,2025-08-25,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:34277794,19,https://opengov.seoul.go.kr/expense/34277794,2025-08-25,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:34254446,11,https://opengov.seoul.go.kr/expense/34254446,2025-08-28,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:34257458,10,https://opengov.seoul.go.kr/expense/34257458,2025-08-28,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,126000,uncertain,meeting_only_uncertain,p09
+opengov:34267818,43,https://opengov.seoul.go.kr/expense/34267818,2025-08-28,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:34483996,18,https://opengov.seoul.go.kr/expense/34483996,2025-09-02,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,84000,uncertain,meeting_only_uncertain,p09
+opengov:34482217,2,https://opengov.seoul.go.kr/expense/34482217,2025-09-04,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,145000,meal,explicit_meal_word,p09
+opengov:34483946,12,https://opengov.seoul.go.kr/expense/34483946,2025-09-10,seoul_city,기획조정실 예산담당관,브이아이피참치,서울 중구 을지로 16,66000,uncertain,meeting_only_uncertain,p09
+opengov:34484005,3,https://opengov.seoul.go.kr/expense/34484005,2025-09-10,seoul_city,교통실 물류정책과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:34484008,24,https://opengov.seoul.go.kr/expense/34484008,2025-09-15,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:34467183,10,https://opengov.seoul.go.kr/expense/34467183,2025-09-16,seoul_city,민생노동국 노동정책과,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:34483992,7,https://opengov.seoul.go.kr/expense/34483992,2025-09-17,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:34467226,7,https://opengov.seoul.go.kr/expense/34467226,2025-09-22,seoul_city,행정국 평화기반조성과,브이아이피참치,서울 중구 을지로 16,52000,uncertain,meeting_only_uncertain,p09
+opengov:34483842,16,https://opengov.seoul.go.kr/expense/34483842,2025-09-22,seoul_city,행정국 인사과,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:34484007,20,https://opengov.seoul.go.kr/expense/34484007,2025-09-26,seoul_council,의정국 의사과,브이아이피참치,서울 중구 을지로 16,175000,uncertain,meeting_only_uncertain,p09
+opengov:34483828,13,https://opengov.seoul.go.kr/expense/34483828,2025-09-29,seoul_city,평생교육국 청소년정책과,브이아이피참치,서울 중구 을지로 16,69000,uncertain,meeting_only_uncertain,p09
+opengov:34483838,34,https://opengov.seoul.go.kr/expense/34483838,2025-09-29,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 을지로 16,134000,uncertain,meeting_only_uncertain,p09
+opengov:34680957,5,https://opengov.seoul.go.kr/expense/34680957,2025-10-10,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:34669098,2,https://opengov.seoul.go.kr/expense/34669098,2025-10-13,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,148000,uncertain,meeting_only_uncertain,p09
+opengov:34701384,49,https://opengov.seoul.go.kr/expense/34701384,2025-10-13,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,84000,uncertain,meeting_only_uncertain,p09
+opengov:34680957,10,https://opengov.seoul.go.kr/expense/34680957,2025-10-15,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:34711170,5,https://opengov.seoul.go.kr/expense/34711170,2025-10-15,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 을지로 16,174000,uncertain,meeting_only_uncertain,p09
+opengov:34711335,4,https://opengov.seoul.go.kr/expense/34711335,2025-10-16,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:34669113,37,https://opengov.seoul.go.kr/expense/34669113,2025-10-22,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:34711343,8,https://opengov.seoul.go.kr/expense/34711343,2025-10-22,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 을지로 16,123000,uncertain,meeting_only_uncertain,p09
+opengov:34691315,14,https://opengov.seoul.go.kr/expense/34691315,2025-10-23,seoul_office,미래한강본부 총무부 총무과,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:34711295,9,https://opengov.seoul.go.kr/expense/34711295,2025-10-23,seoul_city,기획조정실 정책기획관 법무담당관,브이아이피참치,서울 중구 을지로 16,80000,uncertain,meeting_only_uncertain,p09
+opengov:34711344,32,https://opengov.seoul.go.kr/expense/34711344,2025-10-27,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:34669113,53,https://opengov.seoul.go.kr/expense/34669113,2025-10-30,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,84000,uncertain,meeting_only_uncertain,p09
+opengov:34655484,16,https://opengov.seoul.go.kr/expense/34655484,2025-10-31,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:34669113,55,https://opengov.seoul.go.kr/expense/34669113,2025-10-31,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:34973593,4,https://opengov.seoul.go.kr/expense/34973593,2025-11-04,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:34928405,6,https://opengov.seoul.go.kr/expense/34928405,2025-11-06,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:34952051,49,https://opengov.seoul.go.kr/expense/34952051,2025-11-06,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,222000,uncertain,meeting_only_uncertain,p09
+opengov:34963716,19,https://opengov.seoul.go.kr/expense/34963716,2025-11-06,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:34876707,3,https://opengov.seoul.go.kr/expense/34876707,2025-11-10,seoul_city,민생노동국 상권활성화과,브이아이피참치,서울 중구 을지로 16,36000,uncertain,meeting_only_uncertain,p09
+opengov:34952062,7,https://opengov.seoul.go.kr/expense/34952062,2025-11-10,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,브이아이피참치,서울 중구 을지로 16,174000,uncertain,meeting_only_uncertain,p09
+opengov:34889827,4,https://opengov.seoul.go.kr/expense/34889827,2025-11-13,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:34902478,16,https://opengov.seoul.go.kr/expense/34902478,2025-11-13,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:34973593,29,https://opengov.seoul.go.kr/expense/34973593,2025-11-14,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,36000,uncertain,meeting_only_uncertain,p09
+opengov:34973590,9,https://opengov.seoul.go.kr/expense/34973590,2025-11-18,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:34876704,7,https://opengov.seoul.go.kr/expense/34876704,2025-11-19,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 을지로 16,174000,uncertain,meeting_only_uncertain,p09
+opengov:34902466,5,https://opengov.seoul.go.kr/expense/34902466,2025-11-19,seoul_city,기후환경본부 친환경차량과,브이아이피참치,서울 중구 을지로 16,204000,uncertain,meeting_only_uncertain,p09
+opengov:34952051,154,https://opengov.seoul.go.kr/expense/34952051,2025-11-19,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:34876506,43,https://opengov.seoul.go.kr/expense/34876506,2025-11-21,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 을지로 16,60000,uncertain,meeting_only_uncertain,p09
+opengov:34889815,55,https://opengov.seoul.go.kr/expense/34889815,2025-11-21,seoul_council,운영지원과,브이아이피참치,서울 중구 을지로 16,190000,uncertain,meeting_only_uncertain,p09
+opengov:34904043,22,https://opengov.seoul.go.kr/expense/34904043,2025-11-21,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,198000,uncertain,meeting_only_uncertain,p09
+opengov:34952066,15,https://opengov.seoul.go.kr/expense/34952066,2025-11-21,seoul_office,동부공원여가센터 공원운영과,브이아이피참치,서울 중구 을지로 16,106000,uncertain,meeting_only_uncertain,p09
+opengov:34973590,15,https://opengov.seoul.go.kr/expense/34973590,2025-11-27,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 을지로 16,36000,uncertain,meeting_only_uncertain,p09
+opengov:34891350,14,https://opengov.seoul.go.kr/expense/34891350,2025-11-28,seoul_city,기획조정실 평가담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:34904042,60,https://opengov.seoul.go.kr/expense/34904042,2025-11-28,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,385000,uncertain,meeting_only_uncertain,p09
+opengov:35205486,2,https://opengov.seoul.go.kr/expense/35205486,2025-12-01,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:35157875,1,https://opengov.seoul.go.kr/expense/35157875,2025-12-02,seoul_city,미래청년기획관 청년사업담당관,브이아이피참치,서울 중구 을지로 16,234000,refreshment,refreshment_purchase,p09
+opengov:35177670,3,https://opengov.seoul.go.kr/expense/35177670,2025-12-02,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,126000,uncertain,meeting_only_uncertain,p09
+opengov:35261045,1,https://opengov.seoul.go.kr/expense/35261045,2025-12-02,seoul_city,건설기술정책관 건설혁신담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:35157243,5,https://opengov.seoul.go.kr/expense/35157243,2025-12-05,seoul_city,재무국 세무과,브이아이피참치,서울 중구 을지로 16,99000,uncertain,meeting_only_uncertain,p09
+opengov:35197521,18,https://opengov.seoul.go.kr/expense/35197521,2025-12-10,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,286000,uncertain,meeting_only_uncertain,p09
+opengov:35158202,4,https://opengov.seoul.go.kr/expense/35158202,2025-12-12,seoul_city,여성가족실 가족담당관,브이아이피참치,서울 중구 을지로 16,174000,uncertain,meeting_only_uncertain,p09
+opengov:35177671,163,https://opengov.seoul.go.kr/expense/35177671,2025-12-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:35205493,20,https://opengov.seoul.go.kr/expense/35205493,2025-12-17,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:35205479,31,https://opengov.seoul.go.kr/expense/35205479,2025-12-18,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,488000,uncertain,meeting_only_uncertain,p09
+opengov:35186072,14,https://opengov.seoul.go.kr/expense/35186072,2025-12-23,seoul_city,재무국 계약심사과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:35204397,11,https://opengov.seoul.go.kr/expense/35204397,2025-12-24,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,98000,uncertain,meeting_only_uncertain,p09
+opengov:35231588,16,https://opengov.seoul.go.kr/expense/35231588,2025-12-24,seoul_city,관광체육국 체육진흥과,브이아이피참치,서울 중구 을지로 16,228000,uncertain,meeting_only_uncertain,p09
+opengov:35177688,24,https://opengov.seoul.go.kr/expense/35177688,2025-12-29,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,450000,uncertain,meeting_only_uncertain,p09
+opengov:35389969,1,https://opengov.seoul.go.kr/expense/35389969,2026-01-02,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:35398221,24,https://opengov.seoul.go.kr/expense/35398221,2026-01-06,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,249000,uncertain,meeting_only_uncertain,p09
+opengov:35380371,8,https://opengov.seoul.go.kr/expense/35380371,2026-01-12,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,93000,uncertain,meeting_only_uncertain,p09
+opengov:35398221,73,https://opengov.seoul.go.kr/expense/35398221,2026-01-12,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:35420381,6,https://opengov.seoul.go.kr/expense/35420381,2026-01-13,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:35421534,23,https://opengov.seoul.go.kr/expense/35421534,2026-01-13,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:35398212,22,https://opengov.seoul.go.kr/expense/35398212,2026-01-15,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:35421551,39,https://opengov.seoul.go.kr/expense/35421551,2026-01-15,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:35398221,141,https://opengov.seoul.go.kr/expense/35398221,2026-01-19,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,273000,uncertain,meeting_only_uncertain,p09
+opengov:35369443,6,https://opengov.seoul.go.kr/expense/35369443,2026-01-23,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:35378925,48,https://opengov.seoul.go.kr/expense/35378925,2026-01-29,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:35410193,8,https://opengov.seoul.go.kr/expense/35410193,2026-01-30,seoul_city,도시공간본부 토지관리과,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:35571145,1,https://opengov.seoul.go.kr/expense/35571145,2026-02-02,seoul_city,재무국 38세금징수과,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:35605738,19,https://opengov.seoul.go.kr/expense/35605738,2026-02-03,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,186000,uncertain,meeting_only_uncertain,p09
+opengov:36037106,1,https://opengov.seoul.go.kr/expense/36037106,2026-02-03,seoul_office,여성가족실 아동복지센터,브이아이피참치,서울 중구 을지로 16,128000,uncertain,meeting_only_uncertain,p09
+opengov:35606789,5,https://opengov.seoul.go.kr/expense/35606789,2026-02-04,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:35559500,7,https://opengov.seoul.go.kr/expense/35559500,2026-02-05,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,90000,uncertain,meeting_only_uncertain,p09
+opengov:35560788,2,https://opengov.seoul.go.kr/expense/35560788,2026-02-06,seoul_city,시민건강국 감염병관리과,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:35605733,4,https://opengov.seoul.go.kr/expense/35605733,2026-02-06,seoul_city,미래공간기획관 공공개발담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:35606789,12,https://opengov.seoul.go.kr/expense/35606789,2026-02-06,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:35548096,5,https://opengov.seoul.go.kr/expense/35548096,2026-02-09,seoul_city,뷰티패션산업과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:35606789,22,https://opengov.seoul.go.kr/expense/35606789,2026-02-10,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:35559500,20,https://opengov.seoul.go.kr/expense/35559500,2026-02-11,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,69000,uncertain,meeting_only_uncertain,p09
+opengov:35605738,95,https://opengov.seoul.go.kr/expense/35605738,2026-02-11,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:35605738,120,https://opengov.seoul.go.kr/expense/35605738,2026-02-13,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:35595244,11,https://opengov.seoul.go.kr/expense/35595244,2026-02-23,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,브이아이피참치,서울 중구 을지로 16,126000,uncertain,meeting_only_uncertain,p09
+opengov:35583670,28,https://opengov.seoul.go.kr/expense/35583670,2026-02-25,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 을지로 16,246000,uncertain,meeting_only_uncertain,p09
+opengov:35605738,186,https://opengov.seoul.go.kr/expense/35605738,2026-02-26,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:35559496,29,https://opengov.seoul.go.kr/expense/35559496,2026-02-27,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:35834086,28,https://opengov.seoul.go.kr/expense/35834086,2026-03-05,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:35855696,2,https://opengov.seoul.go.kr/expense/35855696,2026-03-05,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:35855662,6,https://opengov.seoul.go.kr/expense/35855662,2026-03-09,seoul_city,디지털도시국 디지털정책과,브이아이피참치,서울 중구 을지로 16,168000,uncertain,meeting_only_uncertain,p09
+opengov:35834100,23,https://opengov.seoul.go.kr/expense/35834100,2026-03-12,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,420000,uncertain,meeting_only_uncertain,p09
+opengov:35775001,7,https://opengov.seoul.go.kr/expense/35775001,2026-03-13,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,66000,uncertain,meeting_only_uncertain,p09
+opengov:35845469,4,https://opengov.seoul.go.kr/expense/35845469,2026-03-13,seoul_city,교통실 택시정책과,브이아이피참치,서울 중구 을지로 16,91000,uncertain,meeting_only_uncertain,p09
+opengov:35835471,21,https://opengov.seoul.go.kr/expense/35835471,2026-03-16,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:35787121,35,https://opengov.seoul.go.kr/expense/35787121,2026-03-17,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 을지로 16,146000,uncertain,meeting_only_uncertain,p09
+opengov:35776336,9,https://opengov.seoul.go.kr/expense/35776336,2026-03-18,seoul_city,교통실 도시철도과,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:35798931,4,https://opengov.seoul.go.kr/expense/35798931,2026-03-18,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:35824092,8,https://opengov.seoul.go.kr/expense/35824092,2026-03-18,seoul_city,홍보기획관 서울브랜드담당관,브이아이피참치,서울 중구 을지로 16,33000,uncertain,meeting_only_uncertain,p09
+opengov:35835447,10,https://opengov.seoul.go.kr/expense/35835447,2026-03-18,seoul_city,여성가족실 가족담당관,브이아이피참치,서울 중구 을지로 16,80000,uncertain,meeting_only_uncertain,p09
+opengov:35835471,25,https://opengov.seoul.go.kr/expense/35835471,2026-03-18,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:35824079,11,https://opengov.seoul.go.kr/expense/35824079,2026-03-19,seoul_city,기후환경본부 친환경차량과,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:35877464,16,https://opengov.seoul.go.kr/expense/35877464,2026-03-19,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:35799976,41,https://opengov.seoul.go.kr/expense/35799976,2026-03-20,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 을지로 16,38000,uncertain,meeting_only_uncertain,p09
+opengov:35835471,32,https://opengov.seoul.go.kr/expense/35835471,2026-03-24,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:35834100,62,https://opengov.seoul.go.kr/expense/35834100,2026-03-25,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 을지로 16,420000,uncertain,meeting_only_uncertain,p09
+opengov:35812194,39,https://opengov.seoul.go.kr/expense/35812194,2026-03-26,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 을지로 16,117000,uncertain,meeting_only_uncertain,p09
+opengov:35823020,23,https://opengov.seoul.go.kr/expense/35823020,2026-03-26,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,150000,uncertain,meeting_only_uncertain,p09
+opengov:35775001,14,https://opengov.seoul.go.kr/expense/35775001,2026-03-27,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:35824092,17,https://opengov.seoul.go.kr/expense/35824092,2026-03-30,seoul_city,홍보기획관 서울브랜드담당관,브이아이피참치,서울 중구 을지로 16,51000,uncertain,meeting_only_uncertain,p09
+opengov:36026832,9,https://opengov.seoul.go.kr/expense/36026832,2026-04-07,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:36048311,8,https://opengov.seoul.go.kr/expense/36048311,2026-04-09,seoul_city,재무국 재무과,브이아이피참치,서울 중구 을지로 16,95000,uncertain,meeting_only_uncertain,p09
+opengov:36048334,10,https://opengov.seoul.go.kr/expense/36048334,2026-04-09,seoul_city,기획조정실 예산담당관,브이아이피참치,서울 중구 을지로 16,351000,uncertain,meeting_only_uncertain,p09
+opengov:36048342,5,https://opengov.seoul.go.kr/expense/36048342,2026-04-09,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 을지로 16,74000,uncertain,meeting_only_uncertain,p09
+opengov:36037116,23,https://opengov.seoul.go.kr/expense/36037116,2026-04-13,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,74000,uncertain,meeting_only_uncertain,p09
+opengov:36047148,14,https://opengov.seoul.go.kr/expense/36047148,2026-04-13,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,91000,uncertain,meeting_only_uncertain,p09
+opengov:36037116,42,https://opengov.seoul.go.kr/expense/36037116,2026-04-24,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,73000,uncertain,meeting_only_uncertain,p09
+opengov:36012986,36,https://opengov.seoul.go.kr/expense/36012986,2026-04-27,seoul_city,물순환안전국 수변감성도시과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:36026846,48,https://opengov.seoul.go.kr/expense/36026846,2026-04-28,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,144000,uncertain,meeting_only_uncertain,p09
+opengov:36059179,24,https://opengov.seoul.go.kr/expense/36059179,2026-04-28,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,232000,uncertain,meeting_only_uncertain,p09
+opengov:36013028,21,https://opengov.seoul.go.kr/expense/36013028,2026-04-30,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:36261042,6,https://opengov.seoul.go.kr/expense/36261042,2026-05-07,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,72000,uncertain,meeting_only_uncertain,p09
+opengov:36203672,3,https://opengov.seoul.go.kr/expense/36203672,2026-05-12,seoul_city,평생교육국 청소년정책과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:36251013,10,https://opengov.seoul.go.kr/expense/36251013,2026-05-12,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:36203888,8,https://opengov.seoul.go.kr/expense/36203888,2026-05-14,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 을지로 16,84000,uncertain,meeting_only_uncertain,p09
+opengov:36214403,13,https://opengov.seoul.go.kr/expense/36214403,2026-05-14,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:36593999,12,https://opengov.seoul.go.kr/expense/36593999,2026-05-21,seoul_city,주택실 주택정책과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:36261042,29,https://opengov.seoul.go.kr/expense/36261042,2026-05-26,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,105000,uncertain,meeting_only_uncertain,p09
+opengov:36239608,29,https://opengov.seoul.go.kr/expense/36239608,2026-05-29,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09
+opengov:36261042,35,https://opengov.seoul.go.kr/expense/36261042,2026-05-29,seoul_city,도시외교담당관,브이아이피참치,서울 중구 을지로 16,36000,uncertain,meeting_only_uncertain,p09
+opengov:36427706,2,https://opengov.seoul.go.kr/expense/36427706,2026-06-04,seoul_city,물순환안전국 수변감성도시과,브이아이피참치,서울 중구 을지로 16,232000,uncertain,meeting_only_uncertain,p09
+opengov:36438128,4,https://opengov.seoul.go.kr/expense/36438128,2026-06-09,seoul_city,여성가족실 아동담당관,브이아이피참치,서울 중구 을지로 16,136000,uncertain,meeting_only_uncertain,p09
+opengov:36449212,10,https://opengov.seoul.go.kr/expense/36449212,2026-06-09,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,87000,uncertain,meeting_only_uncertain,p09
+opengov:36449224,9,https://opengov.seoul.go.kr/expense/36449224,2026-06-09,seoul_office,서북병원 간호부,브이아이피참치,서울 중구 을지로 16,200000,uncertain,meeting_only_uncertain,p09
+opengov:36401986,3,https://opengov.seoul.go.kr/expense/36401986,2026-06-10,seoul_office,강서도로사업소 관리단속과,브이아이피참치,서울 중구 을지로 16,78000,uncertain,meeting_only_uncertain,p09
+opengov:36426422,7,https://opengov.seoul.go.kr/expense/36426422,2026-06-11,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 을지로 16,100000,uncertain,meeting_only_uncertain,p09
+opengov:36492738,39,https://opengov.seoul.go.kr/expense/36492738,2026-06-15,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,66000,meal,explicit_meal_word,p09
+opengov:36436339,15,https://opengov.seoul.go.kr/expense/36436339,2026-06-17,seoul_city,재난안전실 도로기획관 도로계획과,브이아이피참치,서울 중구 을지로 16,58000,uncertain,meeting_only_uncertain,p09
+opengov:36438876,13,https://opengov.seoul.go.kr/expense/36438876,2026-06-18,seoul_city,디지털도시국 정보시스템과,브이아이피참치,서울 중구 을지로 16,75000,uncertain,meeting_only_uncertain,p09
+opengov:36449212,26,https://opengov.seoul.go.kr/expense/36449212,2026-06-18,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 을지로 16,75000,uncertain,meeting_only_uncertain,p09
+opengov:36501216,57,https://opengov.seoul.go.kr/expense/36501216,2026-06-18,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,324000,uncertain,meeting_only_uncertain,p09
+opengov:36426425,8,https://opengov.seoul.go.kr/expense/36426425,2026-06-23,seoul_office,도시기반시설본부 도시철도설비부,브이아이피참치,서울 중구 을지로 16,49000,uncertain,meeting_only_uncertain,p09
+opengov:36492733,65,https://opengov.seoul.go.kr/expense/36492733,2026-06-23,seoul_council,운영지원과,브이아이피참치,서울 중구 을지로 16,232000,uncertain,meeting_only_uncertain,p09
+opengov:36473051,27,https://opengov.seoul.go.kr/expense/36473051,2026-06-24,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,94000,uncertain,meeting_only_uncertain,p09
+opengov:36492738,57,https://opengov.seoul.go.kr/expense/36492738,2026-06-24,seoul_city,행정2부시장실,브이아이피참치,서울 중구 을지로 16,210000,uncertain,meeting_only_uncertain,p09
+opengov:36473051,33,https://opengov.seoul.go.kr/expense/36473051,2026-06-29,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,145000,uncertain,meeting_only_uncertain,p09
+opengov:36450406,38,https://opengov.seoul.go.kr/expense/36450406,2026-06-30,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:36707683,7,https://opengov.seoul.go.kr/expense/36707683,2026-07-01,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 을지로 16,300000,uncertain,meeting_only_uncertain,p09
+opengov:36716785,12,https://opengov.seoul.go.kr/expense/36716785,2026-07-03,seoul_council,운영지원과,브이아이피참치,서울 중구 을지로 16,192000,uncertain,meeting_only_uncertain,p09
+opengov:36697268,4,https://opengov.seoul.go.kr/expense/36697268,2026-07-06,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 을지로 16,174000,uncertain,meeting_only_uncertain,p09
+opengov:36707491,13,https://opengov.seoul.go.kr/expense/36707491,2026-07-08,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 을지로 16,94000,uncertain,meeting_only_uncertain,p09
+opengov:36707570,17,https://opengov.seoul.go.kr/expense/36707570,2026-07-08,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 을지로 16,226000,uncertain,meeting_only_uncertain,p09
+opengov:36678309,17,https://opengov.seoul.go.kr/expense/36678309,2026-07-09,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:36687794,16,https://opengov.seoul.go.kr/expense/36687794,2026-07-13,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 을지로 16,156000,uncertain,meeting_only_uncertain,p09
+opengov:36707751,20,https://opengov.seoul.go.kr/expense/36707751,2026-07-13,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 을지로 16,136000,uncertain,meeting_only_uncertain,p09
+opengov:36706441,21,https://opengov.seoul.go.kr/expense/36706441,2026-07-14,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 을지로 16,350000,uncertain,meeting_only_uncertain,p09
+opengov:36687853,19,https://opengov.seoul.go.kr/expense/36687853,2026-07-15,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 을지로 16,312000,uncertain,meeting_only_uncertain,p09
+opengov:36706844,110,https://opengov.seoul.go.kr/expense/36706844,2026-07-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 을지로 16,330000,uncertain,meeting_only_uncertain,p09
+opengov:36707716,9,https://opengov.seoul.go.kr/expense/36707716,2026-07-20,seoul_city,교통실 도시철도과,브이아이피참치,서울 중구 을지로 16,189000,uncertain,meeting_only_uncertain,p09
+opengov:36649528,11,https://opengov.seoul.go.kr/expense/36649528,2026-07-21,seoul_city,디지털도시국 공간정보과,브이아이피참치,서울 중구 을지로 16,138000,uncertain,meeting_only_uncertain,p09
+opengov:36707641,8,https://opengov.seoul.go.kr/expense/36707641,2026-07-21,seoul_city,정보보안과,브이아이피참치,서울 중구 을지로 16,114000,uncertain,meeting_only_uncertain,p09
+opengov:36678309,29,https://opengov.seoul.go.kr/expense/36678309,2026-07-22,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 을지로 16,108000,uncertain,meeting_only_uncertain,p09
+opengov:36707578,54,https://opengov.seoul.go.kr/expense/36707578,2026-07-23,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 을지로 16,54000,uncertain,meeting_only_uncertain,p09
+opengov:36869660,11,https://opengov.seoul.go.kr/expense/36869660,2026-08-21,seoul_city,글로벌도시정책관 다문화담당관,브이아이피참치,서울 중구 을지로 16,74000,uncertain,meeting_only_uncertain,p09
+opengov:36856985,38,https://opengov.seoul.go.kr/expense/36856985,2026-08-27,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 을지로 16,116000,uncertain,meeting_only_uncertain,p09

@@ -1,538 +1,538 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:32743361,3,https://opengov.seoul.go.kr/expense/32743361,2025-01-03,seoul_city,디자인정책관디자인정책담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:32774997,1,https://opengov.seoul.go.kr/expense/32774997,2025-01-03,seoul_city,여성가족실 가족담당관,우도일식,서울 중구 세종대로 124,80000,p12
-opengov:32793465,1,https://opengov.seoul.go.kr/expense/32793465,2025-01-03,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,196000,p12
-opengov:32793472,1,https://opengov.seoul.go.kr/expense/32793472,2025-01-03,seoul_city,문화본부 문화유산보존과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:32743360,5,https://opengov.seoul.go.kr/expense/32743360,2025-01-07,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:32743369,4,https://opengov.seoul.go.kr/expense/32743369,2025-01-07,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,64000,p12
-opengov:32755472,4,https://opengov.seoul.go.kr/expense/32755472,2025-01-08,seoul_city,복지실 돌봄복지과,우도일식,서울 중구 세종대로 124,32000,p12
-opengov:32782830,12,https://opengov.seoul.go.kr/expense/32782830,2025-01-08,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:32793510,9,https://opengov.seoul.go.kr/expense/32793510,2025-01-08,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:32793720,3,https://opengov.seoul.go.kr/expense/32793720,2025-01-08,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,96000,p12
-opengov:32743309,9,https://opengov.seoul.go.kr/expense/32743309,2025-01-09,seoul_city,문화본부 박물관과,우도일식,서울 중구 세종대로 124,31000,p12
-opengov:32793528,11,https://opengov.seoul.go.kr/expense/32793528,2025-01-09,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,62000,p12
-opengov:32743389,4,https://opengov.seoul.go.kr/expense/32743389,2025-01-10,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,80000,p12
-opengov:32793528,13,https://opengov.seoul.go.kr/expense/32793528,2025-01-10,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,90000,p12
-opengov:32793682,11,https://opengov.seoul.go.kr/expense/32793682,2025-01-10,seoul_council,시의회사무처 언론홍보실,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:32755472,8,https://opengov.seoul.go.kr/expense/32755472,2025-01-13,seoul_city,복지실 돌봄복지과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:32743360,13,https://opengov.seoul.go.kr/expense/32743360,2025-01-15,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,48000,p12
-opengov:32793461,3,https://opengov.seoul.go.kr/expense/32793461,2025-01-15,seoul_office,도시기반시설본부 도시철도국 토목부,우도일식,서울 중구 세종대로 124,228000,p12
-opengov:32743361,24,https://opengov.seoul.go.kr/expense/32743361,2025-01-20,seoul_city,디자인정책관디자인정책담당관,우도일식,서울 중구 세종대로 124,79000,p12
-opengov:32764517,37,https://opengov.seoul.go.kr/expense/32764517,2025-01-20,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,110000,p12
-opengov:32804029,12,https://opengov.seoul.go.kr/expense/32804029,2025-01-20,seoul_city,복지실 돌봄고독정책관 어르신복지과,우도일식,서울 중구 세종대로 124,127000,p12
-opengov:32743307,4,https://opengov.seoul.go.kr/expense/32743307,2025-01-21,seoul_city,미래청년기획관 청년사업담당관,우도일식,서울 중구 세종대로 124,32000,p12
-opengov:32793720,17,https://opengov.seoul.go.kr/expense/32793720,2025-01-22,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,64000,p12
-opengov:32743353,82,https://opengov.seoul.go.kr/expense/32743353,2025-01-23,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:32793664,10,https://opengov.seoul.go.kr/expense/32793664,2025-01-23,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,52000,p12
-opengov:32755497,6,https://opengov.seoul.go.kr/expense/32755497,2025-01-24,seoul_office,도시기반시설본부 시설국 건축부,우도일식,서울 중구 세종대로 124,80000,p12
-opengov:32939988,3,https://opengov.seoul.go.kr/expense/32939988,2025-02-03,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,45000,p12
-opengov:32963650,2,https://opengov.seoul.go.kr/expense/32963650,2025-02-04,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,48000,p12
-opengov:32985649,4,https://opengov.seoul.go.kr/expense/32985649,2025-02-04,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,160000,p12
-opengov:32973584,7,https://opengov.seoul.go.kr/expense/32973584,2025-02-05,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,95000,p12
-opengov:32974325,7,https://opengov.seoul.go.kr/expense/32974325,2025-02-05,seoul_city,복지실 복지기획관 복지정책과,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:32985645,10,https://opengov.seoul.go.kr/expense/32985645,2025-02-06,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,58000,p12
-opengov:32951631,4,https://opengov.seoul.go.kr/expense/32951631,2025-02-07,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,153000,p12
-opengov:32985428,11,https://opengov.seoul.go.kr/expense/32985428,2025-02-07,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:32952953,4,https://opengov.seoul.go.kr/expense/32952953,2025-02-10,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:32985450,5,https://opengov.seoul.go.kr/expense/32985450,2025-02-10,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,83800,p12
-opengov:33017153,19,https://opengov.seoul.go.kr/expense/33017153,2025-02-11,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,136000,p12
-opengov:32972919,8,https://opengov.seoul.go.kr/expense/32972919,2025-02-12,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:32941249,6,https://opengov.seoul.go.kr/expense/32941249,2025-02-13,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,32000,p12
-opengov:32962305,19,https://opengov.seoul.go.kr/expense/32962305,2025-02-13,seoul_city,기획조정실 예산담당관,우도일식,서울 중구 세종대로 124,229000,p12
-opengov:32972917,12,https://opengov.seoul.go.kr/expense/32972917,2025-02-13,seoul_city,기획조정실 정책기획관 조직담당관,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:32985675,8,https://opengov.seoul.go.kr/expense/32985675,2025-02-13,seoul_city,복지실 돌봄복지과,우도일식,서울 중구 세종대로 124,246000,p12
-opengov:33017152,19,https://opengov.seoul.go.kr/expense/33017152,2025-02-13,seoul_city,행정2부시장실,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:32985654,24,https://opengov.seoul.go.kr/expense/32985654,2025-02-14,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,152000,p12
-opengov:32939988,14,https://opengov.seoul.go.kr/expense/32939988,2025-02-17,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,448000,p12
-opengov:32984591,9,https://opengov.seoul.go.kr/expense/32984591,2025-02-18,seoul_office,서울식물원 기획행정과,우도일식,서울 중구 세종대로 124,52000,p12
-opengov:32985649,15,https://opengov.seoul.go.kr/expense/32985649,2025-02-18,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,67000,p12
-opengov:32985428,29,https://opengov.seoul.go.kr/expense/32985428,2025-02-19,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,96000,p12
-opengov:32985649,17,https://opengov.seoul.go.kr/expense/32985649,2025-02-20,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,48000,p12
-opengov:33017151,20,https://opengov.seoul.go.kr/expense/33017151,2025-02-20,seoul_office,미래한강본부 총무부 총무과,우도일식,서울 중구 세종대로 124,152000,p12
-opengov:32951616,33,https://opengov.seoul.go.kr/expense/32951616,2025-02-21,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,152000,p12
-opengov:32974365,9,https://opengov.seoul.go.kr/expense/32974365,2025-02-21,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,52000,p12
-opengov:32985645,42,https://opengov.seoul.go.kr/expense/32985645,2025-02-21,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,30000,p12
-opengov:32939988,22,https://opengov.seoul.go.kr/expense/32939988,2025-02-24,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,31000,p12
-opengov:32974365,10,https://opengov.seoul.go.kr/expense/32974365,2025-02-24,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,94000,p12
-opengov:33025262,7,https://opengov.seoul.go.kr/expense/33025262,2025-02-25,seoul_city,기획조정실 공기업담당관,우도일식,서울 중구 세종대로 124,158000,p12
-opengov:32963650,8,https://opengov.seoul.go.kr/expense/32963650,2025-02-26,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,133000,p12
-opengov:32939988,29,https://opengov.seoul.go.kr/expense/32939988,2025-02-27,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,48000,p12
-opengov:32940007,12,https://opengov.seoul.go.kr/expense/32940007,2025-02-27,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,52000,p12
-opengov:32962291,13,https://opengov.seoul.go.kr/expense/32962291,2025-02-27,seoul_city,문화본부 문화유산활용과,우도일식,서울 중구 세종대로 124,79000,p12
-opengov:33017152,38,https://opengov.seoul.go.kr/expense/33017152,2025-02-27,seoul_city,행정2부시장실,우도일식,서울 중구 세종대로 124,520000,p12
-opengov:33017153,56,https://opengov.seoul.go.kr/expense/33017153,2025-02-27,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,56000,p12
-opengov:32941256,24,https://opengov.seoul.go.kr/expense/32941256,2025-02-28,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,80000,p12
-opengov:33229622,4,https://opengov.seoul.go.kr/expense/33229622,2025-03-06,seoul_city,기후환경본부 기후환경정책과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:33164994,9,https://opengov.seoul.go.kr/expense/33164994,2025-03-10,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,61000,p12
-opengov:33199367,4,https://opengov.seoul.go.kr/expense/33199367,2025-03-10,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,99000,p12
-opengov:33188804,4,https://opengov.seoul.go.kr/expense/33188804,2025-03-11,seoul_city,재무국 38세금징수과,우도일식,서울 중구 세종대로 124,64000,p12
-opengov:33229602,11,https://opengov.seoul.go.kr/expense/33229602,2025-03-12,seoul_office,미래한강본부 총무부 총무과,우도일식,서울 중구 세종대로 124,48000,p12
-opengov:33199464,3,https://opengov.seoul.go.kr/expense/33199464,2025-03-13,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,176000,p12
-opengov:33220330,14,https://opengov.seoul.go.kr/expense/33220330,2025-03-13,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,224000,p12
-opengov:33166326,13,https://opengov.seoul.go.kr/expense/33166326,2025-03-14,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:33229623,35,https://opengov.seoul.go.kr/expense/33229623,2025-03-14,seoul_city,경제실 경제정책과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:33199367,9,https://opengov.seoul.go.kr/expense/33199367,2025-03-18,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,170000,p12
-opengov:33220315,35,https://opengov.seoul.go.kr/expense/33220315,2025-03-18,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,62000,p12
-opengov:33228391,8,https://opengov.seoul.go.kr/expense/33228391,2025-03-18,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,122000,p12
-opengov:33188815,6,https://opengov.seoul.go.kr/expense/33188815,2025-03-19,seoul_city,미래청년기획관 청년사업담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:33164994,24,https://opengov.seoul.go.kr/expense/33164994,2025-03-25,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:33152571,10,https://opengov.seoul.go.kr/expense/33152571,2025-03-26,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33210273,9,https://opengov.seoul.go.kr/expense/33210273,2025-03-26,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33238082,40,https://opengov.seoul.go.kr/expense/33238082,2025-03-26,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,206000,p12
-opengov:33199346,30,https://opengov.seoul.go.kr/expense/33199346,2025-03-31,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:33229592,8,https://opengov.seoul.go.kr/expense/33229592,2025-03-31,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,64000,p12
-opengov:33382606,1,https://opengov.seoul.go.kr/expense/33382606,2025-04-01,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:33440573,2,https://opengov.seoul.go.kr/expense/33440573,2025-04-02,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33383923,1,https://opengov.seoul.go.kr/expense/33383923,2025-04-03,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:33440571,3,https://opengov.seoul.go.kr/expense/33440571,2025-04-04,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,81000,p12
-opengov:33392400,11,https://opengov.seoul.go.kr/expense/33392400,2025-04-07,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33430091,6,https://opengov.seoul.go.kr/expense/33430091,2025-04-07,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,142000,p12
-opengov:33383927,8,https://opengov.seoul.go.kr/expense/33383927,2025-04-08,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:33406011,1,https://opengov.seoul.go.kr/expense/33406011,2025-04-08,seoul_office,도시기반시설본부 시설국 건축부,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:33406212,5,https://opengov.seoul.go.kr/expense/33406212,2025-04-09,seoul_city,재난안전실 중대재해예방과,우도일식,서울 중구 세종대로 124,60000,p12
-opengov:33430075,4,https://opengov.seoul.go.kr/expense/33430075,2025-04-09,seoul_city,재난안전실 재난안전예방과,우도일식,서울 중구 세종대로 124,69000,p12
-opengov:33392434,35,https://opengov.seoul.go.kr/expense/33392434,2025-04-10,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:33406001,16,https://opengov.seoul.go.kr/expense/33406001,2025-04-10,seoul_city,자치경찰위원회 자치경찰총괄과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:33417511,17,https://opengov.seoul.go.kr/expense/33417511,2025-04-11,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:33383927,13,https://opengov.seoul.go.kr/expense/33383927,2025-04-14,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:33429130,7,https://opengov.seoul.go.kr/expense/33429130,2025-04-14,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33406003,8,https://opengov.seoul.go.kr/expense/33406003,2025-04-17,seoul_city,교통실 교통운영과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33382606,22,https://opengov.seoul.go.kr/expense/33382606,2025-04-18,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:33372970,11,https://opengov.seoul.go.kr/expense/33372970,2025-04-21,seoul_city,기후환경본부 대기정책과,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:33383923,5,https://opengov.seoul.go.kr/expense/33383923,2025-04-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,122000,p12
-opengov:33406001,37,https://opengov.seoul.go.kr/expense/33406001,2025-04-22,seoul_city,자치경찰위원회 자치경찰총괄과,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:33416493,35,https://opengov.seoul.go.kr/expense/33416493,2025-04-22,seoul_council,의정담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33417519,40,https://opengov.seoul.go.kr/expense/33417519,2025-04-22,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,153000,p12
-opengov:33430098,30,https://opengov.seoul.go.kr/expense/33430098,2025-04-22,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:33392433,11,https://opengov.seoul.go.kr/expense/33392433,2025-04-23,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,73000,p12
-opengov:33406019,13,https://opengov.seoul.go.kr/expense/33406019,2025-04-23,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33636130,9,https://opengov.seoul.go.kr/expense/33636130,2025-04-23,seoul_city,글로벌도시정책관 국제협력담당관,우도일식,서울 중구 세종대로 124,145000,p12
-opengov:33429162,10,https://opengov.seoul.go.kr/expense/33429162,2025-04-29,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:33382578,15,https://opengov.seoul.go.kr/expense/33382578,2025-04-30,seoul_council,교육전문위원실,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33430098,38,https://opengov.seoul.go.kr/expense/33430098,2025-04-30,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:33624320,2,https://opengov.seoul.go.kr/expense/33624320,2025-05-01,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33624345,1,https://opengov.seoul.go.kr/expense/33624345,2025-05-01,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33636104,1,https://opengov.seoul.go.kr/expense/33636104,2025-05-01,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:33611268,2,https://opengov.seoul.go.kr/expense/33611268,2025-05-02,seoul_city,복지실 돌봄고독정책관,우도일식,서울 중구 세종대로 124,119000,p12
-opengov:33586919,3,https://opengov.seoul.go.kr/expense/33586919,2025-05-08,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,37000,p12
-opengov:33624318,7,https://opengov.seoul.go.kr/expense/33624318,2025-05-08,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:33611271,4,https://opengov.seoul.go.kr/expense/33611271,2025-05-09,seoul_city,문화본부 문화유산보존과,우도일식,서울 중구 세종대로 124,187000,p12
-opengov:33586934,9,https://opengov.seoul.go.kr/expense/33586934,2025-05-12,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,119000,p12
-opengov:33600342,10,https://opengov.seoul.go.kr/expense/33600342,2025-05-13,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:33636138,3,https://opengov.seoul.go.kr/expense/33636138,2025-05-13,seoul_city,글로벌도시정책관 국제협력담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33586787,7,https://opengov.seoul.go.kr/expense/33586787,2025-05-15,seoul_office,도시기반시설본부 시설국 건축부,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:33624345,8,https://opengov.seoul.go.kr/expense/33624345,2025-05-16,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33624318,16,https://opengov.seoul.go.kr/expense/33624318,2025-05-19,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33634997,31,https://opengov.seoul.go.kr/expense/33634997,2025-05-19,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,236000,p12
-opengov:33634998,7,https://opengov.seoul.go.kr/expense/33634998,2025-05-19,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:33600307,11,https://opengov.seoul.go.kr/expense/33600307,2025-05-20,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,142000,p12
-opengov:33624130,144,https://opengov.seoul.go.kr/expense/33624130,2025-05-20,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33624116,13,https://opengov.seoul.go.kr/expense/33624116,2025-05-21,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,130000,p12
-opengov:33634981,30,https://opengov.seoul.go.kr/expense/33634981,2025-05-21,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,224000,p12
-opengov:33634988,4,https://opengov.seoul.go.kr/expense/33634988,2025-05-21,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:33600342,18,https://opengov.seoul.go.kr/expense/33600342,2025-05-22,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33600619,68,https://opengov.seoul.go.kr/expense/33600619,2025-05-22,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33634988,5,https://opengov.seoul.go.kr/expense/33634988,2025-05-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,170000,p12
-opengov:33635000,12,https://opengov.seoul.go.kr/expense/33635000,2025-05-22,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:33600308,13,https://opengov.seoul.go.kr/expense/33600308,2025-05-23,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,200000,p12
-opengov:33624318,22,https://opengov.seoul.go.kr/expense/33624318,2025-05-26,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33600585,36,https://opengov.seoul.go.kr/expense/33600585,2025-05-27,seoul_city,자치경찰위원회 자치경찰총괄과,우도일식,서울 중구 세종대로 124,63000,p12
-opengov:33586796,14,https://opengov.seoul.go.kr/expense/33586796,2025-05-29,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:33624346,38,https://opengov.seoul.go.kr/expense/33624346,2025-05-30,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,176000,p12
-opengov:33803296,4,https://opengov.seoul.go.kr/expense/33803296,2025-06-02,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33804520,1,https://opengov.seoul.go.kr/expense/33804520,2025-06-02,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:33790705,2,https://opengov.seoul.go.kr/expense/33790705,2025-06-04,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,56000,p12
-opengov:33803296,11,https://opengov.seoul.go.kr/expense/33803296,2025-06-04,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,98000,p12
-opengov:33848789,2,https://opengov.seoul.go.kr/expense/33848789,2025-06-04,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33790690,9,https://opengov.seoul.go.kr/expense/33790690,2025-06-09,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,94000,p12
-opengov:33868881,7,https://opengov.seoul.go.kr/expense/33868881,2025-06-09,seoul_council,시의회사무처 언론홍보실,우도일식,서울 중구 세종대로 124,180000,p12
-opengov:33803296,29,https://opengov.seoul.go.kr/expense/33803296,2025-06-10,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33814564,8,https://opengov.seoul.go.kr/expense/33814564,2025-06-11,seoul_city,재무국 재무과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:33825943,5,https://opengov.seoul.go.kr/expense/33825943,2025-06-11,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33826578,91,https://opengov.seoul.go.kr/expense/33826578,2025-06-11,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,40000,p12
-opengov:33868890,11,https://opengov.seoul.go.kr/expense/33868890,2025-06-11,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:33867844,10,https://opengov.seoul.go.kr/expense/33867844,2025-06-12,seoul_city,기획조정실 정책기획관 조직담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:33803296,49,https://opengov.seoul.go.kr/expense/33803296,2025-06-13,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,77000,p12
-opengov:33790705,8,https://opengov.seoul.go.kr/expense/33790705,2025-06-16,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:33815706,8,https://opengov.seoul.go.kr/expense/33815706,2025-06-16,seoul_office,서울아리수본부 서울물연구원 총무과,우도일식,서울 중구 세종대로 124,159000,p12
-opengov:33868890,15,https://opengov.seoul.go.kr/expense/33868890,2025-06-16,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,159000,p12
-opengov:33790689,4,https://opengov.seoul.go.kr/expense/33790689,2025-06-17,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33826584,6,https://opengov.seoul.go.kr/expense/33826584,2025-06-17,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,90000,p12
-opengov:33848789,13,https://opengov.seoul.go.kr/expense/33848789,2025-06-17,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:33847533,7,https://opengov.seoul.go.kr/expense/33847533,2025-06-18,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,174000,p12
-opengov:33790708,20,https://opengov.seoul.go.kr/expense/33790708,2025-06-23,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,196000,p12
-opengov:33837484,51,https://opengov.seoul.go.kr/expense/33837484,2025-06-23,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:33848789,21,https://opengov.seoul.go.kr/expense/33848789,2025-06-23,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33792086,25,https://opengov.seoul.go.kr/expense/33792086,2025-06-24,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:33836382,21,https://opengov.seoul.go.kr/expense/33836382,2025-06-24,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:33868357,43,https://opengov.seoul.go.kr/expense/33868357,2025-06-25,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:33792086,27,https://opengov.seoul.go.kr/expense/33792086,2025-06-26,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:33847535,3,https://opengov.seoul.go.kr/expense/33847535,2025-06-26,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,150000,p12
-opengov:33804522,18,https://opengov.seoul.go.kr/expense/33804522,2025-06-30,seoul_city,행정국 대외협력과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:33826578,295,https://opengov.seoul.go.kr/expense/33826578,2025-06-30,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:34067498,2,https://opengov.seoul.go.kr/expense/34067498,2025-07-01,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:34077505,1,https://opengov.seoul.go.kr/expense/34077505,2025-07-01,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34086709,2,https://opengov.seoul.go.kr/expense/34086709,2025-07-01,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,96000,p12
-opengov:34067500,2,https://opengov.seoul.go.kr/expense/34067500,2025-07-02,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34077505,4,https://opengov.seoul.go.kr/expense/34077505,2025-07-03,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:34087189,6,https://opengov.seoul.go.kr/expense/34087189,2025-07-03,seoul_city,행정2부시장실,우도일식,서울 중구 세종대로 124,190000,p12
-opengov:34025098,4,https://opengov.seoul.go.kr/expense/34025098,2025-07-04,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:34047854,2,https://opengov.seoul.go.kr/expense/34047854,2025-07-04,seoul_city,관광체육국 체육진흥과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34047857,4,https://opengov.seoul.go.kr/expense/34047857,2025-07-07,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34026231,4,https://opengov.seoul.go.kr/expense/34026231,2025-07-08,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34035945,7,https://opengov.seoul.go.kr/expense/34035945,2025-07-08,seoul_city,기획조정실 정책기획관 조직담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:34058153,2,https://opengov.seoul.go.kr/expense/34058153,2025-07-08,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34077510,50,https://opengov.seoul.go.kr/expense/34077510,2025-07-08,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,271000,p12
-opengov:34037606,5,https://opengov.seoul.go.kr/expense/34037606,2025-07-09,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34086141,2,https://opengov.seoul.go.kr/expense/34086141,2025-07-09,seoul_city,시민건강국 공공의료과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34067498,14,https://opengov.seoul.go.kr/expense/34067498,2025-07-10,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:34025089,13,https://opengov.seoul.go.kr/expense/34025089,2025-07-11,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:34037594,9,https://opengov.seoul.go.kr/expense/34037594,2025-07-14,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34034816,15,https://opengov.seoul.go.kr/expense/34034816,2025-07-15,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34067498,20,https://opengov.seoul.go.kr/expense/34067498,2025-07-15,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,60000,p12
-opengov:34077470,30,https://opengov.seoul.go.kr/expense/34077470,2025-07-16,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,111000,p12
-opengov:34067539,50,https://opengov.seoul.go.kr/expense/34067539,2025-07-18,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34059241,31,https://opengov.seoul.go.kr/expense/34059241,2025-07-22,seoul_city,도시공간본부 도시공간전략과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34066365,21,https://opengov.seoul.go.kr/expense/34066365,2025-07-22,seoul_city,기후환경본부 기후환경정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34086709,29,https://opengov.seoul.go.kr/expense/34086709,2025-07-22,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,152000,p12
-opengov:34047857,19,https://opengov.seoul.go.kr/expense/34047857,2025-07-25,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,69000,p12
-opengov:34077535,49,https://opengov.seoul.go.kr/expense/34077535,2025-07-28,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,200000,p12
-opengov:34077470,45,https://opengov.seoul.go.kr/expense/34077470,2025-07-29,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:34037594,27,https://opengov.seoul.go.kr/expense/34037594,2025-07-30,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,180000,p12
-opengov:34037603,32,https://opengov.seoul.go.kr/expense/34037603,2025-07-31,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:34047857,28,https://opengov.seoul.go.kr/expense/34047857,2025-07-31,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:34299628,4,https://opengov.seoul.go.kr/expense/34299628,2025-08-01,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34220898,2,https://opengov.seoul.go.kr/expense/34220898,2025-08-04,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34254438,2,https://opengov.seoul.go.kr/expense/34254438,2025-08-04,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:34277794,4,https://opengov.seoul.go.kr/expense/34277794,2025-08-04,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34278427,3,https://opengov.seoul.go.kr/expense/34278427,2025-08-04,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,111000,p12
-opengov:34220919,1,https://opengov.seoul.go.kr/expense/34220919,2025-08-05,seoul_city,여성가족실 가족담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34220922,4,https://opengov.seoul.go.kr/expense/34220922,2025-08-05,seoul_council,교육전문위원실,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34243921,7,https://opengov.seoul.go.kr/expense/34243921,2025-08-06,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,230000,p12
-opengov:34289484,26,https://opengov.seoul.go.kr/expense/34289484,2025-08-06,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,70000,p12
-opengov:34278398,8,https://opengov.seoul.go.kr/expense/34278398,2025-08-07,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,142000,p12
-opengov:34288313,9,https://opengov.seoul.go.kr/expense/34288313,2025-08-07,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,276000,p12
-opengov:34221054,4,https://opengov.seoul.go.kr/expense/34221054,2025-08-08,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,120000,p12
-opengov:34299645,45,https://opengov.seoul.go.kr/expense/34299645,2025-08-13,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,111000,p12
-opengov:34254438,5,https://opengov.seoul.go.kr/expense/34254438,2025-08-14,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,79000,p12
-opengov:34243890,6,https://opengov.seoul.go.kr/expense/34243890,2025-08-18,seoul_city,관광체육국 체육진흥과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:34257473,13,https://opengov.seoul.go.kr/expense/34257473,2025-08-18,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:34278432,11,https://opengov.seoul.go.kr/expense/34278432,2025-08-18,seoul_city,기획조정실 창의규제담당관,우도일식,서울 중구 세종대로 124,60000,p12
-opengov:34299643,27,https://opengov.seoul.go.kr/expense/34299643,2025-08-19,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,125000,p12
-opengov:34221081,9,https://opengov.seoul.go.kr/expense/34221081,2025-08-20,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:34233952,25,https://opengov.seoul.go.kr/expense/34233952,2025-08-20,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:34289484,122,https://opengov.seoul.go.kr/expense/34289484,2025-08-20,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34299628,38,https://opengov.seoul.go.kr/expense/34299628,2025-08-21,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34277794,17,https://opengov.seoul.go.kr/expense/34277794,2025-08-22,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34243921,24,https://opengov.seoul.go.kr/expense/34243921,2025-08-25,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:34299645,96,https://opengov.seoul.go.kr/expense/34299645,2025-08-25,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,82000,p12
-opengov:34220922,12,https://opengov.seoul.go.kr/expense/34220922,2025-08-26,seoul_council,교육전문위원실,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34221081,12,https://opengov.seoul.go.kr/expense/34221081,2025-08-26,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,103000,p12
-opengov:34257457,7,https://opengov.seoul.go.kr/expense/34257457,2025-08-26,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34254469,47,https://opengov.seoul.go.kr/expense/34254469,2025-08-27,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,94000,p12
-opengov:34278427,35,https://opengov.seoul.go.kr/expense/34278427,2025-08-27,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:34245182,41,https://opengov.seoul.go.kr/expense/34245182,2025-08-28,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,224000,p12
-opengov:34266460,22,https://opengov.seoul.go.kr/expense/34266460,2025-08-28,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34289484,223,https://opengov.seoul.go.kr/expense/34289484,2025-08-29,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,276000,p12
-opengov:34483980,2,https://opengov.seoul.go.kr/expense/34483980,2025-09-01,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34669097,2,https://opengov.seoul.go.kr/expense/34669097,2025-09-02,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:34467205,4,https://opengov.seoul.go.kr/expense/34467205,2025-09-04,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34481818,2,https://opengov.seoul.go.kr/expense/34481818,2025-09-04,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,122000,p12
-opengov:34495684,11,https://opengov.seoul.go.kr/expense/34495684,2025-09-04,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,236000,p12
-opengov:34465668,2,https://opengov.seoul.go.kr/expense/34465668,2025-09-05,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34483980,10,https://opengov.seoul.go.kr/expense/34483980,2025-09-09,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34495689,3,https://opengov.seoul.go.kr/expense/34495689,2025-09-09,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,248000,p12
-opengov:34483856,19,https://opengov.seoul.go.kr/expense/34483856,2025-09-10,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34495697,13,https://opengov.seoul.go.kr/expense/34495697,2025-09-10,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,179000,p12
-opengov:34467210,24,https://opengov.seoul.go.kr/expense/34467210,2025-09-15,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,160000,p12
-opengov:34495699,21,https://opengov.seoul.go.kr/expense/34495699,2025-09-16,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34465668,8,https://opengov.seoul.go.kr/expense/34465668,2025-09-17,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,108000,p12
-opengov:34483830,43,https://opengov.seoul.go.kr/expense/34483830,2025-09-17,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:34483996,146,https://opengov.seoul.go.kr/expense/34483996,2025-09-17,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34484002,74,https://opengov.seoul.go.kr/expense/34484002,2025-09-17,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34495697,21,https://opengov.seoul.go.kr/expense/34495697,2025-09-17,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:34495699,23,https://opengov.seoul.go.kr/expense/34495699,2025-09-17,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:34454101,30,https://opengov.seoul.go.kr/expense/34454101,2025-09-18,seoul_city,민생노동국 소상공인정책과,우도일식,서울 중구 세종대로 124,77000,p12
-opengov:34467223,20,https://opengov.seoul.go.kr/expense/34467223,2025-09-18,seoul_city,재무국 재무과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:34483821,42,https://opengov.seoul.go.kr/expense/34483821,2025-09-18,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:34723994,22,https://opengov.seoul.go.kr/expense/34723994,2025-09-18,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,74000,p12
-opengov:34465655,28,https://opengov.seoul.go.kr/expense/34465655,2025-09-22,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34495689,4,https://opengov.seoul.go.kr/expense/34495689,2025-09-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,99000,p12
-opengov:34454098,10,https://opengov.seoul.go.kr/expense/34454098,2025-09-24,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34483856,47,https://opengov.seoul.go.kr/expense/34483856,2025-09-24,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:34452842,9,https://opengov.seoul.go.kr/expense/34452842,2025-09-25,seoul_office,도시기반시설본부 시설국 토목부,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34483969,9,https://opengov.seoul.go.kr/expense/34483969,2025-09-25,seoul_office,도시기반시설본부 설비부,우도일식,서울 중구 세종대로 124,132000,p12
-opengov:34453492,12,https://opengov.seoul.go.kr/expense/34453492,2025-09-26,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,62000,p12
-opengov:34483856,54,https://opengov.seoul.go.kr/expense/34483856,2025-09-29,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34700272,1,https://opengov.seoul.go.kr/expense/34700272,2025-10-01,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:34669108,2,https://opengov.seoul.go.kr/expense/34669108,2025-10-13,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,62000,p12
-opengov:34701384,46,https://opengov.seoul.go.kr/expense/34701384,2025-10-13,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34631797,3,https://opengov.seoul.go.kr/expense/34631797,2025-10-14,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34653736,2,https://opengov.seoul.go.kr/expense/34653736,2025-10-14,seoul_city,행정국 평화기반조성과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:34667922,12,https://opengov.seoul.go.kr/expense/34667922,2025-10-14,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:34701384,67,https://opengov.seoul.go.kr/expense/34701384,2025-10-14,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,282000,p12
-opengov:34710680,21,https://opengov.seoul.go.kr/expense/34710680,2025-10-14,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34711309,3,https://opengov.seoul.go.kr/expense/34711309,2025-10-14,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34655469,5,https://opengov.seoul.go.kr/expense/34655469,2025-10-16,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,56000,p12
-opengov:34680973,19,https://opengov.seoul.go.kr/expense/34680973,2025-10-16,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34817832,12,https://opengov.seoul.go.kr/expense/34817832,2025-10-16,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34655596,3,https://opengov.seoul.go.kr/expense/34655596,2025-10-17,seoul_office,도시기반시설본부 시설국 토목부,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34690029,10,https://opengov.seoul.go.kr/expense/34690029,2025-10-20,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,119000,p12
-opengov:34631798,3,https://opengov.seoul.go.kr/expense/34631798,2025-10-21,seoul_city,교통실 보행자전거과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:34667922,27,https://opengov.seoul.go.kr/expense/34667922,2025-10-21,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,210000,p12
-opengov:34680957,16,https://opengov.seoul.go.kr/expense/34680957,2025-10-21,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34711308,13,https://opengov.seoul.go.kr/expense/34711308,2025-10-21,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,129000,p12
-opengov:34711327,21,https://opengov.seoul.go.kr/expense/34711327,2025-10-21,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:34655615,25,https://opengov.seoul.go.kr/expense/34655615,2025-10-23,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34679729,20,https://opengov.seoul.go.kr/expense/34679729,2025-10-23,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:34669108,6,https://opengov.seoul.go.kr/expense/34669108,2025-10-24,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,80000,p12
-opengov:34722640,10,https://opengov.seoul.go.kr/expense/34722640,2025-10-24,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,77000,p12
-opengov:34669100,10,https://opengov.seoul.go.kr/expense/34669100,2025-10-27,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,122000,p12
-opengov:34669128,72,https://opengov.seoul.go.kr/expense/34669128,2025-10-28,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:34817832,23,https://opengov.seoul.go.kr/expense/34817832,2025-10-28,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34655422,10,https://opengov.seoul.go.kr/expense/34655422,2025-10-29,seoul_city,문화본부 박물관과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34680973,46,https://opengov.seoul.go.kr/expense/34680973,2025-10-29,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:34680957,29,https://opengov.seoul.go.kr/expense/34680957,2025-10-30,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34679729,30,https://opengov.seoul.go.kr/expense/34679729,2025-10-31,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:34711195,12,https://opengov.seoul.go.kr/expense/34711195,2025-10-31,seoul_city,정원도시국 동물보호과,우도일식,서울 중구 세종대로 124,59000,p12
-opengov:34926698,1,https://opengov.seoul.go.kr/expense/34926698,2025-11-03,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:34928405,2,https://opengov.seoul.go.kr/expense/34928405,2025-11-03,seoul_city,기획조정실 창의규제담당관,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:34963727,1,https://opengov.seoul.go.kr/expense/34963727,2025-11-03,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34889825,3,https://opengov.seoul.go.kr/expense/34889825,2025-11-04,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34904037,2,https://opengov.seoul.go.kr/expense/34904037,2025-11-04,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,119000,p12
-opengov:34963716,10,https://opengov.seoul.go.kr/expense/34963716,2025-11-05,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:34876704,1,https://opengov.seoul.go.kr/expense/34876704,2025-11-06,seoul_city,기획조정실 법률지원담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:34889825,7,https://opengov.seoul.go.kr/expense/34889825,2025-11-06,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34891336,5,https://opengov.seoul.go.kr/expense/34891336,2025-11-07,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:34904042,16,https://opengov.seoul.go.kr/expense/34904042,2025-11-07,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34889827,3,https://opengov.seoul.go.kr/expense/34889827,2025-11-10,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,190000,p12
-opengov:34926698,8,https://opengov.seoul.go.kr/expense/34926698,2025-11-10,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,159000,p12
-opengov:35213269,4,https://opengov.seoul.go.kr/expense/35213269,2025-11-12,seoul_city,시민건강국 공공의료과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34963711,18,https://opengov.seoul.go.kr/expense/34963711,2025-11-14,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,136000,p12
-opengov:34904042,34,https://opengov.seoul.go.kr/expense/34904042,2025-11-17,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:34963687,28,https://opengov.seoul.go.kr/expense/34963687,2025-11-18,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:34963693,16,https://opengov.seoul.go.kr/expense/34963693,2025-11-18,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,142000,p12
-opengov:34963710,17,https://opengov.seoul.go.kr/expense/34963710,2025-11-18,seoul_city,재무국 재무과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34876530,11,https://opengov.seoul.go.kr/expense/34876530,2025-11-19,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34916621,16,https://opengov.seoul.go.kr/expense/34916621,2025-11-19,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,196000,p12
-opengov:34904042,48,https://opengov.seoul.go.kr/expense/34904042,2025-11-20,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:34963716,79,https://opengov.seoul.go.kr/expense/34963716,2025-11-21,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,123000,p12
-opengov:34939497,56,https://opengov.seoul.go.kr/expense/34939497,2025-11-24,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,362000,p12
-opengov:34939510,38,https://opengov.seoul.go.kr/expense/34939510,2025-11-24,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,305000,p12
-opengov:34902478,32,https://opengov.seoul.go.kr/expense/34902478,2025-11-25,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:34939501,6,https://opengov.seoul.go.kr/expense/34939501,2025-11-25,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,200000,p12
-opengov:34939506,9,https://opengov.seoul.go.kr/expense/34939506,2025-11-25,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:34904042,56,https://opengov.seoul.go.kr/expense/34904042,2025-11-26,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,336000,p12
-opengov:34939497,70,https://opengov.seoul.go.kr/expense/34939497,2025-11-27,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:34963723,35,https://opengov.seoul.go.kr/expense/34963723,2025-11-27,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35157850,2,https://opengov.seoul.go.kr/expense/35157850,2025-12-01,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,125000,p12
-opengov:35167232,1,https://opengov.seoul.go.kr/expense/35167232,2025-12-01,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35175482,1,https://opengov.seoul.go.kr/expense/35175482,2025-12-01,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:35177685,2,https://opengov.seoul.go.kr/expense/35177685,2025-12-01,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35184931,2,https://opengov.seoul.go.kr/expense/35184931,2025-12-01,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,40000,p12
-opengov:35204386,3,https://opengov.seoul.go.kr/expense/35204386,2025-12-02,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,40000,p12
-opengov:35125269,2,https://opengov.seoul.go.kr/expense/35125269,2025-12-09,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35157841,3,https://opengov.seoul.go.kr/expense/35157841,2025-12-09,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:35145918,23,https://opengov.seoul.go.kr/expense/35145918,2025-12-10,seoul_city,교통실 교통정책과,우도일식,서울 중구 세종대로 124,300000,p12
-opengov:35177669,18,https://opengov.seoul.go.kr/expense/35177669,2025-12-10,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:35184929,4,https://opengov.seoul.go.kr/expense/35184929,2025-12-10,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:35184929,5,https://opengov.seoul.go.kr/expense/35184929,2025-12-10,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,229000,p12
-opengov:35144138,5,https://opengov.seoul.go.kr/expense/35144138,2025-12-12,seoul_city,교통실 보행자전거과,우도일식,서울 중구 세종대로 124,196000,p12
-opengov:35144161,19,https://opengov.seoul.go.kr/expense/35144161,2025-12-12,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:35157850,19,https://opengov.seoul.go.kr/expense/35157850,2025-12-12,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:35184942,35,https://opengov.seoul.go.kr/expense/35184942,2025-12-12,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,230000,p12
-opengov:35205453,61,https://opengov.seoul.go.kr/expense/35205453,2025-12-15,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:35167311,16,https://opengov.seoul.go.kr/expense/35167311,2025-12-16,seoul_office,북부공원여가센터 공원운영과,우도일식,서울 중구 세종대로 124,94000,p12
-opengov:35158194,12,https://opengov.seoul.go.kr/expense/35158194,2025-12-18,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:35175482,10,https://opengov.seoul.go.kr/expense/35175482,2025-12-19,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:35177669,31,https://opengov.seoul.go.kr/expense/35177669,2025-12-19,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:35144161,30,https://opengov.seoul.go.kr/expense/35144161,2025-12-22,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:35157841,11,https://opengov.seoul.go.kr/expense/35157841,2025-12-22,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,280400,p12
-opengov:35205479,43,https://opengov.seoul.go.kr/expense/35205479,2025-12-23,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:35184929,13,https://opengov.seoul.go.kr/expense/35184929,2025-12-24,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,270000,p12
-opengov:35240417,23,https://opengov.seoul.go.kr/expense/35240417,2025-12-24,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:35167232,36,https://opengov.seoul.go.kr/expense/35167232,2025-12-26,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:35177671,259,https://opengov.seoul.go.kr/expense/35177671,2025-12-26,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,136000,p12
-opengov:35157875,10,https://opengov.seoul.go.kr/expense/35157875,2025-12-29,seoul_city,미래청년기획관 청년사업담당관,우도일식,서울 중구 세종대로 124,42000,p12
-opengov:35184931,17,https://opengov.seoul.go.kr/expense/35184931,2025-12-29,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,91000,p12
-opengov:35184942,80,https://opengov.seoul.go.kr/expense/35184942,2025-12-31,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,187000,p12
-opengov:35421566,1,https://opengov.seoul.go.kr/expense/35421566,2026-01-02,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:35369462,3,https://opengov.seoul.go.kr/expense/35369462,2026-01-05,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35389954,3,https://opengov.seoul.go.kr/expense/35389954,2026-01-06,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:35434650,4,https://opengov.seoul.go.kr/expense/35434650,2026-01-06,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,120000,p12
-opengov:35410373,11,https://opengov.seoul.go.kr/expense/35410373,2026-01-07,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,17000,p12
-opengov:35408994,6,https://opengov.seoul.go.kr/expense/35408994,2026-01-08,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,40000,p12
-opengov:35421564,2,https://opengov.seoul.go.kr/expense/35421564,2026-01-08,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,276000,p12
-opengov:35388732,1,https://opengov.seoul.go.kr/expense/35388732,2026-01-09,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:35388733,18,https://opengov.seoul.go.kr/expense/35388733,2026-01-09,seoul_city,도시공간본부 도시공간전략과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:35410191,9,https://opengov.seoul.go.kr/expense/35410191,2026-01-09,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:35410374,9,https://opengov.seoul.go.kr/expense/35410374,2026-01-09,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,54000,p12
-opengov:35399571,4,https://opengov.seoul.go.kr/expense/35399571,2026-01-12,seoul_city,문화본부 문화유산보존과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:35369462,6,https://opengov.seoul.go.kr/expense/35369462,2026-01-13,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:35388738,12,https://opengov.seoul.go.kr/expense/35388738,2026-01-13,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35398212,15,https://opengov.seoul.go.kr/expense/35398212,2026-01-13,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,124000,p12
-opengov:35421587,43,https://opengov.seoul.go.kr/expense/35421587,2026-01-13,seoul_city,정무부시장실,우도일식,서울 중구 세종대로 124,312000,p12
-opengov:35369440,5,https://opengov.seoul.go.kr/expense/35369440,2026-01-16,seoul_office,도시기반시설본부 도시철도국 토목부,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:35421534,36,https://opengov.seoul.go.kr/expense/35421534,2026-01-16,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,176000,p12
-opengov:35357542,5,https://opengov.seoul.go.kr/expense/35357542,2026-01-19,seoul_city,교통실 교통운영과,우도일식,서울 중구 세종대로 124,176000,p12
-opengov:35357556,5,https://opengov.seoul.go.kr/expense/35357556,2026-01-20,seoul_city,미래공간기획관 도시활력담당관,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:35434650,24,https://opengov.seoul.go.kr/expense/35434650,2026-01-21,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:35388722,31,https://opengov.seoul.go.kr/expense/35388722,2026-01-22,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35388738,23,https://opengov.seoul.go.kr/expense/35388738,2026-01-22,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35398228,13,https://opengov.seoul.go.kr/expense/35398228,2026-01-22,seoul_city,디지털도시국 정보시스템과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:35380356,24,https://opengov.seoul.go.kr/expense/35380356,2026-01-23,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:35410286,104,https://opengov.seoul.go.kr/expense/35410286,2026-01-23,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,108000,p12
-opengov:35398243,50,https://opengov.seoul.go.kr/expense/35398243,2026-01-26,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:35410164,24,https://opengov.seoul.go.kr/expense/35410164,2026-01-26,seoul_office,북부공원여가센터 공원운영과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:35388738,31,https://opengov.seoul.go.kr/expense/35388738,2026-01-27,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35420391,74,https://opengov.seoul.go.kr/expense/35420391,2026-01-29,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,136000,p12
-opengov:35410191,27,https://opengov.seoul.go.kr/expense/35410191,2026-01-30,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:35560812,1,https://opengov.seoul.go.kr/expense/35560812,2026-02-02,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35605733,1,https://opengov.seoul.go.kr/expense/35605733,2026-02-03,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,125000,p12
-opengov:35581596,1,https://opengov.seoul.go.kr/expense/35581596,2026-02-05,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,우도일식,서울 중구 세종대로 124,154000,p12
-opengov:35582802,2,https://opengov.seoul.go.kr/expense/35582802,2026-02-05,seoul_city,관광체육국 관광산업과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:35548105,7,https://opengov.seoul.go.kr/expense/35548105,2026-02-10,seoul_city,감사위원회 청렴담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:35559486,8,https://opengov.seoul.go.kr/expense/35559486,2026-02-11,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:35559496,17,https://opengov.seoul.go.kr/expense/35559496,2026-02-12,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35560812,24,https://opengov.seoul.go.kr/expense/35560812,2026-02-19,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35560809,35,https://opengov.seoul.go.kr/expense/35560809,2026-02-24,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,264000,p12
-opengov:35560812,31,https://opengov.seoul.go.kr/expense/35560812,2026-02-24,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35595052,51,https://opengov.seoul.go.kr/expense/35595052,2026-02-25,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:35547888,11,https://opengov.seoul.go.kr/expense/35547888,2026-02-26,seoul_council,서울시의회사무처 인사과,우도일식,서울 중구 세종대로 124,37000,p12
-opengov:35559496,27,https://opengov.seoul.go.kr/expense/35559496,2026-02-26,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35595257,47,https://opengov.seoul.go.kr/expense/35595257,2026-02-26,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35547927,28,https://opengov.seoul.go.kr/expense/35547927,2026-02-27,seoul_city,기획조정실 조직담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:35559486,18,https://opengov.seoul.go.kr/expense/35559486,2026-02-27,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,119000,p12
-opengov:36031880,1,https://opengov.seoul.go.kr/expense/36031880,2026-03-03,seoul_city,시민건강국 정신건강과,우도일식,서울 중구 세종대로 124,280000,p12
-opengov:35824119,4,https://opengov.seoul.go.kr/expense/35824119,2026-03-04,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35845460,14,https://opengov.seoul.go.kr/expense/35845460,2026-03-05,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:35787130,6,https://opengov.seoul.go.kr/expense/35787130,2026-03-06,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:35824119,11,https://opengov.seoul.go.kr/expense/35824119,2026-03-09,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35835466,7,https://opengov.seoul.go.kr/expense/35835466,2026-03-09,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,175000,p12
-opengov:35834086,87,https://opengov.seoul.go.kr/expense/35834086,2026-03-12,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:35774999,10,https://opengov.seoul.go.kr/expense/35774999,2026-03-13,seoul_council,서울시의회사무처 인사과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35812194,25,https://opengov.seoul.go.kr/expense/35812194,2026-03-13,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:35823020,9,https://opengov.seoul.go.kr/expense/35823020,2026-03-13,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,136000,p12
-opengov:35824078,5,https://opengov.seoul.go.kr/expense/35824078,2026-03-13,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35834100,32,https://opengov.seoul.go.kr/expense/35834100,2026-03-17,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,60000,p12
-opengov:35823020,13,https://opengov.seoul.go.kr/expense/35823020,2026-03-18,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:35855689,39,https://opengov.seoul.go.kr/expense/35855689,2026-03-18,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,120000,p12
-opengov:35824119,28,https://opengov.seoul.go.kr/expense/35824119,2026-03-20,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:35834086,158,https://opengov.seoul.go.kr/expense/35834086,2026-03-20,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,210000,p12
-opengov:35824078,9,https://opengov.seoul.go.kr/expense/35824078,2026-03-23,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:35824078,10,https://opengov.seoul.go.kr/expense/35824078,2026-03-24,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:35824067,6,https://opengov.seoul.go.kr/expense/35824067,2026-03-25,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35824119,31,https://opengov.seoul.go.kr/expense/35824119,2026-03-25,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:35844332,35,https://opengov.seoul.go.kr/expense/35844332,2026-03-26,seoul_city,감사위원회 감사담당관,우도일식,서울 중구 세종대로 124,235000,p12
-opengov:35824072,34,https://opengov.seoul.go.kr/expense/35824072,2026-03-27,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,122000,p12
-opengov:35834109,50,https://opengov.seoul.go.kr/expense/35834109,2026-03-27,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,98000,p12
-opengov:35824119,39,https://opengov.seoul.go.kr/expense/35824119,2026-03-31,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36013010,1,https://opengov.seoul.go.kr/expense/36013010,2026-04-02,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36024950,3,https://opengov.seoul.go.kr/expense/36024950,2026-04-03,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:35998666,1,https://opengov.seoul.go.kr/expense/35998666,2026-04-06,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:36037089,22,https://opengov.seoul.go.kr/expense/36037089,2026-04-08,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,129000,p12
-opengov:36013028,3,https://opengov.seoul.go.kr/expense/36013028,2026-04-10,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:36013028,4,https://opengov.seoul.go.kr/expense/36013028,2026-04-10,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:36024958,19,https://opengov.seoul.go.kr/expense/36024958,2026-04-10,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,193000,p12
-opengov:36013010,13,https://opengov.seoul.go.kr/expense/36013010,2026-04-13,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:36037076,22,https://opengov.seoul.go.kr/expense/36037076,2026-04-13,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,122000,p12
-opengov:36048332,10,https://opengov.seoul.go.kr/expense/36048332,2026-04-13,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:36024950,7,https://opengov.seoul.go.kr/expense/36024950,2026-04-14,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:36025209,8,https://opengov.seoul.go.kr/expense/36025209,2026-04-14,seoul_city,복지실 돌봄고독정책관 어르신복지과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36059062,9,https://opengov.seoul.go.kr/expense/36059062,2026-04-14,seoul_city,문화본부 문화유산활용과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36013010,18,https://opengov.seoul.go.kr/expense/36013010,2026-04-15,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,119000,p12
-opengov:36026819,22,https://opengov.seoul.go.kr/expense/36026819,2026-04-15,seoul_city,주택실 건축기획과,우도일식,서울 중구 세종대로 124,136000,p12
-opengov:36012994,4,https://opengov.seoul.go.kr/expense/36012994,2026-04-16,seoul_office,도시기반시설본부 시설국 토목부,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:36034667,9,https://opengov.seoul.go.kr/expense/36034667,2026-04-20,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:36037089,56,https://opengov.seoul.go.kr/expense/36037089,2026-04-20,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,223000,p12
-opengov:36037076,47,https://opengov.seoul.go.kr/expense/36037076,2026-04-23,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:36012998,10,https://opengov.seoul.go.kr/expense/36012998,2026-04-24,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:36024950,11,https://opengov.seoul.go.kr/expense/36024950,2026-04-24,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36024957,42,https://opengov.seoul.go.kr/expense/36024957,2026-04-27,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:36059057,14,https://opengov.seoul.go.kr/expense/36059057,2026-04-28,seoul_council,보건복지전문위원실,우도일식,서울 중구 세종대로 124,56000,p12
-opengov:36024950,12,https://opengov.seoul.go.kr/expense/36024950,2026-04-29,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:36025184,12,https://opengov.seoul.go.kr/expense/36025184,2026-04-29,seoul_office,서울공예박물관 총무과,우도일식,서울 중구 세종대로 124,160000,p12
-opengov:36031960,64,https://opengov.seoul.go.kr/expense/36031960,2026-04-29,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,76000,p12
-opengov:36010868,10,https://opengov.seoul.go.kr/expense/36010868,2026-04-30,seoul_office,도시기반시설본부 도시철도국 토목부,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36059170,9,https://opengov.seoul.go.kr/expense/36059170,2026-04-30,seoul_city,미래공간기획관 용산입체도시담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36203864,4,https://opengov.seoul.go.kr/expense/36203864,2026-05-06,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36239608,1,https://opengov.seoul.go.kr/expense/36239608,2026-05-06,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36203841,4,https://opengov.seoul.go.kr/expense/36203841,2026-05-08,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,159000,p12
-opengov:36414577,3,https://opengov.seoul.go.kr/expense/36414577,2026-05-08,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,84000,p12
-opengov:36216600,16,https://opengov.seoul.go.kr/expense/36216600,2026-05-11,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:36240389,4,https://opengov.seoul.go.kr/expense/36240389,2026-05-12,seoul_city,기후환경본부 대기정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36216600,25,https://opengov.seoul.go.kr/expense/36216600,2026-05-15,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,224000,p12
-opengov:36239608,14,https://opengov.seoul.go.kr/expense/36239608,2026-05-18,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36271397,47,https://opengov.seoul.go.kr/expense/36271397,2026-05-18,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:36216600,35,https://opengov.seoul.go.kr/expense/36216600,2026-05-19,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:36229052,8,https://opengov.seoul.go.kr/expense/36229052,2026-05-19,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,77000,p12
-opengov:36239608,18,https://opengov.seoul.go.kr/expense/36239608,2026-05-19,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36250888,5,https://opengov.seoul.go.kr/expense/36250888,2026-05-20,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:36214403,21,https://opengov.seoul.go.kr/expense/36214403,2026-05-21,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:36414577,9,https://opengov.seoul.go.kr/expense/36414577,2026-05-21,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,50000,p12
-opengov:36251013,23,https://opengov.seoul.go.kr/expense/36251013,2026-05-28,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36239608,28,https://opengov.seoul.go.kr/expense/36239608,2026-05-29,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36438128,1,https://opengov.seoul.go.kr/expense/36438128,2026-06-01,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:36473051,5,https://opengov.seoul.go.kr/expense/36473051,2026-06-02,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:36492736,9,https://opengov.seoul.go.kr/expense/36492736,2026-06-04,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,224000,p12
-opengov:36450406,5,https://opengov.seoul.go.kr/expense/36450406,2026-06-05,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36502173,9,https://opengov.seoul.go.kr/expense/36502173,2026-06-05,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,175000,p12
-opengov:36473051,8,https://opengov.seoul.go.kr/expense/36473051,2026-06-08,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36461528,11,https://opengov.seoul.go.kr/expense/36461528,2026-06-10,seoul_city,기후환경본부 대기정책과,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:36450406,12,https://opengov.seoul.go.kr/expense/36450406,2026-06-11,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36492721,2,https://opengov.seoul.go.kr/expense/36492721,2026-06-11,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,97000,p12
-opengov:36426418,15,https://opengov.seoul.go.kr/expense/36426418,2026-06-15,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:36492736,31,https://opengov.seoul.go.kr/expense/36492736,2026-06-16,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,85000,p12
-opengov:36471821,20,https://opengov.seoul.go.kr/expense/36471821,2026-06-17,seoul_city,주택실 건축기획과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36414578,12,https://opengov.seoul.go.kr/expense/36414578,2026-06-18,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:36414578,13,https://opengov.seoul.go.kr/expense/36414578,2026-06-18,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,56000,p12
-opengov:36450406,22,https://opengov.seoul.go.kr/expense/36450406,2026-06-18,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36438873,31,https://opengov.seoul.go.kr/expense/36438873,2026-06-19,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,34000,p12
-opengov:36502173,34,https://opengov.seoul.go.kr/expense/36502173,2026-06-19,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,120000,p12
-opengov:36426449,57,https://opengov.seoul.go.kr/expense/36426449,2026-06-22,seoul_city,도시공간본부 도시공간전략과,우도일식,서울 중구 세종대로 124,82000,p12
-opengov:36427693,11,https://opengov.seoul.go.kr/expense/36427693,2026-06-22,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,90000,p12
-opengov:36492721,8,https://opengov.seoul.go.kr/expense/36492721,2026-06-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,128000,p12
-opengov:36501219,11,https://opengov.seoul.go.kr/expense/36501219,2026-06-22,seoul_city,균형발전본부동남권사업과,우도일식,서울 중구 세종대로 124,90000,p12
-opengov:36432948,31,https://opengov.seoul.go.kr/expense/36432948,2026-06-23,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,83000,p12
-opengov:36487519,10,https://opengov.seoul.go.kr/expense/36487519,2026-06-23,seoul_city,복지실 고독대응과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:36432948,35,https://opengov.seoul.go.kr/expense/36432948,2026-06-25,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,77000,p12
-opengov:36414578,16,https://opengov.seoul.go.kr/expense/36414578,2026-06-26,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36687866,1,https://opengov.seoul.go.kr/expense/36687866,2026-07-01,seoul_city,관광체육국 관광산업과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36655867,3,https://opengov.seoul.go.kr/expense/36655867,2026-07-02,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,101000,p12
-opengov:36697268,1,https://opengov.seoul.go.kr/expense/36697268,2026-07-02,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,65000,p12
-opengov:36687794,5,https://opengov.seoul.go.kr/expense/36687794,2026-07-03,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,77000,p12
-opengov:36707731,3,https://opengov.seoul.go.kr/expense/36707731,2026-07-03,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,80000,p12
-opengov:36667215,1,https://opengov.seoul.go.kr/expense/36667215,2026-07-06,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:36706441,8,https://opengov.seoul.go.kr/expense/36706441,2026-07-07,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36655867,14,https://opengov.seoul.go.kr/expense/36655867,2026-07-09,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,71000,p12
-opengov:36667214,10,https://opengov.seoul.go.kr/expense/36667214,2026-07-10,seoul_city,시민건강국 식품정책과,우도일식,서울 중구 세종대로 124,143000,p12
-opengov:36707683,47,https://opengov.seoul.go.kr/expense/36707683,2026-07-10,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,140000,p12
-opengov:36678326,10,https://opengov.seoul.go.kr/expense/36678326,2026-07-14,seoul_city,기후환경본부 친환경건물과,우도일식,서울 중구 세종대로 124,185000,p12
-opengov:36706441,20,https://opengov.seoul.go.kr/expense/36706441,2026-07-14,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36697268,16,https://opengov.seoul.go.kr/expense/36697268,2026-07-15,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36687868,36,https://opengov.seoul.go.kr/expense/36687868,2026-07-16,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,112000,p12
-opengov:36697259,42,https://opengov.seoul.go.kr/expense/36697259,2026-07-16,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,108000,p12
-opengov:36707578,38,https://opengov.seoul.go.kr/expense/36707578,2026-07-16,seoul_city,교통실 교통정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36697293,7,https://opengov.seoul.go.kr/expense/36697293,2026-07-20,seoul_office,도시기반시설본부 설비부,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:36706441,25,https://opengov.seoul.go.kr/expense/36706441,2026-07-20,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,p12
-opengov:36707495,17,https://opengov.seoul.go.kr/expense/36707495,2026-07-20,seoul_city,문화본부 문화유산과,우도일식,서울 중구 세종대로 124,105000,p12
-opengov:36655876,20,https://opengov.seoul.go.kr/expense/36655876,2026-07-21,seoul_council,서울시의회사무처 인사과,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:36716785,55,https://opengov.seoul.go.kr/expense/36716785,2026-07-22,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,210000,p12
-opengov:36655867,45,https://opengov.seoul.go.kr/expense/36655867,2026-07-27,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36706441,39,https://opengov.seoul.go.kr/expense/36706441,2026-07-27,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,p12
-opengov:36707570,52,https://opengov.seoul.go.kr/expense/36707570,2026-07-27,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,290000,p12
-opengov:36707600,13,https://opengov.seoul.go.kr/expense/36707600,2026-07-27,seoul_council,교통전문위원실,우도일식,서울 중구 세종대로 124,168000,p12
-opengov:36707731,17,https://opengov.seoul.go.kr/expense/36707731,2026-07-27,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,102000,p12
-opengov:36687868,53,https://opengov.seoul.go.kr/expense/36687868,2026-07-28,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,100000,p12
-opengov:36697293,11,https://opengov.seoul.go.kr/expense/36697293,2026-07-28,seoul_office,도시기반시설본부 설비부,우도일식,서울 중구 세종대로 124,143000,p12
-opengov:36687794,35,https://opengov.seoul.go.kr/expense/36687794,2026-07-29,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,56000,p12
-opengov:36655893,12,https://opengov.seoul.go.kr/expense/36655893,2026-07-30,seoul_city,자치경찰협력과,우도일식,서울 중구 세종대로 124,108000,p12
-opengov:36697313,19,https://opengov.seoul.go.kr/expense/36697313,2026-07-30,seoul_city,문화본부 박물관과,우도일식,서울 중구 세종대로 124,57000,p12
-opengov:36857012,2,https://opengov.seoul.go.kr/expense/36857012,2026-08-05,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,94000,p12
-opengov:36857012,5,https://opengov.seoul.go.kr/expense/36857012,2026-08-07,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,40000,p12
-opengov:36857023,8,https://opengov.seoul.go.kr/expense/36857023,2026-08-07,seoul_city,기획조정실 조직담당관,우도일식,서울 중구 세종대로 124,42000,p12
-opengov:36868539,6,https://opengov.seoul.go.kr/expense/36868539,2026-08-07,seoul_city,시민건강국 공공의료과,우도일식,서울 중구 세종대로 124,45000,p12
-opengov:36844661,6,https://opengov.seoul.go.kr/expense/36844661,2026-08-18,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,94000,p12
-opengov:36857012,9,https://opengov.seoul.go.kr/expense/36857012,2026-08-18,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,88000,p12
-opengov:36868537,12,https://opengov.seoul.go.kr/expense/36868537,2026-08-25,seoul_city,시민건강국 정신건강과,우도일식,서울 중구 세종대로 124,156000,p12
-opengov:36857012,25,https://opengov.seoul.go.kr/expense/36857012,2026-08-27,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,40000,p12
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:32743361,3,https://opengov.seoul.go.kr/expense/32743361,2025-01-03,seoul_city,디자인정책관디자인정책담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:32774997,1,https://opengov.seoul.go.kr/expense/32774997,2025-01-03,seoul_city,여성가족실 가족담당관,우도일식,서울 중구 세종대로 124,80000,uncertain,meeting_only_uncertain,p12
+opengov:32793465,1,https://opengov.seoul.go.kr/expense/32793465,2025-01-03,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,196000,uncertain,meeting_only_uncertain,p12
+opengov:32793472,1,https://opengov.seoul.go.kr/expense/32793472,2025-01-03,seoul_city,문화본부 문화유산보존과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:32743360,5,https://opengov.seoul.go.kr/expense/32743360,2025-01-07,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:32743369,4,https://opengov.seoul.go.kr/expense/32743369,2025-01-07,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,64000,uncertain,meeting_only_uncertain,p12
+opengov:32755472,4,https://opengov.seoul.go.kr/expense/32755472,2025-01-08,seoul_city,복지실 돌봄복지과,우도일식,서울 중구 세종대로 124,32000,uncertain,meeting_only_uncertain,p12
+opengov:32782830,12,https://opengov.seoul.go.kr/expense/32782830,2025-01-08,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:32793510,9,https://opengov.seoul.go.kr/expense/32793510,2025-01-08,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:32793720,3,https://opengov.seoul.go.kr/expense/32793720,2025-01-08,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,96000,uncertain,meeting_only_uncertain,p12
+opengov:32743309,9,https://opengov.seoul.go.kr/expense/32743309,2025-01-09,seoul_city,문화본부 박물관과,우도일식,서울 중구 세종대로 124,31000,uncertain,meeting_only_uncertain,p12
+opengov:32793528,11,https://opengov.seoul.go.kr/expense/32793528,2025-01-09,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,62000,uncertain,meeting_only_uncertain,p12
+opengov:32743389,4,https://opengov.seoul.go.kr/expense/32743389,2025-01-10,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,80000,uncertain,meeting_only_uncertain,p12
+opengov:32793528,13,https://opengov.seoul.go.kr/expense/32793528,2025-01-10,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,90000,uncertain,meeting_only_uncertain,p12
+opengov:32793682,11,https://opengov.seoul.go.kr/expense/32793682,2025-01-10,seoul_council,시의회사무처 언론홍보실,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:32755472,8,https://opengov.seoul.go.kr/expense/32755472,2025-01-13,seoul_city,복지실 돌봄복지과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:32743360,13,https://opengov.seoul.go.kr/expense/32743360,2025-01-15,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,48000,uncertain,meeting_only_uncertain,p12
+opengov:32793461,3,https://opengov.seoul.go.kr/expense/32793461,2025-01-15,seoul_office,도시기반시설본부 도시철도국 토목부,우도일식,서울 중구 세종대로 124,228000,uncertain,meeting_only_uncertain,p12
+opengov:32743361,24,https://opengov.seoul.go.kr/expense/32743361,2025-01-20,seoul_city,디자인정책관디자인정책담당관,우도일식,서울 중구 세종대로 124,79000,uncertain,meeting_only_uncertain,p12
+opengov:32764517,37,https://opengov.seoul.go.kr/expense/32764517,2025-01-20,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,110000,uncertain,meeting_only_uncertain,p12
+opengov:32804029,12,https://opengov.seoul.go.kr/expense/32804029,2025-01-20,seoul_city,복지실 돌봄고독정책관 어르신복지과,우도일식,서울 중구 세종대로 124,127000,uncertain,meeting_only_uncertain,p12
+opengov:32743307,4,https://opengov.seoul.go.kr/expense/32743307,2025-01-21,seoul_city,미래청년기획관 청년사업담당관,우도일식,서울 중구 세종대로 124,32000,uncertain,meeting_only_uncertain,p12
+opengov:32793720,17,https://opengov.seoul.go.kr/expense/32793720,2025-01-22,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,64000,uncertain,meeting_only_uncertain,p12
+opengov:32743353,82,https://opengov.seoul.go.kr/expense/32743353,2025-01-23,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:32793664,10,https://opengov.seoul.go.kr/expense/32793664,2025-01-23,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,52000,uncertain,meeting_only_uncertain,p12
+opengov:32755497,6,https://opengov.seoul.go.kr/expense/32755497,2025-01-24,seoul_office,도시기반시설본부 시설국 건축부,우도일식,서울 중구 세종대로 124,80000,uncertain,meeting_only_uncertain,p12
+opengov:32939988,3,https://opengov.seoul.go.kr/expense/32939988,2025-02-03,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,45000,uncertain,meeting_only_uncertain,p12
+opengov:32963650,2,https://opengov.seoul.go.kr/expense/32963650,2025-02-04,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,48000,uncertain,meeting_only_uncertain,p12
+opengov:32985649,4,https://opengov.seoul.go.kr/expense/32985649,2025-02-04,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,160000,uncertain,meeting_only_uncertain,p12
+opengov:32973584,7,https://opengov.seoul.go.kr/expense/32973584,2025-02-05,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,95000,uncertain,meeting_only_uncertain,p12
+opengov:32974325,7,https://opengov.seoul.go.kr/expense/32974325,2025-02-05,seoul_city,복지실 복지기획관 복지정책과,우도일식,서울 중구 세종대로 124,84000,uncertain,policy_topic_uncertain,p12
+opengov:32985645,10,https://opengov.seoul.go.kr/expense/32985645,2025-02-06,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,58000,uncertain,meeting_only_uncertain,p12
+opengov:32951631,4,https://opengov.seoul.go.kr/expense/32951631,2025-02-07,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,153000,uncertain,meeting_only_uncertain,p12
+opengov:32985428,11,https://opengov.seoul.go.kr/expense/32985428,2025-02-07,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:32952953,4,https://opengov.seoul.go.kr/expense/32952953,2025-02-10,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:32985450,5,https://opengov.seoul.go.kr/expense/32985450,2025-02-10,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,83800,uncertain,meeting_only_uncertain,p12
+opengov:33017153,19,https://opengov.seoul.go.kr/expense/33017153,2025-02-11,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,136000,uncertain,meeting_only_uncertain,p12
+opengov:32972919,8,https://opengov.seoul.go.kr/expense/32972919,2025-02-12,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:32941249,6,https://opengov.seoul.go.kr/expense/32941249,2025-02-13,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,32000,uncertain,meeting_only_uncertain,p12
+opengov:32962305,19,https://opengov.seoul.go.kr/expense/32962305,2025-02-13,seoul_city,기획조정실 예산담당관,우도일식,서울 중구 세종대로 124,229000,uncertain,meeting_only_uncertain,p12
+opengov:32972917,12,https://opengov.seoul.go.kr/expense/32972917,2025-02-13,seoul_city,기획조정실 정책기획관 조직담당관,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:32985675,8,https://opengov.seoul.go.kr/expense/32985675,2025-02-13,seoul_city,복지실 돌봄복지과,우도일식,서울 중구 세종대로 124,246000,uncertain,meeting_only_uncertain,p12
+opengov:33017152,19,https://opengov.seoul.go.kr/expense/33017152,2025-02-13,seoul_city,행정2부시장실,우도일식,서울 중구 세종대로 124,168000,meal,explicit_meal_word,p12
+opengov:32985654,24,https://opengov.seoul.go.kr/expense/32985654,2025-02-14,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,152000,uncertain,meeting_only_uncertain,p12
+opengov:32939988,14,https://opengov.seoul.go.kr/expense/32939988,2025-02-17,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,448000,uncertain,meeting_only_uncertain,p12
+opengov:32984591,9,https://opengov.seoul.go.kr/expense/32984591,2025-02-18,seoul_office,서울식물원 기획행정과,우도일식,서울 중구 세종대로 124,52000,uncertain,meeting_only_uncertain,p12
+opengov:32985649,15,https://opengov.seoul.go.kr/expense/32985649,2025-02-18,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,67000,uncertain,meeting_only_uncertain,p12
+opengov:32985428,29,https://opengov.seoul.go.kr/expense/32985428,2025-02-19,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,96000,uncertain,meeting_only_uncertain,p12
+opengov:32985649,17,https://opengov.seoul.go.kr/expense/32985649,2025-02-20,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,48000,uncertain,meeting_only_uncertain,p12
+opengov:33017151,20,https://opengov.seoul.go.kr/expense/33017151,2025-02-20,seoul_office,미래한강본부 총무부 총무과,우도일식,서울 중구 세종대로 124,152000,uncertain,meeting_only_uncertain,p12
+opengov:32951616,33,https://opengov.seoul.go.kr/expense/32951616,2025-02-21,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,152000,uncertain,meeting_only_uncertain,p12
+opengov:32974365,9,https://opengov.seoul.go.kr/expense/32974365,2025-02-21,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,52000,uncertain,meeting_only_uncertain,p12
+opengov:32985645,42,https://opengov.seoul.go.kr/expense/32985645,2025-02-21,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,30000,uncertain,meeting_only_uncertain,p12
+opengov:32939988,22,https://opengov.seoul.go.kr/expense/32939988,2025-02-24,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,31000,uncertain,meeting_only_uncertain,p12
+opengov:32974365,10,https://opengov.seoul.go.kr/expense/32974365,2025-02-24,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,94000,uncertain,meeting_only_uncertain,p12
+opengov:33025262,7,https://opengov.seoul.go.kr/expense/33025262,2025-02-25,seoul_city,기획조정실 공기업담당관,우도일식,서울 중구 세종대로 124,158000,uncertain,meeting_only_uncertain,p12
+opengov:32963650,8,https://opengov.seoul.go.kr/expense/32963650,2025-02-26,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,133000,uncertain,meeting_only_uncertain,p12
+opengov:32939988,29,https://opengov.seoul.go.kr/expense/32939988,2025-02-27,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,48000,uncertain,meeting_only_uncertain,p12
+opengov:32940007,12,https://opengov.seoul.go.kr/expense/32940007,2025-02-27,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,52000,uncertain,meeting_only_uncertain,p12
+opengov:32962291,13,https://opengov.seoul.go.kr/expense/32962291,2025-02-27,seoul_city,문화본부 문화유산활용과,우도일식,서울 중구 세종대로 124,79000,uncertain,meeting_only_uncertain,p12
+opengov:33017152,38,https://opengov.seoul.go.kr/expense/33017152,2025-02-27,seoul_city,행정2부시장실,우도일식,서울 중구 세종대로 124,520000,meal,explicit_meal_word,p12
+opengov:33017153,56,https://opengov.seoul.go.kr/expense/33017153,2025-02-27,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,56000,uncertain,meeting_only_uncertain,p12
+opengov:32941256,24,https://opengov.seoul.go.kr/expense/32941256,2025-02-28,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,80000,uncertain,meeting_only_uncertain,p12
+opengov:33229622,4,https://opengov.seoul.go.kr/expense/33229622,2025-03-06,seoul_city,기후환경본부 기후환경정책과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:33164994,9,https://opengov.seoul.go.kr/expense/33164994,2025-03-10,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,61000,uncertain,meeting_only_uncertain,p12
+opengov:33199367,4,https://opengov.seoul.go.kr/expense/33199367,2025-03-10,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,99000,uncertain,meeting_only_uncertain,p12
+opengov:33188804,4,https://opengov.seoul.go.kr/expense/33188804,2025-03-11,seoul_city,재무국 38세금징수과,우도일식,서울 중구 세종대로 124,64000,uncertain,meeting_only_uncertain,p12
+opengov:33229602,11,https://opengov.seoul.go.kr/expense/33229602,2025-03-12,seoul_office,미래한강본부 총무부 총무과,우도일식,서울 중구 세종대로 124,48000,uncertain,meeting_only_uncertain,p12
+opengov:33199464,3,https://opengov.seoul.go.kr/expense/33199464,2025-03-13,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,176000,uncertain,meeting_only_uncertain,p12
+opengov:33220330,14,https://opengov.seoul.go.kr/expense/33220330,2025-03-13,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,224000,uncertain,meeting_only_uncertain,p12
+opengov:33166326,13,https://opengov.seoul.go.kr/expense/33166326,2025-03-14,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:33229623,35,https://opengov.seoul.go.kr/expense/33229623,2025-03-14,seoul_city,경제실 경제정책과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:33199367,9,https://opengov.seoul.go.kr/expense/33199367,2025-03-18,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,170000,uncertain,meeting_only_uncertain,p12
+opengov:33220315,35,https://opengov.seoul.go.kr/expense/33220315,2025-03-18,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,62000,uncertain,meeting_only_uncertain,p12
+opengov:33228391,8,https://opengov.seoul.go.kr/expense/33228391,2025-03-18,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,122000,uncertain,meeting_only_uncertain,p12
+opengov:33188815,6,https://opengov.seoul.go.kr/expense/33188815,2025-03-19,seoul_city,미래청년기획관 청년사업담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:33164994,24,https://opengov.seoul.go.kr/expense/33164994,2025-03-25,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:33152571,10,https://opengov.seoul.go.kr/expense/33152571,2025-03-26,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33210273,9,https://opengov.seoul.go.kr/expense/33210273,2025-03-26,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33238082,40,https://opengov.seoul.go.kr/expense/33238082,2025-03-26,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,206000,uncertain,meeting_only_uncertain,p12
+opengov:33199346,30,https://opengov.seoul.go.kr/expense/33199346,2025-03-31,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:33229592,8,https://opengov.seoul.go.kr/expense/33229592,2025-03-31,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,64000,uncertain,meeting_only_uncertain,p12
+opengov:33382606,1,https://opengov.seoul.go.kr/expense/33382606,2025-04-01,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:33440573,2,https://opengov.seoul.go.kr/expense/33440573,2025-04-02,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33383923,1,https://opengov.seoul.go.kr/expense/33383923,2025-04-03,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:33440571,3,https://opengov.seoul.go.kr/expense/33440571,2025-04-04,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,81000,uncertain,meeting_only_uncertain,p12
+opengov:33392400,11,https://opengov.seoul.go.kr/expense/33392400,2025-04-07,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33430091,6,https://opengov.seoul.go.kr/expense/33430091,2025-04-07,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,142000,uncertain,meeting_only_uncertain,p12
+opengov:33383927,8,https://opengov.seoul.go.kr/expense/33383927,2025-04-08,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:33406011,1,https://opengov.seoul.go.kr/expense/33406011,2025-04-08,seoul_office,도시기반시설본부 시설국 건축부,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:33406212,5,https://opengov.seoul.go.kr/expense/33406212,2025-04-09,seoul_city,재난안전실 중대재해예방과,우도일식,서울 중구 세종대로 124,60000,uncertain,meeting_only_uncertain,p12
+opengov:33430075,4,https://opengov.seoul.go.kr/expense/33430075,2025-04-09,seoul_city,재난안전실 재난안전예방과,우도일식,서울 중구 세종대로 124,69000,uncertain,meeting_only_uncertain,p12
+opengov:33392434,35,https://opengov.seoul.go.kr/expense/33392434,2025-04-10,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:33406001,16,https://opengov.seoul.go.kr/expense/33406001,2025-04-10,seoul_city,자치경찰위원회 자치경찰총괄과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:33417511,17,https://opengov.seoul.go.kr/expense/33417511,2025-04-11,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:33383927,13,https://opengov.seoul.go.kr/expense/33383927,2025-04-14,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:33429130,7,https://opengov.seoul.go.kr/expense/33429130,2025-04-14,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33406003,8,https://opengov.seoul.go.kr/expense/33406003,2025-04-17,seoul_city,교통실 교통운영과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33382606,22,https://opengov.seoul.go.kr/expense/33382606,2025-04-18,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:33372970,11,https://opengov.seoul.go.kr/expense/33372970,2025-04-21,seoul_city,기후환경본부 대기정책과,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:33383923,5,https://opengov.seoul.go.kr/expense/33383923,2025-04-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,122000,uncertain,meeting_only_uncertain,p12
+opengov:33406001,37,https://opengov.seoul.go.kr/expense/33406001,2025-04-22,seoul_city,자치경찰위원회 자치경찰총괄과,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:33416493,35,https://opengov.seoul.go.kr/expense/33416493,2025-04-22,seoul_council,의정담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33417519,40,https://opengov.seoul.go.kr/expense/33417519,2025-04-22,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,153000,uncertain,meeting_only_uncertain,p12
+opengov:33430098,30,https://opengov.seoul.go.kr/expense/33430098,2025-04-22,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:33392433,11,https://opengov.seoul.go.kr/expense/33392433,2025-04-23,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,73000,uncertain,meeting_only_uncertain,p12
+opengov:33406019,13,https://opengov.seoul.go.kr/expense/33406019,2025-04-23,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33636130,9,https://opengov.seoul.go.kr/expense/33636130,2025-04-23,seoul_city,글로벌도시정책관 국제협력담당관,우도일식,서울 중구 세종대로 124,145000,uncertain,meeting_only_uncertain,p12
+opengov:33429162,10,https://opengov.seoul.go.kr/expense/33429162,2025-04-29,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:33382578,15,https://opengov.seoul.go.kr/expense/33382578,2025-04-30,seoul_council,교육전문위원실,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33430098,38,https://opengov.seoul.go.kr/expense/33430098,2025-04-30,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:33624320,2,https://opengov.seoul.go.kr/expense/33624320,2025-05-01,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33624345,1,https://opengov.seoul.go.kr/expense/33624345,2025-05-01,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33636104,1,https://opengov.seoul.go.kr/expense/33636104,2025-05-01,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:33611268,2,https://opengov.seoul.go.kr/expense/33611268,2025-05-02,seoul_city,복지실 돌봄고독정책관,우도일식,서울 중구 세종대로 124,119000,uncertain,meeting_only_uncertain,p12
+opengov:33586919,3,https://opengov.seoul.go.kr/expense/33586919,2025-05-08,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,37000,uncertain,meeting_only_uncertain,p12
+opengov:33624318,7,https://opengov.seoul.go.kr/expense/33624318,2025-05-08,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:33611271,4,https://opengov.seoul.go.kr/expense/33611271,2025-05-09,seoul_city,문화본부 문화유산보존과,우도일식,서울 중구 세종대로 124,187000,uncertain,meeting_only_uncertain,p12
+opengov:33586934,9,https://opengov.seoul.go.kr/expense/33586934,2025-05-12,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,119000,uncertain,meeting_only_uncertain,p12
+opengov:33600342,10,https://opengov.seoul.go.kr/expense/33600342,2025-05-13,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:33636138,3,https://opengov.seoul.go.kr/expense/33636138,2025-05-13,seoul_city,글로벌도시정책관 국제협력담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33586787,7,https://opengov.seoul.go.kr/expense/33586787,2025-05-15,seoul_office,도시기반시설본부 시설국 건축부,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:33624345,8,https://opengov.seoul.go.kr/expense/33624345,2025-05-16,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33624318,16,https://opengov.seoul.go.kr/expense/33624318,2025-05-19,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33634997,31,https://opengov.seoul.go.kr/expense/33634997,2025-05-19,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,236000,uncertain,meeting_only_uncertain,p12
+opengov:33634998,7,https://opengov.seoul.go.kr/expense/33634998,2025-05-19,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:33600307,11,https://opengov.seoul.go.kr/expense/33600307,2025-05-20,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,142000,uncertain,meeting_only_uncertain,p12
+opengov:33624130,144,https://opengov.seoul.go.kr/expense/33624130,2025-05-20,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33624116,13,https://opengov.seoul.go.kr/expense/33624116,2025-05-21,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,130000,uncertain,meeting_only_uncertain,p12
+opengov:33634981,30,https://opengov.seoul.go.kr/expense/33634981,2025-05-21,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,224000,meal,explicit_meal_word,p12
+opengov:33634988,4,https://opengov.seoul.go.kr/expense/33634988,2025-05-21,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:33600342,18,https://opengov.seoul.go.kr/expense/33600342,2025-05-22,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33600619,68,https://opengov.seoul.go.kr/expense/33600619,2025-05-22,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33634988,5,https://opengov.seoul.go.kr/expense/33634988,2025-05-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,170000,uncertain,meeting_only_uncertain,p12
+opengov:33635000,12,https://opengov.seoul.go.kr/expense/33635000,2025-05-22,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:33600308,13,https://opengov.seoul.go.kr/expense/33600308,2025-05-23,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,200000,uncertain,meeting_only_uncertain,p12
+opengov:33624318,22,https://opengov.seoul.go.kr/expense/33624318,2025-05-26,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33600585,36,https://opengov.seoul.go.kr/expense/33600585,2025-05-27,seoul_city,자치경찰위원회 자치경찰총괄과,우도일식,서울 중구 세종대로 124,63000,uncertain,meeting_only_uncertain,p12
+opengov:33586796,14,https://opengov.seoul.go.kr/expense/33586796,2025-05-29,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:33624346,38,https://opengov.seoul.go.kr/expense/33624346,2025-05-30,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,176000,uncertain,meeting_only_uncertain,p12
+opengov:33803296,4,https://opengov.seoul.go.kr/expense/33803296,2025-06-02,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33804520,1,https://opengov.seoul.go.kr/expense/33804520,2025-06-02,seoul_city,문화예술과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:33790705,2,https://opengov.seoul.go.kr/expense/33790705,2025-06-04,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,56000,uncertain,meeting_only_uncertain,p12
+opengov:33803296,11,https://opengov.seoul.go.kr/expense/33803296,2025-06-04,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,98000,uncertain,meeting_only_uncertain,p12
+opengov:33848789,2,https://opengov.seoul.go.kr/expense/33848789,2025-06-04,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33790690,9,https://opengov.seoul.go.kr/expense/33790690,2025-06-09,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,94000,uncertain,meeting_only_uncertain,p12
+opengov:33868881,7,https://opengov.seoul.go.kr/expense/33868881,2025-06-09,seoul_council,시의회사무처 언론홍보실,우도일식,서울 중구 세종대로 124,180000,uncertain,meeting_only_uncertain,p12
+opengov:33803296,29,https://opengov.seoul.go.kr/expense/33803296,2025-06-10,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33814564,8,https://opengov.seoul.go.kr/expense/33814564,2025-06-11,seoul_city,재무국 재무과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:33825943,5,https://opengov.seoul.go.kr/expense/33825943,2025-06-11,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33826578,91,https://opengov.seoul.go.kr/expense/33826578,2025-06-11,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,40000,uncertain,meeting_only_uncertain,p12
+opengov:33868890,11,https://opengov.seoul.go.kr/expense/33868890,2025-06-11,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:33867844,10,https://opengov.seoul.go.kr/expense/33867844,2025-06-12,seoul_city,기획조정실 정책기획관 조직담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:33803296,49,https://opengov.seoul.go.kr/expense/33803296,2025-06-13,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,77000,uncertain,meeting_only_uncertain,p12
+opengov:33790705,8,https://opengov.seoul.go.kr/expense/33790705,2025-06-16,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:33815706,8,https://opengov.seoul.go.kr/expense/33815706,2025-06-16,seoul_office,서울아리수본부 서울물연구원 총무과,우도일식,서울 중구 세종대로 124,159000,uncertain,meeting_only_uncertain,p12
+opengov:33868890,15,https://opengov.seoul.go.kr/expense/33868890,2025-06-16,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,159000,uncertain,meeting_only_uncertain,p12
+opengov:33790689,4,https://opengov.seoul.go.kr/expense/33790689,2025-06-17,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33826584,6,https://opengov.seoul.go.kr/expense/33826584,2025-06-17,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,90000,uncertain,meeting_only_uncertain,p12
+opengov:33848789,13,https://opengov.seoul.go.kr/expense/33848789,2025-06-17,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:33847533,7,https://opengov.seoul.go.kr/expense/33847533,2025-06-18,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,174000,uncertain,meeting_only_uncertain,p12
+opengov:33790708,20,https://opengov.seoul.go.kr/expense/33790708,2025-06-23,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,196000,uncertain,meeting_only_uncertain,p12
+opengov:33837484,51,https://opengov.seoul.go.kr/expense/33837484,2025-06-23,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:33848789,21,https://opengov.seoul.go.kr/expense/33848789,2025-06-23,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33792086,25,https://opengov.seoul.go.kr/expense/33792086,2025-06-24,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:33836382,21,https://opengov.seoul.go.kr/expense/33836382,2025-06-24,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:33868357,43,https://opengov.seoul.go.kr/expense/33868357,2025-06-25,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:33792086,27,https://opengov.seoul.go.kr/expense/33792086,2025-06-26,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:33847535,3,https://opengov.seoul.go.kr/expense/33847535,2025-06-26,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,150000,uncertain,meeting_only_uncertain,p12
+opengov:33804522,18,https://opengov.seoul.go.kr/expense/33804522,2025-06-30,seoul_city,행정국 대외협력과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:33826578,295,https://opengov.seoul.go.kr/expense/33826578,2025-06-30,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:34067498,2,https://opengov.seoul.go.kr/expense/34067498,2025-07-01,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:34077505,1,https://opengov.seoul.go.kr/expense/34077505,2025-07-01,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34086709,2,https://opengov.seoul.go.kr/expense/34086709,2025-07-01,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,96000,uncertain,meeting_only_uncertain,p12
+opengov:34067500,2,https://opengov.seoul.go.kr/expense/34067500,2025-07-02,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34077505,4,https://opengov.seoul.go.kr/expense/34077505,2025-07-03,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:34087189,6,https://opengov.seoul.go.kr/expense/34087189,2025-07-03,seoul_city,행정2부시장실,우도일식,서울 중구 세종대로 124,190000,meal,explicit_meal_word,p12
+opengov:34025098,4,https://opengov.seoul.go.kr/expense/34025098,2025-07-04,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:34047854,2,https://opengov.seoul.go.kr/expense/34047854,2025-07-04,seoul_city,관광체육국 체육진흥과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34047857,4,https://opengov.seoul.go.kr/expense/34047857,2025-07-07,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34026231,4,https://opengov.seoul.go.kr/expense/34026231,2025-07-08,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34035945,7,https://opengov.seoul.go.kr/expense/34035945,2025-07-08,seoul_city,기획조정실 정책기획관 조직담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:34058153,2,https://opengov.seoul.go.kr/expense/34058153,2025-07-08,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34077510,50,https://opengov.seoul.go.kr/expense/34077510,2025-07-08,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,271000,uncertain,meeting_only_uncertain,p12
+opengov:34037606,5,https://opengov.seoul.go.kr/expense/34037606,2025-07-09,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34086141,2,https://opengov.seoul.go.kr/expense/34086141,2025-07-09,seoul_city,시민건강국 공공의료과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34067498,14,https://opengov.seoul.go.kr/expense/34067498,2025-07-10,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:34025089,13,https://opengov.seoul.go.kr/expense/34025089,2025-07-11,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:34037594,9,https://opengov.seoul.go.kr/expense/34037594,2025-07-14,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34034816,15,https://opengov.seoul.go.kr/expense/34034816,2025-07-15,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34067498,20,https://opengov.seoul.go.kr/expense/34067498,2025-07-15,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,60000,uncertain,meeting_only_uncertain,p12
+opengov:34077470,30,https://opengov.seoul.go.kr/expense/34077470,2025-07-16,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,111000,uncertain,meeting_only_uncertain,p12
+opengov:34067539,50,https://opengov.seoul.go.kr/expense/34067539,2025-07-18,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34059241,31,https://opengov.seoul.go.kr/expense/34059241,2025-07-22,seoul_city,도시공간본부 도시공간전략과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34066365,21,https://opengov.seoul.go.kr/expense/34066365,2025-07-22,seoul_city,기후환경본부 기후환경정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34086709,29,https://opengov.seoul.go.kr/expense/34086709,2025-07-22,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,152000,uncertain,meeting_only_uncertain,p12
+opengov:34047857,19,https://opengov.seoul.go.kr/expense/34047857,2025-07-25,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,69000,uncertain,meeting_only_uncertain,p12
+opengov:34077535,49,https://opengov.seoul.go.kr/expense/34077535,2025-07-28,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,200000,uncertain,meeting_only_uncertain,p12
+opengov:34077470,45,https://opengov.seoul.go.kr/expense/34077470,2025-07-29,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:34037594,27,https://opengov.seoul.go.kr/expense/34037594,2025-07-30,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,180000,uncertain,meeting_only_uncertain,p12
+opengov:34037603,32,https://opengov.seoul.go.kr/expense/34037603,2025-07-31,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:34047857,28,https://opengov.seoul.go.kr/expense/34047857,2025-07-31,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:34299628,4,https://opengov.seoul.go.kr/expense/34299628,2025-08-01,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34220898,2,https://opengov.seoul.go.kr/expense/34220898,2025-08-04,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34254438,2,https://opengov.seoul.go.kr/expense/34254438,2025-08-04,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:34277794,4,https://opengov.seoul.go.kr/expense/34277794,2025-08-04,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34278427,3,https://opengov.seoul.go.kr/expense/34278427,2025-08-04,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,111000,uncertain,meeting_only_uncertain,p12
+opengov:34220919,1,https://opengov.seoul.go.kr/expense/34220919,2025-08-05,seoul_city,여성가족실 가족담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34220922,4,https://opengov.seoul.go.kr/expense/34220922,2025-08-05,seoul_council,교육전문위원실,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34243921,7,https://opengov.seoul.go.kr/expense/34243921,2025-08-06,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,230000,uncertain,meeting_only_uncertain,p12
+opengov:34289484,26,https://opengov.seoul.go.kr/expense/34289484,2025-08-06,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,70000,uncertain,meeting_only_uncertain,p12
+opengov:34278398,8,https://opengov.seoul.go.kr/expense/34278398,2025-08-07,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,142000,uncertain,meeting_only_uncertain,p12
+opengov:34288313,9,https://opengov.seoul.go.kr/expense/34288313,2025-08-07,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,276000,meal,explicit_meal_word,p12
+opengov:34221054,4,https://opengov.seoul.go.kr/expense/34221054,2025-08-08,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,120000,uncertain,meeting_only_uncertain,p12
+opengov:34299645,45,https://opengov.seoul.go.kr/expense/34299645,2025-08-13,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,111000,uncertain,meeting_only_uncertain,p12
+opengov:34254438,5,https://opengov.seoul.go.kr/expense/34254438,2025-08-14,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,79000,uncertain,meeting_only_uncertain,p12
+opengov:34243890,6,https://opengov.seoul.go.kr/expense/34243890,2025-08-18,seoul_city,관광체육국 체육진흥과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:34257473,13,https://opengov.seoul.go.kr/expense/34257473,2025-08-18,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:34278432,11,https://opengov.seoul.go.kr/expense/34278432,2025-08-18,seoul_city,기획조정실 창의규제담당관,우도일식,서울 중구 세종대로 124,60000,uncertain,meeting_only_uncertain,p12
+opengov:34299643,27,https://opengov.seoul.go.kr/expense/34299643,2025-08-19,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,125000,uncertain,meeting_only_uncertain,p12
+opengov:34221081,9,https://opengov.seoul.go.kr/expense/34221081,2025-08-20,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:34233952,25,https://opengov.seoul.go.kr/expense/34233952,2025-08-20,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:34289484,122,https://opengov.seoul.go.kr/expense/34289484,2025-08-20,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34299628,38,https://opengov.seoul.go.kr/expense/34299628,2025-08-21,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34277794,17,https://opengov.seoul.go.kr/expense/34277794,2025-08-22,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34243921,24,https://opengov.seoul.go.kr/expense/34243921,2025-08-25,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:34299645,96,https://opengov.seoul.go.kr/expense/34299645,2025-08-25,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,82000,uncertain,meeting_only_uncertain,p12
+opengov:34220922,12,https://opengov.seoul.go.kr/expense/34220922,2025-08-26,seoul_council,교육전문위원실,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34221081,12,https://opengov.seoul.go.kr/expense/34221081,2025-08-26,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,103000,uncertain,meeting_only_uncertain,p12
+opengov:34257457,7,https://opengov.seoul.go.kr/expense/34257457,2025-08-26,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34254469,47,https://opengov.seoul.go.kr/expense/34254469,2025-08-27,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,94000,uncertain,meeting_only_uncertain,p12
+opengov:34278427,35,https://opengov.seoul.go.kr/expense/34278427,2025-08-27,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:34245182,41,https://opengov.seoul.go.kr/expense/34245182,2025-08-28,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,224000,uncertain,meeting_only_uncertain,p12
+opengov:34266460,22,https://opengov.seoul.go.kr/expense/34266460,2025-08-28,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34289484,223,https://opengov.seoul.go.kr/expense/34289484,2025-08-29,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,276000,uncertain,meeting_only_uncertain,p12
+opengov:34483980,2,https://opengov.seoul.go.kr/expense/34483980,2025-09-01,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34669097,2,https://opengov.seoul.go.kr/expense/34669097,2025-09-02,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:34467205,4,https://opengov.seoul.go.kr/expense/34467205,2025-09-04,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34481818,2,https://opengov.seoul.go.kr/expense/34481818,2025-09-04,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,122000,uncertain,meeting_only_uncertain,p12
+opengov:34495684,11,https://opengov.seoul.go.kr/expense/34495684,2025-09-04,seoul_city,디자인정책담당관,우도일식,서울 중구 세종대로 124,236000,uncertain,meeting_only_uncertain,p12
+opengov:34465668,2,https://opengov.seoul.go.kr/expense/34465668,2025-09-05,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34483980,10,https://opengov.seoul.go.kr/expense/34483980,2025-09-09,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34495689,3,https://opengov.seoul.go.kr/expense/34495689,2025-09-09,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,248000,uncertain,meeting_only_uncertain,p12
+opengov:34483856,19,https://opengov.seoul.go.kr/expense/34483856,2025-09-10,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34495697,13,https://opengov.seoul.go.kr/expense/34495697,2025-09-10,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,179000,uncertain,meeting_only_uncertain,p12
+opengov:34467210,24,https://opengov.seoul.go.kr/expense/34467210,2025-09-15,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,160000,uncertain,meeting_only_uncertain,p12
+opengov:34495699,21,https://opengov.seoul.go.kr/expense/34495699,2025-09-16,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34465668,8,https://opengov.seoul.go.kr/expense/34465668,2025-09-17,seoul_city,행정국 시민협력과,우도일식,서울 중구 세종대로 124,108000,uncertain,meeting_only_uncertain,p12
+opengov:34483830,43,https://opengov.seoul.go.kr/expense/34483830,2025-09-17,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:34483996,146,https://opengov.seoul.go.kr/expense/34483996,2025-09-17,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34484002,74,https://opengov.seoul.go.kr/expense/34484002,2025-09-17,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34495697,21,https://opengov.seoul.go.kr/expense/34495697,2025-09-17,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:34495699,23,https://opengov.seoul.go.kr/expense/34495699,2025-09-17,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:34454101,30,https://opengov.seoul.go.kr/expense/34454101,2025-09-18,seoul_city,민생노동국 소상공인정책과,우도일식,서울 중구 세종대로 124,77000,uncertain,meeting_only_uncertain,p12
+opengov:34467223,20,https://opengov.seoul.go.kr/expense/34467223,2025-09-18,seoul_city,재무국 재무과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:34483821,42,https://opengov.seoul.go.kr/expense/34483821,2025-09-18,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:34723994,22,https://opengov.seoul.go.kr/expense/34723994,2025-09-18,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,74000,uncertain,meeting_only_uncertain,p12
+opengov:34465655,28,https://opengov.seoul.go.kr/expense/34465655,2025-09-22,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34495689,4,https://opengov.seoul.go.kr/expense/34495689,2025-09-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,99000,uncertain,meeting_only_uncertain,p12
+opengov:34454098,10,https://opengov.seoul.go.kr/expense/34454098,2025-09-24,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34483856,47,https://opengov.seoul.go.kr/expense/34483856,2025-09-24,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:34452842,9,https://opengov.seoul.go.kr/expense/34452842,2025-09-25,seoul_office,도시기반시설본부 시설국 토목부,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34483969,9,https://opengov.seoul.go.kr/expense/34483969,2025-09-25,seoul_office,도시기반시설본부 설비부,우도일식,서울 중구 세종대로 124,132000,uncertain,meeting_only_uncertain,p12
+opengov:34453492,12,https://opengov.seoul.go.kr/expense/34453492,2025-09-26,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,62000,uncertain,meeting_only_uncertain,p12
+opengov:34483856,54,https://opengov.seoul.go.kr/expense/34483856,2025-09-29,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34700272,1,https://opengov.seoul.go.kr/expense/34700272,2025-10-01,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:34669108,2,https://opengov.seoul.go.kr/expense/34669108,2025-10-13,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,62000,uncertain,meeting_only_uncertain,p12
+opengov:34701384,46,https://opengov.seoul.go.kr/expense/34701384,2025-10-13,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34631797,3,https://opengov.seoul.go.kr/expense/34631797,2025-10-14,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34653736,2,https://opengov.seoul.go.kr/expense/34653736,2025-10-14,seoul_city,행정국 평화기반조성과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:34667922,12,https://opengov.seoul.go.kr/expense/34667922,2025-10-14,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:34701384,67,https://opengov.seoul.go.kr/expense/34701384,2025-10-14,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,282000,uncertain,meeting_only_uncertain,p12
+opengov:34710680,21,https://opengov.seoul.go.kr/expense/34710680,2025-10-14,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34711309,3,https://opengov.seoul.go.kr/expense/34711309,2025-10-14,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34655469,5,https://opengov.seoul.go.kr/expense/34655469,2025-10-16,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,56000,uncertain,meeting_only_uncertain,p12
+opengov:34680973,19,https://opengov.seoul.go.kr/expense/34680973,2025-10-16,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34817832,12,https://opengov.seoul.go.kr/expense/34817832,2025-10-16,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34655596,3,https://opengov.seoul.go.kr/expense/34655596,2025-10-17,seoul_office,도시기반시설본부 시설국 토목부,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34690029,10,https://opengov.seoul.go.kr/expense/34690029,2025-10-20,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,119000,uncertain,meeting_only_uncertain,p12
+opengov:34631798,3,https://opengov.seoul.go.kr/expense/34631798,2025-10-21,seoul_city,교통실 보행자전거과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:34667922,27,https://opengov.seoul.go.kr/expense/34667922,2025-10-21,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,210000,uncertain,meeting_only_uncertain,p12
+opengov:34680957,16,https://opengov.seoul.go.kr/expense/34680957,2025-10-21,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34711308,13,https://opengov.seoul.go.kr/expense/34711308,2025-10-21,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,129000,uncertain,meeting_only_uncertain,p12
+opengov:34711327,21,https://opengov.seoul.go.kr/expense/34711327,2025-10-21,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:34655615,25,https://opengov.seoul.go.kr/expense/34655615,2025-10-23,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34679729,20,https://opengov.seoul.go.kr/expense/34679729,2025-10-23,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:34669108,6,https://opengov.seoul.go.kr/expense/34669108,2025-10-24,seoul_city,복지실 1인가구지원과,우도일식,서울 중구 세종대로 124,80000,uncertain,meeting_only_uncertain,p12
+opengov:34722640,10,https://opengov.seoul.go.kr/expense/34722640,2025-10-24,seoul_city,홍보기획관 민원담당관,우도일식,서울 중구 세종대로 124,77000,uncertain,meeting_only_uncertain,p12
+opengov:34669100,10,https://opengov.seoul.go.kr/expense/34669100,2025-10-27,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,122000,uncertain,meeting_only_uncertain,p12
+opengov:34669128,72,https://opengov.seoul.go.kr/expense/34669128,2025-10-28,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:34817832,23,https://opengov.seoul.go.kr/expense/34817832,2025-10-28,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34655422,10,https://opengov.seoul.go.kr/expense/34655422,2025-10-29,seoul_city,문화본부 박물관과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34680973,46,https://opengov.seoul.go.kr/expense/34680973,2025-10-29,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:34680957,29,https://opengov.seoul.go.kr/expense/34680957,2025-10-30,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34679729,30,https://opengov.seoul.go.kr/expense/34679729,2025-10-31,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:34711195,12,https://opengov.seoul.go.kr/expense/34711195,2025-10-31,seoul_city,정원도시국 동물보호과,우도일식,서울 중구 세종대로 124,59000,uncertain,meeting_only_uncertain,p12
+opengov:34926698,1,https://opengov.seoul.go.kr/expense/34926698,2025-11-03,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:34928405,2,https://opengov.seoul.go.kr/expense/34928405,2025-11-03,seoul_city,기획조정실 창의규제담당관,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:34963727,1,https://opengov.seoul.go.kr/expense/34963727,2025-11-03,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34889825,3,https://opengov.seoul.go.kr/expense/34889825,2025-11-04,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34904037,2,https://opengov.seoul.go.kr/expense/34904037,2025-11-04,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,119000,uncertain,meeting_only_uncertain,p12
+opengov:34963716,10,https://opengov.seoul.go.kr/expense/34963716,2025-11-05,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:34876704,1,https://opengov.seoul.go.kr/expense/34876704,2025-11-06,seoul_city,기획조정실 법률지원담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:34889825,7,https://opengov.seoul.go.kr/expense/34889825,2025-11-06,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34891336,5,https://opengov.seoul.go.kr/expense/34891336,2025-11-07,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:34904042,16,https://opengov.seoul.go.kr/expense/34904042,2025-11-07,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34889827,3,https://opengov.seoul.go.kr/expense/34889827,2025-11-10,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,190000,uncertain,meeting_only_uncertain,p12
+opengov:34926698,8,https://opengov.seoul.go.kr/expense/34926698,2025-11-10,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,159000,uncertain,meeting_only_uncertain,p12
+opengov:35213269,4,https://opengov.seoul.go.kr/expense/35213269,2025-11-12,seoul_city,시민건강국 공공의료과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34963711,18,https://opengov.seoul.go.kr/expense/34963711,2025-11-14,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,136000,uncertain,meeting_only_uncertain,p12
+opengov:34904042,34,https://opengov.seoul.go.kr/expense/34904042,2025-11-17,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:34963687,28,https://opengov.seoul.go.kr/expense/34963687,2025-11-18,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:34963693,16,https://opengov.seoul.go.kr/expense/34963693,2025-11-18,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,142000,uncertain,meeting_only_uncertain,p12
+opengov:34963710,17,https://opengov.seoul.go.kr/expense/34963710,2025-11-18,seoul_city,재무국 재무과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34876530,11,https://opengov.seoul.go.kr/expense/34876530,2025-11-19,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34916621,16,https://opengov.seoul.go.kr/expense/34916621,2025-11-19,seoul_city,행정국 인사과,우도일식,서울 중구 세종대로 124,196000,uncertain,meeting_only_uncertain,p12
+opengov:34904042,48,https://opengov.seoul.go.kr/expense/34904042,2025-11-20,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:34963716,79,https://opengov.seoul.go.kr/expense/34963716,2025-11-21,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,123000,uncertain,meeting_only_uncertain,p12
+opengov:34939497,56,https://opengov.seoul.go.kr/expense/34939497,2025-11-24,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,362000,uncertain,meeting_only_uncertain,p12
+opengov:34939510,38,https://opengov.seoul.go.kr/expense/34939510,2025-11-24,seoul_city,행정1부시장실,우도일식,서울 중구 세종대로 124,305000,meal,explicit_meal_word,p12
+opengov:34902478,32,https://opengov.seoul.go.kr/expense/34902478,2025-11-25,seoul_city,평생교육국 교육지원정책과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:34939501,6,https://opengov.seoul.go.kr/expense/34939501,2025-11-25,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,200000,uncertain,meeting_only_uncertain,p12
+opengov:34939506,9,https://opengov.seoul.go.kr/expense/34939506,2025-11-25,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:34904042,56,https://opengov.seoul.go.kr/expense/34904042,2025-11-26,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,336000,uncertain,meeting_only_uncertain,p12
+opengov:34939497,70,https://opengov.seoul.go.kr/expense/34939497,2025-11-27,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:34963723,35,https://opengov.seoul.go.kr/expense/34963723,2025-11-27,seoul_city,외국인이민담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35157850,2,https://opengov.seoul.go.kr/expense/35157850,2025-12-01,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,125000,uncertain,meeting_only_uncertain,p12
+opengov:35167232,1,https://opengov.seoul.go.kr/expense/35167232,2025-12-01,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35175482,1,https://opengov.seoul.go.kr/expense/35175482,2025-12-01,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:35177685,2,https://opengov.seoul.go.kr/expense/35177685,2025-12-01,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35184931,2,https://opengov.seoul.go.kr/expense/35184931,2025-12-01,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,40000,uncertain,meeting_only_uncertain,p12
+opengov:35204386,3,https://opengov.seoul.go.kr/expense/35204386,2025-12-02,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,40000,uncertain,meeting_only_uncertain,p12
+opengov:35125269,2,https://opengov.seoul.go.kr/expense/35125269,2025-12-09,seoul_city,문화본부 문화시설과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35157841,3,https://opengov.seoul.go.kr/expense/35157841,2025-12-09,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:35145918,23,https://opengov.seoul.go.kr/expense/35145918,2025-12-10,seoul_city,교통실 교통정책과,우도일식,서울 중구 세종대로 124,300000,uncertain,meeting_only_uncertain,p12
+opengov:35177669,18,https://opengov.seoul.go.kr/expense/35177669,2025-12-10,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:35184929,4,https://opengov.seoul.go.kr/expense/35184929,2025-12-10,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:35184929,5,https://opengov.seoul.go.kr/expense/35184929,2025-12-10,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,229000,uncertain,meeting_only_uncertain,p12
+opengov:35144138,5,https://opengov.seoul.go.kr/expense/35144138,2025-12-12,seoul_city,교통실 보행자전거과,우도일식,서울 중구 세종대로 124,196000,uncertain,meeting_only_uncertain,p12
+opengov:35144161,19,https://opengov.seoul.go.kr/expense/35144161,2025-12-12,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:35157850,19,https://opengov.seoul.go.kr/expense/35157850,2025-12-12,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:35184942,35,https://opengov.seoul.go.kr/expense/35184942,2025-12-12,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,230000,uncertain,meeting_only_uncertain,p12
+opengov:35205453,61,https://opengov.seoul.go.kr/expense/35205453,2025-12-15,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:35167311,16,https://opengov.seoul.go.kr/expense/35167311,2025-12-16,seoul_office,북부공원여가센터 공원운영과,우도일식,서울 중구 세종대로 124,94000,uncertain,meeting_only_uncertain,p12
+opengov:35158194,12,https://opengov.seoul.go.kr/expense/35158194,2025-12-18,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:35175482,10,https://opengov.seoul.go.kr/expense/35175482,2025-12-19,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:35177669,31,https://opengov.seoul.go.kr/expense/35177669,2025-12-19,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:35144161,30,https://opengov.seoul.go.kr/expense/35144161,2025-12-22,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:35157841,11,https://opengov.seoul.go.kr/expense/35157841,2025-12-22,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,280400,uncertain,meeting_only_uncertain,p12
+opengov:35205479,43,https://opengov.seoul.go.kr/expense/35205479,2025-12-23,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:35184929,13,https://opengov.seoul.go.kr/expense/35184929,2025-12-24,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,270000,uncertain,meeting_only_uncertain,p12
+opengov:35240417,23,https://opengov.seoul.go.kr/expense/35240417,2025-12-24,seoul_city,디자인정책관 디자인산업담당관,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:35167232,36,https://opengov.seoul.go.kr/expense/35167232,2025-12-26,seoul_city,비상기획관 민방위담당관,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:35177671,259,https://opengov.seoul.go.kr/expense/35177671,2025-12-26,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,136000,uncertain,meeting_only_uncertain,p12
+opengov:35157875,10,https://opengov.seoul.go.kr/expense/35157875,2025-12-29,seoul_city,미래청년기획관 청년사업담당관,우도일식,서울 중구 세종대로 124,42000,uncertain,meeting_only_uncertain,p12
+opengov:35184931,17,https://opengov.seoul.go.kr/expense/35184931,2025-12-29,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,91000,uncertain,meeting_only_uncertain,p12
+opengov:35184942,80,https://opengov.seoul.go.kr/expense/35184942,2025-12-31,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,187000,uncertain,non_meal_purchase,p12
+opengov:35421566,1,https://opengov.seoul.go.kr/expense/35421566,2026-01-02,seoul_city,글로벌도시정책관 외국인이민담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:35369462,3,https://opengov.seoul.go.kr/expense/35369462,2026-01-05,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35389954,3,https://opengov.seoul.go.kr/expense/35389954,2026-01-06,seoul_city,디지털도시국 디지털정책과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:35434650,4,https://opengov.seoul.go.kr/expense/35434650,2026-01-06,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,120000,uncertain,meeting_only_uncertain,p12
+opengov:35410373,11,https://opengov.seoul.go.kr/expense/35410373,2026-01-07,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,17000,uncertain,meeting_only_uncertain,p12
+opengov:35408994,6,https://opengov.seoul.go.kr/expense/35408994,2026-01-08,seoul_city,관광체육국 체육정책과,우도일식,서울 중구 세종대로 124,40000,uncertain,meeting_only_uncertain,p12
+opengov:35421564,2,https://opengov.seoul.go.kr/expense/35421564,2026-01-08,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,276000,uncertain,meeting_only_uncertain,p12
+opengov:35388732,1,https://opengov.seoul.go.kr/expense/35388732,2026-01-09,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:35388733,18,https://opengov.seoul.go.kr/expense/35388733,2026-01-09,seoul_city,도시공간본부 도시공간전략과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:35410191,9,https://opengov.seoul.go.kr/expense/35410191,2026-01-09,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:35410374,9,https://opengov.seoul.go.kr/expense/35410374,2026-01-09,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,54000,uncertain,meeting_only_uncertain,p12
+opengov:35399571,4,https://opengov.seoul.go.kr/expense/35399571,2026-01-12,seoul_city,문화본부 문화유산보존과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:35369462,6,https://opengov.seoul.go.kr/expense/35369462,2026-01-13,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:35388738,12,https://opengov.seoul.go.kr/expense/35388738,2026-01-13,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35398212,15,https://opengov.seoul.go.kr/expense/35398212,2026-01-13,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,124000,uncertain,meeting_only_uncertain,p12
+opengov:35421587,43,https://opengov.seoul.go.kr/expense/35421587,2026-01-13,seoul_city,정무부시장실,우도일식,서울 중구 세종대로 124,312000,uncertain,meeting_only_uncertain,p12
+opengov:35369440,5,https://opengov.seoul.go.kr/expense/35369440,2026-01-16,seoul_office,도시기반시설본부 도시철도국 토목부,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:35421534,36,https://opengov.seoul.go.kr/expense/35421534,2026-01-16,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,176000,uncertain,meeting_only_uncertain,p12
+opengov:35357542,5,https://opengov.seoul.go.kr/expense/35357542,2026-01-19,seoul_city,교통실 교통운영과,우도일식,서울 중구 세종대로 124,176000,uncertain,meeting_only_uncertain,p12
+opengov:35357556,5,https://opengov.seoul.go.kr/expense/35357556,2026-01-20,seoul_city,미래공간기획관 도시활력담당관,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:35434650,24,https://opengov.seoul.go.kr/expense/35434650,2026-01-21,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:35388722,31,https://opengov.seoul.go.kr/expense/35388722,2026-01-22,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35388738,23,https://opengov.seoul.go.kr/expense/35388738,2026-01-22,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35398228,13,https://opengov.seoul.go.kr/expense/35398228,2026-01-22,seoul_city,디지털도시국 정보시스템과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:35380356,24,https://opengov.seoul.go.kr/expense/35380356,2026-01-23,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:35410286,104,https://opengov.seoul.go.kr/expense/35410286,2026-01-23,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,108000,uncertain,meeting_only_uncertain,p12
+opengov:35398243,50,https://opengov.seoul.go.kr/expense/35398243,2026-01-26,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:35410164,24,https://opengov.seoul.go.kr/expense/35410164,2026-01-26,seoul_office,북부공원여가센터 공원운영과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:35388738,31,https://opengov.seoul.go.kr/expense/35388738,2026-01-27,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35420391,74,https://opengov.seoul.go.kr/expense/35420391,2026-01-29,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,136000,uncertain,meeting_only_uncertain,p12
+opengov:35410191,27,https://opengov.seoul.go.kr/expense/35410191,2026-01-30,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:35560812,1,https://opengov.seoul.go.kr/expense/35560812,2026-02-02,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,non_meal_purchase,p12
+opengov:35605733,1,https://opengov.seoul.go.kr/expense/35605733,2026-02-03,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,125000,uncertain,meeting_only_uncertain,p12
+opengov:35581596,1,https://opengov.seoul.go.kr/expense/35581596,2026-02-05,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,우도일식,서울 중구 세종대로 124,154000,uncertain,meeting_only_uncertain,p12
+opengov:35582802,2,https://opengov.seoul.go.kr/expense/35582802,2026-02-05,seoul_city,관광체육국 관광산업과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:35548105,7,https://opengov.seoul.go.kr/expense/35548105,2026-02-10,seoul_city,감사위원회 청렴담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:35559486,8,https://opengov.seoul.go.kr/expense/35559486,2026-02-11,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:35559496,17,https://opengov.seoul.go.kr/expense/35559496,2026-02-12,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35560812,24,https://opengov.seoul.go.kr/expense/35560812,2026-02-19,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35560809,35,https://opengov.seoul.go.kr/expense/35560809,2026-02-24,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,264000,uncertain,meeting_only_uncertain,p12
+opengov:35560812,31,https://opengov.seoul.go.kr/expense/35560812,2026-02-24,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35595052,51,https://opengov.seoul.go.kr/expense/35595052,2026-02-25,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:35547888,11,https://opengov.seoul.go.kr/expense/35547888,2026-02-26,seoul_council,서울시의회사무처 인사과,우도일식,서울 중구 세종대로 124,37000,uncertain,meeting_only_uncertain,p12
+opengov:35559496,27,https://opengov.seoul.go.kr/expense/35559496,2026-02-26,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35595257,47,https://opengov.seoul.go.kr/expense/35595257,2026-02-26,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35547927,28,https://opengov.seoul.go.kr/expense/35547927,2026-02-27,seoul_city,기획조정실 조직담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:35559486,18,https://opengov.seoul.go.kr/expense/35559486,2026-02-27,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,119000,uncertain,meeting_only_uncertain,p12
+opengov:36031880,1,https://opengov.seoul.go.kr/expense/36031880,2026-03-03,seoul_city,시민건강국 정신건강과,우도일식,서울 중구 세종대로 124,280000,meal,explicit_meal_word,p12
+opengov:35824119,4,https://opengov.seoul.go.kr/expense/35824119,2026-03-04,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35845460,14,https://opengov.seoul.go.kr/expense/35845460,2026-03-05,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:35787130,6,https://opengov.seoul.go.kr/expense/35787130,2026-03-06,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:35824119,11,https://opengov.seoul.go.kr/expense/35824119,2026-03-09,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35835466,7,https://opengov.seoul.go.kr/expense/35835466,2026-03-09,seoul_city,홍보기획관 홍보담당관,우도일식,서울 중구 세종대로 124,175000,uncertain,meeting_only_uncertain,p12
+opengov:35834086,87,https://opengov.seoul.go.kr/expense/35834086,2026-03-12,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:35774999,10,https://opengov.seoul.go.kr/expense/35774999,2026-03-13,seoul_council,서울시의회사무처 인사과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35812194,25,https://opengov.seoul.go.kr/expense/35812194,2026-03-13,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:35823020,9,https://opengov.seoul.go.kr/expense/35823020,2026-03-13,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,136000,uncertain,meeting_only_uncertain,p12
+opengov:35824078,5,https://opengov.seoul.go.kr/expense/35824078,2026-03-13,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35834100,32,https://opengov.seoul.go.kr/expense/35834100,2026-03-17,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,60000,uncertain,meeting_only_uncertain,p12
+opengov:35823020,13,https://opengov.seoul.go.kr/expense/35823020,2026-03-18,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:35855689,39,https://opengov.seoul.go.kr/expense/35855689,2026-03-18,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,120000,uncertain,meeting_only_uncertain,p12
+opengov:35824119,28,https://opengov.seoul.go.kr/expense/35824119,2026-03-20,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:35834086,158,https://opengov.seoul.go.kr/expense/35834086,2026-03-20,seoul_city,행정국 총무과,우도일식,서울 중구 세종대로 124,210000,uncertain,meeting_only_uncertain,p12
+opengov:35824078,9,https://opengov.seoul.go.kr/expense/35824078,2026-03-23,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:35824078,10,https://opengov.seoul.go.kr/expense/35824078,2026-03-24,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:35824067,6,https://opengov.seoul.go.kr/expense/35824067,2026-03-25,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35824119,31,https://opengov.seoul.go.kr/expense/35824119,2026-03-25,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:35844332,35,https://opengov.seoul.go.kr/expense/35844332,2026-03-26,seoul_city,감사위원회 감사담당관,우도일식,서울 중구 세종대로 124,235000,uncertain,meeting_only_uncertain,p12
+opengov:35824072,34,https://opengov.seoul.go.kr/expense/35824072,2026-03-27,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,122000,uncertain,meeting_only_uncertain,p12
+opengov:35834109,50,https://opengov.seoul.go.kr/expense/35834109,2026-03-27,seoul_city,자치경찰위원회 자치경찰운영과,우도일식,서울 중구 세종대로 124,98000,uncertain,meeting_only_uncertain,p12
+opengov:35824119,39,https://opengov.seoul.go.kr/expense/35824119,2026-03-31,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36013010,1,https://opengov.seoul.go.kr/expense/36013010,2026-04-02,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36024950,3,https://opengov.seoul.go.kr/expense/36024950,2026-04-03,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:35998666,1,https://opengov.seoul.go.kr/expense/35998666,2026-04-06,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:36037089,22,https://opengov.seoul.go.kr/expense/36037089,2026-04-08,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,129000,uncertain,meeting_only_uncertain,p12
+opengov:36013028,3,https://opengov.seoul.go.kr/expense/36013028,2026-04-10,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:36013028,4,https://opengov.seoul.go.kr/expense/36013028,2026-04-10,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:36024958,19,https://opengov.seoul.go.kr/expense/36024958,2026-04-10,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,193000,uncertain,meeting_only_uncertain,p12
+opengov:36013010,13,https://opengov.seoul.go.kr/expense/36013010,2026-04-13,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:36037076,22,https://opengov.seoul.go.kr/expense/36037076,2026-04-13,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,122000,uncertain,meeting_only_uncertain,p12
+opengov:36048332,10,https://opengov.seoul.go.kr/expense/36048332,2026-04-13,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:36024950,7,https://opengov.seoul.go.kr/expense/36024950,2026-04-14,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:36025209,8,https://opengov.seoul.go.kr/expense/36025209,2026-04-14,seoul_city,복지실 돌봄고독정책관 어르신복지과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36059062,9,https://opengov.seoul.go.kr/expense/36059062,2026-04-14,seoul_city,문화본부 문화유산활용과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36013010,18,https://opengov.seoul.go.kr/expense/36013010,2026-04-15,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,119000,uncertain,meeting_only_uncertain,p12
+opengov:36026819,22,https://opengov.seoul.go.kr/expense/36026819,2026-04-15,seoul_city,주택실 건축기획과,우도일식,서울 중구 세종대로 124,136000,uncertain,meeting_only_uncertain,p12
+opengov:36012994,4,https://opengov.seoul.go.kr/expense/36012994,2026-04-16,seoul_office,도시기반시설본부 시설국 토목부,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:36034667,9,https://opengov.seoul.go.kr/expense/36034667,2026-04-20,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:36037089,56,https://opengov.seoul.go.kr/expense/36037089,2026-04-20,seoul_city,기획조정실 기획담당관,우도일식,서울 중구 세종대로 124,223000,uncertain,meeting_only_uncertain,p12
+opengov:36037076,47,https://opengov.seoul.go.kr/expense/36037076,2026-04-23,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:36012998,10,https://opengov.seoul.go.kr/expense/36012998,2026-04-24,seoul_city,시민건강국 감염병관리과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:36024950,11,https://opengov.seoul.go.kr/expense/36024950,2026-04-24,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36024957,42,https://opengov.seoul.go.kr/expense/36024957,2026-04-27,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:36059057,14,https://opengov.seoul.go.kr/expense/36059057,2026-04-28,seoul_council,보건복지전문위원실,우도일식,서울 중구 세종대로 124,56000,uncertain,meeting_only_uncertain,p12
+opengov:36024950,12,https://opengov.seoul.go.kr/expense/36024950,2026-04-29,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:36025184,12,https://opengov.seoul.go.kr/expense/36025184,2026-04-29,seoul_office,서울공예박물관 총무과,우도일식,서울 중구 세종대로 124,160000,meal,explicit_meal_word,p12
+opengov:36031960,64,https://opengov.seoul.go.kr/expense/36031960,2026-04-29,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,76000,uncertain,meeting_only_uncertain,p12
+opengov:36010868,10,https://opengov.seoul.go.kr/expense/36010868,2026-04-30,seoul_office,도시기반시설본부 도시철도국 토목부,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36059170,9,https://opengov.seoul.go.kr/expense/36059170,2026-04-30,seoul_city,미래공간기획관 용산입체도시담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36203864,4,https://opengov.seoul.go.kr/expense/36203864,2026-05-06,seoul_city,재난안전실 도로기획관 도로계획과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36239608,1,https://opengov.seoul.go.kr/expense/36239608,2026-05-06,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,non_meal_purchase,p12
+opengov:36203841,4,https://opengov.seoul.go.kr/expense/36203841,2026-05-08,seoul_city,시민건강국 보건의료정책과,우도일식,서울 중구 세종대로 124,159000,uncertain,meeting_only_uncertain,p12
+opengov:36414577,3,https://opengov.seoul.go.kr/expense/36414577,2026-05-08,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,84000,uncertain,meeting_only_uncertain,p12
+opengov:36216600,16,https://opengov.seoul.go.kr/expense/36216600,2026-05-11,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:36240389,4,https://opengov.seoul.go.kr/expense/36240389,2026-05-12,seoul_city,기후환경본부 대기정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36216600,25,https://opengov.seoul.go.kr/expense/36216600,2026-05-15,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,224000,uncertain,meeting_only_uncertain,p12
+opengov:36239608,14,https://opengov.seoul.go.kr/expense/36239608,2026-05-18,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36271397,47,https://opengov.seoul.go.kr/expense/36271397,2026-05-18,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:36216600,35,https://opengov.seoul.go.kr/expense/36216600,2026-05-19,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:36229052,8,https://opengov.seoul.go.kr/expense/36229052,2026-05-19,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,77000,uncertain,meeting_only_uncertain,p12
+opengov:36239608,18,https://opengov.seoul.go.kr/expense/36239608,2026-05-19,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36250888,5,https://opengov.seoul.go.kr/expense/36250888,2026-05-20,seoul_city,디자인정책관 도시경관담당관,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:36214403,21,https://opengov.seoul.go.kr/expense/36214403,2026-05-21,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:36414577,9,https://opengov.seoul.go.kr/expense/36414577,2026-05-21,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,50000,uncertain,meeting_only_uncertain,p12
+opengov:36251013,23,https://opengov.seoul.go.kr/expense/36251013,2026-05-28,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36239608,28,https://opengov.seoul.go.kr/expense/36239608,2026-05-29,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36438128,1,https://opengov.seoul.go.kr/expense/36438128,2026-06-01,seoul_city,여성가족실 아동담당관,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:36473051,5,https://opengov.seoul.go.kr/expense/36473051,2026-06-02,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:36492736,9,https://opengov.seoul.go.kr/expense/36492736,2026-06-04,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,224000,uncertain,meeting_only_uncertain,p12
+opengov:36450406,5,https://opengov.seoul.go.kr/expense/36450406,2026-06-05,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36502173,9,https://opengov.seoul.go.kr/expense/36502173,2026-06-05,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,175000,uncertain,meeting_only_uncertain,p12
+opengov:36473051,8,https://opengov.seoul.go.kr/expense/36473051,2026-06-08,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36461528,11,https://opengov.seoul.go.kr/expense/36461528,2026-06-10,seoul_city,기후환경본부 대기정책과,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:36450406,12,https://opengov.seoul.go.kr/expense/36450406,2026-06-11,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36492721,2,https://opengov.seoul.go.kr/expense/36492721,2026-06-11,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,97000,uncertain,meeting_only_uncertain,p12
+opengov:36426418,15,https://opengov.seoul.go.kr/expense/36426418,2026-06-15,seoul_city,문화본부 문화정책과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:36492736,31,https://opengov.seoul.go.kr/expense/36492736,2026-06-16,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,85000,uncertain,meeting_only_uncertain,p12
+opengov:36471821,20,https://opengov.seoul.go.kr/expense/36471821,2026-06-17,seoul_city,주택실 건축기획과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36414578,12,https://opengov.seoul.go.kr/expense/36414578,2026-06-18,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:36414578,13,https://opengov.seoul.go.kr/expense/36414578,2026-06-18,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,56000,uncertain,meeting_only_uncertain,p12
+opengov:36450406,22,https://opengov.seoul.go.kr/expense/36450406,2026-06-18,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36438873,31,https://opengov.seoul.go.kr/expense/36438873,2026-06-19,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,34000,uncertain,meeting_only_uncertain,p12
+opengov:36502173,34,https://opengov.seoul.go.kr/expense/36502173,2026-06-19,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,120000,uncertain,meeting_only_uncertain,p12
+opengov:36426449,57,https://opengov.seoul.go.kr/expense/36426449,2026-06-22,seoul_city,도시공간본부 도시공간전략과,우도일식,서울 중구 세종대로 124,82000,uncertain,meeting_only_uncertain,p12
+opengov:36427693,11,https://opengov.seoul.go.kr/expense/36427693,2026-06-22,seoul_city,민생노동국 상권활성화과,우도일식,서울 중구 세종대로 124,90000,uncertain,meeting_only_uncertain,p12
+opengov:36492721,8,https://opengov.seoul.go.kr/expense/36492721,2026-06-22,seoul_city,미래공간기획관 공공개발담당관,우도일식,서울 중구 세종대로 124,128000,uncertain,meeting_only_uncertain,p12
+opengov:36501219,11,https://opengov.seoul.go.kr/expense/36501219,2026-06-22,seoul_city,균형발전본부동남권사업과,우도일식,서울 중구 세종대로 124,90000,uncertain,meeting_only_uncertain,p12
+opengov:36432948,31,https://opengov.seoul.go.kr/expense/36432948,2026-06-23,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,83000,uncertain,meeting_only_uncertain,p12
+opengov:36487519,10,https://opengov.seoul.go.kr/expense/36487519,2026-06-23,seoul_city,복지실 고독대응과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:36432948,35,https://opengov.seoul.go.kr/expense/36432948,2026-06-25,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,77000,uncertain,meeting_only_uncertain,p12
+opengov:36414578,16,https://opengov.seoul.go.kr/expense/36414578,2026-06-26,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36687866,1,https://opengov.seoul.go.kr/expense/36687866,2026-07-01,seoul_city,관광체육국 관광산업과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36655867,3,https://opengov.seoul.go.kr/expense/36655867,2026-07-02,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,101000,uncertain,meeting_only_uncertain,p12
+opengov:36697268,1,https://opengov.seoul.go.kr/expense/36697268,2026-07-02,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,65000,uncertain,meeting_only_uncertain,p12
+opengov:36687794,5,https://opengov.seoul.go.kr/expense/36687794,2026-07-03,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,77000,uncertain,meeting_only_uncertain,p12
+opengov:36707731,3,https://opengov.seoul.go.kr/expense/36707731,2026-07-03,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,80000,uncertain,meeting_only_uncertain,p12
+opengov:36667215,1,https://opengov.seoul.go.kr/expense/36667215,2026-07-06,seoul_city,시민건강국 건강관리과,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:36706441,8,https://opengov.seoul.go.kr/expense/36706441,2026-07-07,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36655867,14,https://opengov.seoul.go.kr/expense/36655867,2026-07-09,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,71000,uncertain,meeting_only_uncertain,p12
+opengov:36667214,10,https://opengov.seoul.go.kr/expense/36667214,2026-07-10,seoul_city,시민건강국 식품정책과,우도일식,서울 중구 세종대로 124,143000,uncertain,meeting_only_uncertain,p12
+opengov:36707683,47,https://opengov.seoul.go.kr/expense/36707683,2026-07-10,seoul_city,대변인 언론담당관,우도일식,서울 중구 세종대로 124,140000,uncertain,meeting_only_uncertain,p12
+opengov:36678326,10,https://opengov.seoul.go.kr/expense/36678326,2026-07-14,seoul_city,기후환경본부 친환경건물과,우도일식,서울 중구 세종대로 124,185000,uncertain,meeting_only_uncertain,p12
+opengov:36706441,20,https://opengov.seoul.go.kr/expense/36706441,2026-07-14,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36697268,16,https://opengov.seoul.go.kr/expense/36697268,2026-07-15,seoul_city,미래공간기획관 미래공간담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36687868,36,https://opengov.seoul.go.kr/expense/36687868,2026-07-16,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,112000,uncertain,meeting_only_uncertain,p12
+opengov:36697259,42,https://opengov.seoul.go.kr/expense/36697259,2026-07-16,seoul_city,재난안전실 재난안전정책과,우도일식,서울 중구 세종대로 124,108000,uncertain,meeting_only_uncertain,p12
+opengov:36707578,38,https://opengov.seoul.go.kr/expense/36707578,2026-07-16,seoul_city,교통실 교통정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36697293,7,https://opengov.seoul.go.kr/expense/36697293,2026-07-20,seoul_office,도시기반시설본부 설비부,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:36706441,25,https://opengov.seoul.go.kr/expense/36706441,2026-07-20,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,68000,uncertain,meeting_only_uncertain,p12
+opengov:36707495,17,https://opengov.seoul.go.kr/expense/36707495,2026-07-20,seoul_city,문화본부 문화유산과,우도일식,서울 중구 세종대로 124,105000,uncertain,meeting_only_uncertain,p12
+opengov:36655876,20,https://opengov.seoul.go.kr/expense/36655876,2026-07-21,seoul_council,서울시의회사무처 인사과,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:36716785,55,https://opengov.seoul.go.kr/expense/36716785,2026-07-22,seoul_council,운영지원과,우도일식,서울 중구 세종대로 124,210000,uncertain,meeting_only_uncertain,p12
+opengov:36655867,45,https://opengov.seoul.go.kr/expense/36655867,2026-07-27,seoul_city,관광체육국 관광정책과,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36706441,39,https://opengov.seoul.go.kr/expense/36706441,2026-07-27,seoul_city,여성가족실 저출생담당관,우도일식,서울 중구 세종대로 124,51000,uncertain,meeting_only_uncertain,p12
+opengov:36707570,52,https://opengov.seoul.go.kr/expense/36707570,2026-07-27,seoul_office,도시기반시설본부 총무부,우도일식,서울 중구 세종대로 124,290000,uncertain,meeting_only_uncertain,p12
+opengov:36707600,13,https://opengov.seoul.go.kr/expense/36707600,2026-07-27,seoul_council,교통전문위원실,우도일식,서울 중구 세종대로 124,168000,uncertain,meeting_only_uncertain,p12
+opengov:36707731,17,https://opengov.seoul.go.kr/expense/36707731,2026-07-27,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,102000,uncertain,meeting_only_uncertain,p12
+opengov:36687868,53,https://opengov.seoul.go.kr/expense/36687868,2026-07-28,seoul_city,디자인정책관 디자인정책담당관,우도일식,서울 중구 세종대로 124,100000,uncertain,meeting_only_uncertain,p12
+opengov:36697293,11,https://opengov.seoul.go.kr/expense/36697293,2026-07-28,seoul_office,도시기반시설본부 설비부,우도일식,서울 중구 세종대로 124,143000,uncertain,meeting_only_uncertain,p12
+opengov:36687794,35,https://opengov.seoul.go.kr/expense/36687794,2026-07-29,seoul_city,시민감사옴부즈만위원회,우도일식,서울 중구 세종대로 124,56000,uncertain,meeting_only_uncertain,p12
+opengov:36655893,12,https://opengov.seoul.go.kr/expense/36655893,2026-07-30,seoul_city,자치경찰협력과,우도일식,서울 중구 세종대로 124,108000,uncertain,meeting_only_uncertain,p12
+opengov:36697313,19,https://opengov.seoul.go.kr/expense/36697313,2026-07-30,seoul_city,문화본부 박물관과,우도일식,서울 중구 세종대로 124,57000,uncertain,meeting_only_uncertain,p12
+opengov:36857012,2,https://opengov.seoul.go.kr/expense/36857012,2026-08-05,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,94000,uncertain,meeting_only_uncertain,p12
+opengov:36857012,5,https://opengov.seoul.go.kr/expense/36857012,2026-08-07,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,40000,uncertain,meeting_only_uncertain,p12
+opengov:36857023,8,https://opengov.seoul.go.kr/expense/36857023,2026-08-07,seoul_city,기획조정실 조직담당관,우도일식,서울 중구 세종대로 124,42000,uncertain,meeting_only_uncertain,p12
+opengov:36868539,6,https://opengov.seoul.go.kr/expense/36868539,2026-08-07,seoul_city,시민건강국 공공의료과,우도일식,서울 중구 세종대로 124,45000,uncertain,meeting_only_uncertain,p12
+opengov:36844661,6,https://opengov.seoul.go.kr/expense/36844661,2026-08-18,seoul_city,재난안전실 도로기획관 도로시설과,우도일식,서울 중구 세종대로 124,94000,uncertain,meeting_only_uncertain,p12
+opengov:36857012,9,https://opengov.seoul.go.kr/expense/36857012,2026-08-18,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,88000,uncertain,meeting_only_uncertain,p12
+opengov:36868537,12,https://opengov.seoul.go.kr/expense/36868537,2026-08-25,seoul_city,시민건강국 정신건강과,우도일식,서울 중구 세종대로 124,156000,uncertain,meeting_only_uncertain,p12
+opengov:36857012,25,https://opengov.seoul.go.kr/expense/36857012,2026-08-27,seoul_council,의정국 언론홍보과,우도일식,서울 중구 세종대로 124,40000,uncertain,meeting_only_uncertain,p12

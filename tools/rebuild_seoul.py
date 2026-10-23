@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Rebuild the fixed Seoul sample from saved source JSONL; does not restore retired regions."""
 import re,json,datetime,argparse
+from purpose_types import purpose_category
 from pathlib import Path
 from collections import Counter
 DATE='2026-10-13'
@@ -61,9 +62,9 @@ def refresh_seoul(raw):
                 rows.append({'source_id': doc['id'], 'source_url': doc['url'], 'source_title': doc['title'],
                     'parsed_row': r['row_no'], 'date': str(day), 'department': r.get('dept') or '',
                     'merchant': name, 'source_merchant': r.get('place') or '', 'road_address': '서울 중구 ' + address,
-                    'amount': r['amount']})
+                    'amount': r['amount'],'purpose_category':purpose_category(purpose)[0],'purpose_reason':purpose_category(purpose)[1]})
     rows.sort(key=lambda r: (r['date'], r['source_id'], r['parsed_row']))
-    result = {'scope': '2025 서울시 본청 기존 수집 JSONL 중 지정 9개 상호·13개 주소 조합의 식사 관련 기록',
+    result = {'scope': '2025 서울시 본청 기존 수집 JSONL 중 지정 9개 상호·13개 주소 조합의 과거 선정 지출 기록; 목적 분류 별도',
         'source_documents': len(documents), 'parsed_rows': raw_rows, 'valid_unique_2025_rows': len(seen),
         'filter_exclusions': dict(rejected), 'selected_records': len(rows), 'rows': rows,
         'documents': list(documents.values()), 'refreshed': DATE,

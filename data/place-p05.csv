@@ -1,379 +1,379 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:32743353,4,https://opengov.seoul.go.kr/expense/32743353,2025-01-02,seoul_city,대변인 언론담당관,브라주카 그릴,서울 중구 무교로 19,239000,p05
-opengov:32765830,1,https://opengov.seoul.go.kr/expense/32765830,2025-01-02,seoul_city,건설기술정책관 건설혁신담당관,브라주카 그릴,서울 중구 무교로 19,254900,p05
-opengov:32793717,3,https://opengov.seoul.go.kr/expense/32793717,2025-01-06,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:32755464,2,https://opengov.seoul.go.kr/expense/32755464,2025-01-07,seoul_city,재난안전실 도로기획관 도로관리과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:32764495,3,https://opengov.seoul.go.kr/expense/32764495,2025-01-08,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:32782830,20,https://opengov.seoul.go.kr/expense/32782830,2025-01-15,seoul_city,여성가족실 저출생담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:32793682,22,https://opengov.seoul.go.kr/expense/32793682,2025-01-15,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:32743355,1,https://opengov.seoul.go.kr/expense/32743355,2025-01-16,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,브라주카 그릴,서울 중구 무교로 19,151700,p05
-opengov:32765833,16,https://opengov.seoul.go.kr/expense/32765833,2025-01-16,seoul_city,행정국 인사과,브라주카 그릴,서울 중구 무교로 19,215100,p05
-opengov:32743311,8,https://opengov.seoul.go.kr/expense/32743311,2025-01-17,seoul_city,창의행정담당관,브라주카 그릴,서울 중구 무교로 19,170100,p05
-opengov:32793484,7,https://opengov.seoul.go.kr/expense/32793484,2025-01-17,seoul_city,복지실 장애인자립지원과,브라주카 그릴,서울 중구 무교로 19,128400,p05
-opengov:32743329,8,https://opengov.seoul.go.kr/expense/32743329,2025-01-21,seoul_city,평생교육국 평생교육과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32743397,13,https://opengov.seoul.go.kr/expense/32743397,2025-01-24,seoul_city,여성가족실 아동담당관,브라주카 그릴,서울 중구 무교로 19,159400,p05
-opengov:32764517,45,https://opengov.seoul.go.kr/expense/32764517,2025-01-24,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,116700,p05
-opengov:32765842,6,https://opengov.seoul.go.kr/expense/32765842,2025-01-24,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32793771,20,https://opengov.seoul.go.kr/expense/32793771,2025-01-24,seoul_council,의사담당관,브라주카 그릴,서울 중구 무교로 19,202300,p05
-opengov:32941233,1,https://opengov.seoul.go.kr/expense/32941233,2025-02-03,seoul_city,대변인 언론담당관,브라주카 그릴,서울 중구 무교로 19,164400,p05
-opengov:32972910,2,https://opengov.seoul.go.kr/expense/32972910,2025-02-04,seoul_city,복지실 장애인자립지원과,브라주카 그릴,서울 중구 무교로 19,85600,p05
-opengov:33017153,4,https://opengov.seoul.go.kr/expense/33017153,2025-02-04,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33229611,2,https://opengov.seoul.go.kr/expense/33229611,2025-02-04,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:32985457,2,https://opengov.seoul.go.kr/expense/32985457,2025-02-05,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,86700,p05
-opengov:33025262,1,https://opengov.seoul.go.kr/expense/33025262,2025-02-05,seoul_city,기획조정실 공기업담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:32940007,4,https://opengov.seoul.go.kr/expense/32940007,2025-02-06,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32974335,5,https://opengov.seoul.go.kr/expense/32974335,2025-02-07,seoul_city,관광체육국 관광산업과,브라주카 그릴,서울 중구 무교로 19,99700,p05
-opengov:32985578,3,https://opengov.seoul.go.kr/expense/32985578,2025-02-07,seoul_city,관광체육국 체육진흥과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:32939969,15,https://opengov.seoul.go.kr/expense/32939969,2025-02-10,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32941236,5,https://opengov.seoul.go.kr/expense/32941236,2025-02-11,seoul_city,기후환경본부 녹색에너지과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32974365,6,https://opengov.seoul.go.kr/expense/32974365,2025-02-12,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,109600,p05
-opengov:32952952,5,https://opengov.seoul.go.kr/expense/32952952,2025-02-13,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,215100,p05
-opengov:32972908,5,https://opengov.seoul.go.kr/expense/32972908,2025-02-13,seoul_city,문화본부 문화유산보존과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32972910,8,https://opengov.seoul.go.kr/expense/32972910,2025-02-13,seoul_city,복지실 장애인자립지원과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32939969,22,https://opengov.seoul.go.kr/expense/32939969,2025-02-14,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,52800,p05
-opengov:32962305,21,https://opengov.seoul.go.kr/expense/32962305,2025-02-14,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:32985644,59,https://opengov.seoul.go.kr/expense/32985644,2025-02-17,seoul_city,정무부시장실,브라주카 그릴,서울 중구 무교로 19,321200,p05
-opengov:32952953,8,https://opengov.seoul.go.kr/expense/32952953,2025-02-18,seoul_city,복지실 1인가구지원과,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:32985675,10,https://opengov.seoul.go.kr/expense/32985675,2025-02-18,seoul_city,복지실 돌봄복지과,브라주카 그릴,서울 중구 무교로 19,78700,p05
-opengov:32985644,74,https://opengov.seoul.go.kr/expense/32985644,2025-02-20,seoul_city,정무부시장실,브라주카 그릴,서울 중구 무교로 19,126700,p05
-opengov:32963672,16,https://opengov.seoul.go.kr/expense/32963672,2025-02-24,seoul_city,도시공간본부 도시계획과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:32940007,13,https://opengov.seoul.go.kr/expense/32940007,2025-02-28,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:32951616,42,https://opengov.seoul.go.kr/expense/32951616,2025-02-28,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33152568,3,https://opengov.seoul.go.kr/expense/33152568,2025-03-05,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33199346,1,https://opengov.seoul.go.kr/expense/33199346,2025-03-05,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,81700,p05
-opengov:33229619,5,https://opengov.seoul.go.kr/expense/33229619,2025-03-05,seoul_city,행정2부시장실,브라주카 그릴,서울 중구 무교로 19,617800,p05
-opengov:33209071,38,https://opengov.seoul.go.kr/expense/33209071,2025-03-06,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,81300,p05
-opengov:33249126,8,https://opengov.seoul.go.kr/expense/33249126,2025-03-06,seoul_city,평생교육국 교육지원정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33229586,3,https://opengov.seoul.go.kr/expense/33229586,2025-03-07,seoul_city,복지실 고독대응과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33164994,8,https://opengov.seoul.go.kr/expense/33164994,2025-03-10,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:33152574,6,https://opengov.seoul.go.kr/expense/33152574,2025-03-11,seoul_city,기후환경본부 녹색에너지과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33176504,4,https://opengov.seoul.go.kr/expense/33176504,2025-03-11,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33229622,13,https://opengov.seoul.go.kr/expense/33229622,2025-03-11,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,200000,p05
-opengov:33166343,3,https://opengov.seoul.go.kr/expense/33166343,2025-03-12,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,102600,p05
-opengov:33220316,11,https://opengov.seoul.go.kr/expense/33220316,2025-03-12,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33229618,23,https://opengov.seoul.go.kr/expense/33229618,2025-03-12,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,233400,p05
-opengov:33152559,16,https://opengov.seoul.go.kr/expense/33152559,2025-03-13,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33199460,5,https://opengov.seoul.go.kr/expense/33199460,2025-03-13,seoul_city,시민건강국 식품정책과,브라주카 그릴,서울 중구 무교로 19,94500,p05
-opengov:33209071,98,https://opengov.seoul.go.kr/expense/33209071,2025-03-13,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33229588,11,https://opengov.seoul.go.kr/expense/33229588,2025-03-13,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,102600,p05
-opengov:33152568,7,https://opengov.seoul.go.kr/expense/33152568,2025-03-14,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33228393,7,https://opengov.seoul.go.kr/expense/33228393,2025-03-14,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,98600,p05
-opengov:33239277,7,https://opengov.seoul.go.kr/expense/33239277,2025-03-14,seoul_city,문화본부 박물관과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33199460,8,https://opengov.seoul.go.kr/expense/33199460,2025-03-17,seoul_city,시민건강국 식품정책과,브라주카 그릴,서울 중구 무교로 19,97500,p05
-opengov:33229588,18,https://opengov.seoul.go.kr/expense/33229588,2025-03-18,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,160900,p05
-opengov:33249126,25,https://opengov.seoul.go.kr/expense/33249126,2025-03-18,seoul_city,평생교육국 교육지원정책과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33199365,23,https://opengov.seoul.go.kr/expense/33199365,2025-03-19,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33239279,21,https://opengov.seoul.go.kr/expense/33239279,2025-03-20,seoul_city,글로벌도시정책관 국제협력담당관 국제협력담당관,브라주카 그릴,서울 중구 무교로 19,155600,p05
-opengov:33229588,20,https://opengov.seoul.go.kr/expense/33229588,2025-03-21,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:33229588,23,https://opengov.seoul.go.kr/expense/33229588,2025-03-25,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,334600,p05
-opengov:33152559,35,https://opengov.seoul.go.kr/expense/33152559,2025-03-26,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33128592,12,https://opengov.seoul.go.kr/expense/33128592,2025-03-27,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,183600,p05
-opengov:33220326,28,https://opengov.seoul.go.kr/expense/33220326,2025-03-28,seoul_city,시민감사옴부즈만위원회,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33229618,61,https://opengov.seoul.go.kr/expense/33229618,2025-03-31,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,427900,p05
-opengov:33392434,5,https://opengov.seoul.go.kr/expense/33392434,2025-04-01,seoul_city,대변인 언론담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33417498,1,https://opengov.seoul.go.kr/expense/33417498,2025-04-01,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33406019,4,https://opengov.seoul.go.kr/expense/33406019,2025-04-02,seoul_city,행정국 시민협력과,브라주카 그릴,서울 중구 무교로 19,107800,p05
-opengov:33406215,2,https://opengov.seoul.go.kr/expense/33406215,2025-04-02,seoul_city,창의행정담당관,브라주카 그릴,서울 중구 무교로 19,94500,p05
-opengov:33430112,5,https://opengov.seoul.go.kr/expense/33430112,2025-04-03,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,153900,p05
-opengov:33382614,2,https://opengov.seoul.go.kr/expense/33382614,2025-04-04,seoul_city,글로벌도시정책관 다문화담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33440575,3,https://opengov.seoul.go.kr/expense/33440575,2025-04-07,seoul_city,재무국 38세금징수과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:33406238,10,https://opengov.seoul.go.kr/expense/33406238,2025-04-08,seoul_city,시민감사옴부즈만위원회,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33417498,5,https://opengov.seoul.go.kr/expense/33417498,2025-04-08,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33417507,17,https://opengov.seoul.go.kr/expense/33417507,2025-04-09,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,125000,p05
-opengov:33430068,6,https://opengov.seoul.go.kr/expense/33430068,2025-04-09,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,157400,p05
-opengov:33404726,104,https://opengov.seoul.go.kr/expense/33404726,2025-04-10,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,78700,p05
-opengov:33405977,9,https://opengov.seoul.go.kr/expense/33405977,2025-04-10,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,215100,p05
-opengov:33430068,10,https://opengov.seoul.go.kr/expense/33430068,2025-04-11,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,106100,p05
-opengov:33392415,11,https://opengov.seoul.go.kr/expense/33392415,2025-04-15,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:33392423,9,https://opengov.seoul.go.kr/expense/33392423,2025-04-16,seoul_city,복지실 돌봄고독정책관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34233924,11,https://opengov.seoul.go.kr/expense/34233924,2025-04-17,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33392400,37,https://opengov.seoul.go.kr/expense/33392400,2025-04-23,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33406234,18,https://opengov.seoul.go.kr/expense/33406234,2025-04-23,seoul_city,경제실 창조산업기획관 산업입지과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:33429151,15,https://opengov.seoul.go.kr/expense/33429151,2025-04-23,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33461475,10,https://opengov.seoul.go.kr/expense/33461475,2025-04-23,seoul_city,복지실 디딤돌소득과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:33417507,51,https://opengov.seoul.go.kr/expense/33417507,2025-04-24,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,211200,p05
-opengov:33430075,12,https://opengov.seoul.go.kr/expense/33430075,2025-04-24,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,75600,p05
-opengov:33430103,56,https://opengov.seoul.go.kr/expense/33430103,2025-04-24,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,480000,p05
-opengov:33392410,7,https://opengov.seoul.go.kr/expense/33392410,2025-04-28,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,브라주카 그릴,서울 중구 무교로 19,240000,p05
-opengov:33460525,35,https://opengov.seoul.go.kr/expense/33460525,2025-04-28,seoul_city,경제실 창조산업과,브라주카 그릴,서울 중구 무교로 19,51300,p05
-opengov:34233924,21,https://opengov.seoul.go.kr/expense/34233924,2025-04-28,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33392419,11,https://opengov.seoul.go.kr/expense/33392419,2025-04-29,seoul_city,평생교육국 평생교육과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33392423,17,https://opengov.seoul.go.kr/expense/33392423,2025-04-29,seoul_city,복지실 돌봄고독정책관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:33635005,3,https://opengov.seoul.go.kr/expense/33635005,2025-05-08,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33624120,4,https://opengov.seoul.go.kr/expense/33624120,2025-05-09,seoul_council,서울시의회사무처 인사담당관,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:33600618,4,https://opengov.seoul.go.kr/expense/33600618,2025-05-13,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:33636146,15,https://opengov.seoul.go.kr/expense/33636146,2025-05-13,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:33987576,1,https://opengov.seoul.go.kr/expense/33987576,2025-05-13,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33600307,6,https://opengov.seoul.go.kr/expense/33600307,2025-05-14,seoul_city,미래공간기획관 미래공간담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33624115,14,https://opengov.seoul.go.kr/expense/33624115,2025-05-14,seoul_council,의정담당관,브라주카 그릴,서울 중구 무교로 19,147600,p05
-opengov:33624136,12,https://opengov.seoul.go.kr/expense/33624136,2025-05-14,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33634998,5,https://opengov.seoul.go.kr/expense/33634998,2025-05-15,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33624300,30,https://opengov.seoul.go.kr/expense/33624300,2025-05-16,seoul_office,도시기반시설본부 총무부,브라주카 그릴,서울 중구 무교로 19,135600,p05
-opengov:33987576,6,https://opengov.seoul.go.kr/expense/33987576,2025-05-16,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33586798,4,https://opengov.seoul.go.kr/expense/33586798,2025-05-20,seoul_city,기획조정실 법률지원담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33636108,14,https://opengov.seoul.go.kr/expense/33636108,2025-05-20,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,123000,p05
-opengov:33837489,4,https://opengov.seoul.go.kr/expense/33837489,2025-05-21,seoul_city,재난안전실 중대재해예방과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33636121,16,https://opengov.seoul.go.kr/expense/33636121,2025-05-23,seoul_city,자치경찰위원회 자치경찰협력과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:33636126,17,https://opengov.seoul.go.kr/expense/33636126,2025-05-26,seoul_council,의회사무처 의사담당관,브라주카 그릴,서울 중구 무교로 19,75200,p05
-opengov:33636116,10,https://opengov.seoul.go.kr/expense/33636116,2025-05-27,seoul_city,복지실 디딤돌소득과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33636146,47,https://opengov.seoul.go.kr/expense/33636146,2025-05-27,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,162600,p05
-opengov:33636108,24,https://opengov.seoul.go.kr/expense/33636108,2025-05-28,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:33636121,18,https://opengov.seoul.go.kr/expense/33636121,2025-05-29,seoul_city,자치경찰위원회 자치경찰협력과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33636138,9,https://opengov.seoul.go.kr/expense/33636138,2025-05-30,seoul_city,글로벌도시정책관 국제협력담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:33868890,4,https://opengov.seoul.go.kr/expense/33868890,2025-06-04,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,152500,p05
-opengov:33848777,2,https://opengov.seoul.go.kr/expense/33848777,2025-06-09,seoul_city,행정국 시민협력과,브라주카 그릴,서울 중구 무교로 19,75600,p05
-opengov:33868904,7,https://opengov.seoul.go.kr/expense/33868904,2025-06-09,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,215100,p05
-opengov:33859004,6,https://opengov.seoul.go.kr/expense/33859004,2025-06-10,seoul_city,문화본부 문화유산보존과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33837028,20,https://opengov.seoul.go.kr/expense/33837028,2025-06-12,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,325800,p05
-opengov:33814564,15,https://opengov.seoul.go.kr/expense/33814564,2025-06-18,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,98600,p05
-opengov:33868892,4,https://opengov.seoul.go.kr/expense/33868892,2025-06-18,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33868877,12,https://opengov.seoul.go.kr/expense/33868877,2025-06-19,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:33847533,17,https://opengov.seoul.go.kr/expense/33847533,2025-06-26,seoul_city,행정국 인사과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:33826572,47,https://opengov.seoul.go.kr/expense/33826572,2025-06-27,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:33778928,23,https://opengov.seoul.go.kr/expense/33778928,2025-06-30,seoul_city,감사위원회 안전감사담당관,브라주카 그릴,서울 중구 무교로 19,248700,p05
-opengov:33868904,32,https://opengov.seoul.go.kr/expense/33868904,2025-06-30,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,116700,p05
-opengov:34037540,1,https://opengov.seoul.go.kr/expense/34037540,2025-07-01,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,브라주카 그릴,서울 중구 무교로 19,140700,p05
-opengov:34087198,1,https://opengov.seoul.go.kr/expense/34087198,2025-07-01,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34087200,1,https://opengov.seoul.go.kr/expense/34087200,2025-07-01,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,82200,p05
-opengov:34086707,1,https://opengov.seoul.go.kr/expense/34086707,2025-07-02,seoul_city,디지털도시국 디지털정책과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34123773,1,https://opengov.seoul.go.kr/expense/34123773,2025-07-02,seoul_city,도시외교담당관,브라주카 그릴,서울 중구 무교로 19,134500,p05
-opengov:34087190,15,https://opengov.seoul.go.kr/expense/34087190,2025-07-08,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34077489,9,https://opengov.seoul.go.kr/expense/34077489,2025-07-11,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34047854,7,https://opengov.seoul.go.kr/expense/34047854,2025-07-15,seoul_city,관광체육국 체육진흥과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34025089,15,https://opengov.seoul.go.kr/expense/34025089,2025-07-17,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,42800,p05
-opengov:34037592,11,https://opengov.seoul.go.kr/expense/34037592,2025-07-17,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,61700,p05
-opengov:34025098,27,https://opengov.seoul.go.kr/expense/34025098,2025-07-18,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34058161,8,https://opengov.seoul.go.kr/expense/34058161,2025-07-21,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34067510,9,https://opengov.seoul.go.kr/expense/34067510,2025-07-21,seoul_city,경제실 금융투자과,브라주카 그릴,서울 중구 무교로 19,100000,p05
-opengov:34086141,10,https://opengov.seoul.go.kr/expense/34086141,2025-07-23,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,94500,p05
-opengov:34058160,11,https://opengov.seoul.go.kr/expense/34058160,2025-07-24,seoul_city,재난안전실 중대재해예방과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34067515,14,https://opengov.seoul.go.kr/expense/34067515,2025-07-24,seoul_city,문화본부 문화유산활용과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34047879,13,https://opengov.seoul.go.kr/expense/34047879,2025-07-28,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,102600,p05
-opengov:34077494,18,https://opengov.seoul.go.kr/expense/34077494,2025-07-28,seoul_city,기획조정실 재정담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34077528,34,https://opengov.seoul.go.kr/expense/34077528,2025-07-28,seoul_council,의정국 의사과,브라주카 그릴,서울 중구 무교로 19,217200,p05
-opengov:34025089,31,https://opengov.seoul.go.kr/expense/34025089,2025-07-30,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,207900,p05
-opengov:34086141,13,https://opengov.seoul.go.kr/expense/34086141,2025-07-30,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34087200,29,https://opengov.seoul.go.kr/expense/34087200,2025-07-31,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34254469,2,https://opengov.seoul.go.kr/expense/34254469,2025-08-01,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34278256,1,https://opengov.seoul.go.kr/expense/34278256,2025-08-01,seoul_city,기후환경본부 녹색에너지과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34277795,2,https://opengov.seoul.go.kr/expense/34277795,2025-08-04,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,75600,p05
-opengov:34243904,3,https://opengov.seoul.go.kr/expense/34243904,2025-08-05,seoul_council,서울시의회사무처 인사과,브라주카 그릴,서울 중구 무교로 19,109600,p05
-opengov:34298516,2,https://opengov.seoul.go.kr/expense/34298516,2025-08-05,seoul_city,복지실 돌봄복지과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34220898,5,https://opengov.seoul.go.kr/expense/34220898,2025-08-06,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34517796,4,https://opengov.seoul.go.kr/expense/34517796,2025-08-06,seoul_council,서울특별시의회사무처 의정국 현장민원과,브라주카 그릴,서울 중구 무교로 19,102600,p05
-opengov:34243931,8,https://opengov.seoul.go.kr/expense/34243931,2025-08-07,seoul_council,재정분석과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34289523,6,https://opengov.seoul.go.kr/expense/34289523,2025-08-08,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,173300,p05
-opengov:34257473,7,https://opengov.seoul.go.kr/expense/34257473,2025-08-11,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,153900,p05
-opengov:34278432,12,https://opengov.seoul.go.kr/expense/34278432,2025-08-18,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34245149,12,https://opengov.seoul.go.kr/expense/34245149,2025-08-19,seoul_city,디지털도시국 정보시스템과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34245136,2,https://opengov.seoul.go.kr/expense/34245136,2025-08-20,seoul_city,복지실 고독대응과,브라주카 그릴,서울 중구 무교로 19,75600,p05
-opengov:34243931,22,https://opengov.seoul.go.kr/expense/34243931,2025-08-22,seoul_council,재정분석과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34278427,30,https://opengov.seoul.go.kr/expense/34278427,2025-08-22,seoul_city,시민감사옴부즈만위원회,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:34278432,19,https://opengov.seoul.go.kr/expense/34278432,2025-08-22,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34289494,7,https://opengov.seoul.go.kr/expense/34289494,2025-08-26,seoul_city,행정국 인사과,브라주카 그릴,서울 중구 무교로 19,233400,p05
-opengov:34278359,64,https://opengov.seoul.go.kr/expense/34278359,2025-08-28,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34288322,32,https://opengov.seoul.go.kr/expense/34288322,2025-08-28,seoul_city,감사위원회 조사담당관,브라주카 그릴,서울 중구 무교로 19,90100,p05
-opengov:34495706,1,https://opengov.seoul.go.kr/expense/34495706,2025-09-01,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34467226,1,https://opengov.seoul.go.kr/expense/34467226,2025-09-02,seoul_city,행정국 평화기반조성과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34483947,1,https://opengov.seoul.go.kr/expense/34483947,2025-09-02,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,132300,p05
-opengov:34484008,6,https://opengov.seoul.go.kr/expense/34484008,2025-09-03,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34495706,5,https://opengov.seoul.go.kr/expense/34495706,2025-09-03,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34483866,2,https://opengov.seoul.go.kr/expense/34483866,2025-09-04,seoul_city,문화본부 문화유산보존과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34452870,9,https://opengov.seoul.go.kr/expense/34452870,2025-09-05,seoul_council,시의회사무처 의정국 법제과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:34483830,19,https://opengov.seoul.go.kr/expense/34483830,2025-09-08,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34483934,7,https://opengov.seoul.go.kr/expense/34483934,2025-09-08,seoul_office,인재개발원 인재기획과,브라주카 그릴,서울 중구 무교로 19,229800,p05
-opengov:34452848,2,https://opengov.seoul.go.kr/expense/34452848,2025-09-09,seoul_city,시민건강국 정신건강과,브라주카 그릴,서울 중구 무교로 19,56700,p05
-opengov:34454094,3,https://opengov.seoul.go.kr/expense/34454094,2025-09-09,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34454112,9,https://opengov.seoul.go.kr/expense/34454112,2025-09-10,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34465647,7,https://opengov.seoul.go.kr/expense/34465647,2025-09-11,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:34465655,16,https://opengov.seoul.go.kr/expense/34465655,2025-09-11,seoul_city,미래공간기획관 미래공간담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34483821,25,https://opengov.seoul.go.kr/expense/34483821,2025-09-11,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,81300,p05
-opengov:34723994,15,https://opengov.seoul.go.kr/expense/34723994,2025-09-12,seoul_city,디지털도시국 디지털정책과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34442151,39,https://opengov.seoul.go.kr/expense/34442151,2025-09-15,seoul_city,교통실 교통정책과,브라주카 그릴,서울 중구 무교로 19,307300,p05
-opengov:34483830,38,https://opengov.seoul.go.kr/expense/34483830,2025-09-15,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,138500,p05
-opengov:34529207,7,https://opengov.seoul.go.kr/expense/34529207,2025-09-15,seoul_city,홍보기획관 콘텐츠담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:34454116,8,https://opengov.seoul.go.kr/expense/34454116,2025-09-16,seoul_city,복지실 디딤돌소득과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34483844,3,https://opengov.seoul.go.kr/expense/34483844,2025-09-16,seoul_city,디지털도시국 정보시스템과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:34495684,27,https://opengov.seoul.go.kr/expense/34495684,2025-09-17,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:34483977,10,https://opengov.seoul.go.kr/expense/34483977,2025-09-18,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34494984,12,https://opengov.seoul.go.kr/expense/34494984,2025-09-18,seoul_city,감사위원회 공공감사담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34539434,18,https://opengov.seoul.go.kr/expense/34539434,2025-09-18,seoul_council,재정분석과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34440887,5,https://opengov.seoul.go.kr/expense/34440887,2025-09-19,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,290000,p05
-opengov:34454112,19,https://opengov.seoul.go.kr/expense/34454112,2025-09-22,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34465653,5,https://opengov.seoul.go.kr/expense/34465653,2025-09-22,seoul_city,재무국 38세금징수과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34480754,13,https://opengov.seoul.go.kr/expense/34480754,2025-09-23,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34495651,16,https://opengov.seoul.go.kr/expense/34495651,2025-09-23,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34440887,7,https://opengov.seoul.go.kr/expense/34440887,2025-09-24,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,295600,p05
-opengov:34467232,24,https://opengov.seoul.go.kr/expense/34467232,2025-09-24,seoul_city,도시외교담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34483824,14,https://opengov.seoul.go.kr/expense/34483824,2025-09-24,seoul_council,서울시의회사무처 도시계획균형전문위원실,브라주카 그릴,서울 중구 무교로 19,182600,p05
-opengov:34495706,37,https://opengov.seoul.go.kr/expense/34495706,2025-09-24,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34711184,6,https://opengov.seoul.go.kr/expense/34711184,2025-09-24,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:34454143,29,https://opengov.seoul.go.kr/expense/34454143,2025-09-26,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34465646,11,https://opengov.seoul.go.kr/expense/34465646,2025-09-26,seoul_office,서울아리수본부 중부수도사업소 행정지원과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34495684,46,https://opengov.seoul.go.kr/expense/34495684,2025-09-29,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:34711338,1,https://opengov.seoul.go.kr/expense/34711338,2025-10-01,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,151200,p05
-opengov:34711336,1,https://opengov.seoul.go.kr/expense/34711336,2025-10-02,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,157200,p05
-opengov:34701403,1,https://opengov.seoul.go.kr/expense/34701403,2025-10-10,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34669095,10,https://opengov.seoul.go.kr/expense/34669095,2025-10-14,seoul_city,민생노동국 소상공인정책과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34669130,5,https://opengov.seoul.go.kr/expense/34669130,2025-10-15,seoul_city,교통실 물류정책과,브라주카 그릴,서울 중구 무교로 19,94500,p05
-opengov:34690047,4,https://opengov.seoul.go.kr/expense/34690047,2025-10-15,seoul_city,기획조정실 공기업담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34701403,4,https://opengov.seoul.go.kr/expense/34701403,2025-10-16,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34691326,3,https://opengov.seoul.go.kr/expense/34691326,2025-10-21,seoul_city,재난안전실 중대재해예방과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34680950,7,https://opengov.seoul.go.kr/expense/34680950,2025-10-24,seoul_council,환경수자원전문위원실,브라주카 그릴,서울 중구 무교로 19,300300,p05
-opengov:34655627,10,https://opengov.seoul.go.kr/expense/34655627,2025-10-27,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34851627,5,https://opengov.seoul.go.kr/expense/34851627,2025-10-27,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34631798,6,https://opengov.seoul.go.kr/expense/34631798,2025-10-28,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:34711166,36,https://opengov.seoul.go.kr/expense/34711166,2025-10-29,seoul_city,감사위원회 감사담당관,브라주카 그릴,서울 중구 무교로 19,75000,p05
-opengov:34711340,30,https://opengov.seoul.go.kr/expense/34711340,2025-10-29,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,155600,p05
-opengov:34690023,11,https://opengov.seoul.go.kr/expense/34690023,2025-10-30,seoul_city,재무국 세제과,브라주카 그릴,서울 중구 무교로 19,378700,p05
-opengov:34669100,12,https://opengov.seoul.go.kr/expense/34669100,2025-10-31,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,215100,p05
-opengov:34876550,3,https://opengov.seoul.go.kr/expense/34876550,2025-11-10,seoul_city,시민건강국 식품정책과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:34904036,15,https://opengov.seoul.go.kr/expense/34904036,2025-11-10,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34876553,15,https://opengov.seoul.go.kr/expense/34876553,2025-11-11,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:34876534,4,https://opengov.seoul.go.kr/expense/34876534,2025-11-12,seoul_city,행정국 평화기반조성과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34952051,99,https://opengov.seoul.go.kr/expense/34952051,2025-11-13,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,187300,p05
-opengov:34889825,13,https://opengov.seoul.go.kr/expense/34889825,2025-11-14,seoul_city,여성가족실 아동담당관,브라주카 그릴,서울 중구 무교로 19,114100,p05
-opengov:34928405,16,https://opengov.seoul.go.kr/expense/34928405,2025-11-17,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34938415,14,https://opengov.seoul.go.kr/expense/34938415,2025-11-19,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:34902467,7,https://opengov.seoul.go.kr/expense/34902467,2025-11-25,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:34915115,17,https://opengov.seoul.go.kr/expense/34915115,2025-11-25,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:34952051,221,https://opengov.seoul.go.kr/expense/34952051,2025-11-26,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,57800,p05
-opengov:35145920,1,https://opengov.seoul.go.kr/expense/35145920,2025-12-01,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35167200,1,https://opengov.seoul.go.kr/expense/35167200,2025-12-01,seoul_city,기획조정실 법률지원담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35197516,3,https://opengov.seoul.go.kr/expense/35197516,2025-12-02,seoul_city,경제실 뷰티패션산업과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35177671,39,https://opengov.seoul.go.kr/expense/35177671,2025-12-03,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,165600,p05
-opengov:35167213,4,https://opengov.seoul.go.kr/expense/35167213,2025-12-04,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35204384,5,https://opengov.seoul.go.kr/expense/35204384,2025-12-04,seoul_city,행정국 시민협력과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35177685,12,https://opengov.seoul.go.kr/expense/35177685,2025-12-05,seoul_city,여성가족실 저출생담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35240417,4,https://opengov.seoul.go.kr/expense/35240417,2025-12-05,seoul_city,디자인정책관 디자인산업담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35157846,2,https://opengov.seoul.go.kr/expense/35157846,2025-12-08,seoul_office,서울도서관 독서문화진흥과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35167200,4,https://opengov.seoul.go.kr/expense/35167200,2025-12-08,seoul_city,기획조정실 법률지원담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35177671,101,https://opengov.seoul.go.kr/expense/35177671,2025-12-10,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,220700,p05
-opengov:35197503,21,https://opengov.seoul.go.kr/expense/35197503,2025-12-11,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,98600,p05
-opengov:35157850,20,https://opengov.seoul.go.kr/expense/35157850,2025-12-12,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,76700,p05
-opengov:35167290,7,https://opengov.seoul.go.kr/expense/35167290,2025-12-15,seoul_city,디지털도시국 공간정보과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35186072,7,https://opengov.seoul.go.kr/expense/35186072,2025-12-15,seoul_city,재무국 계약심사과,브라주카 그릴,서울 중구 무교로 19,360000,p05
-opengov:35204422,21,https://opengov.seoul.go.kr/expense/35204422,2025-12-15,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35184942,48,https://opengov.seoul.go.kr/expense/35184942,2025-12-17,seoul_office,도시기반시설본부 총무부,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:35204389,8,https://opengov.seoul.go.kr/expense/35204389,2025-12-18,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35158202,15,https://opengov.seoul.go.kr/expense/35158202,2025-12-19,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,170400,p05
-opengov:35157841,12,https://opengov.seoul.go.kr/expense/35157841,2025-12-22,seoul_city,재난안전실 도로기획관 도로시설과,브라주카 그릴,서울 중구 무교로 19,100000,p05
-opengov:35167213,16,https://opengov.seoul.go.kr/expense/35167213,2025-12-22,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,116700,p05
-opengov:35205492,12,https://opengov.seoul.go.kr/expense/35205492,2025-12-22,seoul_city,재난안전실 도로기획관 도로관리과,브라주카 그릴,서울 중구 무교로 19,400000,p05
-opengov:35197503,34,https://opengov.seoul.go.kr/expense/35197503,2025-12-23,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,116700,p05
-opengov:35197503,39,https://opengov.seoul.go.kr/expense/35197503,2025-12-24,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,149400,p05
-opengov:35204405,36,https://opengov.seoul.go.kr/expense/35204405,2025-12-29,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,286300,p05
-opengov:35388722,1,https://opengov.seoul.go.kr/expense/35388722,2026-01-05,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:35398212,3,https://opengov.seoul.go.kr/expense/35398212,2026-01-05,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35398221,29,https://opengov.seoul.go.kr/expense/35398221,2026-01-06,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,229000,p05
-opengov:35398212,10,https://opengov.seoul.go.kr/expense/35398212,2026-01-08,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35421566,4,https://opengov.seoul.go.kr/expense/35421566,2026-01-08,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:35410146,4,https://opengov.seoul.go.kr/expense/35410146,2026-01-12,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,272300,p05
-opengov:35421566,8,https://opengov.seoul.go.kr/expense/35421566,2026-01-12,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35380356,14,https://opengov.seoul.go.kr/expense/35380356,2026-01-13,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35378916,2,https://opengov.seoul.go.kr/expense/35378916,2026-01-14,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35388722,20,https://opengov.seoul.go.kr/expense/35388722,2026-01-15,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,102600,p05
-opengov:35421606,8,https://opengov.seoul.go.kr/expense/35421606,2026-01-15,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35399564,10,https://opengov.seoul.go.kr/expense/35399564,2026-01-19,seoul_city,교통실 물류정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35410288,5,https://opengov.seoul.go.kr/expense/35410288,2026-01-19,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35357549,10,https://opengov.seoul.go.kr/expense/35357549,2026-01-20,seoul_city,여성가족실 아동담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35357686,22,https://opengov.seoul.go.kr/expense/35357686,2026-01-20,seoul_city,감사위원회 감사담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35378916,4,https://opengov.seoul.go.kr/expense/35378916,2026-01-20,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,155600,p05
-opengov:35420388,5,https://opengov.seoul.go.kr/expense/35420388,2026-01-20,seoul_city,평생교육국 평생교육과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35357552,8,https://opengov.seoul.go.kr/expense/35357552,2026-01-21,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35388722,30,https://opengov.seoul.go.kr/expense/35388722,2026-01-21,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35398243,45,https://opengov.seoul.go.kr/expense/35398243,2026-01-21,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,283900,p05
-opengov:35410191,16,https://opengov.seoul.go.kr/expense/35410191,2026-01-21,seoul_city,디자인정책관 도시경관담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35410288,9,https://opengov.seoul.go.kr/expense/35410288,2026-01-22,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,47800,p05
-opengov:35389951,11,https://opengov.seoul.go.kr/expense/35389951,2026-01-23,seoul_city,기획조정실 공기업담당관,브라주카 그릴,서울 중구 무교로 19,126500,p05
-opengov:35410365,8,https://opengov.seoul.go.kr/expense/35410365,2026-01-26,seoul_city,경제실 금융투자과,브라주카 그릴,서울 중구 무교로 19,146900,p05
-opengov:35369461,28,https://opengov.seoul.go.kr/expense/35369461,2026-01-27,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35595236,1,https://opengov.seoul.go.kr/expense/35595236,2026-02-02,seoul_city,주택실 임대주택과,브라주카 그릴,서울 중구 무교로 19,112600,p05
-opengov:35605727,2,https://opengov.seoul.go.kr/expense/35605727,2026-02-02,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35595053,3,https://opengov.seoul.go.kr/expense/35595053,2026-02-03,seoul_city,행정1부시장실,브라주카 그릴,서울 중구 무교로 19,218700,p05
-opengov:35595256,3,https://opengov.seoul.go.kr/expense/35595256,2026-02-03,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35583668,3,https://opengov.seoul.go.kr/expense/35583668,2026-02-05,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35560793,6,https://opengov.seoul.go.kr/expense/35560793,2026-02-06,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35605725,3,https://opengov.seoul.go.kr/expense/35605725,2026-02-06,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:35605715,18,https://opengov.seoul.go.kr/expense/35605715,2026-02-09,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:35560793,7,https://opengov.seoul.go.kr/expense/35560793,2026-02-10,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35572178,7,https://opengov.seoul.go.kr/expense/35572178,2026-02-11,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,80000,p05
-opengov:35559454,6,https://opengov.seoul.go.kr/expense/35559454,2026-02-12,seoul_city,행정국 대외협력과,브라주카 그릴,서울 중구 무교로 19,205000,p05
-opengov:35605727,13,https://opengov.seoul.go.kr/expense/35605727,2026-02-13,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:35595213,16,https://opengov.seoul.go.kr/expense/35595213,2026-02-19,seoul_city,복지실 어르신복지과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35559496,22,https://opengov.seoul.go.kr/expense/35559496,2026-02-23,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35559475,14,https://opengov.seoul.go.kr/expense/35559475,2026-02-24,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35547880,13,https://opengov.seoul.go.kr/expense/35547880,2026-02-25,seoul_office,서울도서관행정지원과,브라주카 그릴,서울 중구 무교로 19,262900,p05
-opengov:35582802,9,https://opengov.seoul.go.kr/expense/35582802,2026-02-26,seoul_city,관광체육국 관광산업과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35834115,1,https://opengov.seoul.go.kr/expense/35834115,2026-03-03,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35776317,1,https://opengov.seoul.go.kr/expense/35776317,2026-03-04,seoul_city,디자인정책관 디자인산업담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35834100,5,https://opengov.seoul.go.kr/expense/35834100,2026-03-05,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,86700,p05
-opengov:35788435,6,https://opengov.seoul.go.kr/expense/35788435,2026-03-06,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,54800,p05
-opengov:35812204,5,https://opengov.seoul.go.kr/expense/35812204,2026-03-06,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,116700,p05
-opengov:35776329,5,https://opengov.seoul.go.kr/expense/35776329,2026-03-09,seoul_city,기획조정실 조직담당관,브라주카 그릴,서울 중구 무교로 19,223200,p05
-opengov:35845496,5,https://opengov.seoul.go.kr/expense/35845496,2026-03-09,seoul_city,복지실 자활지원과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35834100,12,https://opengov.seoul.go.kr/expense/35834100,2026-03-10,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,77800,p05
-opengov:35787137,8,https://opengov.seoul.go.kr/expense/35787137,2026-03-12,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,272300,p05
-opengov:35812086,6,https://opengov.seoul.go.kr/expense/35812086,2026-03-12,seoul_city,기획조정실 규제개선담당관,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:35798917,4,https://opengov.seoul.go.kr/expense/35798917,2026-03-13,seoul_city,시민건강국 감염병관리과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35834083,16,https://opengov.seoul.go.kr/expense/35834083,2026-03-17,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,109600,p05
-opengov:35834100,36,https://opengov.seoul.go.kr/expense/35834100,2026-03-18,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,191800,p05
-opengov:35824118,18,https://opengov.seoul.go.kr/expense/35824118,2026-03-19,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:35834086,147,https://opengov.seoul.go.kr/expense/35834086,2026-03-19,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,60800,p05
-opengov:35834100,41,https://opengov.seoul.go.kr/expense/35834100,2026-03-19,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,191800,p05
-opengov:35811486,12,https://opengov.seoul.go.kr/expense/35811486,2026-03-20,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:35834115,9,https://opengov.seoul.go.kr/expense/35834115,2026-03-24,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35835447,13,https://opengov.seoul.go.kr/expense/35835447,2026-03-24,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,100000,p05
-opengov:35787130,31,https://opengov.seoul.go.kr/expense/35787130,2026-03-25,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:35823024,2,https://opengov.seoul.go.kr/expense/35823024,2026-03-25,seoul_office,서북병원 약제부,브라주카 그릴,서울 중구 무교로 19,262900,p05
-opengov:35787137,16,https://opengov.seoul.go.kr/expense/35787137,2026-03-26,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:35855689,64,https://opengov.seoul.go.kr/expense/35855689,2026-03-30,seoul_office,도시기반시설본부 총무부,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36026832,3,https://opengov.seoul.go.kr/expense/36026832,2026-04-02,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36059175,7,https://opengov.seoul.go.kr/expense/36059175,2026-04-03,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36025198,13,https://opengov.seoul.go.kr/expense/36025198,2026-04-07,seoul_city,행정1부시장실,브라주카 그릴,서울 중구 무교로 19,130200,p05
-opengov:36037078,3,https://opengov.seoul.go.kr/expense/36037078,2026-04-07,seoul_city,복지실 돌봄복지과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36037096,4,https://opengov.seoul.go.kr/expense/36037096,2026-04-07,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,159100,p05
-opengov:36059062,2,https://opengov.seoul.go.kr/expense/36059062,2026-04-08,seoul_city,문화본부 문화유산활용과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36048346,22,https://opengov.seoul.go.kr/expense/36048346,2026-04-10,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36031960,31,https://opengov.seoul.go.kr/expense/36031960,2026-04-13,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,286300,p05
-opengov:36026832,18,https://opengov.seoul.go.kr/expense/36026832,2026-04-14,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36024929,7,https://opengov.seoul.go.kr/expense/36024929,2026-04-15,seoul_city,복지실 1인가구지원과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:35998767,8,https://opengov.seoul.go.kr/expense/35998767,2026-04-16,seoul_city,민생노동국 농수산유통과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36024959,11,https://opengov.seoul.go.kr/expense/36024959,2026-04-21,seoul_city,행정국 대외협력과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36037077,8,https://opengov.seoul.go.kr/expense/36037077,2026-04-21,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,77800,p05
-opengov:36037083,8,https://opengov.seoul.go.kr/expense/36037083,2026-04-27,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36203857,2,https://opengov.seoul.go.kr/expense/36203857,2026-05-12,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,262900,p05
-opengov:36240407,9,https://opengov.seoul.go.kr/expense/36240407,2026-05-18,seoul_city,주택실 임대주택과,브라주카 그릴,서울 중구 무교로 19,155600,p05
-opengov:36214403,17,https://opengov.seoul.go.kr/expense/36214403,2026-05-19,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36261038,31,https://opengov.seoul.go.kr/expense/36261038,2026-05-20,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,194500,p05
-opengov:36202432,16,https://opengov.seoul.go.kr/expense/36202432,2026-05-22,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36271397,65,https://opengov.seoul.go.kr/expense/36271397,2026-05-26,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:36214403,27,https://opengov.seoul.go.kr/expense/36214403,2026-05-27,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36473064,12,https://opengov.seoul.go.kr/expense/36473064,2026-06-16,seoul_city,복지실 자활지원과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36426418,20,https://opengov.seoul.go.kr/expense/36426418,2026-06-18,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:36502153,27,https://opengov.seoul.go.kr/expense/36502153,2026-06-23,seoul_city,도시외교담당관,브라주카 그릴,서울 중구 무교로 19,272300,p05
-opengov:36438978,13,https://opengov.seoul.go.kr/expense/36438978,2026-06-24,seoul_city,복지실 돌봄고독정책관 어르신복지과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36426450,28,https://opengov.seoul.go.kr/expense/36426450,2026-06-29,seoul_city,기획조정실 조직담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36449806,52,https://opengov.seoul.go.kr/expense/36449806,2026-06-30,seoul_city,기획조정실 기획담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36706441,2,https://opengov.seoul.go.kr/expense/36706441,2026-07-01,seoul_city,여성가족실 저출생담당관,브라주카 그릴,서울 중구 무교로 19,167300,p05
-opengov:36655758,1,https://opengov.seoul.go.kr/expense/36655758,2026-07-02,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,p05
-opengov:36678335,5,https://opengov.seoul.go.kr/expense/36678335,2026-07-10,seoul_city,교통실 택시정책과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36707527,1,https://opengov.seoul.go.kr/expense/36707527,2026-07-10,seoul_office,서울도서관행정지원과,브라주카 그릴,서울 중구 무교로 19,251100,p05
-opengov:36754206,7,https://opengov.seoul.go.kr/expense/36754206,2026-07-13,seoul_office,도시기반시설본부 방재시설부,브라주카 그릴,서울 중구 무교로 19,100000,p05
-opengov:36754207,13,https://opengov.seoul.go.kr/expense/36754207,2026-07-13,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,199600,p05
-opengov:36707495,14,https://opengov.seoul.go.kr/expense/36707495,2026-07-14,seoul_city,문화본부 문화유산활용과,브라주카 그릴,서울 중구 무교로 19,194500,p05
-opengov:36655876,15,https://opengov.seoul.go.kr/expense/36655876,2026-07-15,seoul_council,서울시의회사무처 인사과,브라주카 그릴,서울 중구 무교로 19,99100,p05
-opengov:36654755,7,https://opengov.seoul.go.kr/expense/36654755,2026-07-16,seoul_city,미래공간기획관 도시활력담당관,브라주카 그릴,서울 중구 무교로 19,191200,p05
-opengov:36687868,38,https://opengov.seoul.go.kr/expense/36687868,2026-07-20,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36655867,36,https://opengov.seoul.go.kr/expense/36655867,2026-07-21,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,154700,p05
-opengov:36655907,18,https://opengov.seoul.go.kr/expense/36655907,2026-07-22,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,125500,p05
-opengov:36696419,17,https://opengov.seoul.go.kr/expense/36696419,2026-07-22,seoul_council,의정국 의사과,브라주카 그릴,서울 중구 무교로 19,71700,p05
-opengov:36668101,8,https://opengov.seoul.go.kr/expense/36668101,2026-07-23,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36678321,10,https://opengov.seoul.go.kr/expense/36678321,2026-07-24,seoul_city,복지실 1인가구지원과,브라주카 그릴,서울 중구 무교로 19,143400,p05
-opengov:36697259,65,https://opengov.seoul.go.kr/expense/36697259,2026-07-29,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,102600,p05
-opengov:36707745,19,https://opengov.seoul.go.kr/expense/36707745,2026-07-30,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36707745,20,https://opengov.seoul.go.kr/expense/36707745,2026-07-31,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,77800,p05
-opengov:36857012,1,https://opengov.seoul.go.kr/expense/36857012,2026-08-03,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,133500,p05
-opengov:36856956,30,https://opengov.seoul.go.kr/expense/36856956,2026-08-25,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,119500,p05
-opengov:36857012,24,https://opengov.seoul.go.kr/expense/36857012,2026-08-26,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,137000,p05
-opengov:36857013,17,https://opengov.seoul.go.kr/expense/36857013,2026-08-28,seoul_city,디자인정책관 도시경관담당관,브라주카 그릴,서울 중구 무교로 19,71700,p05
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:32743353,4,https://opengov.seoul.go.kr/expense/32743353,2025-01-02,seoul_city,대변인 언론담당관,브라주카 그릴,서울 중구 무교로 19,239000,uncertain,meeting_only_uncertain,p05
+opengov:32765830,1,https://opengov.seoul.go.kr/expense/32765830,2025-01-02,seoul_city,건설기술정책관 건설혁신담당관,브라주카 그릴,서울 중구 무교로 19,254900,uncertain,meeting_only_uncertain,p05
+opengov:32793717,3,https://opengov.seoul.go.kr/expense/32793717,2025-01-06,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:32755464,2,https://opengov.seoul.go.kr/expense/32755464,2025-01-07,seoul_city,재난안전실 도로기획관 도로관리과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:32764495,3,https://opengov.seoul.go.kr/expense/32764495,2025-01-08,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:32782830,20,https://opengov.seoul.go.kr/expense/32782830,2025-01-15,seoul_city,여성가족실 저출생담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:32793682,22,https://opengov.seoul.go.kr/expense/32793682,2025-01-15,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:32743355,1,https://opengov.seoul.go.kr/expense/32743355,2025-01-16,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,브라주카 그릴,서울 중구 무교로 19,151700,uncertain,meeting_only_uncertain,p05
+opengov:32765833,16,https://opengov.seoul.go.kr/expense/32765833,2025-01-16,seoul_city,행정국 인사과,브라주카 그릴,서울 중구 무교로 19,215100,uncertain,meeting_only_uncertain,p05
+opengov:32743311,8,https://opengov.seoul.go.kr/expense/32743311,2025-01-17,seoul_city,창의행정담당관,브라주카 그릴,서울 중구 무교로 19,170100,uncertain,meeting_only_uncertain,p05
+opengov:32793484,7,https://opengov.seoul.go.kr/expense/32793484,2025-01-17,seoul_city,복지실 장애인자립지원과,브라주카 그릴,서울 중구 무교로 19,128400,uncertain,meeting_only_uncertain,p05
+opengov:32743329,8,https://opengov.seoul.go.kr/expense/32743329,2025-01-21,seoul_city,평생교육국 평생교육과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32743397,13,https://opengov.seoul.go.kr/expense/32743397,2025-01-24,seoul_city,여성가족실 아동담당관,브라주카 그릴,서울 중구 무교로 19,159400,uncertain,meeting_only_uncertain,p05
+opengov:32764517,45,https://opengov.seoul.go.kr/expense/32764517,2025-01-24,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,116700,uncertain,meeting_only_uncertain,p05
+opengov:32765842,6,https://opengov.seoul.go.kr/expense/32765842,2025-01-24,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32793771,20,https://opengov.seoul.go.kr/expense/32793771,2025-01-24,seoul_council,의사담당관,브라주카 그릴,서울 중구 무교로 19,202300,uncertain,meeting_only_uncertain,p05
+opengov:32941233,1,https://opengov.seoul.go.kr/expense/32941233,2025-02-03,seoul_city,대변인 언론담당관,브라주카 그릴,서울 중구 무교로 19,164400,uncertain,meeting_only_uncertain,p05
+opengov:32972910,2,https://opengov.seoul.go.kr/expense/32972910,2025-02-04,seoul_city,복지실 장애인자립지원과,브라주카 그릴,서울 중구 무교로 19,85600,uncertain,meeting_only_uncertain,p05
+opengov:33017153,4,https://opengov.seoul.go.kr/expense/33017153,2025-02-04,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33229611,2,https://opengov.seoul.go.kr/expense/33229611,2025-02-04,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:32985457,2,https://opengov.seoul.go.kr/expense/32985457,2025-02-05,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,86700,uncertain,meeting_only_uncertain,p05
+opengov:33025262,1,https://opengov.seoul.go.kr/expense/33025262,2025-02-05,seoul_city,기획조정실 공기업담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:32940007,4,https://opengov.seoul.go.kr/expense/32940007,2025-02-06,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32974335,5,https://opengov.seoul.go.kr/expense/32974335,2025-02-07,seoul_city,관광체육국 관광산업과,브라주카 그릴,서울 중구 무교로 19,99700,uncertain,meeting_only_uncertain,p05
+opengov:32985578,3,https://opengov.seoul.go.kr/expense/32985578,2025-02-07,seoul_city,관광체육국 체육진흥과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:32939969,15,https://opengov.seoul.go.kr/expense/32939969,2025-02-10,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32941236,5,https://opengov.seoul.go.kr/expense/32941236,2025-02-11,seoul_city,기후환경본부 녹색에너지과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32974365,6,https://opengov.seoul.go.kr/expense/32974365,2025-02-12,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,109600,uncertain,meeting_only_uncertain,p05
+opengov:32952952,5,https://opengov.seoul.go.kr/expense/32952952,2025-02-13,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,215100,uncertain,meeting_only_uncertain,p05
+opengov:32972908,5,https://opengov.seoul.go.kr/expense/32972908,2025-02-13,seoul_city,문화본부 문화유산보존과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32972910,8,https://opengov.seoul.go.kr/expense/32972910,2025-02-13,seoul_city,복지실 장애인자립지원과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32939969,22,https://opengov.seoul.go.kr/expense/32939969,2025-02-14,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,52800,uncertain,meeting_only_uncertain,p05
+opengov:32962305,21,https://opengov.seoul.go.kr/expense/32962305,2025-02-14,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:32985644,59,https://opengov.seoul.go.kr/expense/32985644,2025-02-17,seoul_city,정무부시장실,브라주카 그릴,서울 중구 무교로 19,321200,uncertain,meeting_only_uncertain,p05
+opengov:32952953,8,https://opengov.seoul.go.kr/expense/32952953,2025-02-18,seoul_city,복지실 1인가구지원과,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:32985675,10,https://opengov.seoul.go.kr/expense/32985675,2025-02-18,seoul_city,복지실 돌봄복지과,브라주카 그릴,서울 중구 무교로 19,78700,uncertain,meeting_only_uncertain,p05
+opengov:32985644,74,https://opengov.seoul.go.kr/expense/32985644,2025-02-20,seoul_city,정무부시장실,브라주카 그릴,서울 중구 무교로 19,126700,uncertain,meeting_only_uncertain,p05
+opengov:32963672,16,https://opengov.seoul.go.kr/expense/32963672,2025-02-24,seoul_city,도시공간본부 도시계획과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:32940007,13,https://opengov.seoul.go.kr/expense/32940007,2025-02-28,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:32951616,42,https://opengov.seoul.go.kr/expense/32951616,2025-02-28,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33152568,3,https://opengov.seoul.go.kr/expense/33152568,2025-03-05,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33199346,1,https://opengov.seoul.go.kr/expense/33199346,2025-03-05,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,81700,uncertain,meeting_only_uncertain,p05
+opengov:33229619,5,https://opengov.seoul.go.kr/expense/33229619,2025-03-05,seoul_city,행정2부시장실,브라주카 그릴,서울 중구 무교로 19,617800,meal,explicit_meal_word,p05
+opengov:33209071,38,https://opengov.seoul.go.kr/expense/33209071,2025-03-06,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,81300,uncertain,meeting_only_uncertain,p05
+opengov:33249126,8,https://opengov.seoul.go.kr/expense/33249126,2025-03-06,seoul_city,평생교육국 교육지원정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33229586,3,https://opengov.seoul.go.kr/expense/33229586,2025-03-07,seoul_city,복지실 고독대응과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33164994,8,https://opengov.seoul.go.kr/expense/33164994,2025-03-10,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:33152574,6,https://opengov.seoul.go.kr/expense/33152574,2025-03-11,seoul_city,기후환경본부 녹색에너지과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33176504,4,https://opengov.seoul.go.kr/expense/33176504,2025-03-11,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33229622,13,https://opengov.seoul.go.kr/expense/33229622,2025-03-11,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,200000,uncertain,meeting_only_uncertain,p05
+opengov:33166343,3,https://opengov.seoul.go.kr/expense/33166343,2025-03-12,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,102600,uncertain,meeting_only_uncertain,p05
+opengov:33220316,11,https://opengov.seoul.go.kr/expense/33220316,2025-03-12,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33229618,23,https://opengov.seoul.go.kr/expense/33229618,2025-03-12,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,233400,uncertain,meeting_only_uncertain,p05
+opengov:33152559,16,https://opengov.seoul.go.kr/expense/33152559,2025-03-13,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33199460,5,https://opengov.seoul.go.kr/expense/33199460,2025-03-13,seoul_city,시민건강국 식품정책과,브라주카 그릴,서울 중구 무교로 19,94500,uncertain,policy_topic_uncertain,p05
+opengov:33209071,98,https://opengov.seoul.go.kr/expense/33209071,2025-03-13,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33229588,11,https://opengov.seoul.go.kr/expense/33229588,2025-03-13,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,102600,uncertain,meeting_only_uncertain,p05
+opengov:33152568,7,https://opengov.seoul.go.kr/expense/33152568,2025-03-14,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33228393,7,https://opengov.seoul.go.kr/expense/33228393,2025-03-14,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,98600,uncertain,meeting_only_uncertain,p05
+opengov:33239277,7,https://opengov.seoul.go.kr/expense/33239277,2025-03-14,seoul_city,문화본부 박물관과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33199460,8,https://opengov.seoul.go.kr/expense/33199460,2025-03-17,seoul_city,시민건강국 식품정책과,브라주카 그릴,서울 중구 무교로 19,97500,uncertain,meeting_only_uncertain,p05
+opengov:33229588,18,https://opengov.seoul.go.kr/expense/33229588,2025-03-18,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,160900,uncertain,meeting_only_uncertain,p05
+opengov:33249126,25,https://opengov.seoul.go.kr/expense/33249126,2025-03-18,seoul_city,평생교육국 교육지원정책과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33199365,23,https://opengov.seoul.go.kr/expense/33199365,2025-03-19,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33239279,21,https://opengov.seoul.go.kr/expense/33239279,2025-03-20,seoul_city,글로벌도시정책관 국제협력담당관 국제협력담당관,브라주카 그릴,서울 중구 무교로 19,155600,uncertain,meeting_only_uncertain,p05
+opengov:33229588,20,https://opengov.seoul.go.kr/expense/33229588,2025-03-21,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:33229588,23,https://opengov.seoul.go.kr/expense/33229588,2025-03-25,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,334600,uncertain,meeting_only_uncertain,p05
+opengov:33152559,35,https://opengov.seoul.go.kr/expense/33152559,2025-03-26,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33128592,12,https://opengov.seoul.go.kr/expense/33128592,2025-03-27,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,183600,uncertain,meeting_only_uncertain,p05
+opengov:33220326,28,https://opengov.seoul.go.kr/expense/33220326,2025-03-28,seoul_city,시민감사옴부즈만위원회,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33229618,61,https://opengov.seoul.go.kr/expense/33229618,2025-03-31,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,427900,uncertain,meeting_only_uncertain,p05
+opengov:33392434,5,https://opengov.seoul.go.kr/expense/33392434,2025-04-01,seoul_city,대변인 언론담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33417498,1,https://opengov.seoul.go.kr/expense/33417498,2025-04-01,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33406019,4,https://opengov.seoul.go.kr/expense/33406019,2025-04-02,seoul_city,행정국 시민협력과,브라주카 그릴,서울 중구 무교로 19,107800,uncertain,meeting_only_uncertain,p05
+opengov:33406215,2,https://opengov.seoul.go.kr/expense/33406215,2025-04-02,seoul_city,창의행정담당관,브라주카 그릴,서울 중구 무교로 19,94500,uncertain,meeting_only_uncertain,p05
+opengov:33430112,5,https://opengov.seoul.go.kr/expense/33430112,2025-04-03,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,153900,uncertain,meeting_only_uncertain,p05
+opengov:33382614,2,https://opengov.seoul.go.kr/expense/33382614,2025-04-04,seoul_city,글로벌도시정책관 다문화담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33440575,3,https://opengov.seoul.go.kr/expense/33440575,2025-04-07,seoul_city,재무국 38세금징수과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:33406238,10,https://opengov.seoul.go.kr/expense/33406238,2025-04-08,seoul_city,시민감사옴부즈만위원회,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33417498,5,https://opengov.seoul.go.kr/expense/33417498,2025-04-08,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33417507,17,https://opengov.seoul.go.kr/expense/33417507,2025-04-09,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,125000,uncertain,meeting_only_uncertain,p05
+opengov:33430068,6,https://opengov.seoul.go.kr/expense/33430068,2025-04-09,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,157400,uncertain,meeting_only_uncertain,p05
+opengov:33404726,104,https://opengov.seoul.go.kr/expense/33404726,2025-04-10,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,78700,uncertain,meeting_only_uncertain,p05
+opengov:33405977,9,https://opengov.seoul.go.kr/expense/33405977,2025-04-10,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,215100,uncertain,meeting_only_uncertain,p05
+opengov:33430068,10,https://opengov.seoul.go.kr/expense/33430068,2025-04-11,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,106100,uncertain,meeting_only_uncertain,p05
+opengov:33392415,11,https://opengov.seoul.go.kr/expense/33392415,2025-04-15,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:33392423,9,https://opengov.seoul.go.kr/expense/33392423,2025-04-16,seoul_city,복지실 돌봄고독정책관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34233924,11,https://opengov.seoul.go.kr/expense/34233924,2025-04-17,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33392400,37,https://opengov.seoul.go.kr/expense/33392400,2025-04-23,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33406234,18,https://opengov.seoul.go.kr/expense/33406234,2025-04-23,seoul_city,경제실 창조산업기획관 산업입지과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:33429151,15,https://opengov.seoul.go.kr/expense/33429151,2025-04-23,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33461475,10,https://opengov.seoul.go.kr/expense/33461475,2025-04-23,seoul_city,복지실 디딤돌소득과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:33417507,51,https://opengov.seoul.go.kr/expense/33417507,2025-04-24,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,211200,uncertain,meeting_only_uncertain,p05
+opengov:33430075,12,https://opengov.seoul.go.kr/expense/33430075,2025-04-24,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,75600,uncertain,meeting_only_uncertain,p05
+opengov:33430103,56,https://opengov.seoul.go.kr/expense/33430103,2025-04-24,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,480000,uncertain,meeting_only_uncertain,p05
+opengov:33392410,7,https://opengov.seoul.go.kr/expense/33392410,2025-04-28,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,브라주카 그릴,서울 중구 무교로 19,240000,uncertain,meeting_only_uncertain,p05
+opengov:33460525,35,https://opengov.seoul.go.kr/expense/33460525,2025-04-28,seoul_city,경제실 창조산업과,브라주카 그릴,서울 중구 무교로 19,51300,uncertain,meeting_only_uncertain,p05
+opengov:34233924,21,https://opengov.seoul.go.kr/expense/34233924,2025-04-28,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33392419,11,https://opengov.seoul.go.kr/expense/33392419,2025-04-29,seoul_city,평생교육국 평생교육과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33392423,17,https://opengov.seoul.go.kr/expense/33392423,2025-04-29,seoul_city,복지실 돌봄고독정책관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:33635005,3,https://opengov.seoul.go.kr/expense/33635005,2025-05-08,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33624120,4,https://opengov.seoul.go.kr/expense/33624120,2025-05-09,seoul_council,서울시의회사무처 인사담당관,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:33600618,4,https://opengov.seoul.go.kr/expense/33600618,2025-05-13,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:33636146,15,https://opengov.seoul.go.kr/expense/33636146,2025-05-13,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:33987576,1,https://opengov.seoul.go.kr/expense/33987576,2025-05-13,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33600307,6,https://opengov.seoul.go.kr/expense/33600307,2025-05-14,seoul_city,미래공간기획관 미래공간담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33624115,14,https://opengov.seoul.go.kr/expense/33624115,2025-05-14,seoul_council,의정담당관,브라주카 그릴,서울 중구 무교로 19,147600,uncertain,meeting_only_uncertain,p05
+opengov:33624136,12,https://opengov.seoul.go.kr/expense/33624136,2025-05-14,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33634998,5,https://opengov.seoul.go.kr/expense/33634998,2025-05-15,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,non_meal_purchase,p05
+opengov:33624300,30,https://opengov.seoul.go.kr/expense/33624300,2025-05-16,seoul_office,도시기반시설본부 총무부,브라주카 그릴,서울 중구 무교로 19,135600,uncertain,meeting_only_uncertain,p05
+opengov:33987576,6,https://opengov.seoul.go.kr/expense/33987576,2025-05-16,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33586798,4,https://opengov.seoul.go.kr/expense/33586798,2025-05-20,seoul_city,기획조정실 법률지원담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33636108,14,https://opengov.seoul.go.kr/expense/33636108,2025-05-20,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,123000,uncertain,meeting_only_uncertain,p05
+opengov:33837489,4,https://opengov.seoul.go.kr/expense/33837489,2025-05-21,seoul_city,재난안전실 중대재해예방과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33636121,16,https://opengov.seoul.go.kr/expense/33636121,2025-05-23,seoul_city,자치경찰위원회 자치경찰협력과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:33636126,17,https://opengov.seoul.go.kr/expense/33636126,2025-05-26,seoul_council,의회사무처 의사담당관,브라주카 그릴,서울 중구 무교로 19,75200,uncertain,meeting_only_uncertain,p05
+opengov:33636116,10,https://opengov.seoul.go.kr/expense/33636116,2025-05-27,seoul_city,복지실 디딤돌소득과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33636146,47,https://opengov.seoul.go.kr/expense/33636146,2025-05-27,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,162600,uncertain,meeting_only_uncertain,p05
+opengov:33636108,24,https://opengov.seoul.go.kr/expense/33636108,2025-05-28,seoul_council,시의회사무처 언론홍보실,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:33636121,18,https://opengov.seoul.go.kr/expense/33636121,2025-05-29,seoul_city,자치경찰위원회 자치경찰협력과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33636138,9,https://opengov.seoul.go.kr/expense/33636138,2025-05-30,seoul_city,글로벌도시정책관 국제협력담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:33868890,4,https://opengov.seoul.go.kr/expense/33868890,2025-06-04,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,152500,uncertain,meeting_only_uncertain,p05
+opengov:33848777,2,https://opengov.seoul.go.kr/expense/33848777,2025-06-09,seoul_city,행정국 시민협력과,브라주카 그릴,서울 중구 무교로 19,75600,uncertain,meeting_only_uncertain,p05
+opengov:33868904,7,https://opengov.seoul.go.kr/expense/33868904,2025-06-09,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,215100,uncertain,meeting_only_uncertain,p05
+opengov:33859004,6,https://opengov.seoul.go.kr/expense/33859004,2025-06-10,seoul_city,문화본부 문화유산보존과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33837028,20,https://opengov.seoul.go.kr/expense/33837028,2025-06-12,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,325800,uncertain,meeting_only_uncertain,p05
+opengov:33814564,15,https://opengov.seoul.go.kr/expense/33814564,2025-06-18,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,98600,uncertain,meeting_only_uncertain,p05
+opengov:33868892,4,https://opengov.seoul.go.kr/expense/33868892,2025-06-18,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33868877,12,https://opengov.seoul.go.kr/expense/33868877,2025-06-19,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:33847533,17,https://opengov.seoul.go.kr/expense/33847533,2025-06-26,seoul_city,행정국 인사과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:33826572,47,https://opengov.seoul.go.kr/expense/33826572,2025-06-27,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:33778928,23,https://opengov.seoul.go.kr/expense/33778928,2025-06-30,seoul_city,감사위원회 안전감사담당관,브라주카 그릴,서울 중구 무교로 19,248700,uncertain,meeting_only_uncertain,p05
+opengov:33868904,32,https://opengov.seoul.go.kr/expense/33868904,2025-06-30,seoul_city,시민건강국 보건의료정책과,브라주카 그릴,서울 중구 무교로 19,116700,uncertain,meeting_only_uncertain,p05
+opengov:34037540,1,https://opengov.seoul.go.kr/expense/34037540,2025-07-01,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,브라주카 그릴,서울 중구 무교로 19,140700,uncertain,meeting_only_uncertain,p05
+opengov:34087198,1,https://opengov.seoul.go.kr/expense/34087198,2025-07-01,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34087200,1,https://opengov.seoul.go.kr/expense/34087200,2025-07-01,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,82200,uncertain,meeting_only_uncertain,p05
+opengov:34086707,1,https://opengov.seoul.go.kr/expense/34086707,2025-07-02,seoul_city,디지털도시국 디지털정책과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34123773,1,https://opengov.seoul.go.kr/expense/34123773,2025-07-02,seoul_city,도시외교담당관,브라주카 그릴,서울 중구 무교로 19,134500,uncertain,meeting_only_uncertain,p05
+opengov:34087190,15,https://opengov.seoul.go.kr/expense/34087190,2025-07-08,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34077489,9,https://opengov.seoul.go.kr/expense/34077489,2025-07-11,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34047854,7,https://opengov.seoul.go.kr/expense/34047854,2025-07-15,seoul_city,관광체육국 체육진흥과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34025089,15,https://opengov.seoul.go.kr/expense/34025089,2025-07-17,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,42800,uncertain,meeting_only_uncertain,p05
+opengov:34037592,11,https://opengov.seoul.go.kr/expense/34037592,2025-07-17,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,61700,uncertain,meeting_only_uncertain,p05
+opengov:34025098,27,https://opengov.seoul.go.kr/expense/34025098,2025-07-18,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34058161,8,https://opengov.seoul.go.kr/expense/34058161,2025-07-21,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34067510,9,https://opengov.seoul.go.kr/expense/34067510,2025-07-21,seoul_city,경제실 금융투자과,브라주카 그릴,서울 중구 무교로 19,100000,uncertain,meeting_only_uncertain,p05
+opengov:34086141,10,https://opengov.seoul.go.kr/expense/34086141,2025-07-23,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,94500,meal,explicit_meal_word,p05
+opengov:34058160,11,https://opengov.seoul.go.kr/expense/34058160,2025-07-24,seoul_city,재난안전실 중대재해예방과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34067515,14,https://opengov.seoul.go.kr/expense/34067515,2025-07-24,seoul_city,문화본부 문화유산활용과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34047879,13,https://opengov.seoul.go.kr/expense/34047879,2025-07-28,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,102600,uncertain,meeting_only_uncertain,p05
+opengov:34077494,18,https://opengov.seoul.go.kr/expense/34077494,2025-07-28,seoul_city,기획조정실 재정담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34077528,34,https://opengov.seoul.go.kr/expense/34077528,2025-07-28,seoul_council,의정국 의사과,브라주카 그릴,서울 중구 무교로 19,217200,uncertain,meeting_only_uncertain,p05
+opengov:34025089,31,https://opengov.seoul.go.kr/expense/34025089,2025-07-30,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,207900,uncertain,meeting_only_uncertain,p05
+opengov:34086141,13,https://opengov.seoul.go.kr/expense/34086141,2025-07-30,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34087200,29,https://opengov.seoul.go.kr/expense/34087200,2025-07-31,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34254469,2,https://opengov.seoul.go.kr/expense/34254469,2025-08-01,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34278256,1,https://opengov.seoul.go.kr/expense/34278256,2025-08-01,seoul_city,기후환경본부 녹색에너지과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34277795,2,https://opengov.seoul.go.kr/expense/34277795,2025-08-04,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,75600,meal,explicit_meal_word,p05
+opengov:34243904,3,https://opengov.seoul.go.kr/expense/34243904,2025-08-05,seoul_council,서울시의회사무처 인사과,브라주카 그릴,서울 중구 무교로 19,109600,uncertain,meeting_only_uncertain,p05
+opengov:34298516,2,https://opengov.seoul.go.kr/expense/34298516,2025-08-05,seoul_city,복지실 돌봄복지과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34220898,5,https://opengov.seoul.go.kr/expense/34220898,2025-08-06,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34517796,4,https://opengov.seoul.go.kr/expense/34517796,2025-08-06,seoul_council,서울특별시의회사무처 의정국 현장민원과,브라주카 그릴,서울 중구 무교로 19,102600,uncertain,meeting_only_uncertain,p05
+opengov:34243931,8,https://opengov.seoul.go.kr/expense/34243931,2025-08-07,seoul_council,재정분석과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34289523,6,https://opengov.seoul.go.kr/expense/34289523,2025-08-08,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,173300,uncertain,meeting_only_uncertain,p05
+opengov:34257473,7,https://opengov.seoul.go.kr/expense/34257473,2025-08-11,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,153900,uncertain,meeting_only_uncertain,p05
+opengov:34278432,12,https://opengov.seoul.go.kr/expense/34278432,2025-08-18,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34245149,12,https://opengov.seoul.go.kr/expense/34245149,2025-08-19,seoul_city,디지털도시국 정보시스템과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34245136,2,https://opengov.seoul.go.kr/expense/34245136,2025-08-20,seoul_city,복지실 고독대응과,브라주카 그릴,서울 중구 무교로 19,75600,uncertain,meeting_only_uncertain,p05
+opengov:34243931,22,https://opengov.seoul.go.kr/expense/34243931,2025-08-22,seoul_council,재정분석과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34278427,30,https://opengov.seoul.go.kr/expense/34278427,2025-08-22,seoul_city,시민감사옴부즈만위원회,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:34278432,19,https://opengov.seoul.go.kr/expense/34278432,2025-08-22,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34289494,7,https://opengov.seoul.go.kr/expense/34289494,2025-08-26,seoul_city,행정국 인사과,브라주카 그릴,서울 중구 무교로 19,233400,uncertain,meeting_only_uncertain,p05
+opengov:34278359,64,https://opengov.seoul.go.kr/expense/34278359,2025-08-28,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34288322,32,https://opengov.seoul.go.kr/expense/34288322,2025-08-28,seoul_city,감사위원회 조사담당관,브라주카 그릴,서울 중구 무교로 19,90100,uncertain,meeting_only_uncertain,p05
+opengov:34495706,1,https://opengov.seoul.go.kr/expense/34495706,2025-09-01,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34467226,1,https://opengov.seoul.go.kr/expense/34467226,2025-09-02,seoul_city,행정국 평화기반조성과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34483947,1,https://opengov.seoul.go.kr/expense/34483947,2025-09-02,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,132300,uncertain,meeting_only_uncertain,p05
+opengov:34484008,6,https://opengov.seoul.go.kr/expense/34484008,2025-09-03,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34495706,5,https://opengov.seoul.go.kr/expense/34495706,2025-09-03,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34483866,2,https://opengov.seoul.go.kr/expense/34483866,2025-09-04,seoul_city,문화본부 문화유산보존과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34452870,9,https://opengov.seoul.go.kr/expense/34452870,2025-09-05,seoul_council,시의회사무처 의정국 법제과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:34483830,19,https://opengov.seoul.go.kr/expense/34483830,2025-09-08,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34483934,7,https://opengov.seoul.go.kr/expense/34483934,2025-09-08,seoul_office,인재개발원 인재기획과,브라주카 그릴,서울 중구 무교로 19,229800,uncertain,meeting_only_uncertain,p05
+opengov:34452848,2,https://opengov.seoul.go.kr/expense/34452848,2025-09-09,seoul_city,시민건강국 정신건강과,브라주카 그릴,서울 중구 무교로 19,56700,uncertain,meeting_only_uncertain,p05
+opengov:34454094,3,https://opengov.seoul.go.kr/expense/34454094,2025-09-09,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34454112,9,https://opengov.seoul.go.kr/expense/34454112,2025-09-10,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34465647,7,https://opengov.seoul.go.kr/expense/34465647,2025-09-11,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:34465655,16,https://opengov.seoul.go.kr/expense/34465655,2025-09-11,seoul_city,미래공간기획관 미래공간담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34483821,25,https://opengov.seoul.go.kr/expense/34483821,2025-09-11,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,81300,uncertain,meeting_only_uncertain,p05
+opengov:34723994,15,https://opengov.seoul.go.kr/expense/34723994,2025-09-12,seoul_city,디지털도시국 디지털정책과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34442151,39,https://opengov.seoul.go.kr/expense/34442151,2025-09-15,seoul_city,교통실 교통정책과,브라주카 그릴,서울 중구 무교로 19,307300,uncertain,meeting_only_uncertain,p05
+opengov:34483830,38,https://opengov.seoul.go.kr/expense/34483830,2025-09-15,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,138500,uncertain,meeting_only_uncertain,p05
+opengov:34529207,7,https://opengov.seoul.go.kr/expense/34529207,2025-09-15,seoul_city,홍보기획관 콘텐츠담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:34454116,8,https://opengov.seoul.go.kr/expense/34454116,2025-09-16,seoul_city,복지실 디딤돌소득과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34483844,3,https://opengov.seoul.go.kr/expense/34483844,2025-09-16,seoul_city,디지털도시국 정보시스템과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:34495684,27,https://opengov.seoul.go.kr/expense/34495684,2025-09-17,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:34483977,10,https://opengov.seoul.go.kr/expense/34483977,2025-09-18,seoul_city,홍보기획관 민원담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34494984,12,https://opengov.seoul.go.kr/expense/34494984,2025-09-18,seoul_city,감사위원회 공공감사담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34539434,18,https://opengov.seoul.go.kr/expense/34539434,2025-09-18,seoul_council,재정분석과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34440887,5,https://opengov.seoul.go.kr/expense/34440887,2025-09-19,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,290000,uncertain,meeting_only_uncertain,p05
+opengov:34454112,19,https://opengov.seoul.go.kr/expense/34454112,2025-09-22,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34465653,5,https://opengov.seoul.go.kr/expense/34465653,2025-09-22,seoul_city,재무국 38세금징수과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34480754,13,https://opengov.seoul.go.kr/expense/34480754,2025-09-23,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34495651,16,https://opengov.seoul.go.kr/expense/34495651,2025-09-23,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34440887,7,https://opengov.seoul.go.kr/expense/34440887,2025-09-24,seoul_city,문화본부 문화시설과,브라주카 그릴,서울 중구 무교로 19,295600,uncertain,meeting_only_uncertain,p05
+opengov:34467232,24,https://opengov.seoul.go.kr/expense/34467232,2025-09-24,seoul_city,도시외교담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34483824,14,https://opengov.seoul.go.kr/expense/34483824,2025-09-24,seoul_council,서울시의회사무처 도시계획균형전문위원실,브라주카 그릴,서울 중구 무교로 19,182600,uncertain,meeting_only_uncertain,p05
+opengov:34495706,37,https://opengov.seoul.go.kr/expense/34495706,2025-09-24,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34711184,6,https://opengov.seoul.go.kr/expense/34711184,2025-09-24,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:34454143,29,https://opengov.seoul.go.kr/expense/34454143,2025-09-26,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34465646,11,https://opengov.seoul.go.kr/expense/34465646,2025-09-26,seoul_office,서울아리수본부 중부수도사업소 행정지원과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34495684,46,https://opengov.seoul.go.kr/expense/34495684,2025-09-29,seoul_city,디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:34711338,1,https://opengov.seoul.go.kr/expense/34711338,2025-10-01,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,151200,uncertain,meeting_only_uncertain,p05
+opengov:34711336,1,https://opengov.seoul.go.kr/expense/34711336,2025-10-02,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,157200,uncertain,meeting_only_uncertain,p05
+opengov:34701403,1,https://opengov.seoul.go.kr/expense/34701403,2025-10-10,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34669095,10,https://opengov.seoul.go.kr/expense/34669095,2025-10-14,seoul_city,민생노동국 소상공인정책과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34669130,5,https://opengov.seoul.go.kr/expense/34669130,2025-10-15,seoul_city,교통실 물류정책과,브라주카 그릴,서울 중구 무교로 19,94500,uncertain,meeting_only_uncertain,p05
+opengov:34690047,4,https://opengov.seoul.go.kr/expense/34690047,2025-10-15,seoul_city,기획조정실 공기업담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34701403,4,https://opengov.seoul.go.kr/expense/34701403,2025-10-16,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34691326,3,https://opengov.seoul.go.kr/expense/34691326,2025-10-21,seoul_city,재난안전실 중대재해예방과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34680950,7,https://opengov.seoul.go.kr/expense/34680950,2025-10-24,seoul_council,환경수자원전문위원실,브라주카 그릴,서울 중구 무교로 19,300300,uncertain,meeting_only_uncertain,p05
+opengov:34655627,10,https://opengov.seoul.go.kr/expense/34655627,2025-10-27,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34851627,5,https://opengov.seoul.go.kr/expense/34851627,2025-10-27,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34631798,6,https://opengov.seoul.go.kr/expense/34631798,2025-10-28,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:34711166,36,https://opengov.seoul.go.kr/expense/34711166,2025-10-29,seoul_city,감사위원회 감사담당관,브라주카 그릴,서울 중구 무교로 19,75000,uncertain,meeting_only_uncertain,p05
+opengov:34711340,30,https://opengov.seoul.go.kr/expense/34711340,2025-10-29,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,155600,uncertain,meeting_only_uncertain,p05
+opengov:34690023,11,https://opengov.seoul.go.kr/expense/34690023,2025-10-30,seoul_city,재무국 세제과,브라주카 그릴,서울 중구 무교로 19,378700,uncertain,meeting_only_uncertain,p05
+opengov:34669100,12,https://opengov.seoul.go.kr/expense/34669100,2025-10-31,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,215100,uncertain,meeting_only_uncertain,p05
+opengov:34876550,3,https://opengov.seoul.go.kr/expense/34876550,2025-11-10,seoul_city,시민건강국 식품정책과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:34904036,15,https://opengov.seoul.go.kr/expense/34904036,2025-11-10,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34876553,15,https://opengov.seoul.go.kr/expense/34876553,2025-11-11,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:34876534,4,https://opengov.seoul.go.kr/expense/34876534,2025-11-12,seoul_city,행정국 평화기반조성과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34952051,99,https://opengov.seoul.go.kr/expense/34952051,2025-11-13,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,187300,uncertain,meeting_only_uncertain,p05
+opengov:34889825,13,https://opengov.seoul.go.kr/expense/34889825,2025-11-14,seoul_city,여성가족실 아동담당관,브라주카 그릴,서울 중구 무교로 19,114100,uncertain,meeting_only_uncertain,p05
+opengov:34928405,16,https://opengov.seoul.go.kr/expense/34928405,2025-11-17,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34938415,14,https://opengov.seoul.go.kr/expense/34938415,2025-11-19,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:34902467,7,https://opengov.seoul.go.kr/expense/34902467,2025-11-25,seoul_city,교통실 보행자전거과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:34915115,17,https://opengov.seoul.go.kr/expense/34915115,2025-11-25,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:34952051,221,https://opengov.seoul.go.kr/expense/34952051,2025-11-26,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,57800,uncertain,meeting_only_uncertain,p05
+opengov:35145920,1,https://opengov.seoul.go.kr/expense/35145920,2025-12-01,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35167200,1,https://opengov.seoul.go.kr/expense/35167200,2025-12-01,seoul_city,기획조정실 법률지원담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35197516,3,https://opengov.seoul.go.kr/expense/35197516,2025-12-02,seoul_city,경제실 뷰티패션산업과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35177671,39,https://opengov.seoul.go.kr/expense/35177671,2025-12-03,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,165600,uncertain,meeting_only_uncertain,p05
+opengov:35167213,4,https://opengov.seoul.go.kr/expense/35167213,2025-12-04,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35204384,5,https://opengov.seoul.go.kr/expense/35204384,2025-12-04,seoul_city,행정국 시민협력과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35177685,12,https://opengov.seoul.go.kr/expense/35177685,2025-12-05,seoul_city,여성가족실 저출생담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35240417,4,https://opengov.seoul.go.kr/expense/35240417,2025-12-05,seoul_city,디자인정책관 디자인산업담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35157846,2,https://opengov.seoul.go.kr/expense/35157846,2025-12-08,seoul_office,서울도서관 독서문화진흥과,브라주카 그릴,서울 중구 무교로 19,167300,meal,explicit_meal_word,p05
+opengov:35167200,4,https://opengov.seoul.go.kr/expense/35167200,2025-12-08,seoul_city,기획조정실 법률지원담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:35177671,101,https://opengov.seoul.go.kr/expense/35177671,2025-12-10,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,220700,uncertain,meeting_only_uncertain,p05
+opengov:35197503,21,https://opengov.seoul.go.kr/expense/35197503,2025-12-11,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,98600,uncertain,meeting_only_uncertain,p05
+opengov:35157850,20,https://opengov.seoul.go.kr/expense/35157850,2025-12-12,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,76700,uncertain,meeting_only_uncertain,p05
+opengov:35167290,7,https://opengov.seoul.go.kr/expense/35167290,2025-12-15,seoul_city,디지털도시국 공간정보과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35186072,7,https://opengov.seoul.go.kr/expense/35186072,2025-12-15,seoul_city,재무국 계약심사과,브라주카 그릴,서울 중구 무교로 19,360000,uncertain,meeting_only_uncertain,p05
+opengov:35204422,21,https://opengov.seoul.go.kr/expense/35204422,2025-12-15,seoul_city,기획조정실 정책기획관 조직담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35184942,48,https://opengov.seoul.go.kr/expense/35184942,2025-12-17,seoul_office,도시기반시설본부 총무부,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:35204389,8,https://opengov.seoul.go.kr/expense/35204389,2025-12-18,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35158202,15,https://opengov.seoul.go.kr/expense/35158202,2025-12-19,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,170400,uncertain,meeting_only_uncertain,p05
+opengov:35157841,12,https://opengov.seoul.go.kr/expense/35157841,2025-12-22,seoul_city,재난안전실 도로기획관 도로시설과,브라주카 그릴,서울 중구 무교로 19,100000,uncertain,meeting_only_uncertain,p05
+opengov:35167213,16,https://opengov.seoul.go.kr/expense/35167213,2025-12-22,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,116700,uncertain,meeting_only_uncertain,p05
+opengov:35205492,12,https://opengov.seoul.go.kr/expense/35205492,2025-12-22,seoul_city,재난안전실 도로기획관 도로관리과,브라주카 그릴,서울 중구 무교로 19,400000,uncertain,meeting_only_uncertain,p05
+opengov:35197503,34,https://opengov.seoul.go.kr/expense/35197503,2025-12-23,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,116700,uncertain,meeting_only_uncertain,p05
+opengov:35197503,39,https://opengov.seoul.go.kr/expense/35197503,2025-12-24,seoul_city,재무국 재무과,브라주카 그릴,서울 중구 무교로 19,149400,uncertain,meeting_only_uncertain,p05
+opengov:35204405,36,https://opengov.seoul.go.kr/expense/35204405,2025-12-29,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,286300,uncertain,meeting_only_uncertain,p05
+opengov:35388722,1,https://opengov.seoul.go.kr/expense/35388722,2026-01-05,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:35398212,3,https://opengov.seoul.go.kr/expense/35398212,2026-01-05,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35398221,29,https://opengov.seoul.go.kr/expense/35398221,2026-01-06,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,229000,uncertain,meeting_only_uncertain,p05
+opengov:35398212,10,https://opengov.seoul.go.kr/expense/35398212,2026-01-08,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35421566,4,https://opengov.seoul.go.kr/expense/35421566,2026-01-08,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:35410146,4,https://opengov.seoul.go.kr/expense/35410146,2026-01-12,seoul_city,홍보기획관 서울브랜드담당관,브라주카 그릴,서울 중구 무교로 19,272300,uncertain,meeting_only_uncertain,p05
+opengov:35421566,8,https://opengov.seoul.go.kr/expense/35421566,2026-01-12,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35380356,14,https://opengov.seoul.go.kr/expense/35380356,2026-01-13,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:35378916,2,https://opengov.seoul.go.kr/expense/35378916,2026-01-14,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:35388722,20,https://opengov.seoul.go.kr/expense/35388722,2026-01-15,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,102600,uncertain,meeting_only_uncertain,p05
+opengov:35421606,8,https://opengov.seoul.go.kr/expense/35421606,2026-01-15,seoul_city,기후환경본부 친환경차량과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35399564,10,https://opengov.seoul.go.kr/expense/35399564,2026-01-19,seoul_city,교통실 물류정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35410288,5,https://opengov.seoul.go.kr/expense/35410288,2026-01-19,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35357549,10,https://opengov.seoul.go.kr/expense/35357549,2026-01-20,seoul_city,여성가족실 아동담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,policy_topic_uncertain,p05
+opengov:35357686,22,https://opengov.seoul.go.kr/expense/35357686,2026-01-20,seoul_city,감사위원회 감사담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35378916,4,https://opengov.seoul.go.kr/expense/35378916,2026-01-20,seoul_city,시민건강국 스마트건강과,브라주카 그릴,서울 중구 무교로 19,155600,uncertain,meeting_only_uncertain,p05
+opengov:35420388,5,https://opengov.seoul.go.kr/expense/35420388,2026-01-20,seoul_city,평생교육국 평생교육과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35357552,8,https://opengov.seoul.go.kr/expense/35357552,2026-01-21,seoul_city,여성가족실 아이돌봄담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35388722,30,https://opengov.seoul.go.kr/expense/35388722,2026-01-21,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35398243,45,https://opengov.seoul.go.kr/expense/35398243,2026-01-21,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,283900,uncertain,meeting_only_uncertain,p05
+opengov:35410191,16,https://opengov.seoul.go.kr/expense/35410191,2026-01-21,seoul_city,디자인정책관 도시경관담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35410288,9,https://opengov.seoul.go.kr/expense/35410288,2026-01-22,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,47800,uncertain,meeting_only_uncertain,p05
+opengov:35389951,11,https://opengov.seoul.go.kr/expense/35389951,2026-01-23,seoul_city,기획조정실 공기업담당관,브라주카 그릴,서울 중구 무교로 19,126500,uncertain,meeting_only_uncertain,p05
+opengov:35410365,8,https://opengov.seoul.go.kr/expense/35410365,2026-01-26,seoul_city,경제실 금융투자과,브라주카 그릴,서울 중구 무교로 19,146900,uncertain,meeting_only_uncertain,p05
+opengov:35369461,28,https://opengov.seoul.go.kr/expense/35369461,2026-01-27,seoul_city,비상기획관 민방위담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35595236,1,https://opengov.seoul.go.kr/expense/35595236,2026-02-02,seoul_city,주택실 임대주택과,브라주카 그릴,서울 중구 무교로 19,112600,uncertain,meeting_only_uncertain,p05
+opengov:35605727,2,https://opengov.seoul.go.kr/expense/35605727,2026-02-02,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35595053,3,https://opengov.seoul.go.kr/expense/35595053,2026-02-03,seoul_city,행정1부시장실,브라주카 그릴,서울 중구 무교로 19,218700,uncertain,meeting_only_uncertain,p05
+opengov:35595256,3,https://opengov.seoul.go.kr/expense/35595256,2026-02-03,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35583668,3,https://opengov.seoul.go.kr/expense/35583668,2026-02-05,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35560793,6,https://opengov.seoul.go.kr/expense/35560793,2026-02-06,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35605725,3,https://opengov.seoul.go.kr/expense/35605725,2026-02-06,seoul_city,글로벌도시정책관 외국인이민담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:35605715,18,https://opengov.seoul.go.kr/expense/35605715,2026-02-09,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:35560793,7,https://opengov.seoul.go.kr/expense/35560793,2026-02-10,seoul_city,문화본부 문화예술과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35572178,7,https://opengov.seoul.go.kr/expense/35572178,2026-02-11,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,80000,uncertain,meeting_only_uncertain,p05
+opengov:35559454,6,https://opengov.seoul.go.kr/expense/35559454,2026-02-12,seoul_city,행정국 대외협력과,브라주카 그릴,서울 중구 무교로 19,205000,uncertain,meeting_only_uncertain,p05
+opengov:35605727,13,https://opengov.seoul.go.kr/expense/35605727,2026-02-13,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:35595213,16,https://opengov.seoul.go.kr/expense/35595213,2026-02-19,seoul_city,복지실 어르신복지과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35559496,22,https://opengov.seoul.go.kr/expense/35559496,2026-02-23,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35559475,14,https://opengov.seoul.go.kr/expense/35559475,2026-02-24,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35547880,13,https://opengov.seoul.go.kr/expense/35547880,2026-02-25,seoul_office,서울도서관행정지원과,브라주카 그릴,서울 중구 무교로 19,262900,uncertain,meeting_only_uncertain,p05
+opengov:35582802,9,https://opengov.seoul.go.kr/expense/35582802,2026-02-26,seoul_city,관광체육국 관광산업과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35834115,1,https://opengov.seoul.go.kr/expense/35834115,2026-03-03,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35776317,1,https://opengov.seoul.go.kr/expense/35776317,2026-03-04,seoul_city,디자인정책관 디자인산업담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:35834100,5,https://opengov.seoul.go.kr/expense/35834100,2026-03-05,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,86700,uncertain,meeting_only_uncertain,p05
+opengov:35788435,6,https://opengov.seoul.go.kr/expense/35788435,2026-03-06,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,54800,uncertain,meeting_only_uncertain,p05
+opengov:35812204,5,https://opengov.seoul.go.kr/expense/35812204,2026-03-06,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,116700,uncertain,meeting_only_uncertain,p05
+opengov:35776329,5,https://opengov.seoul.go.kr/expense/35776329,2026-03-09,seoul_city,기획조정실 조직담당관,브라주카 그릴,서울 중구 무교로 19,223200,uncertain,meeting_only_uncertain,p05
+opengov:35845496,5,https://opengov.seoul.go.kr/expense/35845496,2026-03-09,seoul_city,복지실 자활지원과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:35834100,12,https://opengov.seoul.go.kr/expense/35834100,2026-03-10,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,77800,uncertain,meeting_only_uncertain,p05
+opengov:35787137,8,https://opengov.seoul.go.kr/expense/35787137,2026-03-12,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,272300,uncertain,meeting_only_uncertain,p05
+opengov:35812086,6,https://opengov.seoul.go.kr/expense/35812086,2026-03-12,seoul_city,기획조정실 규제개선담당관,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:35798917,4,https://opengov.seoul.go.kr/expense/35798917,2026-03-13,seoul_city,시민건강국 감염병관리과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35834083,16,https://opengov.seoul.go.kr/expense/35834083,2026-03-17,seoul_city,기후환경본부 기후환경정책과,브라주카 그릴,서울 중구 무교로 19,109600,uncertain,meeting_only_uncertain,p05
+opengov:35834100,36,https://opengov.seoul.go.kr/expense/35834100,2026-03-18,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,191800,uncertain,meeting_only_uncertain,p05
+opengov:35824118,18,https://opengov.seoul.go.kr/expense/35824118,2026-03-19,seoul_city,기획조정실 예산담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:35834086,147,https://opengov.seoul.go.kr/expense/35834086,2026-03-19,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,60800,uncertain,meeting_only_uncertain,p05
+opengov:35834100,41,https://opengov.seoul.go.kr/expense/35834100,2026-03-19,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,191800,uncertain,meeting_only_uncertain,p05
+opengov:35811486,12,https://opengov.seoul.go.kr/expense/35811486,2026-03-20,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:35834115,9,https://opengov.seoul.go.kr/expense/35834115,2026-03-24,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35835447,13,https://opengov.seoul.go.kr/expense/35835447,2026-03-24,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,100000,uncertain,meeting_only_uncertain,p05
+opengov:35787130,31,https://opengov.seoul.go.kr/expense/35787130,2026-03-25,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:35823024,2,https://opengov.seoul.go.kr/expense/35823024,2026-03-25,seoul_office,서북병원 약제부,브라주카 그릴,서울 중구 무교로 19,262900,uncertain,meeting_only_uncertain,p05
+opengov:35787137,16,https://opengov.seoul.go.kr/expense/35787137,2026-03-26,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:35855689,64,https://opengov.seoul.go.kr/expense/35855689,2026-03-30,seoul_office,도시기반시설본부 총무부,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36026832,3,https://opengov.seoul.go.kr/expense/36026832,2026-04-02,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36059175,7,https://opengov.seoul.go.kr/expense/36059175,2026-04-03,seoul_city,홍보기획관 홍보담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36025198,13,https://opengov.seoul.go.kr/expense/36025198,2026-04-07,seoul_city,행정1부시장실,브라주카 그릴,서울 중구 무교로 19,130200,uncertain,meeting_only_uncertain,p05
+opengov:36037078,3,https://opengov.seoul.go.kr/expense/36037078,2026-04-07,seoul_city,복지실 돌봄복지과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36037096,4,https://opengov.seoul.go.kr/expense/36037096,2026-04-07,seoul_city,시민건강국 공공의료과,브라주카 그릴,서울 중구 무교로 19,159100,uncertain,meeting_only_uncertain,p05
+opengov:36059062,2,https://opengov.seoul.go.kr/expense/36059062,2026-04-08,seoul_city,문화본부 문화유산활용과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36048346,22,https://opengov.seoul.go.kr/expense/36048346,2026-04-10,seoul_city,민생사법경찰국 경제수사과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36031960,31,https://opengov.seoul.go.kr/expense/36031960,2026-04-13,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,286300,uncertain,meeting_only_uncertain,p05
+opengov:36026832,18,https://opengov.seoul.go.kr/expense/36026832,2026-04-14,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36024929,7,https://opengov.seoul.go.kr/expense/36024929,2026-04-15,seoul_city,복지실 1인가구지원과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:35998767,8,https://opengov.seoul.go.kr/expense/35998767,2026-04-16,seoul_city,민생노동국 농수산유통과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36024959,11,https://opengov.seoul.go.kr/expense/36024959,2026-04-21,seoul_city,행정국 대외협력과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36037077,8,https://opengov.seoul.go.kr/expense/36037077,2026-04-21,seoul_city,교통실 미래첨단교통과,브라주카 그릴,서울 중구 무교로 19,77800,uncertain,meeting_only_uncertain,p05
+opengov:36037083,8,https://opengov.seoul.go.kr/expense/36037083,2026-04-27,seoul_city,재난안전실 재난안전예방과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36203857,2,https://opengov.seoul.go.kr/expense/36203857,2026-05-12,seoul_city,시민건강국 건강관리과,브라주카 그릴,서울 중구 무교로 19,262900,uncertain,meeting_only_uncertain,p05
+opengov:36240407,9,https://opengov.seoul.go.kr/expense/36240407,2026-05-18,seoul_city,주택실 임대주택과,브라주카 그릴,서울 중구 무교로 19,155600,uncertain,meeting_only_uncertain,p05
+opengov:36214403,17,https://opengov.seoul.go.kr/expense/36214403,2026-05-19,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36261038,31,https://opengov.seoul.go.kr/expense/36261038,2026-05-20,seoul_city,행정국 총무과,브라주카 그릴,서울 중구 무교로 19,194500,uncertain,meeting_only_uncertain,p05
+opengov:36202432,16,https://opengov.seoul.go.kr/expense/36202432,2026-05-22,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36271397,65,https://opengov.seoul.go.kr/expense/36271397,2026-05-26,seoul_council,운영지원과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:36214403,27,https://opengov.seoul.go.kr/expense/36214403,2026-05-27,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36473064,12,https://opengov.seoul.go.kr/expense/36473064,2026-06-16,seoul_city,복지실 자활지원과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36426418,20,https://opengov.seoul.go.kr/expense/36426418,2026-06-18,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:36502153,27,https://opengov.seoul.go.kr/expense/36502153,2026-06-23,seoul_city,도시외교담당관,브라주카 그릴,서울 중구 무교로 19,272300,meal,explicit_meal_word,p05
+opengov:36438978,13,https://opengov.seoul.go.kr/expense/36438978,2026-06-24,seoul_city,복지실 돌봄고독정책관 어르신복지과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36426450,28,https://opengov.seoul.go.kr/expense/36426450,2026-06-29,seoul_city,기획조정실 조직담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36449806,52,https://opengov.seoul.go.kr/expense/36449806,2026-06-30,seoul_city,기획조정실 기획담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36706441,2,https://opengov.seoul.go.kr/expense/36706441,2026-07-01,seoul_city,여성가족실 저출생담당관,브라주카 그릴,서울 중구 무교로 19,167300,uncertain,meeting_only_uncertain,p05
+opengov:36655758,1,https://opengov.seoul.go.kr/expense/36655758,2026-07-02,seoul_city,기획조정실 창의규제담당관,브라주카 그릴,서울 중구 무교로 19,95600,uncertain,meeting_only_uncertain,p05
+opengov:36678335,5,https://opengov.seoul.go.kr/expense/36678335,2026-07-10,seoul_city,교통실 택시정책과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36707527,1,https://opengov.seoul.go.kr/expense/36707527,2026-07-10,seoul_office,서울도서관행정지원과,브라주카 그릴,서울 중구 무교로 19,251100,uncertain,meeting_only_uncertain,p05
+opengov:36754206,7,https://opengov.seoul.go.kr/expense/36754206,2026-07-13,seoul_office,도시기반시설본부 방재시설부,브라주카 그릴,서울 중구 무교로 19,100000,uncertain,meeting_only_uncertain,p05
+opengov:36754207,13,https://opengov.seoul.go.kr/expense/36754207,2026-07-13,seoul_city,여성가족실 가족담당관,브라주카 그릴,서울 중구 무교로 19,199600,uncertain,meeting_only_uncertain,p05
+opengov:36707495,14,https://opengov.seoul.go.kr/expense/36707495,2026-07-14,seoul_city,문화본부 문화유산활용과,브라주카 그릴,서울 중구 무교로 19,194500,uncertain,meeting_only_uncertain,p05
+opengov:36655876,15,https://opengov.seoul.go.kr/expense/36655876,2026-07-15,seoul_council,서울시의회사무처 인사과,브라주카 그릴,서울 중구 무교로 19,99100,uncertain,meeting_only_uncertain,p05
+opengov:36654755,7,https://opengov.seoul.go.kr/expense/36654755,2026-07-16,seoul_city,미래공간기획관 도시활력담당관,브라주카 그릴,서울 중구 무교로 19,191200,uncertain,meeting_only_uncertain,p05
+opengov:36687868,38,https://opengov.seoul.go.kr/expense/36687868,2026-07-20,seoul_city,디자인정책관 디자인정책담당관,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36655867,36,https://opengov.seoul.go.kr/expense/36655867,2026-07-21,seoul_city,관광체육국 관광정책과,브라주카 그릴,서울 중구 무교로 19,154700,uncertain,meeting_only_uncertain,p05
+opengov:36655907,18,https://opengov.seoul.go.kr/expense/36655907,2026-07-22,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,125500,uncertain,meeting_only_uncertain,p05
+opengov:36696419,17,https://opengov.seoul.go.kr/expense/36696419,2026-07-22,seoul_council,의정국 의사과,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05
+opengov:36668101,8,https://opengov.seoul.go.kr/expense/36668101,2026-07-23,seoul_city,행정국 인력개발과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36678321,10,https://opengov.seoul.go.kr/expense/36678321,2026-07-24,seoul_city,복지실 1인가구지원과,브라주카 그릴,서울 중구 무교로 19,143400,uncertain,meeting_only_uncertain,p05
+opengov:36697259,65,https://opengov.seoul.go.kr/expense/36697259,2026-07-29,seoul_city,재난안전실 재난안전정책과,브라주카 그릴,서울 중구 무교로 19,102600,uncertain,meeting_only_uncertain,p05
+opengov:36707745,19,https://opengov.seoul.go.kr/expense/36707745,2026-07-30,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36707745,20,https://opengov.seoul.go.kr/expense/36707745,2026-07-31,seoul_city,기획조정실 평가담당관,브라주카 그릴,서울 중구 무교로 19,77800,uncertain,meeting_only_uncertain,p05
+opengov:36857012,1,https://opengov.seoul.go.kr/expense/36857012,2026-08-03,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,133500,uncertain,meeting_only_uncertain,p05
+opengov:36856956,30,https://opengov.seoul.go.kr/expense/36856956,2026-08-25,seoul_city,문화본부 문화정책과,브라주카 그릴,서울 중구 무교로 19,119500,uncertain,meeting_only_uncertain,p05
+opengov:36857012,24,https://opengov.seoul.go.kr/expense/36857012,2026-08-26,seoul_council,의정국 언론홍보과,브라주카 그릴,서울 중구 무교로 19,137000,uncertain,meeting_only_uncertain,p05
+opengov:36857013,17,https://opengov.seoul.go.kr/expense/36857013,2026-08-28,seoul_city,디자인정책관 도시경관담당관,브라주카 그릴,서울 중구 무교로 19,71700,uncertain,meeting_only_uncertain,p05

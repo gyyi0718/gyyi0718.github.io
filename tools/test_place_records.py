@@ -12,7 +12,7 @@ class PlaceTests(unittest.TestCase):
   for pid in ('p06','p08'):self.assertEqual(sum(x['place_id']==pid and x['organization']=='seoul_city' for x in r),172)
   for pid in {x['place_id'] for x in r}:
    with (ROOT/f'data/place-{pid}.csv').open() as f:self.assertEqual(len(list(csv.DictReader(f))),sum(x['place_id']==pid for x in r))
-  allowed={'source_id','parsed_row','source_url','date','organization','department','merchant','address','amount','place_id'}
+  allowed={'source_id','parsed_row','source_url','date','organization','department','merchant','address','amount','place_id','purpose_category','purpose_reason'}
   for x in r:
    self.assertEqual(set(x),allowed);datetime.date.fromisoformat(x['date']);self.assertGreater(x['amount'],0)
   old=json.loads((ROOT/'data/seoul-2025-evidence.json').read_text())['rows']

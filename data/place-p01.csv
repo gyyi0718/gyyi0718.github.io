@@ -1,10 +1,10 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:33416479,1,https://opengov.seoul.go.kr/expense/33416479,2025-04-01,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,150000,p01
-opengov:33392423,2,https://opengov.seoul.go.kr/expense/33392423,2025-04-04,seoul_city,복지실 돌봄고독정책관,곰국시집,서울 중구 명동10길 19-3,105000,p01
-opengov:33383926,4,https://opengov.seoul.go.kr/expense/33383926,2025-04-14,seoul_city,시민건강국 정신건강과,곰국시집,서울 중구 명동10길 19-3,42000,p01
-opengov:34701400,8,https://opengov.seoul.go.kr/expense/34701400,2025-10-22,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,400000,p01
-opengov:34701400,18,https://opengov.seoul.go.kr/expense/34701400,2025-10-29,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,210000,p01
-opengov:34916621,15,https://opengov.seoul.go.kr/expense/34916621,2025-11-18,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,217000,p01
-opengov:35214357,21,https://opengov.seoul.go.kr/expense/35214357,2025-12-17,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,212000,p01
-opengov:35214357,41,https://opengov.seoul.go.kr/expense/35214357,2025-12-29,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,254900,p01
-opengov:36048346,10,https://opengov.seoul.go.kr/expense/36048346,2026-04-07,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 명동10길 19-3,54000,p01
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:33416479,1,https://opengov.seoul.go.kr/expense/33416479,2025-04-01,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,150000,uncertain,meeting_only_uncertain,p01
+opengov:33392423,2,https://opengov.seoul.go.kr/expense/33392423,2025-04-04,seoul_city,복지실 돌봄고독정책관,곰국시집,서울 중구 명동10길 19-3,105000,uncertain,meeting_only_uncertain,p01
+opengov:33383926,4,https://opengov.seoul.go.kr/expense/33383926,2025-04-14,seoul_city,시민건강국 정신건강과,곰국시집,서울 중구 명동10길 19-3,42000,uncertain,meeting_only_uncertain,p01
+opengov:34701400,8,https://opengov.seoul.go.kr/expense/34701400,2025-10-22,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,400000,uncertain,meeting_only_uncertain,p01
+opengov:34701400,18,https://opengov.seoul.go.kr/expense/34701400,2025-10-29,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,210000,uncertain,meeting_only_uncertain,p01
+opengov:34916621,15,https://opengov.seoul.go.kr/expense/34916621,2025-11-18,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,217000,uncertain,meeting_only_uncertain,p01
+opengov:35214357,21,https://opengov.seoul.go.kr/expense/35214357,2025-12-17,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,212000,uncertain,meeting_only_uncertain,p01
+opengov:35214357,41,https://opengov.seoul.go.kr/expense/35214357,2025-12-29,seoul_city,행정국 인사과,곰국시집,서울 중구 명동10길 19-3,254900,uncertain,meeting_only_uncertain,p01
+opengov:36048346,10,https://opengov.seoul.go.kr/expense/36048346,2026-04-07,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 명동10길 19-3,54000,uncertain,meeting_only_uncertain,p01

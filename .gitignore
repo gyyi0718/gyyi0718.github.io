@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+# Local-only audit backing files; do not publish to the repository.
+tools/archive/
+tools/seoul-purpose-decisions.json

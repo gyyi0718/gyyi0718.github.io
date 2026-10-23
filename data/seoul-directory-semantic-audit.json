@@ -1,0 +1,1257 @@
+{
+  "date": "2026-10-23",
+  "scope": "Published purpose categories, institution/year cells, noncentral districts, snack/beverage/coffee/refreshment and meeting-only purposes, reported snack, cafe-reported names, snack-policy topic and deterministic hash-seeded sample per institution/year. Direct raw address substring and exact purpose/dept text compared with official HTML; no shared address parser.",
+  "samples": [
+    {
+      "stratum": [
+        "held_purchase",
+        "커피"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/34198277",
+      "parsed_row": 1,
+      "date": "2025-01-25",
+      "organization": "seoul_fire",
+      "name": "서울시청연금매점",
+      "address_summary": null,
+      "amount": 350000,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": false,
+      "published": false,
+      "purpose_terms": [
+        "커피",
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "8b5e1b60ea4a2080cf50be934623f53754c49d82d8157109b8794c873433d769",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_meeting",
+        "seoul_office"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33960247",
+      "parsed_row": 2,
+      "date": "2025-01-16",
+      "organization": "seoul_office",
+      "name": "고집",
+      "address_summary": null,
+      "amount": 340000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": false,
+      "published": false,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "ab9bd087eb1b91c55a4a49c93e2902b141dd63f7ce3e4e0025348cb5101611cd",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_meeting",
+        "seoul_city"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33383871",
+      "parsed_row": 1,
+      "date": "2025-01-03",
+      "organization": "seoul_city",
+      "name": "바리 시청점",
+      "address_summary": null,
+      "amount": 14000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": false,
+      "published": false,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "4ce79abbefa6346308aa7214b0600832ac164517e48eabf433ed21a7aaf09e02",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_purpose",
+        "uncertain"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33383868",
+      "parsed_row": 1,
+      "date": "2025-01-31",
+      "organization": "seoul_city",
+      "name": "주식회사 오미",
+      "address_summary": [
+        "중구",
+        "서소문로11길 19"
+      ],
+      "amount": 76000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "a1fad7937f22dc95f06788ab9d71d64622052953ecfd91ce4dd2e1449c0528d4",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_city",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33383868",
+      "parsed_row": 1,
+      "date": "2025-01-31",
+      "organization": "seoul_city",
+      "name": "주식회사 오미",
+      "address_summary": [
+        "중구",
+        "서소문로11길 19"
+      ],
+      "amount": 76000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "a1fad7937f22dc95f06788ab9d71d64622052953ecfd91ce4dd2e1449c0528d4",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_purchase",
+        "다과"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33371609",
+      "parsed_row": 1,
+      "date": "2025-01-16",
+      "organization": "seoul_office",
+      "name": "㈜이마트 왕십리점",
+      "address_summary": null,
+      "amount": 399200,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "다과",
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "da21d71987e0c531d97d9b951816dc3683b7d32dc62874e1d281a6ab6ea6e376",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_purpose",
+        "refreshment"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33331819",
+      "parsed_row": 8,
+      "date": "2025-01-20",
+      "organization": "seoul_office",
+      "name": "GS THE FRESH",
+      "address_summary": [
+        "마포구",
+        "월드컵북로 496"
+      ],
+      "amount": 61350,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "커피",
+        "구입"
+      ],
+      "status": "matched",
+      "html_sha256": "1c28e6e4bf9eab62fce6f20ef62f73c06a96a6d8211bf8ee2ec2b55128e2605c",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_office",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33331819",
+      "parsed_row": 8,
+      "date": "2025-01-20",
+      "organization": "seoul_office",
+      "name": "GS THE FRESH",
+      "address_summary": [
+        "마포구",
+        "월드컵북로 496"
+      ],
+      "amount": 61350,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "커피",
+        "구입"
+      ],
+      "status": "matched",
+      "html_sha256": "1c28e6e4bf9eab62fce6f20ef62f73c06a96a6d8211bf8ee2ec2b55128e2605c",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "nonfood_equipment_supplies"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33331819",
+      "parsed_row": 11,
+      "date": "2025-01-23",
+      "organization": "seoul_office",
+      "name": "다농마트",
+      "address_summary": [
+        "마포구",
+        "월드컵로 235"
+      ],
+      "amount": 324180,
+      "place_boundary": "nonfood_equipment_supplies",
+      "purpose_class": "nonfood_equipment_supplies",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "다과",
+        "구입"
+      ],
+      "status": "matched",
+      "html_sha256": "1c28e6e4bf9eab62fce6f20ef62f73c06a96a6d8211bf8ee2ec2b55128e2605c",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_purchase",
+        "간식"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33322818",
+      "parsed_row": 1,
+      "date": "2025-01-17",
+      "organization": "seoul_office",
+      "name": "호두가 서울시청직역점",
+      "address_summary": null,
+      "amount": 108000,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": false,
+      "published": false,
+      "purpose_terms": [
+        "간식",
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "532804143d994ded2765e63f401e2c5cf6154dd4c5b01474a36a38041d9ff694",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "nonfood_vendor_unverified"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/33322818",
+      "parsed_row": 3,
+      "date": "2025-01-24",
+      "organization": "seoul_office",
+      "name": "(주)오피스디포서울경기총판",
+      "address_summary": null,
+      "amount": 33800,
+      "place_boundary": "nonfood_vendor_unverified",
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": false,
+      "published": false,
+      "purpose_terms": [
+        "간식",
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "532804143d994ded2765e63f401e2c5cf6154dd4c5b01474a36a38041d9ff694",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_district",
+        "성동구"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32940002",
+      "parsed_row": 1,
+      "date": "2025-01-03",
+      "organization": "seoul_office",
+      "name": "오발탄",
+      "address_summary": [
+        "성동구",
+        "왕십리로 50"
+      ],
+      "amount": 92000,
+      "place_boundary": null,
+      "purpose_class": "no_explicit_meal_word",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [],
+      "status": "matched",
+      "html_sha256": "85440262a8cfc5cf419a8143ca184b33ea0a14b1d89890c0edcae98b9a15bd23",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "platform_or_payment_counterparty"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32915599",
+      "parsed_row": 1,
+      "date": "2025-01-16",
+      "organization": "seoul_fire",
+      "name": "주식회사 지마켓",
+      "address_summary": null,
+      "amount": 68000,
+      "place_boundary": "platform_or_payment_counterparty",
+      "purpose_class": "refreshment_word_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "커피"
+      ],
+      "status": "matched",
+      "html_sha256": "777d86d3bf4de7c1d55c57eb58786e70ba98d10d3fdcbe0132a9f6c42edd2d8b",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_meeting",
+        "seoul_fire"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32915599",
+      "parsed_row": 2,
+      "date": "2025-01-17",
+      "organization": "seoul_fire",
+      "name": "박가네 아바이순대",
+      "address_summary": null,
+      "amount": 182000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "777d86d3bf4de7c1d55c57eb58786e70ba98d10d3fdcbe0132a9f6c42edd2d8b",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_purchase",
+        "음료"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32829859",
+      "parsed_row": 5,
+      "date": "2025-01-16",
+      "organization": "seoul_office",
+      "name": "주식회사 제이케이리테일",
+      "address_summary": null,
+      "amount": 41900,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구입",
+        "음료"
+      ],
+      "status": "matched",
+      "html_sha256": "7bef39fa1f99fa73c22a785ee8f15ee6d63f712eeec19b2a40ef60dd874226c6",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "nonfood_medicine"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32804038",
+      "parsed_row": 26,
+      "date": "2025-01-23",
+      "organization": "seoul_city",
+      "name": "홍신약국",
+      "address_summary": null,
+      "amount": 37000,
+      "place_boundary": "nonfood_medicine",
+      "purpose_class": "nonfood_medicine",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "7c3fd69a1f3677ae17c097a62b98e076dd72f6f7eefa23064c08b2d6d88c49e7",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_policy_topic"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32804029",
+      "parsed_row": 10,
+      "date": "2025-01-17",
+      "organization": "seoul_city",
+      "name": "동해수산",
+      "address_summary": null,
+      "amount": 70000,
+      "place_boundary": null,
+      "purpose_class": "policy_topic_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "급식",
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "1fec1d85391851d96d8a455a25cefde71f9ccbc57ac36552aa7fc368c471459d",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "nonfood_flowers_books_gifts"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32802923",
+      "parsed_row": 4,
+      "date": "2025-01-13",
+      "organization": "seoul_fire",
+      "name": "꽃피당",
+      "address_summary": [
+        "용산구",
+        "원효로 257"
+      ],
+      "amount": 42000,
+      "place_boundary": "nonfood_flowers_books_gifts",
+      "purpose_class": "nonfood_flowers_books_gifts",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "c93340c44ecc3d581a5fc162177293e5e7d3963b12466929c71f03693d92217b",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_council",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32793771",
+      "parsed_row": 1,
+      "date": "2025-01-02",
+      "organization": "seoul_council",
+      "name": "보돌미역 광화문 sfc몰점",
+      "address_summary": [
+        "중구",
+        "세종대로 136"
+      ],
+      "amount": 142000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "8961f2084a8054f95cb49062071a82806d94f459d3a7c914df78e9a832b2a85e",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_meeting",
+        "seoul_council"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32793771",
+      "parsed_row": 1,
+      "date": "2025-01-02",
+      "organization": "seoul_council",
+      "name": "보돌미역 광화문 sfc몰점",
+      "address_summary": [
+        "중구",
+        "세종대로 136"
+      ],
+      "amount": 142000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "8961f2084a8054f95cb49062071a82806d94f459d3a7c914df78e9a832b2a85e",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_purpose",
+        "meal"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32793764",
+      "parsed_row": 6,
+      "date": "2025-01-08",
+      "organization": "seoul_city",
+      "name": "청기와타운 을지로점",
+      "address_summary": [
+        "중구",
+        "을지로 54"
+      ],
+      "amount": 94500,
+      "place_boundary": null,
+      "purpose_class": "explicit_meal_word",
+      "purpose_category": "meal",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "회식"
+      ],
+      "status": "matched",
+      "html_sha256": "32b0d00da2a606d0e3ee0c5c2487ff9b5eb5124752578b6db27169def6f47696",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "platform_in_address_context"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32793749",
+      "parsed_row": 2,
+      "date": "2025-01-08",
+      "organization": "seoul_office",
+      "name": "",
+      "address_summary": null,
+      "amount": 287740,
+      "place_boundary": "platform_in_address_context",
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "간식",
+        "구입"
+      ],
+      "status": "matched",
+      "html_sha256": "1e09b503d663e5ebec90e593497a29caaa6bb9d75f057deb8c241956340e9fb4",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_cafe_report",
+        "적당"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32793687",
+      "parsed_row": 6,
+      "date": "2025-01-10",
+      "organization": "seoul_council",
+      "name": "적당",
+      "address_summary": null,
+      "amount": 24600,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": false,
+      "published": false,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "a821eb2f8096d826cfe8a8b8524c2f73ac9c0dfbbf3fe2a6f0aa28e83192dfe2",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_fire",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32793459",
+      "parsed_row": 2,
+      "date": "2025-01-17",
+      "organization": "seoul_fire",
+      "name": "참토우 중곡점",
+      "address_summary": [
+        "광진구",
+        "긴고랑로 102"
+      ],
+      "amount": 125000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "6d42915953ca4c120781f4f962bb0db10d4de544bc96966fa0f875bf77589e9a",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_district",
+        "강북구"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32784043",
+      "parsed_row": 3,
+      "date": "2025-01-13",
+      "organization": "seoul_office",
+      "name": "노원짬뽕",
+      "address_summary": [
+        "강북구",
+        "한천로 936"
+      ],
+      "amount": 35000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "20564b0811caa29990435fa992d5b99aa25c6fb5daa97c4d17598bcbe6fc9564",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "online_address_context"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32754063",
+      "parsed_row": 10,
+      "date": "2025-01-23",
+      "organization": "seoul_fire",
+      "name": "카페24",
+      "address_summary": [
+        "성동구",
+        "난계로 73"
+      ],
+      "amount": 84000,
+      "place_boundary": "online_address_context",
+      "purpose_class": "no_explicit_meal_word",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "25e9cc56e03c45e1d3a3b6f38190eeed0fe3f841b112c6e504fa44a1ef0264f5",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "nonfood_stationery_packaging"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32743369",
+      "parsed_row": 8,
+      "date": "2025-01-15",
+      "organization": "seoul_city",
+      "name": "서울시청신매점",
+      "address_summary": [
+        "중구",
+        "세종대로 110"
+      ],
+      "amount": 200000,
+      "place_boundary": "nonfood_stationery_packaging",
+      "purpose_class": "nonfood_stationery_packaging",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구입"
+      ],
+      "status": "matched",
+      "html_sha256": "650cb6156cf862f5613b2f214b74f9b9601fca1f9b132170697b347798ea0226",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_district",
+        "성북구"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32952992",
+      "parsed_row": 2,
+      "date": "2025-02-07",
+      "organization": "seoul_office",
+      "name": "북서울진순대",
+      "address_summary": [
+        "성북구",
+        "돌곶이로 221-1"
+      ],
+      "amount": 27000,
+      "place_boundary": null,
+      "purpose_class": "explicit_meal_word",
+      "purpose_category": "meal",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "식사"
+      ],
+      "status": "matched",
+      "html_sha256": "45f0091062a6a060e07dc917e239296c5985b8fc9ca724dc2b46e2535844158f",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "held_cafe_report",
+        "라운드앤드"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32951616",
+      "parsed_row": 34,
+      "date": "2025-02-24",
+      "organization": "seoul_city",
+      "name": "라운드앤드",
+      "address_summary": null,
+      "amount": 64800,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "855de8ae635953814bc0498f5fd7bf0756ae86aec0b62dd7d1010adc12d3f215",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "reported_boundary",
+        "opengov:34067534",
+        9
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/34067534",
+      "parsed_row": 9,
+      "date": "2025-07-10",
+      "organization": "seoul_city",
+      "name": "NICE결제대행",
+      "address_summary": [
+        "마포구",
+        "마포대로 217"
+      ],
+      "amount": 39800,
+      "place_boundary": "platform_or_payment_counterparty",
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "간식"
+      ],
+      "status": "matched",
+      "html_sha256": "544e18096708e443d370f7f909c38fdc2d21ab0aed959fd3ed881a3016f2f955",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_city",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/36229365",
+      "parsed_row": 1,
+      "date": "2026-01-08",
+      "organization": "seoul_city",
+      "name": "창고43시청점",
+      "address_summary": [
+        "중구",
+        "서소문로 120"
+      ],
+      "amount": 177000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "4cb88d23f317df682f318dc5e1fd0e0a58c104d83b35acf8ef829a1a5eec5f65",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_office",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/36025215",
+      "parsed_row": 1,
+      "date": "2026-01-13",
+      "organization": "seoul_office",
+      "name": "정선할매곤드레",
+      "address_summary": [
+        "중구",
+        "세종대로 124"
+      ],
+      "amount": 80000,
+      "place_boundary": null,
+      "purpose_class": "no_explicit_meal_word",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [],
+      "status": "matched",
+      "html_sha256": "0a713974803ec7fe328aeb2922777a5bff8601aa23eabaefe791684138fde5fd",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_council",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35444898",
+      "parsed_row": 1,
+      "date": "2026-01-05",
+      "organization": "seoul_council",
+      "name": "삼우정",
+      "address_summary": [
+        "중구",
+        "서소문로 134-12"
+      ],
+      "amount": 57000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "765ef98a41b38058dd3a7581c12ef6a6ce0005a0a80f519564bbe3b344f802b4",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "published_org_year",
+        "seoul_fire",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35409456",
+      "parsed_row": 6,
+      "date": "2026-01-21",
+      "organization": "seoul_fire",
+      "name": "동보성",
+      "address_summary": [
+        "성동구",
+        "한림말1길 15-2"
+      ],
+      "amount": 400000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "c6f2966763bf35975bb4348a6d41aebfc2066c0b1c69c7dbefeaf10978d5ffad",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "reported_boundary",
+        "opengov:35398221",
+        15
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35398221",
+      "parsed_row": 15,
+      "date": "2026-01-05",
+      "organization": "seoul_city",
+      "name": "에이스약국",
+      "address_summary": [
+        "중구",
+        "세종대로 136"
+      ],
+      "amount": 32000,
+      "place_boundary": "nonfood_medicine",
+      "purpose_class": "nonfood_medicine",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "34f0b10d2c750d3ca5eab8c7cee66293d8318127a88276d47c368ed46b433db1",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "place_boundary",
+        "headquarters_or_representative_address"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35595051",
+      "parsed_row": 48,
+      "date": "2026-02-25",
+      "organization": "seoul_city",
+      "name": "스타벅스 무교로점",
+      "address_summary": [
+        "강남구",
+        "테헤란로 231"
+      ],
+      "amount": 350000,
+      "place_boundary": "headquarters_or_representative_address",
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "간식"
+      ],
+      "status": "matched",
+      "html_sha256": "38c6e6c16d9f666d9c8275a28e12b583c948cce620d53b84cadd0e99d15f8bff",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "snack_as_meeting_topic"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35560821",
+      "parsed_row": 5,
+      "date": "2026-02-12",
+      "organization": "seoul_city",
+      "name": "강서면옥",
+      "address_summary": [
+        "중구",
+        "세종대로11길 35"
+      ],
+      "amount": 48000,
+      "place_boundary": null,
+      "purpose_class": "policy_topic_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간식",
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "e277894c9884637dfd88977a18a24f9837a5b2cbfc70e11a65fd6497e0db1219",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "reported_boundary",
+        "opengov:36272394",
+        2
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/36272394",
+      "parsed_row": 2,
+      "date": "2026-05-06",
+      "organization": "seoul_city",
+      "name": "신성쇼핑백",
+      "address_summary": [
+        "중구",
+        "통일로 92"
+      ],
+      "amount": 129800,
+      "place_boundary": "nonfood_stationery_packaging",
+      "purpose_class": "nonfood_stationery_packaging",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": false,
+      "purpose_terms": [
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "d5f37b569d83f3045d54a3052216105ee475624f9939ddcb696fa230e8eab3d1",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "reported_snack"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/36707683",
+      "parsed_row": 22,
+      "date": "2026-07-03",
+      "organization": "seoul_city",
+      "name": "송옥",
+      "address_summary": [
+        "중구",
+        "남대문로1길 11"
+      ],
+      "amount": 250000,
+      "place_boundary": null,
+      "purpose_class": "refreshment_purchase",
+      "purpose_category": "refreshment",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담",
+        "간식",
+        "구매"
+      ],
+      "status": "matched",
+      "html_sha256": "8cd119b771990eb406ddedefa07f9a20d23a1303b8e95c40a6f4ad4b0ead36f3",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_city",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/32985689",
+      "parsed_row": 47,
+      "date": "2025-02-20",
+      "organization": "seoul_city",
+      "name": "이자카야나무 시청점",
+      "address_summary": [
+        "중구",
+        "남대문로1길 37"
+      ],
+      "amount": 79500,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "b7c8273ef355503b1af677069cbcd7c7366aa8f7d27ec3fcafe5d74d608b9370",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_city",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35811486",
+      "parsed_row": 6,
+      "date": "2026-03-16",
+      "organization": "seoul_city",
+      "name": "태산",
+      "address_summary": [
+        "중구",
+        "세종대로11길 47"
+      ],
+      "amount": 50000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "bdd2aa21f011099f145ed91208db6225d44a39987d765acaad81bc49684b4513",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_council",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/34025103",
+      "parsed_row": 12,
+      "date": "2025-07-29",
+      "organization": "seoul_council",
+      "name": "하피덕 시청점",
+      "address_summary": [
+        "중구",
+        "서소문로 134-5"
+      ],
+      "amount": 66000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "ae4716e0df9a4856c2d79163628ac507eb295920f269557485be3991b7247fab",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_council",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35788435",
+      "parsed_row": 19,
+      "date": "2026-03-20",
+      "organization": "seoul_council",
+      "name": "대상해",
+      "address_summary": [
+        "중구",
+        "세종대로 135"
+      ],
+      "amount": 92000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "a621324651756be4f378d73edf4669b423340097482c63f41c63776a819369a7",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_office",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35197499",
+      "parsed_row": 15,
+      "date": "2025-12-05",
+      "organization": "seoul_office",
+      "name": "장꼬방",
+      "address_summary": [
+        "서초구",
+        "효령로 364"
+      ],
+      "amount": 30000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "1f4eab99db5dcb74e156ecf461e5051088f5cf584fc5c9579af9273c220d36f8",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_office",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/36473057",
+      "parsed_row": 1,
+      "date": "2026-06-02",
+      "organization": "seoul_office",
+      "name": "브이아이피참치",
+      "address_summary": [
+        "중구",
+        "세종대로11길 42"
+      ],
+      "amount": 116000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "e4f5f260324c0fe4cf7fb5ca16c3af69c691a865bcf775cde1559a57f6ff9ee5",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_fire",
+        "2025"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/34257449",
+      "parsed_row": 6,
+      "date": "2025-08-14",
+      "organization": "seoul_fire",
+      "name": "미식성",
+      "address_summary": [
+        "노원구",
+        "광운로 9"
+      ],
+      "amount": 202500,
+      "place_boundary": null,
+      "purpose_class": "no_explicit_meal_word",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [],
+      "status": "matched",
+      "html_sha256": "89b725205ba03650a75fd67b35a814c615044900ea3b3f86ab68900db6af86df",
+      "matched_rows": 1
+    },
+    {
+      "stratum": [
+        "seeded_sample",
+        "seoul_fire",
+        "2026"
+      ],
+      "source_url": "https://opengov.seoul.go.kr/expense/35812197",
+      "parsed_row": 10,
+      "date": "2026-03-26",
+      "organization": "seoul_fire",
+      "name": "장수마늘보쌈",
+      "address_summary": [
+        "강북구",
+        "한천로 960"
+      ],
+      "amount": 350000,
+      "place_boundary": null,
+      "purpose_class": "meeting_only_uncertain",
+      "purpose_category": "uncertain",
+      "address_check": true,
+      "published": true,
+      "purpose_terms": [
+        "간담"
+      ],
+      "status": "matched",
+      "html_sha256": "4083a800239f055a126d82a7944f778b08f768a0724dfa871b661407df187389",
+      "matched_rows": 1
+    }
+  ],
+  "limitations": "Purposive sample, not statistical accuracy estimate. Explicit meal words do not certify business category or current operation. Free-text purposes and attendee fields omitted from published receipt."
+}

@@ -1,369 +1,369 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:32764517,2,https://opengov.seoul.go.kr/expense/32764517,2025-01-02,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,115000,p02
-opengov:32754050,2,https://opengov.seoul.go.kr/expense/32754050,2025-01-03,seoul_city,도시공간본부 도시재창조과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:32765842,1,https://opengov.seoul.go.kr/expense/32765842,2025-01-03,seoul_city,시민건강국 스마트건강과,곰국시집,서울 중구 무교로 24,110000,p02
-opengov:32775008,3,https://opengov.seoul.go.kr/expense/32775008,2025-01-03,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,294000,p02
-opengov:32793528,3,https://opengov.seoul.go.kr/expense/32793528,2025-01-03,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,131000,p02
-opengov:32743293,3,https://opengov.seoul.go.kr/expense/32743293,2025-01-06,seoul_office,체육시설관리사업소 운영기획과,곰국시집,서울 중구 무교로 24,58000,p02
-opengov:32743361,4,https://opengov.seoul.go.kr/expense/32743361,2025-01-06,seoul_city,디자인정책관디자인정책담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:32782820,4,https://opengov.seoul.go.kr/expense/32782820,2025-01-06,seoul_council,의정담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:32792955,30,https://opengov.seoul.go.kr/expense/32792955,2025-01-06,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,129000,p02
-opengov:32743311,3,https://opengov.seoul.go.kr/expense/32743311,2025-01-07,seoul_city,창의행정담당관,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:32782830,9,https://opengov.seoul.go.kr/expense/32782830,2025-01-07,seoul_city,여성가족실 저출생담당관,곰국시집,서울 중구 무교로 24,132000,p02
-opengov:32755470,17,https://opengov.seoul.go.kr/expense/32755470,2025-01-08,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,113000,p02
-opengov:32754073,6,https://opengov.seoul.go.kr/expense/32754073,2025-01-09,seoul_office,남부도로사업소 관리단속과,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:32782814,40,https://opengov.seoul.go.kr/expense/32782814,2025-01-10,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,85000,p02
-opengov:32840186,4,https://opengov.seoul.go.kr/expense/32840186,2025-01-10,seoul_office,인재개발원 인재기획과,곰국시집,서울 중구 무교로 24,154000,p02
-opengov:32743360,12,https://opengov.seoul.go.kr/expense/32743360,2025-01-14,seoul_city,비상기획관 민방위담당관,곰국시집,서울 중구 무교로 24,28000,p02
-opengov:32793682,18,https://opengov.seoul.go.kr/expense/32793682,2025-01-14,seoul_council,시의회사무처 언론홍보실,곰국시집,서울 중구 무교로 24,140000,p02
-opengov:32755464,4,https://opengov.seoul.go.kr/expense/32755464,2025-01-15,seoul_city,재난안전실 도로기획관 도로관리과,곰국시집,서울 중구 무교로 24,180000,p02
-opengov:32775009,24,https://opengov.seoul.go.kr/expense/32775009,2025-01-16,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,420000,p02
-opengov:32792955,135,https://opengov.seoul.go.kr/expense/32792955,2025-01-16,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:32793491,20,https://opengov.seoul.go.kr/expense/32793491,2025-01-16,seoul_city,기획조정실 예산담당관,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:32804034,5,https://opengov.seoul.go.kr/expense/32804034,2025-01-16,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,132000,p02
-opengov:32782814,70,https://opengov.seoul.go.kr/expense/32782814,2025-01-20,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:32804029,14,https://opengov.seoul.go.kr/expense/32804029,2025-01-21,seoul_city,복지실 돌봄고독정책관 어르신복지과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:32764521,16,https://opengov.seoul.go.kr/expense/32764521,2025-01-22,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:32765831,32,https://opengov.seoul.go.kr/expense/32765831,2025-01-22,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:32774997,10,https://opengov.seoul.go.kr/expense/32774997,2025-01-22,seoul_city,여성가족실 가족담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:32764491,14,https://opengov.seoul.go.kr/expense/32764491,2025-01-23,seoul_city,문화본부 문화유산활용과,곰국시집,서울 중구 무교로 24,28000,p02
-opengov:32765831,41,https://opengov.seoul.go.kr/expense/32765831,2025-01-24,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:32755497,7,https://opengov.seoul.go.kr/expense/32755497,2025-01-31,seoul_office,도시기반시설본부 시설국 건축부,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:32792955,249,https://opengov.seoul.go.kr/expense/32792955,2025-01-31,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:32793763,56,https://opengov.seoul.go.kr/expense/32793763,2025-01-31,seoul_city,균형발전본부 균형발전정책과,곰국시집,서울 중구 무교로 24,135000,p02
-opengov:32941256,1,https://opengov.seoul.go.kr/expense/32941256,2025-02-03,seoul_city,재난안전실 도로기획관 도로계획과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:32941256,2,https://opengov.seoul.go.kr/expense/32941256,2025-02-03,seoul_city,재난안전실 도로기획관 도로계획과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:33229611,1,https://opengov.seoul.go.kr/expense/33229611,2025-02-03,seoul_city,기후환경본부 친환경차량과,곰국시집,서울 중구 무교로 24,113000,p02
-opengov:32941233,5,https://opengov.seoul.go.kr/expense/32941233,2025-02-04,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:32951616,5,https://opengov.seoul.go.kr/expense/32951616,2025-02-04,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,115000,p02
-opengov:32951634,9,https://opengov.seoul.go.kr/expense/32951634,2025-02-06,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:32985644,20,https://opengov.seoul.go.kr/expense/32985644,2025-02-06,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,129000,p02
-opengov:32939969,13,https://opengov.seoul.go.kr/expense/32939969,2025-02-07,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,91000,p02
-opengov:32985439,5,https://opengov.seoul.go.kr/expense/32985439,2025-02-07,seoul_city,관광체육국 체육정책과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:32974329,4,https://opengov.seoul.go.kr/expense/32974329,2025-02-12,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:32951634,26,https://opengov.seoul.go.kr/expense/32951634,2025-02-13,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,129000,p02
-opengov:32952994,11,https://opengov.seoul.go.kr/expense/32952994,2025-02-13,seoul_city,여성가족실 저출생담당관,곰국시집,서울 중구 무교로 24,132000,p02
-opengov:32962931,3,https://opengov.seoul.go.kr/expense/32962931,2025-02-14,seoul_city,재난안전실 재난상황관리과,곰국시집,서울 중구 무교로 24,199000,p02
-opengov:32985644,53,https://opengov.seoul.go.kr/expense/32985644,2025-02-14,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,210000,p02
-opengov:33017153,29,https://opengov.seoul.go.kr/expense/33017153,2025-02-14,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,49000,p02
-opengov:32951616,25,https://opengov.seoul.go.kr/expense/32951616,2025-02-17,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,115000,p02
-opengov:32983269,143,https://opengov.seoul.go.kr/expense/32983269,2025-02-17,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:32974336,7,https://opengov.seoul.go.kr/expense/32974336,2025-02-18,seoul_city,재난안전실 중대재해예방과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:32939999,7,https://opengov.seoul.go.kr/expense/32939999,2025-02-19,seoul_office,도시기반시설본부 시설국 토목부,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:32952954,24,https://opengov.seoul.go.kr/expense/32952954,2025-02-19,seoul_city,민생노동국 소상공인정책과,곰국시집,서울 중구 무교로 24,107000,p02
-opengov:32973584,22,https://opengov.seoul.go.kr/expense/32973584,2025-02-20,seoul_city,디지털도시국 디지털정책과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:32985450,8,https://opengov.seoul.go.kr/expense/32985450,2025-02-20,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,158000,p02
-opengov:32941233,64,https://opengov.seoul.go.kr/expense/32941233,2025-02-21,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,107000,p02
-opengov:32941251,26,https://opengov.seoul.go.kr/expense/32941251,2025-02-21,seoul_city,정원도시국 정원도시정책과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:32985578,7,https://opengov.seoul.go.kr/expense/32985578,2025-02-21,seoul_city,관광체육국 체육진흥과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:32985681,27,https://opengov.seoul.go.kr/expense/32985681,2025-02-21,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,360000,p02
-opengov:32972917,20,https://opengov.seoul.go.kr/expense/32972917,2025-02-24,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:32985427,8,https://opengov.seoul.go.kr/expense/32985427,2025-02-26,seoul_city,재난안전실 도로기획관 도로관리과,곰국시집,서울 중구 무교로 24,224000,p02
-opengov:32985695,8,https://opengov.seoul.go.kr/expense/32985695,2025-02-26,seoul_office,총무과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:32973580,13,https://opengov.seoul.go.kr/expense/32973580,2025-02-27,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:32941211,9,https://opengov.seoul.go.kr/expense/32941211,2025-02-28,seoul_city,시민건강국 정신건강과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:33259217,1,https://opengov.seoul.go.kr/expense/33259217,2025-03-04,seoul_office,도시기반시설본부 방재시설부,곰국시집,서울 중구 무교로 24,110000,p02
-opengov:33199367,1,https://opengov.seoul.go.kr/expense/33199367,2025-03-05,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,154000,p02
-opengov:33166343,1,https://opengov.seoul.go.kr/expense/33166343,2025-03-06,seoul_city,시민건강국 스마트건강과,곰국시집,서울 중구 무교로 24,135000,p02
-opengov:33199365,4,https://opengov.seoul.go.kr/expense/33199365,2025-03-06,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,69000,p02
-opengov:33199449,1,https://opengov.seoul.go.kr/expense/33199449,2025-03-06,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:33228393,4,https://opengov.seoul.go.kr/expense/33228393,2025-03-06,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:33153774,5,https://opengov.seoul.go.kr/expense/33153774,2025-03-07,seoul_city,여성가족실 아동담당관,곰국시집,서울 중구 무교로 24,185000,p02
-opengov:33199348,11,https://opengov.seoul.go.kr/expense/33199348,2025-03-07,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:33199368,6,https://opengov.seoul.go.kr/expense/33199368,2025-03-07,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,111000,p02
-opengov:33209079,8,https://opengov.seoul.go.kr/expense/33209079,2025-03-12,seoul_city,자치경찰위원회 자치경찰협력과,곰국시집,서울 중구 무교로 24,42000,p02
-opengov:33176501,2,https://opengov.seoul.go.kr/expense/33176501,2025-03-13,seoul_city,미래공간기획관 도시활력담당관,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:33229581,5,https://opengov.seoul.go.kr/expense/33229581,2025-03-14,seoul_city,디자인정책관 디자인산업담당관,곰국시집,서울 중구 무교로 24,46000,p02
-opengov:33199368,20,https://opengov.seoul.go.kr/expense/33199368,2025-03-19,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:33209066,22,https://opengov.seoul.go.kr/expense/33209066,2025-03-20,seoul_city,주택실 주택정책과,곰국시집,서울 중구 무교로 24,107000,p02
-opengov:33209079,17,https://opengov.seoul.go.kr/expense/33209079,2025-03-20,seoul_city,자치경찰위원회 자치경찰협력과,곰국시집,서울 중구 무교로 24,56000,p02
-opengov:33229586,9,https://opengov.seoul.go.kr/expense/33229586,2025-03-20,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:33228392,13,https://opengov.seoul.go.kr/expense/33228392,2025-03-21,seoul_city,경제실 첨단산업과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:33152559,33,https://opengov.seoul.go.kr/expense/33152559,2025-03-25,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:33199348,36,https://opengov.seoul.go.kr/expense/33199348,2025-03-26,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 무교로 24,168000,p02
-opengov:33229619,39,https://opengov.seoul.go.kr/expense/33229619,2025-03-26,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,400000,p02
-opengov:33153763,7,https://opengov.seoul.go.kr/expense/33153763,2025-03-27,seoul_office,도시기반시설본부 도시철도설비부,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:33228393,13,https://opengov.seoul.go.kr/expense/33228393,2025-03-27,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:33229618,57,https://opengov.seoul.go.kr/expense/33229618,2025-03-27,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,313000,p02
-opengov:33199365,34,https://opengov.seoul.go.kr/expense/33199365,2025-03-28,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,152000,p02
-opengov:33405978,1,https://opengov.seoul.go.kr/expense/33405978,2025-04-03,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,203000,p02
-opengov:33440710,10,https://opengov.seoul.go.kr/expense/33440710,2025-04-03,seoul_city,주택정책과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:33392428,3,https://opengov.seoul.go.kr/expense/33392428,2025-04-04,seoul_city,시민건강국 스마트건강과,곰국시집,서울 중구 무교로 24,132000,p02
-opengov:33429130,2,https://opengov.seoul.go.kr/expense/33429130,2025-04-07,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:33406025,8,https://opengov.seoul.go.kr/expense/33406025,2025-04-09,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:33416493,17,https://opengov.seoul.go.kr/expense/33416493,2025-04-09,seoul_council,의정담당관(의장실),곰국시집,서울 중구 무교로 24,66000,p02
-opengov:33361814,4,https://opengov.seoul.go.kr/expense/33361814,2025-04-10,seoul_city,교통실 보행자전거과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:33417507,23,https://opengov.seoul.go.kr/expense/33417507,2025-04-10,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,139000,p02
-opengov:33429129,5,https://opengov.seoul.go.kr/expense/33429129,2025-04-10,seoul_city,건설기술정책관 건설혁신담당관,곰국시집,서울 중구 무교로 24,43000,p02
-opengov:33404726,129,https://opengov.seoul.go.kr/expense/33404726,2025-04-11,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,209000,p02
-opengov:33404726,197,https://opengov.seoul.go.kr/expense/33404726,2025-04-18,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:33416493,31,https://opengov.seoul.go.kr/expense/33416493,2025-04-18,seoul_council,의정담당관(의장실),곰국시집,서울 중구 무교로 24,112000,p02
-opengov:33417508,75,https://opengov.seoul.go.kr/expense/33417508,2025-04-18,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,87000,p02
-opengov:33404726,259,https://opengov.seoul.go.kr/expense/33404726,2025-04-25,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,55000,p02
-opengov:33429149,25,https://opengov.seoul.go.kr/expense/33429149,2025-04-25,seoul_city,기후환경본부 기후환경정책과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:33405979,18,https://opengov.seoul.go.kr/expense/33405979,2025-04-30,seoul_city,관광체육국 체육진흥과,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:33417507,63,https://opengov.seoul.go.kr/expense/33417507,2025-04-30,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:33600610,1,https://opengov.seoul.go.kr/expense/33600610,2025-05-01,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,158000,p02
-opengov:33635004,1,https://opengov.seoul.go.kr/expense/33635004,2025-05-01,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,113000,p02
-opengov:33624320,4,https://opengov.seoul.go.kr/expense/33624320,2025-05-02,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:33624334,2,https://opengov.seoul.go.kr/expense/33624334,2025-05-02,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:33624320,9,https://opengov.seoul.go.kr/expense/33624320,2025-05-03,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,200000,p02
-opengov:33599587,9,https://opengov.seoul.go.kr/expense/33599587,2025-05-09,seoul_city,도시공간본부 도시공간전략과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:33624334,6,https://opengov.seoul.go.kr/expense/33624334,2025-05-13,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,131000,p02
-opengov:33624345,6,https://opengov.seoul.go.kr/expense/33624345,2025-05-14,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:33636141,32,https://opengov.seoul.go.kr/expense/33636141,2025-05-14,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,116000,p02
-opengov:33600610,8,https://opengov.seoul.go.kr/expense/33600610,2025-05-15,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:33624130,102,https://opengov.seoul.go.kr/expense/33624130,2025-05-15,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:33586778,14,https://opengov.seoul.go.kr/expense/33586778,2025-05-16,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:33600335,18,https://opengov.seoul.go.kr/expense/33600335,2025-05-16,seoul_city,정원도시국 정원도시정책과,곰국시집,서울 중구 무교로 24,176000,p02
-opengov:33624344,7,https://opengov.seoul.go.kr/expense/33624344,2025-05-16,seoul_council,시의회사무처 예산결산특별전문위원실,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:33624136,18,https://opengov.seoul.go.kr/expense/33624136,2025-05-19,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:33837489,3,https://opengov.seoul.go.kr/expense/33837489,2025-05-20,seoul_city,재난안전실 중대재해예방과,곰국시집,서울 중구 무교로 24,258000,p02
-opengov:33634981,40,https://opengov.seoul.go.kr/expense/33634981,2025-05-28,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,400000,p02
-opengov:33635004,8,https://opengov.seoul.go.kr/expense/33635004,2025-05-29,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:33868890,5,https://opengov.seoul.go.kr/expense/33868890,2025-06-04,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,42000,p02
-opengov:33837484,7,https://opengov.seoul.go.kr/expense/33837484,2025-06-05,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,220000,p02
-opengov:33803296,19,https://opengov.seoul.go.kr/expense/33803296,2025-06-09,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,107000,p02
-opengov:33790708,3,https://opengov.seoul.go.kr/expense/33790708,2025-06-10,seoul_city,비상기획관 민방위담당관,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:33837554,8,https://opengov.seoul.go.kr/expense/33837554,2025-06-10,seoul_city,도시공간본부 도시공간전략과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:33868357,17,https://opengov.seoul.go.kr/expense/33868357,2025-06-11,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,122000,p02
-opengov:33848783,3,https://opengov.seoul.go.kr/expense/33848783,2025-06-12,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,89000,p02
-opengov:33792102,7,https://opengov.seoul.go.kr/expense/33792102,2025-06-13,seoul_city,여성가족실 아동담당관,곰국시집,서울 중구 무교로 24,180000,p02
-opengov:33826578,119,https://opengov.seoul.go.kr/expense/33826578,2025-06-13,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:33868912,22,https://opengov.seoul.go.kr/expense/33868912,2025-06-13,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,110000,p02
-opengov:33826578,138,https://opengov.seoul.go.kr/expense/33826578,2025-06-16,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:33790689,5,https://opengov.seoul.go.kr/expense/33790689,2025-06-17,seoul_city,문화본부 문화시설과,곰국시집,서울 중구 무교로 24,132000,p02
-opengov:33815747,4,https://opengov.seoul.go.kr/expense/33815747,2025-06-17,seoul_city,행정국 평화기반조성과,곰국시집,서울 중구 무교로 24,89000,p02
-opengov:33826578,160,https://opengov.seoul.go.kr/expense/33826578,2025-06-17,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,87000,p02
-opengov:33867844,14,https://opengov.seoul.go.kr/expense/33867844,2025-06-18,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:33847554,13,https://opengov.seoul.go.kr/expense/33847554,2025-06-20,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:33867833,13,https://opengov.seoul.go.kr/expense/33867833,2025-06-23,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:33803299,10,https://opengov.seoul.go.kr/expense/33803299,2025-06-26,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,135000,p02
-opengov:33859002,72,https://opengov.seoul.go.kr/expense/33859002,2025-06-26,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,87000,p02
-opengov:33868912,57,https://opengov.seoul.go.kr/expense/33868912,2025-06-26,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:33859002,75,https://opengov.seoul.go.kr/expense/33859002,2025-06-27,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,163000,p02
-opengov:34007131,22,https://opengov.seoul.go.kr/expense/34007131,2025-06-27,seoul_office,인재개발원 인재기획과,곰국시집,서울 중구 무교로 24,110000,p02
-opengov:34067527,5,https://opengov.seoul.go.kr/expense/34067527,2025-07-03,seoul_city,정원도시국 정원도시정책과,곰국시집,서울 중구 무교로 24,156000,p02
-opengov:34037605,3,https://opengov.seoul.go.kr/expense/34037605,2025-07-07,seoul_city,미래청년기획관 청년사업담당관,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:34067498,7,https://opengov.seoul.go.kr/expense/34067498,2025-07-07,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34077462,4,https://opengov.seoul.go.kr/expense/34077462,2025-07-11,seoul_city,도시공간본부 도시재창조과,곰국시집,서울 중구 무교로 24,158000,p02
-opengov:34077520,67,https://opengov.seoul.go.kr/expense/34077520,2025-07-14,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,69000,p02
-opengov:34025098,20,https://opengov.seoul.go.kr/expense/34025098,2025-07-15,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:34026231,10,https://opengov.seoul.go.kr/expense/34026231,2025-07-17,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,84000,p02
-opengov:34086141,7,https://opengov.seoul.go.kr/expense/34086141,2025-07-17,seoul_city,시민건강국 공공의료과,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:34077510,136,https://opengov.seoul.go.kr/expense/34077510,2025-07-18,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34058153,11,https://opengov.seoul.go.kr/expense/34058153,2025-07-23,seoul_city,디자인정책관 디자인산업담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:34087189,31,https://opengov.seoul.go.kr/expense/34087189,2025-07-23,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,230000,p02
-opengov:34067537,77,https://opengov.seoul.go.kr/expense/34067537,2025-07-25,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:34059225,59,https://opengov.seoul.go.kr/expense/34059225,2025-07-29,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:34077470,50,https://opengov.seoul.go.kr/expense/34077470,2025-07-31,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,275000,p02
-opengov:34254470,26,https://opengov.seoul.go.kr/expense/34254470,2025-08-19,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:34257473,14,https://opengov.seoul.go.kr/expense/34257473,2025-08-19,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,28000,p02
-opengov:34267820,22,https://opengov.seoul.go.kr/expense/34267820,2025-08-20,seoul_city,민생노동국 소상공인정책과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34278398,23,https://opengov.seoul.go.kr/expense/34278398,2025-08-21,seoul_city,외국인이민담당관,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:34220898,28,https://opengov.seoul.go.kr/expense/34220898,2025-08-22,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:34298526,38,https://opengov.seoul.go.kr/expense/34298526,2025-08-22,seoul_city,자치경찰위원회 자치경찰운영과,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:34299596,52,https://opengov.seoul.go.kr/expense/34299596,2025-08-27,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:34299603,16,https://opengov.seoul.go.kr/expense/34299603,2025-08-27,seoul_office,동부공원여가센터 공원운영과,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:34220898,42,https://opengov.seoul.go.kr/expense/34220898,2025-08-29,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:34495697,1,https://opengov.seoul.go.kr/expense/34495697,2025-09-02,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34483856,9,https://opengov.seoul.go.kr/expense/34483856,2025-09-03,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,42000,p02
-opengov:34495699,7,https://opengov.seoul.go.kr/expense/34495699,2025-09-08,seoul_city,비상기획관 민방위담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:34517800,5,https://opengov.seoul.go.kr/expense/34517800,2025-09-08,seoul_council,서울시의회사무처 인사과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:34483856,16,https://opengov.seoul.go.kr/expense/34483856,2025-09-09,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:34467188,29,https://opengov.seoul.go.kr/expense/34467188,2025-09-10,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:34442147,17,https://opengov.seoul.go.kr/expense/34442147,2025-09-11,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:34452871,3,https://opengov.seoul.go.kr/expense/34452871,2025-09-11,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:34483996,134,https://opengov.seoul.go.kr/expense/34483996,2025-09-16,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,197000,p02
-opengov:34484002,65,https://opengov.seoul.go.kr/expense/34484002,2025-09-16,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,85000,p02
-opengov:34484006,51,https://opengov.seoul.go.kr/expense/34484006,2025-09-23,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:34483822,42,https://opengov.seoul.go.kr/expense/34483822,2025-09-24,seoul_city,도시공간본부 도시공간전략과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:34483996,217,https://opengov.seoul.go.kr/expense/34483996,2025-09-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,178000,p02
-opengov:34483852,14,https://opengov.seoul.go.kr/expense/34483852,2025-09-30,seoul_city,디자인정책관 디자인산업담당관,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:34483947,14,https://opengov.seoul.go.kr/expense/34483947,2025-09-30,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,158000,p02
-opengov:34483978,53,https://opengov.seoul.go.kr/expense/34483978,2025-09-30,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,300000,p02
-opengov:34483996,267,https://opengov.seoul.go.kr/expense/34483996,2025-09-30,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,52000,p02
-opengov:34495645,13,https://opengov.seoul.go.kr/expense/34495645,2025-09-30,seoul_city,정원도시국 공원여가사업과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:34691333,10,https://opengov.seoul.go.kr/expense/34691333,2025-10-10,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,227000,p02
-opengov:34667922,10,https://opengov.seoul.go.kr/expense/34667922,2025-10-13,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:34701384,44,https://opengov.seoul.go.kr/expense/34701384,2025-10-13,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:34679729,5,https://opengov.seoul.go.kr/expense/34679729,2025-10-14,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:34691308,6,https://opengov.seoul.go.kr/expense/34691308,2025-10-14,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:34680973,17,https://opengov.seoul.go.kr/expense/34680973,2025-10-15,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,499000,p02
-opengov:34711319,4,https://opengov.seoul.go.kr/expense/34711319,2025-10-15,seoul_city,미래공간기획관 공공개발담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:34667920,9,https://opengov.seoul.go.kr/expense/34667920,2025-10-16,seoul_office,남부도로사업소 관리단속과,곰국시집,서울 중구 무교로 24,138000,p02
-opengov:34711190,16,https://opengov.seoul.go.kr/expense/34711190,2025-10-16,seoul_city,기획조정실 예산담당관,곰국시집,서울 중구 무교로 24,210000,p02
-opengov:34679729,8,https://opengov.seoul.go.kr/expense/34679729,2025-10-17,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34669128,54,https://opengov.seoul.go.kr/expense/34669128,2025-10-22,seoul_council,운영지원과(의장실),곰국시집,서울 중구 무교로 24,68000,p02
-opengov:34711316,8,https://opengov.seoul.go.kr/expense/34711316,2025-10-22,seoul_city,행정국 시민협력과,곰국시집,서울 중구 무교로 24,214000,p02
-opengov:34679729,22,https://opengov.seoul.go.kr/expense/34679729,2025-10-23,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,77000,p02
-opengov:34710683,10,https://opengov.seoul.go.kr/expense/34710683,2025-10-28,seoul_city,기획조정실 법률지원담당관,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:34669128,80,https://opengov.seoul.go.kr/expense/34669128,2025-10-29,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,145000,p02
-opengov:34722642,12,https://opengov.seoul.go.kr/expense/34722642,2025-10-29,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:34817832,24,https://opengov.seoul.go.kr/expense/34817832,2025-10-30,seoul_city,외국인이민담당관,곰국시집,서울 중구 무교로 24,129000,p02
-opengov:34904042,4,https://opengov.seoul.go.kr/expense/34904042,2025-11-03,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,153000,p02
-opengov:34939662,2,https://opengov.seoul.go.kr/expense/34939662,2025-11-03,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:34952051,26,https://opengov.seoul.go.kr/expense/34952051,2025-11-05,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34889815,14,https://opengov.seoul.go.kr/expense/34889815,2025-11-06,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:34952052,5,https://opengov.seoul.go.kr/expense/34952052,2025-11-10,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,115000,p02
-opengov:34939497,23,https://opengov.seoul.go.kr/expense/34939497,2025-11-11,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:34952051,86,https://opengov.seoul.go.kr/expense/34952051,2025-11-12,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:34952051,91,https://opengov.seoul.go.kr/expense/34952051,2025-11-12,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:34904062,8,https://opengov.seoul.go.kr/expense/34904062,2025-11-13,seoul_city,문화본부 문화예술과,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:34950538,8,https://opengov.seoul.go.kr/expense/34950538,2025-11-14,seoul_council,시의회사무처 도시계획균형전문위원실,곰국시집,서울 중구 무교로 24,182000,p02
-opengov:34889823,28,https://opengov.seoul.go.kr/expense/34889823,2025-11-17,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,97000,p02
-opengov:34904042,44,https://opengov.seoul.go.kr/expense/34904042,2025-11-19,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,98000,p02
-opengov:34916612,4,https://opengov.seoul.go.kr/expense/34916612,2025-11-19,seoul_city,복지실 디딤돌소득과,곰국시집,서울 중구 무교로 24,122000,p02
-opengov:34952051,149,https://opengov.seoul.go.kr/expense/34952051,2025-11-19,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:34952062,14,https://opengov.seoul.go.kr/expense/34952062,2025-11-20,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:34963710,22,https://opengov.seoul.go.kr/expense/34963710,2025-11-21,seoul_city,재무국 재무과,곰국시집,서울 중구 무교로 24,69000,p02
-opengov:34916631,14,https://opengov.seoul.go.kr/expense/34916631,2025-11-24,seoul_office,서울아리수본부 요금관리부,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:34963727,44,https://opengov.seoul.go.kr/expense/34963727,2025-11-25,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35023997,7,https://opengov.seoul.go.kr/expense/35023997,2025-11-25,seoul_city,홍보기획관 민원담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:34904043,31,https://opengov.seoul.go.kr/expense/34904043,2025-11-27,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,487000,p02
-opengov:34926698,40,https://opengov.seoul.go.kr/expense/34926698,2025-11-28,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:34939497,71,https://opengov.seoul.go.kr/expense/34939497,2025-11-28,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:35167217,2,https://opengov.seoul.go.kr/expense/35167217,2025-12-01,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:35175503,1,https://opengov.seoul.go.kr/expense/35175503,2025-12-01,seoul_city,복지실 디딤돌소득과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:35177671,19,https://opengov.seoul.go.kr/expense/35177671,2025-12-02,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35197517,2,https://opengov.seoul.go.kr/expense/35197517,2025-12-03,seoul_city,도시공간본부 도시재창조과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:35145918,15,https://opengov.seoul.go.kr/expense/35145918,2025-12-04,seoul_city,교통실 교통정책과,곰국시집,서울 중구 무교로 24,100000,p02
-opengov:35214377,13,https://opengov.seoul.go.kr/expense/35214377,2025-12-04,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,100000,p02
-opengov:35212183,17,https://opengov.seoul.go.kr/expense/35212183,2025-12-09,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:35197509,22,https://opengov.seoul.go.kr/expense/35197509,2025-12-10,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,294000,p02
-opengov:35214377,21,https://opengov.seoul.go.kr/expense/35214377,2025-12-11,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:35177671,148,https://opengov.seoul.go.kr/expense/35177671,2025-12-15,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:35157850,29,https://opengov.seoul.go.kr/expense/35157850,2025-12-16,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,124000,p02
-opengov:35205479,40,https://opengov.seoul.go.kr/expense/35205479,2025-12-22,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,28000,p02
-opengov:35144161,33,https://opengov.seoul.go.kr/expense/35144161,2025-12-23,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:35177671,240,https://opengov.seoul.go.kr/expense/35177671,2025-12-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35184942,68,https://opengov.seoul.go.kr/expense/35184942,2025-12-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,143000,p02
-opengov:35184942,70,https://opengov.seoul.go.kr/expense/35184942,2025-12-26,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,178000,p02
-opengov:35165355,66,https://opengov.seoul.go.kr/expense/35165355,2025-12-29,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,300000,p02
-opengov:35177670,27,https://opengov.seoul.go.kr/expense/35177670,2025-12-29,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,196600,p02
-opengov:35177671,275,https://opengov.seoul.go.kr/expense/35177671,2025-12-29,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:35197509,63,https://opengov.seoul.go.kr/expense/35197509,2025-12-29,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,299000,p02
-opengov:35367975,1,https://opengov.seoul.go.kr/expense/35367975,2026-01-02,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,154000,p02
-opengov:35420378,1,https://opengov.seoul.go.kr/expense/35420378,2026-01-02,seoul_council,예산결산특별전문위원실,곰국시집,서울 중구 무교로 24,248000,p02
-opengov:35421551,6,https://opengov.seoul.go.kr/expense/35421551,2026-01-05,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,113000,p02
-opengov:35399568,6,https://opengov.seoul.go.kr/expense/35399568,2026-01-07,seoul_city,정원도시정책과,곰국시집,서울 중구 무교로 24,276000,p02
-opengov:35380378,7,https://opengov.seoul.go.kr/expense/35380378,2026-01-08,seoul_city,기후환경본부 대기정책과,곰국시집,서울 중구 무교로 24,55000,p02
-opengov:35380356,10,https://opengov.seoul.go.kr/expense/35380356,2026-01-09,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:35398221,59,https://opengov.seoul.go.kr/expense/35398221,2026-01-09,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:35399580,1,https://opengov.seoul.go.kr/expense/35399580,2026-01-09,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:35436053,4,https://opengov.seoul.go.kr/expense/35436053,2026-01-13,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,108000,p02
-opengov:35388722,17,https://opengov.seoul.go.kr/expense/35388722,2026-01-14,seoul_council,의정국 언론홍보과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:35357577,9,https://opengov.seoul.go.kr/expense/35357577,2026-01-16,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:35398243,36,https://opengov.seoul.go.kr/expense/35398243,2026-01-20,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,280000,p02
-opengov:35398212,28,https://opengov.seoul.go.kr/expense/35398212,2026-01-21,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:35420391,53,https://opengov.seoul.go.kr/expense/35420391,2026-01-21,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:35421587,80,https://opengov.seoul.go.kr/expense/35421587,2026-01-21,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,156000,p02
-opengov:35420379,26,https://opengov.seoul.go.kr/expense/35420379,2026-01-22,seoul_city,복지실 어르신복지과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35410286,106,https://opengov.seoul.go.kr/expense/35410286,2026-01-23,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,142000,p02
-opengov:35434650,30,https://opengov.seoul.go.kr/expense/35434650,2026-01-23,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,159000,p02
-opengov:35398221,200,https://opengov.seoul.go.kr/expense/35398221,2026-01-27,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,225000,p02
-opengov:35421586,48,https://opengov.seoul.go.kr/expense/35421586,2026-01-27,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,107000,p02
-opengov:35398221,213,https://opengov.seoul.go.kr/expense/35398221,2026-01-28,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:35605727,1,https://opengov.seoul.go.kr/expense/35605727,2026-02-02,seoul_city,기획조정실 예산담당관,곰국시집,서울 중구 무교로 24,178000,p02
-opengov:35606794,8,https://opengov.seoul.go.kr/expense/35606794,2026-02-03,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:35606775,8,https://opengov.seoul.go.kr/expense/35606775,2026-02-04,seoul_city,감사위원회 감사담당관,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:35547035,8,https://opengov.seoul.go.kr/expense/35547035,2026-02-05,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,157000,p02
-opengov:35606793,12,https://opengov.seoul.go.kr/expense/35606793,2026-02-06,seoul_city,자치경찰위원회 자치경찰운영과,곰국시집,서울 중구 무교로 24,124000,p02
-opengov:35595227,6,https://opengov.seoul.go.kr/expense/35595227,2026-02-09,seoul_city,관광체육국 체육정책과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:35595237,7,https://opengov.seoul.go.kr/expense/35595237,2026-02-09,seoul_city,재난안전실 도로기획관 지하안전과,곰국시집,서울 중구 무교로 24,226000,p02
-opengov:35560809,17,https://opengov.seoul.go.kr/expense/35560809,2026-02-11,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:35572194,20,https://opengov.seoul.go.kr/expense/35572194,2026-02-11,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:35606766,12,https://opengov.seoul.go.kr/expense/35606766,2026-02-12,seoul_city,경제실 일자리정책과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:35547890,8,https://opengov.seoul.go.kr/expense/35547890,2026-02-13,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,129000,p02
-opengov:35595078,9,https://opengov.seoul.go.kr/expense/35595078,2026-02-13,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35572204,13,https://opengov.seoul.go.kr/expense/35572204,2026-02-23,seoul_city,글로벌도시정책관 국제협력담당관,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:35605738,158,https://opengov.seoul.go.kr/expense/35605738,2026-02-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35775021,1,https://opengov.seoul.go.kr/expense/35775021,2026-03-03,seoul_city,건설기술정책관 지역건축안전센터,곰국시집,서울 중구 무교로 24,319000,p02
-opengov:35834086,3,https://opengov.seoul.go.kr/expense/35834086,2026-03-03,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35855689,1,https://opengov.seoul.go.kr/expense/35855689,2026-03-03,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,56000,p02
-opengov:35835449,7,https://opengov.seoul.go.kr/expense/35835449,2026-03-04,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,351000,p02
-opengov:35787111,12,https://opengov.seoul.go.kr/expense/35787111,2026-03-10,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,110000,p02
-opengov:35845460,28,https://opengov.seoul.go.kr/expense/35845460,2026-03-10,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:35855689,22,https://opengov.seoul.go.kr/expense/35855689,2026-03-11,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,56000,p02
-opengov:35812194,23,https://opengov.seoul.go.kr/expense/35812194,2026-03-12,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:35824079,7,https://opengov.seoul.go.kr/expense/35824079,2026-03-12,seoul_city,기후환경본부 친환경차량과,곰국시집,서울 중구 무교로 24,228000,p02
-opengov:35834086,127,https://opengov.seoul.go.kr/expense/35834086,2026-03-18,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:35844331,10,https://opengov.seoul.go.kr/expense/35844331,2026-03-18,seoul_city,관광체육국 체육진흥과,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:35774996,9,https://opengov.seoul.go.kr/expense/35774996,2026-03-19,seoul_city,물순환안전국 치수안전과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:35812194,32,https://opengov.seoul.go.kr/expense/35812194,2026-03-19,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:35835466,33,https://opengov.seoul.go.kr/expense/35835466,2026-03-20,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:35834086,186,https://opengov.seoul.go.kr/expense/35834086,2026-03-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,193000,p02
-opengov:35834086,206,https://opengov.seoul.go.kr/expense/35834086,2026-03-25,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:35834086,213,https://opengov.seoul.go.kr/expense/35834086,2026-03-25,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,170000,p02
-opengov:35799459,9,https://opengov.seoul.go.kr/expense/35799459,2026-03-27,seoul_office,서북병원 진료부,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:35812214,10,https://opengov.seoul.go.kr/expense/35812214,2026-03-27,seoul_city,주거정비과,곰국시집,서울 중구 무교로 24,132000,p02
-opengov:35855689,59,https://opengov.seoul.go.kr/expense/35855689,2026-03-27,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,56000,p02
-opengov:35824115,16,https://opengov.seoul.go.kr/expense/35824115,2026-03-30,seoul_city,경제실 창조산업기획관 산업입지과,곰국시집,서울 중구 무교로 24,135000,p02
-opengov:35787121,62,https://opengov.seoul.go.kr/expense/35787121,2026-03-31,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:35823039,22,https://opengov.seoul.go.kr/expense/35823039,2026-03-31,seoul_city,디지털도시국 정보통신과,곰국시집,서울 중구 무교로 24,193000,p02
-opengov:36048313,1,https://opengov.seoul.go.kr/expense/36048313,2026-04-01,seoul_city,자치경찰위원회 자치경찰운영과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:36037076,9,https://opengov.seoul.go.kr/expense/36037076,2026-04-06,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:36037076,19,https://opengov.seoul.go.kr/expense/36037076,2026-04-10,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:36042193,35,https://opengov.seoul.go.kr/expense/36042193,2026-04-13,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:36058328,110,https://opengov.seoul.go.kr/expense/36058328,2026-04-13,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,293000,p02
-opengov:36048315,62,https://opengov.seoul.go.kr/expense/36048315,2026-04-14,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:36025228,10,https://opengov.seoul.go.kr/expense/36025228,2026-04-17,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:36037089,43,https://opengov.seoul.go.kr/expense/36037089,2026-04-17,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,180000,p02
-opengov:36037113,25,https://opengov.seoul.go.kr/expense/36037113,2026-04-17,seoul_city,교통실 주차계획과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:36013154,27,https://opengov.seoul.go.kr/expense/36013154,2026-04-20,seoul_city,기획조정실 조직담당관,곰국시집,서울 중구 무교로 24,86000,p02
-opengov:36058328,186,https://opengov.seoul.go.kr/expense/36058328,2026-04-21,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,p02
-opengov:36023313,20,https://opengov.seoul.go.kr/expense/36023313,2026-04-24,seoul_city,정원도시국 조경과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:36026844,68,https://opengov.seoul.go.kr/expense/36026844,2026-04-24,seoul_city,교통정책과,곰국시집,서울 중구 무교로 24,140000,p02
-opengov:36037076,48,https://opengov.seoul.go.kr/expense/36037076,2026-04-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:36013010,28,https://opengov.seoul.go.kr/expense/36013010,2026-04-27,seoul_city,재난안전실 도로기획관 도로계획과,곰국시집,서울 중구 무교로 24,71000,p02
-opengov:36037076,58,https://opengov.seoul.go.kr/expense/36037076,2026-04-28,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:36048338,13,https://opengov.seoul.go.kr/expense/36048338,2026-04-28,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,136000,p02
-opengov:36012990,10,https://opengov.seoul.go.kr/expense/36012990,2026-04-29,seoul_city,관광체육국 관광산업과,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:36012986,42,https://opengov.seoul.go.kr/expense/36012986,2026-04-30,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,176000,p02
-opengov:36024950,13,https://opengov.seoul.go.kr/expense/36024950,2026-04-30,seoul_city,미래공간기획관 공공개발담당관,곰국시집,서울 중구 무교로 24,180000,p02
-opengov:36214403,1,https://opengov.seoul.go.kr/expense/36214403,2026-05-04,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:36229350,8,https://opengov.seoul.go.kr/expense/36229350,2026-05-07,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,156000,p02
-opengov:36216600,11,https://opengov.seoul.go.kr/expense/36216600,2026-05-08,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,134000,p02
-opengov:36272370,7,https://opengov.seoul.go.kr/expense/36272370,2026-05-12,seoul_city,디지털도시국 정보시스템과,곰국시집,서울 중구 무교로 24,89000,p02
-opengov:36250905,5,https://opengov.seoul.go.kr/expense/36250905,2026-05-21,seoul_city,교통실 택시정책과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:36251013,19,https://opengov.seoul.go.kr/expense/36251013,2026-05-21,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:36261038,45,https://opengov.seoul.go.kr/expense/36261038,2026-05-27,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:36214403,30,https://opengov.seoul.go.kr/expense/36214403,2026-05-28,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:36272371,11,https://opengov.seoul.go.kr/expense/36272371,2026-05-28,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,239000,p02
-opengov:36414577,14,https://opengov.seoul.go.kr/expense/36414577,2026-05-29,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,111000,p02
-opengov:36461012,1,https://opengov.seoul.go.kr/expense/36461012,2026-06-01,seoul_city,디지털도시국 정보보안과,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:36414578,1,https://opengov.seoul.go.kr/expense/36414578,2026-06-02,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:36471826,1,https://opengov.seoul.go.kr/expense/36471826,2026-06-02,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,곰국시집,서울 중구 무교로 24,263000,p02
-opengov:36533635,12,https://opengov.seoul.go.kr/expense/36533635,2026-06-02,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,151000,p02
-opengov:36492733,23,https://opengov.seoul.go.kr/expense/36492733,2026-06-08,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,85000,p02
-opengov:36501216,16,https://opengov.seoul.go.kr/expense/36501216,2026-06-08,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:36512446,17,https://opengov.seoul.go.kr/expense/36512446,2026-06-09,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,295000,p02
-opengov:36473064,9,https://opengov.seoul.go.kr/expense/36473064,2026-06-12,seoul_city,복지실 자활지원과,곰국시집,서울 중구 무교로 24,70000,p02
-opengov:36432948,24,https://opengov.seoul.go.kr/expense/36432948,2026-06-18,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,105000,p02
-opengov:36492752,30,https://opengov.seoul.go.kr/expense/36492752,2026-06-18,seoul_city,교통실 주차계획과,곰국시집,서울 중구 무교로 24,68000,p02
-opengov:36432948,34,https://opengov.seoul.go.kr/expense/36432948,2026-06-24,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:36449806,50,https://opengov.seoul.go.kr/expense/36449806,2026-06-29,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,246000,p02
-opengov:36512453,24,https://opengov.seoul.go.kr/expense/36512453,2026-06-30,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,158000,p02
-opengov:36686801,1,https://opengov.seoul.go.kr/expense/36686801,2026-07-01,seoul_city,기후환경본부 기후환경정책과,곰국시집,서울 중구 무교로 24,28000,p02
-opengov:36707570,3,https://opengov.seoul.go.kr/expense/36707570,2026-07-01,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:36716785,8,https://opengov.seoul.go.kr/expense/36716785,2026-07-02,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,186000,p02
-opengov:36707570,14,https://opengov.seoul.go.kr/expense/36707570,2026-07-07,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,277000,p02
-opengov:36716785,22,https://opengov.seoul.go.kr/expense/36716785,2026-07-07,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,279000,p02
-opengov:36687868,18,https://opengov.seoul.go.kr/expense/36687868,2026-07-09,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,129000,p02
-opengov:36707495,13,https://opengov.seoul.go.kr/expense/36707495,2026-07-14,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,67000,p02
-opengov:36707731,10,https://opengov.seoul.go.kr/expense/36707731,2026-07-15,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,140000,p02
-opengov:36697310,14,https://opengov.seoul.go.kr/expense/36697310,2026-07-16,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,98000,p02
-opengov:36677428,9,https://opengov.seoul.go.kr/expense/36677428,2026-07-21,seoul_city,정원도시국 공원조성과,곰국시집,서울 중구 무교로 24,135000,p02
-opengov:36686804,11,https://opengov.seoul.go.kr/expense/36686804,2026-07-21,seoul_city,행정국 인사과,곰국시집,서울 중구 무교로 24,112000,p02
-opengov:36707751,27,https://opengov.seoul.go.kr/expense/36707751,2026-07-22,seoul_city,글로벌도시정책관 외국인이민담당관,곰국시집,서울 중구 무교로 24,44000,p02
-opengov:36706844,160,https://opengov.seoul.go.kr/expense/36706844,2026-07-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,223000,p02
-opengov:36707570,43,https://opengov.seoul.go.kr/expense/36707570,2026-07-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,66000,p02
-opengov:36707570,44,https://opengov.seoul.go.kr/expense/36707570,2026-07-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,88000,p02
-opengov:36687868,51,https://opengov.seoul.go.kr/expense/36687868,2026-07-27,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,127000,p02
-opengov:36736464,15,https://opengov.seoul.go.kr/expense/36736464,2026-07-27,seoul_city,복지실 자활지원과,곰국시집,서울 중구 무교로 24,90000,p02
-opengov:36697310,19,https://opengov.seoul.go.kr/expense/36697310,2026-07-29,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,256000,p02
-opengov:36707487,55,https://opengov.seoul.go.kr/expense/36707487,2026-07-30,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,250000,p02
-opengov:36707731,18,https://opengov.seoul.go.kr/expense/36707731,2026-07-30,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,100000,p02
-opengov:36856956,17,https://opengov.seoul.go.kr/expense/36856956,2026-08-12,seoul_city,문화본부 문화정책과,곰국시집,서울 중구 무교로 24,124000,p02
-opengov:36857023,18,https://opengov.seoul.go.kr/expense/36857023,2026-08-14,seoul_city,기획조정실 조직담당관,곰국시집,서울 중구 무교로 24,157000,p02
-opengov:36856975,13,https://opengov.seoul.go.kr/expense/36856975,2026-08-24,seoul_city,기후환경본부 대기정책과,곰국시집,서울 중구 무교로 24,42000,p02
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:32764517,2,https://opengov.seoul.go.kr/expense/32764517,2025-01-02,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,115000,uncertain,meeting_only_uncertain,p02
+opengov:32754050,2,https://opengov.seoul.go.kr/expense/32754050,2025-01-03,seoul_city,도시공간본부 도시재창조과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:32765842,1,https://opengov.seoul.go.kr/expense/32765842,2025-01-03,seoul_city,시민건강국 스마트건강과,곰국시집,서울 중구 무교로 24,110000,uncertain,meeting_only_uncertain,p02
+opengov:32775008,3,https://opengov.seoul.go.kr/expense/32775008,2025-01-03,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,294000,uncertain,meeting_only_uncertain,p02
+opengov:32793528,3,https://opengov.seoul.go.kr/expense/32793528,2025-01-03,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,131000,uncertain,meeting_only_uncertain,p02
+opengov:32743293,3,https://opengov.seoul.go.kr/expense/32743293,2025-01-06,seoul_office,체육시설관리사업소 운영기획과,곰국시집,서울 중구 무교로 24,58000,uncertain,meeting_only_uncertain,p02
+opengov:32743361,4,https://opengov.seoul.go.kr/expense/32743361,2025-01-06,seoul_city,디자인정책관디자인정책담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:32782820,4,https://opengov.seoul.go.kr/expense/32782820,2025-01-06,seoul_council,의정담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:32792955,30,https://opengov.seoul.go.kr/expense/32792955,2025-01-06,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,129000,uncertain,meeting_only_uncertain,p02
+opengov:32743311,3,https://opengov.seoul.go.kr/expense/32743311,2025-01-07,seoul_city,창의행정담당관,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:32782830,9,https://opengov.seoul.go.kr/expense/32782830,2025-01-07,seoul_city,여성가족실 저출생담당관,곰국시집,서울 중구 무교로 24,132000,uncertain,meeting_only_uncertain,p02
+opengov:32755470,17,https://opengov.seoul.go.kr/expense/32755470,2025-01-08,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,113000,uncertain,meeting_only_uncertain,p02
+opengov:32754073,6,https://opengov.seoul.go.kr/expense/32754073,2025-01-09,seoul_office,남부도로사업소 관리단속과,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:32782814,40,https://opengov.seoul.go.kr/expense/32782814,2025-01-10,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,85000,uncertain,meeting_only_uncertain,p02
+opengov:32840186,4,https://opengov.seoul.go.kr/expense/32840186,2025-01-10,seoul_office,인재개발원 인재기획과,곰국시집,서울 중구 무교로 24,154000,uncertain,meeting_only_uncertain,p02
+opengov:32743360,12,https://opengov.seoul.go.kr/expense/32743360,2025-01-14,seoul_city,비상기획관 민방위담당관,곰국시집,서울 중구 무교로 24,28000,uncertain,meeting_only_uncertain,p02
+opengov:32793682,18,https://opengov.seoul.go.kr/expense/32793682,2025-01-14,seoul_council,시의회사무처 언론홍보실,곰국시집,서울 중구 무교로 24,140000,uncertain,meeting_only_uncertain,p02
+opengov:32755464,4,https://opengov.seoul.go.kr/expense/32755464,2025-01-15,seoul_city,재난안전실 도로기획관 도로관리과,곰국시집,서울 중구 무교로 24,180000,uncertain,meeting_only_uncertain,p02
+opengov:32775009,24,https://opengov.seoul.go.kr/expense/32775009,2025-01-16,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,420000,meal,explicit_meal_word,p02
+opengov:32792955,135,https://opengov.seoul.go.kr/expense/32792955,2025-01-16,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:32793491,20,https://opengov.seoul.go.kr/expense/32793491,2025-01-16,seoul_city,기획조정실 예산담당관,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:32804034,5,https://opengov.seoul.go.kr/expense/32804034,2025-01-16,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,132000,uncertain,meeting_only_uncertain,p02
+opengov:32782814,70,https://opengov.seoul.go.kr/expense/32782814,2025-01-20,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:32804029,14,https://opengov.seoul.go.kr/expense/32804029,2025-01-21,seoul_city,복지실 돌봄고독정책관 어르신복지과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:32764521,16,https://opengov.seoul.go.kr/expense/32764521,2025-01-22,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:32765831,32,https://opengov.seoul.go.kr/expense/32765831,2025-01-22,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:32774997,10,https://opengov.seoul.go.kr/expense/32774997,2025-01-22,seoul_city,여성가족실 가족담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:32764491,14,https://opengov.seoul.go.kr/expense/32764491,2025-01-23,seoul_city,문화본부 문화유산활용과,곰국시집,서울 중구 무교로 24,28000,uncertain,meeting_only_uncertain,p02
+opengov:32765831,41,https://opengov.seoul.go.kr/expense/32765831,2025-01-24,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:32755497,7,https://opengov.seoul.go.kr/expense/32755497,2025-01-31,seoul_office,도시기반시설본부 시설국 건축부,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:32792955,249,https://opengov.seoul.go.kr/expense/32792955,2025-01-31,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:32793763,56,https://opengov.seoul.go.kr/expense/32793763,2025-01-31,seoul_city,균형발전본부 균형발전정책과,곰국시집,서울 중구 무교로 24,135000,meal,explicit_meal_word,p02
+opengov:32941256,1,https://opengov.seoul.go.kr/expense/32941256,2025-02-03,seoul_city,재난안전실 도로기획관 도로계획과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:32941256,2,https://opengov.seoul.go.kr/expense/32941256,2025-02-03,seoul_city,재난안전실 도로기획관 도로계획과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:33229611,1,https://opengov.seoul.go.kr/expense/33229611,2025-02-03,seoul_city,기후환경본부 친환경차량과,곰국시집,서울 중구 무교로 24,113000,uncertain,meeting_only_uncertain,p02
+opengov:32941233,5,https://opengov.seoul.go.kr/expense/32941233,2025-02-04,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:32951616,5,https://opengov.seoul.go.kr/expense/32951616,2025-02-04,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,115000,uncertain,meeting_only_uncertain,p02
+opengov:32951634,9,https://opengov.seoul.go.kr/expense/32951634,2025-02-06,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:32985644,20,https://opengov.seoul.go.kr/expense/32985644,2025-02-06,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,129000,uncertain,meeting_only_uncertain,p02
+opengov:32939969,13,https://opengov.seoul.go.kr/expense/32939969,2025-02-07,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,91000,uncertain,meeting_only_uncertain,p02
+opengov:32985439,5,https://opengov.seoul.go.kr/expense/32985439,2025-02-07,seoul_city,관광체육국 체육정책과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:32974329,4,https://opengov.seoul.go.kr/expense/32974329,2025-02-12,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:32951634,26,https://opengov.seoul.go.kr/expense/32951634,2025-02-13,seoul_city,자치경찰위원회 자치경찰총괄과,곰국시집,서울 중구 무교로 24,129000,uncertain,meeting_only_uncertain,p02
+opengov:32952994,11,https://opengov.seoul.go.kr/expense/32952994,2025-02-13,seoul_city,여성가족실 저출생담당관,곰국시집,서울 중구 무교로 24,132000,uncertain,meeting_only_uncertain,p02
+opengov:32962931,3,https://opengov.seoul.go.kr/expense/32962931,2025-02-14,seoul_city,재난안전실 재난상황관리과,곰국시집,서울 중구 무교로 24,199000,uncertain,meeting_only_uncertain,p02
+opengov:32985644,53,https://opengov.seoul.go.kr/expense/32985644,2025-02-14,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,210000,uncertain,meeting_only_uncertain,p02
+opengov:33017153,29,https://opengov.seoul.go.kr/expense/33017153,2025-02-14,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,49000,uncertain,meeting_only_uncertain,p02
+opengov:32951616,25,https://opengov.seoul.go.kr/expense/32951616,2025-02-17,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,115000,uncertain,meeting_only_uncertain,p02
+opengov:32983269,143,https://opengov.seoul.go.kr/expense/32983269,2025-02-17,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:32974336,7,https://opengov.seoul.go.kr/expense/32974336,2025-02-18,seoul_city,재난안전실 중대재해예방과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:32939999,7,https://opengov.seoul.go.kr/expense/32939999,2025-02-19,seoul_office,도시기반시설본부 시설국 토목부,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:32952954,24,https://opengov.seoul.go.kr/expense/32952954,2025-02-19,seoul_city,민생노동국 소상공인정책과,곰국시집,서울 중구 무교로 24,107000,uncertain,meeting_only_uncertain,p02
+opengov:32973584,22,https://opengov.seoul.go.kr/expense/32973584,2025-02-20,seoul_city,디지털도시국 디지털정책과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:32985450,8,https://opengov.seoul.go.kr/expense/32985450,2025-02-20,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,158000,uncertain,meeting_only_uncertain,p02
+opengov:32941233,64,https://opengov.seoul.go.kr/expense/32941233,2025-02-21,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,107000,uncertain,meeting_only_uncertain,p02
+opengov:32941251,26,https://opengov.seoul.go.kr/expense/32941251,2025-02-21,seoul_city,정원도시국 정원도시정책과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:32985578,7,https://opengov.seoul.go.kr/expense/32985578,2025-02-21,seoul_city,관광체육국 체육진흥과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:32985681,27,https://opengov.seoul.go.kr/expense/32985681,2025-02-21,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,360000,meal,explicit_meal_word,p02
+opengov:32972917,20,https://opengov.seoul.go.kr/expense/32972917,2025-02-24,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:32985427,8,https://opengov.seoul.go.kr/expense/32985427,2025-02-26,seoul_city,재난안전실 도로기획관 도로관리과,곰국시집,서울 중구 무교로 24,224000,uncertain,meeting_only_uncertain,p02
+opengov:32985695,8,https://opengov.seoul.go.kr/expense/32985695,2025-02-26,seoul_office,총무과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:32973580,13,https://opengov.seoul.go.kr/expense/32973580,2025-02-27,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:32941211,9,https://opengov.seoul.go.kr/expense/32941211,2025-02-28,seoul_city,시민건강국 정신건강과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:33259217,1,https://opengov.seoul.go.kr/expense/33259217,2025-03-04,seoul_office,도시기반시설본부 방재시설부,곰국시집,서울 중구 무교로 24,110000,uncertain,meeting_only_uncertain,p02
+opengov:33199367,1,https://opengov.seoul.go.kr/expense/33199367,2025-03-05,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,154000,uncertain,meeting_only_uncertain,p02
+opengov:33166343,1,https://opengov.seoul.go.kr/expense/33166343,2025-03-06,seoul_city,시민건강국 스마트건강과,곰국시집,서울 중구 무교로 24,135000,uncertain,meeting_only_uncertain,p02
+opengov:33199365,4,https://opengov.seoul.go.kr/expense/33199365,2025-03-06,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,69000,uncertain,meeting_only_uncertain,p02
+opengov:33199449,1,https://opengov.seoul.go.kr/expense/33199449,2025-03-06,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:33228393,4,https://opengov.seoul.go.kr/expense/33228393,2025-03-06,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:33153774,5,https://opengov.seoul.go.kr/expense/33153774,2025-03-07,seoul_city,여성가족실 아동담당관,곰국시집,서울 중구 무교로 24,185000,uncertain,meeting_only_uncertain,p02
+opengov:33199348,11,https://opengov.seoul.go.kr/expense/33199348,2025-03-07,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:33199368,6,https://opengov.seoul.go.kr/expense/33199368,2025-03-07,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,111000,uncertain,meeting_only_uncertain,p02
+opengov:33209079,8,https://opengov.seoul.go.kr/expense/33209079,2025-03-12,seoul_city,자치경찰위원회 자치경찰협력과,곰국시집,서울 중구 무교로 24,42000,uncertain,meeting_only_uncertain,p02
+opengov:33176501,2,https://opengov.seoul.go.kr/expense/33176501,2025-03-13,seoul_city,미래공간기획관 도시활력담당관,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:33229581,5,https://opengov.seoul.go.kr/expense/33229581,2025-03-14,seoul_city,디자인정책관 디자인산업담당관,곰국시집,서울 중구 무교로 24,46000,uncertain,meeting_only_uncertain,p02
+opengov:33199368,20,https://opengov.seoul.go.kr/expense/33199368,2025-03-19,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:33209066,22,https://opengov.seoul.go.kr/expense/33209066,2025-03-20,seoul_city,주택실 주택정책과,곰국시집,서울 중구 무교로 24,107000,uncertain,meeting_only_uncertain,p02
+opengov:33209079,17,https://opengov.seoul.go.kr/expense/33209079,2025-03-20,seoul_city,자치경찰위원회 자치경찰협력과,곰국시집,서울 중구 무교로 24,56000,uncertain,meeting_only_uncertain,p02
+opengov:33229586,9,https://opengov.seoul.go.kr/expense/33229586,2025-03-20,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,68000,meal,explicit_meal_word,p02
+opengov:33228392,13,https://opengov.seoul.go.kr/expense/33228392,2025-03-21,seoul_city,경제실 첨단산업과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:33152559,33,https://opengov.seoul.go.kr/expense/33152559,2025-03-25,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:33199348,36,https://opengov.seoul.go.kr/expense/33199348,2025-03-26,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 무교로 24,168000,uncertain,meeting_only_uncertain,p02
+opengov:33229619,39,https://opengov.seoul.go.kr/expense/33229619,2025-03-26,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,400000,meal,explicit_meal_word,p02
+opengov:33153763,7,https://opengov.seoul.go.kr/expense/33153763,2025-03-27,seoul_office,도시기반시설본부 도시철도설비부,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:33228393,13,https://opengov.seoul.go.kr/expense/33228393,2025-03-27,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:33229618,57,https://opengov.seoul.go.kr/expense/33229618,2025-03-27,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,313000,uncertain,meeting_only_uncertain,p02
+opengov:33199365,34,https://opengov.seoul.go.kr/expense/33199365,2025-03-28,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,152000,uncertain,meeting_only_uncertain,p02
+opengov:33405978,1,https://opengov.seoul.go.kr/expense/33405978,2025-04-03,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,203000,uncertain,meeting_only_uncertain,p02
+opengov:33440710,10,https://opengov.seoul.go.kr/expense/33440710,2025-04-03,seoul_city,주택정책과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:33392428,3,https://opengov.seoul.go.kr/expense/33392428,2025-04-04,seoul_city,시민건강국 스마트건강과,곰국시집,서울 중구 무교로 24,132000,uncertain,meeting_only_uncertain,p02
+opengov:33429130,2,https://opengov.seoul.go.kr/expense/33429130,2025-04-07,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:33406025,8,https://opengov.seoul.go.kr/expense/33406025,2025-04-09,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:33416493,17,https://opengov.seoul.go.kr/expense/33416493,2025-04-09,seoul_council,의정담당관(의장실),곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:33361814,4,https://opengov.seoul.go.kr/expense/33361814,2025-04-10,seoul_city,교통실 보행자전거과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:33417507,23,https://opengov.seoul.go.kr/expense/33417507,2025-04-10,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,139000,uncertain,meeting_only_uncertain,p02
+opengov:33429129,5,https://opengov.seoul.go.kr/expense/33429129,2025-04-10,seoul_city,건설기술정책관 건설혁신담당관,곰국시집,서울 중구 무교로 24,43000,uncertain,meeting_only_uncertain,p02
+opengov:33404726,129,https://opengov.seoul.go.kr/expense/33404726,2025-04-11,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,209000,uncertain,meeting_only_uncertain,p02
+opengov:33404726,197,https://opengov.seoul.go.kr/expense/33404726,2025-04-18,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:33416493,31,https://opengov.seoul.go.kr/expense/33416493,2025-04-18,seoul_council,의정담당관(의장실),곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:33417508,75,https://opengov.seoul.go.kr/expense/33417508,2025-04-18,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,87000,uncertain,meeting_only_uncertain,p02
+opengov:33404726,259,https://opengov.seoul.go.kr/expense/33404726,2025-04-25,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,55000,uncertain,meeting_only_uncertain,p02
+opengov:33429149,25,https://opengov.seoul.go.kr/expense/33429149,2025-04-25,seoul_city,기후환경본부 기후환경정책과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:33405979,18,https://opengov.seoul.go.kr/expense/33405979,2025-04-30,seoul_city,관광체육국 체육진흥과,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:33417507,63,https://opengov.seoul.go.kr/expense/33417507,2025-04-30,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:33600610,1,https://opengov.seoul.go.kr/expense/33600610,2025-05-01,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,158000,uncertain,meeting_only_uncertain,p02
+opengov:33635004,1,https://opengov.seoul.go.kr/expense/33635004,2025-05-01,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,113000,uncertain,meeting_only_uncertain,p02
+opengov:33624320,4,https://opengov.seoul.go.kr/expense/33624320,2025-05-02,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:33624334,2,https://opengov.seoul.go.kr/expense/33624334,2025-05-02,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:33624320,9,https://opengov.seoul.go.kr/expense/33624320,2025-05-03,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,200000,uncertain,meeting_only_uncertain,p02
+opengov:33599587,9,https://opengov.seoul.go.kr/expense/33599587,2025-05-09,seoul_city,도시공간본부 도시공간전략과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:33624334,6,https://opengov.seoul.go.kr/expense/33624334,2025-05-13,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,131000,uncertain,meeting_only_uncertain,p02
+opengov:33624345,6,https://opengov.seoul.go.kr/expense/33624345,2025-05-14,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:33636141,32,https://opengov.seoul.go.kr/expense/33636141,2025-05-14,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,116000,uncertain,meeting_only_uncertain,p02
+opengov:33600610,8,https://opengov.seoul.go.kr/expense/33600610,2025-05-15,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:33624130,102,https://opengov.seoul.go.kr/expense/33624130,2025-05-15,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:33586778,14,https://opengov.seoul.go.kr/expense/33586778,2025-05-16,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:33600335,18,https://opengov.seoul.go.kr/expense/33600335,2025-05-16,seoul_city,정원도시국 정원도시정책과,곰국시집,서울 중구 무교로 24,176000,uncertain,meeting_only_uncertain,p02
+opengov:33624344,7,https://opengov.seoul.go.kr/expense/33624344,2025-05-16,seoul_council,시의회사무처 예산결산특별전문위원실,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:33624136,18,https://opengov.seoul.go.kr/expense/33624136,2025-05-19,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:33837489,3,https://opengov.seoul.go.kr/expense/33837489,2025-05-20,seoul_city,재난안전실 중대재해예방과,곰국시집,서울 중구 무교로 24,258000,uncertain,meeting_only_uncertain,p02
+opengov:33634981,40,https://opengov.seoul.go.kr/expense/33634981,2025-05-28,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,400000,meal,explicit_meal_word,p02
+opengov:33635004,8,https://opengov.seoul.go.kr/expense/33635004,2025-05-29,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:33868890,5,https://opengov.seoul.go.kr/expense/33868890,2025-06-04,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,42000,uncertain,meeting_only_uncertain,p02
+opengov:33837484,7,https://opengov.seoul.go.kr/expense/33837484,2025-06-05,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,220000,uncertain,meeting_only_uncertain,p02
+opengov:33803296,19,https://opengov.seoul.go.kr/expense/33803296,2025-06-09,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,107000,uncertain,meeting_only_uncertain,p02
+opengov:33790708,3,https://opengov.seoul.go.kr/expense/33790708,2025-06-10,seoul_city,비상기획관 민방위담당관,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:33837554,8,https://opengov.seoul.go.kr/expense/33837554,2025-06-10,seoul_city,도시공간본부 도시공간전략과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:33868357,17,https://opengov.seoul.go.kr/expense/33868357,2025-06-11,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,122000,uncertain,meeting_only_uncertain,p02
+opengov:33848783,3,https://opengov.seoul.go.kr/expense/33848783,2025-06-12,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,89000,uncertain,meeting_only_uncertain,p02
+opengov:33792102,7,https://opengov.seoul.go.kr/expense/33792102,2025-06-13,seoul_city,여성가족실 아동담당관,곰국시집,서울 중구 무교로 24,180000,uncertain,meeting_only_uncertain,p02
+opengov:33826578,119,https://opengov.seoul.go.kr/expense/33826578,2025-06-13,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:33868912,22,https://opengov.seoul.go.kr/expense/33868912,2025-06-13,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,110000,uncertain,meeting_only_uncertain,p02
+opengov:33826578,138,https://opengov.seoul.go.kr/expense/33826578,2025-06-16,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:33790689,5,https://opengov.seoul.go.kr/expense/33790689,2025-06-17,seoul_city,문화본부 문화시설과,곰국시집,서울 중구 무교로 24,132000,uncertain,meeting_only_uncertain,p02
+opengov:33815747,4,https://opengov.seoul.go.kr/expense/33815747,2025-06-17,seoul_city,행정국 평화기반조성과,곰국시집,서울 중구 무교로 24,89000,uncertain,meeting_only_uncertain,p02
+opengov:33826578,160,https://opengov.seoul.go.kr/expense/33826578,2025-06-17,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,87000,uncertain,meeting_only_uncertain,p02
+opengov:33867844,14,https://opengov.seoul.go.kr/expense/33867844,2025-06-18,seoul_city,기획조정실 정책기획관 조직담당관,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:33847554,13,https://opengov.seoul.go.kr/expense/33847554,2025-06-20,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:33867833,13,https://opengov.seoul.go.kr/expense/33867833,2025-06-23,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:33803299,10,https://opengov.seoul.go.kr/expense/33803299,2025-06-26,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,135000,uncertain,meeting_only_uncertain,p02
+opengov:33859002,72,https://opengov.seoul.go.kr/expense/33859002,2025-06-26,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,87000,uncertain,meeting_only_uncertain,p02
+opengov:33868912,57,https://opengov.seoul.go.kr/expense/33868912,2025-06-26,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:33859002,75,https://opengov.seoul.go.kr/expense/33859002,2025-06-27,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,163000,uncertain,meeting_only_uncertain,p02
+opengov:34007131,22,https://opengov.seoul.go.kr/expense/34007131,2025-06-27,seoul_office,인재개발원 인재기획과,곰국시집,서울 중구 무교로 24,110000,uncertain,meeting_only_uncertain,p02
+opengov:34067527,5,https://opengov.seoul.go.kr/expense/34067527,2025-07-03,seoul_city,정원도시국 정원도시정책과,곰국시집,서울 중구 무교로 24,156000,uncertain,meeting_only_uncertain,p02
+opengov:34037605,3,https://opengov.seoul.go.kr/expense/34037605,2025-07-07,seoul_city,미래청년기획관 청년사업담당관,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:34067498,7,https://opengov.seoul.go.kr/expense/34067498,2025-07-07,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34077462,4,https://opengov.seoul.go.kr/expense/34077462,2025-07-11,seoul_city,도시공간본부 도시재창조과,곰국시집,서울 중구 무교로 24,158000,uncertain,meeting_only_uncertain,p02
+opengov:34077520,67,https://opengov.seoul.go.kr/expense/34077520,2025-07-14,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,69000,uncertain,meeting_only_uncertain,p02
+opengov:34025098,20,https://opengov.seoul.go.kr/expense/34025098,2025-07-15,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:34026231,10,https://opengov.seoul.go.kr/expense/34026231,2025-07-17,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,84000,uncertain,meeting_only_uncertain,p02
+opengov:34086141,7,https://opengov.seoul.go.kr/expense/34086141,2025-07-17,seoul_city,시민건강국 공공의료과,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:34077510,136,https://opengov.seoul.go.kr/expense/34077510,2025-07-18,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34058153,11,https://opengov.seoul.go.kr/expense/34058153,2025-07-23,seoul_city,디자인정책관 디자인산업담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:34087189,31,https://opengov.seoul.go.kr/expense/34087189,2025-07-23,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,230000,uncertain,meeting_only_uncertain,p02
+opengov:34067537,77,https://opengov.seoul.go.kr/expense/34067537,2025-07-25,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:34059225,59,https://opengov.seoul.go.kr/expense/34059225,2025-07-29,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:34077470,50,https://opengov.seoul.go.kr/expense/34077470,2025-07-31,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,275000,meal,explicit_meal_word,p02
+opengov:34254470,26,https://opengov.seoul.go.kr/expense/34254470,2025-08-19,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:34257473,14,https://opengov.seoul.go.kr/expense/34257473,2025-08-19,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,28000,uncertain,meeting_only_uncertain,p02
+opengov:34267820,22,https://opengov.seoul.go.kr/expense/34267820,2025-08-20,seoul_city,민생노동국 소상공인정책과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34278398,23,https://opengov.seoul.go.kr/expense/34278398,2025-08-21,seoul_city,외국인이민담당관,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:34220898,28,https://opengov.seoul.go.kr/expense/34220898,2025-08-22,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:34298526,38,https://opengov.seoul.go.kr/expense/34298526,2025-08-22,seoul_city,자치경찰위원회 자치경찰운영과,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:34299596,52,https://opengov.seoul.go.kr/expense/34299596,2025-08-27,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:34299603,16,https://opengov.seoul.go.kr/expense/34299603,2025-08-27,seoul_office,동부공원여가센터 공원운영과,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:34220898,42,https://opengov.seoul.go.kr/expense/34220898,2025-08-29,seoul_city,디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:34495697,1,https://opengov.seoul.go.kr/expense/34495697,2025-09-02,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34483856,9,https://opengov.seoul.go.kr/expense/34483856,2025-09-03,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,42000,uncertain,meeting_only_uncertain,p02
+opengov:34495699,7,https://opengov.seoul.go.kr/expense/34495699,2025-09-08,seoul_city,비상기획관 민방위담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:34517800,5,https://opengov.seoul.go.kr/expense/34517800,2025-09-08,seoul_council,서울시의회사무처 인사과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:34483856,16,https://opengov.seoul.go.kr/expense/34483856,2025-09-09,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:34467188,29,https://opengov.seoul.go.kr/expense/34467188,2025-09-10,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:34442147,17,https://opengov.seoul.go.kr/expense/34442147,2025-09-11,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:34452871,3,https://opengov.seoul.go.kr/expense/34452871,2025-09-11,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:34483996,134,https://opengov.seoul.go.kr/expense/34483996,2025-09-16,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,197000,uncertain,meeting_only_uncertain,p02
+opengov:34484002,65,https://opengov.seoul.go.kr/expense/34484002,2025-09-16,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,85000,uncertain,meeting_only_uncertain,p02
+opengov:34484006,51,https://opengov.seoul.go.kr/expense/34484006,2025-09-23,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:34483822,42,https://opengov.seoul.go.kr/expense/34483822,2025-09-24,seoul_city,도시공간본부 도시공간전략과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:34483996,217,https://opengov.seoul.go.kr/expense/34483996,2025-09-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,178000,uncertain,meeting_only_uncertain,p02
+opengov:34483852,14,https://opengov.seoul.go.kr/expense/34483852,2025-09-30,seoul_city,디자인정책관 디자인산업담당관,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:34483947,14,https://opengov.seoul.go.kr/expense/34483947,2025-09-30,seoul_city,재난안전실 재난안전예방과,곰국시집,서울 중구 무교로 24,158000,uncertain,meeting_only_uncertain,p02
+opengov:34483978,53,https://opengov.seoul.go.kr/expense/34483978,2025-09-30,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,300000,meal,explicit_meal_word,p02
+opengov:34483996,267,https://opengov.seoul.go.kr/expense/34483996,2025-09-30,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,52000,uncertain,meeting_only_uncertain,p02
+opengov:34495645,13,https://opengov.seoul.go.kr/expense/34495645,2025-09-30,seoul_city,정원도시국 공원여가사업과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:34691333,10,https://opengov.seoul.go.kr/expense/34691333,2025-10-10,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,227000,uncertain,meeting_only_uncertain,p02
+opengov:34667922,10,https://opengov.seoul.go.kr/expense/34667922,2025-10-13,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:34701384,44,https://opengov.seoul.go.kr/expense/34701384,2025-10-13,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:34679729,5,https://opengov.seoul.go.kr/expense/34679729,2025-10-14,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:34691308,6,https://opengov.seoul.go.kr/expense/34691308,2025-10-14,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:34680973,17,https://opengov.seoul.go.kr/expense/34680973,2025-10-15,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,499000,uncertain,meeting_only_uncertain,p02
+opengov:34711319,4,https://opengov.seoul.go.kr/expense/34711319,2025-10-15,seoul_city,미래공간기획관 공공개발담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:34667920,9,https://opengov.seoul.go.kr/expense/34667920,2025-10-16,seoul_office,남부도로사업소 관리단속과,곰국시집,서울 중구 무교로 24,138000,uncertain,meeting_only_uncertain,p02
+opengov:34711190,16,https://opengov.seoul.go.kr/expense/34711190,2025-10-16,seoul_city,기획조정실 예산담당관,곰국시집,서울 중구 무교로 24,210000,uncertain,meeting_only_uncertain,p02
+opengov:34679729,8,https://opengov.seoul.go.kr/expense/34679729,2025-10-17,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34669128,54,https://opengov.seoul.go.kr/expense/34669128,2025-10-22,seoul_council,운영지원과(의장실),곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:34711316,8,https://opengov.seoul.go.kr/expense/34711316,2025-10-22,seoul_city,행정국 시민협력과,곰국시집,서울 중구 무교로 24,214000,uncertain,meeting_only_uncertain,p02
+opengov:34679729,22,https://opengov.seoul.go.kr/expense/34679729,2025-10-23,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,77000,uncertain,meeting_only_uncertain,p02
+opengov:34710683,10,https://opengov.seoul.go.kr/expense/34710683,2025-10-28,seoul_city,기획조정실 법률지원담당관,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:34669128,80,https://opengov.seoul.go.kr/expense/34669128,2025-10-29,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,145000,uncertain,meeting_only_uncertain,p02
+opengov:34722642,12,https://opengov.seoul.go.kr/expense/34722642,2025-10-29,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:34817832,24,https://opengov.seoul.go.kr/expense/34817832,2025-10-30,seoul_city,외국인이민담당관,곰국시집,서울 중구 무교로 24,129000,uncertain,meeting_only_uncertain,p02
+opengov:34904042,4,https://opengov.seoul.go.kr/expense/34904042,2025-11-03,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,153000,uncertain,meeting_only_uncertain,p02
+opengov:34939662,2,https://opengov.seoul.go.kr/expense/34939662,2025-11-03,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:34952051,26,https://opengov.seoul.go.kr/expense/34952051,2025-11-05,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34889815,14,https://opengov.seoul.go.kr/expense/34889815,2025-11-06,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:34952052,5,https://opengov.seoul.go.kr/expense/34952052,2025-11-10,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,115000,uncertain,meeting_only_uncertain,p02
+opengov:34939497,23,https://opengov.seoul.go.kr/expense/34939497,2025-11-11,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:34952051,86,https://opengov.seoul.go.kr/expense/34952051,2025-11-12,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:34952051,91,https://opengov.seoul.go.kr/expense/34952051,2025-11-12,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:34904062,8,https://opengov.seoul.go.kr/expense/34904062,2025-11-13,seoul_city,문화본부 문화예술과,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:34950538,8,https://opengov.seoul.go.kr/expense/34950538,2025-11-14,seoul_council,시의회사무처 도시계획균형전문위원실,곰국시집,서울 중구 무교로 24,182000,uncertain,meeting_only_uncertain,p02
+opengov:34889823,28,https://opengov.seoul.go.kr/expense/34889823,2025-11-17,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,97000,uncertain,meeting_only_uncertain,p02
+opengov:34904042,44,https://opengov.seoul.go.kr/expense/34904042,2025-11-19,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,98000,uncertain,meeting_only_uncertain,p02
+opengov:34916612,4,https://opengov.seoul.go.kr/expense/34916612,2025-11-19,seoul_city,복지실 디딤돌소득과,곰국시집,서울 중구 무교로 24,122000,uncertain,meeting_only_uncertain,p02
+opengov:34952051,149,https://opengov.seoul.go.kr/expense/34952051,2025-11-19,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:34952062,14,https://opengov.seoul.go.kr/expense/34952062,2025-11-20,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:34963710,22,https://opengov.seoul.go.kr/expense/34963710,2025-11-21,seoul_city,재무국 재무과,곰국시집,서울 중구 무교로 24,69000,uncertain,meeting_only_uncertain,p02
+opengov:34916631,14,https://opengov.seoul.go.kr/expense/34916631,2025-11-24,seoul_office,서울아리수본부 요금관리부,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:34963727,44,https://opengov.seoul.go.kr/expense/34963727,2025-11-25,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35023997,7,https://opengov.seoul.go.kr/expense/35023997,2025-11-25,seoul_city,홍보기획관 민원담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:34904043,31,https://opengov.seoul.go.kr/expense/34904043,2025-11-27,seoul_city,행정2부시장실,곰국시집,서울 중구 무교로 24,487000,uncertain,meeting_only_uncertain,p02
+opengov:34926698,40,https://opengov.seoul.go.kr/expense/34926698,2025-11-28,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:34939497,71,https://opengov.seoul.go.kr/expense/34939497,2025-11-28,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:35167217,2,https://opengov.seoul.go.kr/expense/35167217,2025-12-01,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:35175503,1,https://opengov.seoul.go.kr/expense/35175503,2025-12-01,seoul_city,복지실 디딤돌소득과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:35177671,19,https://opengov.seoul.go.kr/expense/35177671,2025-12-02,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35197517,2,https://opengov.seoul.go.kr/expense/35197517,2025-12-03,seoul_city,도시공간본부 도시재창조과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:35145918,15,https://opengov.seoul.go.kr/expense/35145918,2025-12-04,seoul_city,교통실 교통정책과,곰국시집,서울 중구 무교로 24,100000,uncertain,meeting_only_uncertain,p02
+opengov:35214377,13,https://opengov.seoul.go.kr/expense/35214377,2025-12-04,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,100000,uncertain,meeting_only_uncertain,p02
+opengov:35212183,17,https://opengov.seoul.go.kr/expense/35212183,2025-12-09,seoul_city,민생사법경찰국 경제수사과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:35197509,22,https://opengov.seoul.go.kr/expense/35197509,2025-12-10,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,294000,meal,explicit_meal_word,p02
+opengov:35214377,21,https://opengov.seoul.go.kr/expense/35214377,2025-12-11,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:35177671,148,https://opengov.seoul.go.kr/expense/35177671,2025-12-15,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:35157850,29,https://opengov.seoul.go.kr/expense/35157850,2025-12-16,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,124000,uncertain,meeting_only_uncertain,p02
+opengov:35205479,40,https://opengov.seoul.go.kr/expense/35205479,2025-12-22,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,28000,uncertain,meeting_only_uncertain,p02
+opengov:35144161,33,https://opengov.seoul.go.kr/expense/35144161,2025-12-23,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:35177671,240,https://opengov.seoul.go.kr/expense/35177671,2025-12-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35184942,68,https://opengov.seoul.go.kr/expense/35184942,2025-12-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,143000,uncertain,meeting_only_uncertain,p02
+opengov:35184942,70,https://opengov.seoul.go.kr/expense/35184942,2025-12-26,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,178000,uncertain,meeting_only_uncertain,p02
+opengov:35165355,66,https://opengov.seoul.go.kr/expense/35165355,2025-12-29,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,300000,uncertain,meeting_only_uncertain,p02
+opengov:35177670,27,https://opengov.seoul.go.kr/expense/35177670,2025-12-29,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,196600,uncertain,meeting_only_uncertain,p02
+opengov:35177671,275,https://opengov.seoul.go.kr/expense/35177671,2025-12-29,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:35197509,63,https://opengov.seoul.go.kr/expense/35197509,2025-12-29,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,299000,uncertain,meeting_only_uncertain,p02
+opengov:35367975,1,https://opengov.seoul.go.kr/expense/35367975,2026-01-02,seoul_city,시민건강국 보건의료정책과,곰국시집,서울 중구 무교로 24,154000,uncertain,meeting_only_uncertain,p02
+opengov:35420378,1,https://opengov.seoul.go.kr/expense/35420378,2026-01-02,seoul_council,예산결산특별전문위원실,곰국시집,서울 중구 무교로 24,248000,uncertain,meeting_only_uncertain,p02
+opengov:35421551,6,https://opengov.seoul.go.kr/expense/35421551,2026-01-05,seoul_city,경제실 경제정책과,곰국시집,서울 중구 무교로 24,113000,uncertain,meeting_only_uncertain,p02
+opengov:35399568,6,https://opengov.seoul.go.kr/expense/35399568,2026-01-07,seoul_city,정원도시정책과,곰국시집,서울 중구 무교로 24,276000,meal,explicit_meal_word,p02
+opengov:35380378,7,https://opengov.seoul.go.kr/expense/35380378,2026-01-08,seoul_city,기후환경본부 대기정책과,곰국시집,서울 중구 무교로 24,55000,uncertain,meeting_only_uncertain,p02
+opengov:35380356,10,https://opengov.seoul.go.kr/expense/35380356,2026-01-09,seoul_city,관광체육국 관광정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:35398221,59,https://opengov.seoul.go.kr/expense/35398221,2026-01-09,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:35399580,1,https://opengov.seoul.go.kr/expense/35399580,2026-01-09,seoul_city,복지실 고독대응과,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:35436053,4,https://opengov.seoul.go.kr/expense/35436053,2026-01-13,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,108000,uncertain,meeting_only_uncertain,p02
+opengov:35388722,17,https://opengov.seoul.go.kr/expense/35388722,2026-01-14,seoul_council,의정국 언론홍보과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:35357577,9,https://opengov.seoul.go.kr/expense/35357577,2026-01-16,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:35398243,36,https://opengov.seoul.go.kr/expense/35398243,2026-01-20,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,280000,uncertain,meeting_only_uncertain,p02
+opengov:35398212,28,https://opengov.seoul.go.kr/expense/35398212,2026-01-21,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:35420391,53,https://opengov.seoul.go.kr/expense/35420391,2026-01-21,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:35421587,80,https://opengov.seoul.go.kr/expense/35421587,2026-01-21,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,156000,uncertain,meeting_only_uncertain,p02
+opengov:35420379,26,https://opengov.seoul.go.kr/expense/35420379,2026-01-22,seoul_city,복지실 어르신복지과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35410286,106,https://opengov.seoul.go.kr/expense/35410286,2026-01-23,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,142000,uncertain,meeting_only_uncertain,p02
+opengov:35434650,30,https://opengov.seoul.go.kr/expense/35434650,2026-01-23,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,159000,uncertain,meeting_only_uncertain,p02
+opengov:35398221,200,https://opengov.seoul.go.kr/expense/35398221,2026-01-27,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,225000,uncertain,meeting_only_uncertain,p02
+opengov:35421586,48,https://opengov.seoul.go.kr/expense/35421586,2026-01-27,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,107000,uncertain,meeting_only_uncertain,p02
+opengov:35398221,213,https://opengov.seoul.go.kr/expense/35398221,2026-01-28,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:35605727,1,https://opengov.seoul.go.kr/expense/35605727,2026-02-02,seoul_city,기획조정실 예산담당관,곰국시집,서울 중구 무교로 24,178000,uncertain,meeting_only_uncertain,p02
+opengov:35606794,8,https://opengov.seoul.go.kr/expense/35606794,2026-02-03,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:35606775,8,https://opengov.seoul.go.kr/expense/35606775,2026-02-04,seoul_city,감사위원회 감사담당관,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:35547035,8,https://opengov.seoul.go.kr/expense/35547035,2026-02-05,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,157000,uncertain,meeting_only_uncertain,p02
+opengov:35606793,12,https://opengov.seoul.go.kr/expense/35606793,2026-02-06,seoul_city,자치경찰위원회 자치경찰운영과,곰국시집,서울 중구 무교로 24,124000,uncertain,meeting_only_uncertain,p02
+opengov:35595227,6,https://opengov.seoul.go.kr/expense/35595227,2026-02-09,seoul_city,관광체육국 체육정책과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:35595237,7,https://opengov.seoul.go.kr/expense/35595237,2026-02-09,seoul_city,재난안전실 도로기획관 지하안전과,곰국시집,서울 중구 무교로 24,226000,uncertain,meeting_only_uncertain,p02
+opengov:35560809,17,https://opengov.seoul.go.kr/expense/35560809,2026-02-11,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:35572194,20,https://opengov.seoul.go.kr/expense/35572194,2026-02-11,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:35606766,12,https://opengov.seoul.go.kr/expense/35606766,2026-02-12,seoul_city,경제실 일자리정책과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:35547890,8,https://opengov.seoul.go.kr/expense/35547890,2026-02-13,seoul_city,재난안전실 교량안전과,곰국시집,서울 중구 무교로 24,129000,uncertain,meeting_only_uncertain,p02
+opengov:35595078,9,https://opengov.seoul.go.kr/expense/35595078,2026-02-13,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35572204,13,https://opengov.seoul.go.kr/expense/35572204,2026-02-23,seoul_city,글로벌도시정책관 국제협력담당관,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:35605738,158,https://opengov.seoul.go.kr/expense/35605738,2026-02-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35775021,1,https://opengov.seoul.go.kr/expense/35775021,2026-03-03,seoul_city,건설기술정책관 지역건축안전센터,곰국시집,서울 중구 무교로 24,319000,uncertain,meeting_only_uncertain,p02
+opengov:35834086,3,https://opengov.seoul.go.kr/expense/35834086,2026-03-03,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:35855689,1,https://opengov.seoul.go.kr/expense/35855689,2026-03-03,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,56000,uncertain,meeting_only_uncertain,p02
+opengov:35835449,7,https://opengov.seoul.go.kr/expense/35835449,2026-03-04,seoul_city,정무부시장실,곰국시집,서울 중구 무교로 24,351000,uncertain,meeting_only_uncertain,p02
+opengov:35787111,12,https://opengov.seoul.go.kr/expense/35787111,2026-03-10,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,110000,uncertain,meeting_only_uncertain,p02
+opengov:35845460,28,https://opengov.seoul.go.kr/expense/35845460,2026-03-10,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:35855689,22,https://opengov.seoul.go.kr/expense/35855689,2026-03-11,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,56000,uncertain,meeting_only_uncertain,p02
+opengov:35812194,23,https://opengov.seoul.go.kr/expense/35812194,2026-03-12,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:35824079,7,https://opengov.seoul.go.kr/expense/35824079,2026-03-12,seoul_city,기후환경본부 친환경차량과,곰국시집,서울 중구 무교로 24,228000,uncertain,meeting_only_uncertain,p02
+opengov:35834086,127,https://opengov.seoul.go.kr/expense/35834086,2026-03-18,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:35844331,10,https://opengov.seoul.go.kr/expense/35844331,2026-03-18,seoul_city,관광체육국 체육진흥과,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:35774996,9,https://opengov.seoul.go.kr/expense/35774996,2026-03-19,seoul_city,물순환안전국 치수안전과,곰국시집,서울 중구 무교로 24,44000,uncertain,no_explicit_meal_word,p02
+opengov:35812194,32,https://opengov.seoul.go.kr/expense/35812194,2026-03-19,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:35835466,33,https://opengov.seoul.go.kr/expense/35835466,2026-03-20,seoul_city,홍보기획관 홍보담당관,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:35834086,186,https://opengov.seoul.go.kr/expense/35834086,2026-03-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,193000,uncertain,meeting_only_uncertain,p02
+opengov:35834086,206,https://opengov.seoul.go.kr/expense/35834086,2026-03-25,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:35834086,213,https://opengov.seoul.go.kr/expense/35834086,2026-03-25,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,170000,uncertain,meeting_only_uncertain,p02
+opengov:35799459,9,https://opengov.seoul.go.kr/expense/35799459,2026-03-27,seoul_office,서북병원 진료부,곰국시집,서울 중구 무교로 24,45000,meal,explicit_meal_word,p02
+opengov:35812214,10,https://opengov.seoul.go.kr/expense/35812214,2026-03-27,seoul_city,주거정비과,곰국시집,서울 중구 무교로 24,132000,uncertain,meeting_only_uncertain,p02
+opengov:35855689,59,https://opengov.seoul.go.kr/expense/35855689,2026-03-27,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,56000,uncertain,meeting_only_uncertain,p02
+opengov:35824115,16,https://opengov.seoul.go.kr/expense/35824115,2026-03-30,seoul_city,경제실 창조산업기획관 산업입지과,곰국시집,서울 중구 무교로 24,135000,uncertain,meeting_only_uncertain,p02
+opengov:35787121,62,https://opengov.seoul.go.kr/expense/35787121,2026-03-31,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:35823039,22,https://opengov.seoul.go.kr/expense/35823039,2026-03-31,seoul_city,디지털도시국 정보통신과,곰국시집,서울 중구 무교로 24,193000,meal,explicit_meal_word,p02
+opengov:36048313,1,https://opengov.seoul.go.kr/expense/36048313,2026-04-01,seoul_city,자치경찰위원회 자치경찰운영과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:36037076,9,https://opengov.seoul.go.kr/expense/36037076,2026-04-06,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:36037076,19,https://opengov.seoul.go.kr/expense/36037076,2026-04-10,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:36042193,35,https://opengov.seoul.go.kr/expense/36042193,2026-04-13,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:36058328,110,https://opengov.seoul.go.kr/expense/36058328,2026-04-13,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,293000,uncertain,meeting_only_uncertain,p02
+opengov:36048315,62,https://opengov.seoul.go.kr/expense/36048315,2026-04-14,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:36025228,10,https://opengov.seoul.go.kr/expense/36025228,2026-04-17,seoul_city,디자인정책관 도시경관담당관,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:36037089,43,https://opengov.seoul.go.kr/expense/36037089,2026-04-17,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,180000,uncertain,meeting_only_uncertain,p02
+opengov:36037113,25,https://opengov.seoul.go.kr/expense/36037113,2026-04-17,seoul_city,교통실 주차계획과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:36013154,27,https://opengov.seoul.go.kr/expense/36013154,2026-04-20,seoul_city,기획조정실 조직담당관,곰국시집,서울 중구 무교로 24,86000,uncertain,meeting_only_uncertain,p02
+opengov:36058328,186,https://opengov.seoul.go.kr/expense/36058328,2026-04-21,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,45000,uncertain,meeting_only_uncertain,p02
+opengov:36023313,20,https://opengov.seoul.go.kr/expense/36023313,2026-04-24,seoul_city,정원도시국 조경과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:36026844,68,https://opengov.seoul.go.kr/expense/36026844,2026-04-24,seoul_city,교통정책과,곰국시집,서울 중구 무교로 24,140000,uncertain,meeting_only_uncertain,p02
+opengov:36037076,48,https://opengov.seoul.go.kr/expense/36037076,2026-04-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:36013010,28,https://opengov.seoul.go.kr/expense/36013010,2026-04-27,seoul_city,재난안전실 도로기획관 도로계획과,곰국시집,서울 중구 무교로 24,71000,uncertain,meeting_only_uncertain,p02
+opengov:36037076,58,https://opengov.seoul.go.kr/expense/36037076,2026-04-28,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:36048338,13,https://opengov.seoul.go.kr/expense/36048338,2026-04-28,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,136000,uncertain,meeting_only_uncertain,p02
+opengov:36012990,10,https://opengov.seoul.go.kr/expense/36012990,2026-04-29,seoul_city,관광체육국 관광산업과,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:36012986,42,https://opengov.seoul.go.kr/expense/36012986,2026-04-30,seoul_city,물순환안전국 수변감성도시과,곰국시집,서울 중구 무교로 24,176000,uncertain,meeting_only_uncertain,p02
+opengov:36024950,13,https://opengov.seoul.go.kr/expense/36024950,2026-04-30,seoul_city,미래공간기획관 공공개발담당관,곰국시집,서울 중구 무교로 24,180000,uncertain,meeting_only_uncertain,p02
+opengov:36214403,1,https://opengov.seoul.go.kr/expense/36214403,2026-05-04,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:36229350,8,https://opengov.seoul.go.kr/expense/36229350,2026-05-07,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,156000,uncertain,meeting_only_uncertain,p02
+opengov:36216600,11,https://opengov.seoul.go.kr/expense/36216600,2026-05-08,seoul_city,재난안전실 재난안전정책과,곰국시집,서울 중구 무교로 24,134000,uncertain,meeting_only_uncertain,p02
+opengov:36272370,7,https://opengov.seoul.go.kr/expense/36272370,2026-05-12,seoul_city,디지털도시국 정보시스템과,곰국시집,서울 중구 무교로 24,89000,uncertain,meeting_only_uncertain,p02
+opengov:36250905,5,https://opengov.seoul.go.kr/expense/36250905,2026-05-21,seoul_city,교통실 택시정책과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:36251013,19,https://opengov.seoul.go.kr/expense/36251013,2026-05-21,seoul_city,미래공간기획관 미래공간담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:36261038,45,https://opengov.seoul.go.kr/expense/36261038,2026-05-27,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:36214403,30,https://opengov.seoul.go.kr/expense/36214403,2026-05-28,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:36272371,11,https://opengov.seoul.go.kr/expense/36272371,2026-05-28,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,239000,uncertain,meeting_only_uncertain,p02
+opengov:36414577,14,https://opengov.seoul.go.kr/expense/36414577,2026-05-29,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,111000,uncertain,meeting_only_uncertain,p02
+opengov:36461012,1,https://opengov.seoul.go.kr/expense/36461012,2026-06-01,seoul_city,디지털도시국 정보보안과,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:36414578,1,https://opengov.seoul.go.kr/expense/36414578,2026-06-02,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:36471826,1,https://opengov.seoul.go.kr/expense/36471826,2026-06-02,seoul_office,도시기반시설본부 도시철도국 영동대로복합개발추진단,곰국시집,서울 중구 무교로 24,263000,uncertain,meeting_only_uncertain,p02
+opengov:36533635,12,https://opengov.seoul.go.kr/expense/36533635,2026-06-02,seoul_city,대변인 언론담당관,곰국시집,서울 중구 무교로 24,151000,uncertain,meeting_only_uncertain,p02
+opengov:36492733,23,https://opengov.seoul.go.kr/expense/36492733,2026-06-08,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,85000,uncertain,meeting_only_uncertain,p02
+opengov:36501216,16,https://opengov.seoul.go.kr/expense/36501216,2026-06-08,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:36512446,17,https://opengov.seoul.go.kr/expense/36512446,2026-06-09,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,295000,meal,explicit_meal_word,p02
+opengov:36473064,9,https://opengov.seoul.go.kr/expense/36473064,2026-06-12,seoul_city,복지실 자활지원과,곰국시집,서울 중구 무교로 24,70000,uncertain,meeting_only_uncertain,p02
+opengov:36432948,24,https://opengov.seoul.go.kr/expense/36432948,2026-06-18,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,105000,uncertain,meeting_only_uncertain,p02
+opengov:36492752,30,https://opengov.seoul.go.kr/expense/36492752,2026-06-18,seoul_city,교통실 주차계획과,곰국시집,서울 중구 무교로 24,68000,uncertain,meeting_only_uncertain,p02
+opengov:36432948,34,https://opengov.seoul.go.kr/expense/36432948,2026-06-24,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:36449806,50,https://opengov.seoul.go.kr/expense/36449806,2026-06-29,seoul_city,기획조정실 기획담당관,곰국시집,서울 중구 무교로 24,246000,uncertain,meeting_only_uncertain,p02
+opengov:36512453,24,https://opengov.seoul.go.kr/expense/36512453,2026-06-30,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,158000,uncertain,meeting_only_uncertain,p02
+opengov:36686801,1,https://opengov.seoul.go.kr/expense/36686801,2026-07-01,seoul_city,기후환경본부 기후환경정책과,곰국시집,서울 중구 무교로 24,28000,uncertain,meeting_only_uncertain,p02
+opengov:36707570,3,https://opengov.seoul.go.kr/expense/36707570,2026-07-01,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:36716785,8,https://opengov.seoul.go.kr/expense/36716785,2026-07-02,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,186000,uncertain,meeting_only_uncertain,p02
+opengov:36707570,14,https://opengov.seoul.go.kr/expense/36707570,2026-07-07,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,277000,uncertain,meeting_only_uncertain,p02
+opengov:36716785,22,https://opengov.seoul.go.kr/expense/36716785,2026-07-07,seoul_council,운영지원과,곰국시집,서울 중구 무교로 24,279000,uncertain,meeting_only_uncertain,p02
+opengov:36687868,18,https://opengov.seoul.go.kr/expense/36687868,2026-07-09,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,129000,uncertain,meeting_only_uncertain,p02
+opengov:36707495,13,https://opengov.seoul.go.kr/expense/36707495,2026-07-14,seoul_city,문화본부 문화유산보존과,곰국시집,서울 중구 무교로 24,67000,uncertain,meeting_only_uncertain,p02
+opengov:36707731,10,https://opengov.seoul.go.kr/expense/36707731,2026-07-15,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,140000,uncertain,meeting_only_uncertain,p02
+opengov:36697310,14,https://opengov.seoul.go.kr/expense/36697310,2026-07-16,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,98000,uncertain,meeting_only_uncertain,p02
+opengov:36677428,9,https://opengov.seoul.go.kr/expense/36677428,2026-07-21,seoul_city,정원도시국 공원조성과,곰국시집,서울 중구 무교로 24,135000,uncertain,meeting_only_uncertain,p02
+opengov:36686804,11,https://opengov.seoul.go.kr/expense/36686804,2026-07-21,seoul_city,행정국 인사과,곰국시집,서울 중구 무교로 24,112000,uncertain,meeting_only_uncertain,p02
+opengov:36707751,27,https://opengov.seoul.go.kr/expense/36707751,2026-07-22,seoul_city,글로벌도시정책관 외국인이민담당관,곰국시집,서울 중구 무교로 24,44000,uncertain,meeting_only_uncertain,p02
+opengov:36706844,160,https://opengov.seoul.go.kr/expense/36706844,2026-07-24,seoul_city,행정국 총무과,곰국시집,서울 중구 무교로 24,223000,uncertain,meeting_only_uncertain,p02
+opengov:36707570,43,https://opengov.seoul.go.kr/expense/36707570,2026-07-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,66000,uncertain,meeting_only_uncertain,p02
+opengov:36707570,44,https://opengov.seoul.go.kr/expense/36707570,2026-07-24,seoul_office,도시기반시설본부 총무부,곰국시집,서울 중구 무교로 24,88000,uncertain,meeting_only_uncertain,p02
+opengov:36687868,51,https://opengov.seoul.go.kr/expense/36687868,2026-07-27,seoul_city,디자인정책관 디자인정책담당관,곰국시집,서울 중구 무교로 24,127000,uncertain,meeting_only_uncertain,p02
+opengov:36736464,15,https://opengov.seoul.go.kr/expense/36736464,2026-07-27,seoul_city,복지실 자활지원과,곰국시집,서울 중구 무교로 24,90000,uncertain,meeting_only_uncertain,p02
+opengov:36697310,19,https://opengov.seoul.go.kr/expense/36697310,2026-07-29,seoul_city,경제실 창업정책과,곰국시집,서울 중구 무교로 24,256000,uncertain,meeting_only_uncertain,p02
+opengov:36707487,55,https://opengov.seoul.go.kr/expense/36707487,2026-07-30,seoul_city,행정1부시장실,곰국시집,서울 중구 무교로 24,250000,meal,explicit_meal_word,p02
+opengov:36707731,18,https://opengov.seoul.go.kr/expense/36707731,2026-07-30,seoul_city,재난안전실 도로기획관 도로시설과,곰국시집,서울 중구 무교로 24,100000,uncertain,meeting_only_uncertain,p02
+opengov:36856956,17,https://opengov.seoul.go.kr/expense/36856956,2026-08-12,seoul_city,문화본부 문화정책과,곰국시집,서울 중구 무교로 24,124000,uncertain,meeting_only_uncertain,p02
+opengov:36857023,18,https://opengov.seoul.go.kr/expense/36857023,2026-08-14,seoul_city,기획조정실 조직담당관,곰국시집,서울 중구 무교로 24,157000,uncertain,meeting_only_uncertain,p02
+opengov:36856975,13,https://opengov.seoul.go.kr/expense/36856975,2026-08-24,seoul_city,기후환경본부 대기정책과,곰국시집,서울 중구 무교로 24,42000,uncertain,meeting_only_uncertain,p02

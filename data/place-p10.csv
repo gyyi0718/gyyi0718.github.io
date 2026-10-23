@@ -1,551 +1,551 @@
-source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
-opengov:32773750,3,https://opengov.seoul.go.kr/expense/32773750,2025-01-02,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32775039,1,https://opengov.seoul.go.kr/expense/32775039,2025-01-02,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32784034,2,https://opengov.seoul.go.kr/expense/32784034,2025-01-03,seoul_city,경제실 산업입지과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:32743276,2,https://opengov.seoul.go.kr/expense/32743276,2025-01-06,seoul_city,재무국 세무과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32755452,1,https://opengov.seoul.go.kr/expense/32755452,2025-01-06,seoul_city,도시공간본부 시설계획과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32765886,5,https://opengov.seoul.go.kr/expense/32765886,2025-01-07,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32775026,8,https://opengov.seoul.go.kr/expense/32775026,2025-01-08,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32812985,7,https://opengov.seoul.go.kr/expense/32812985,2025-01-08,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:32743356,3,https://opengov.seoul.go.kr/expense/32743356,2025-01-09,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32774988,5,https://opengov.seoul.go.kr/expense/32774988,2025-01-09,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32775040,2,https://opengov.seoul.go.kr/expense/32775040,2025-01-09,seoul_council,시의회사무처 도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:32793457,9,https://opengov.seoul.go.kr/expense/32793457,2025-01-09,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32765853,12,https://opengov.seoul.go.kr/expense/32765853,2025-01-10,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:32793467,7,https://opengov.seoul.go.kr/expense/32793467,2025-01-10,seoul_city,균형발전본부 동남권사업과,삼우정,서울 중구 서소문로 134-12,181000,p10
-opengov:32793657,14,https://opengov.seoul.go.kr/expense/32793657,2025-01-10,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:32743356,5,https://opengov.seoul.go.kr/expense/32743356,2025-01-13,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32793676,6,https://opengov.seoul.go.kr/expense/32793676,2025-01-13,seoul_city,교통실 도시철도과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32774988,6,https://opengov.seoul.go.kr/expense/32774988,2025-01-14,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:32792955,120,https://opengov.seoul.go.kr/expense/32792955,2025-01-15,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:32974359,8,https://opengov.seoul.go.kr/expense/32974359,2025-01-15,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:32793717,10,https://opengov.seoul.go.kr/expense/32793717,2025-01-16,seoul_city,홍보기획관 민원담당관,삼우정,서울 중구 서소문로 134-12,134000,p10
-opengov:32792580,19,https://opengov.seoul.go.kr/expense/32792580,2025-01-17,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32812985,27,https://opengov.seoul.go.kr/expense/32812985,2025-01-17,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32792580,20,https://opengov.seoul.go.kr/expense/32792580,2025-01-20,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32793476,10,https://opengov.seoul.go.kr/expense/32793476,2025-01-20,seoul_city,기후환경본부 친환경건물과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:32839362,42,https://opengov.seoul.go.kr/expense/32839362,2025-01-20,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,96000,p10
-opengov:32784052,9,https://opengov.seoul.go.kr/expense/32784052,2025-01-21,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,361000,p10
-opengov:32773774,8,https://opengov.seoul.go.kr/expense/32773774,2025-01-22,seoul_city,경제실 첨단산업과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32793476,11,https://opengov.seoul.go.kr/expense/32793476,2025-01-22,seoul_city,기후환경본부 친환경건물과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32755452,8,https://opengov.seoul.go.kr/expense/32755452,2025-01-23,seoul_city,도시공간본부 시설계획과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32782833,7,https://opengov.seoul.go.kr/expense/32782833,2025-01-23,seoul_city,재난안전실 재난상황관리과,삼우정,서울 중구 서소문로 134-12,121000,p10
-opengov:32784034,11,https://opengov.seoul.go.kr/expense/32784034,2025-01-23,seoul_city,경제실 산업입지과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32793525,8,https://opengov.seoul.go.kr/expense/32793525,2025-01-24,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32997058,5,https://opengov.seoul.go.kr/expense/32997058,2025-02-04,seoul_city,디지털도시국 데이터정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32974363,3,https://opengov.seoul.go.kr/expense/32974363,2025-02-05,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32974373,3,https://opengov.seoul.go.kr/expense/32974373,2025-02-05,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32985648,6,https://opengov.seoul.go.kr/expense/32985648,2025-02-05,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33006267,3,https://opengov.seoul.go.kr/expense/33006267,2025-02-05,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32985479,2,https://opengov.seoul.go.kr/expense/32985479,2025-02-06,seoul_city,경제실 첨단산업과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32985689,13,https://opengov.seoul.go.kr/expense/32985689,2025-02-06,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:32952941,3,https://opengov.seoul.go.kr/expense/32952941,2025-02-07,seoul_city,재무국 계약심사과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32985688,12,https://opengov.seoul.go.kr/expense/32985688,2025-02-07,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32997055,4,https://opengov.seoul.go.kr/expense/32997055,2025-02-07,seoul_city,물순환안전국 물재생계획과,삼우정,서울 중구 서소문로 134-12,285000,p10
-opengov:32974358,10,https://opengov.seoul.go.kr/expense/32974358,2025-02-10,seoul_council,서울시의회사무처 도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,72000,p10
-opengov:32985654,14,https://opengov.seoul.go.kr/expense/32985654,2025-02-10,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32985669,11,https://opengov.seoul.go.kr/expense/32985669,2025-02-10,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,518000,p10
-opengov:32985682,20,https://opengov.seoul.go.kr/expense/32985682,2025-02-10,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32941251,11,https://opengov.seoul.go.kr/expense/32941251,2025-02-11,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:32984592,15,https://opengov.seoul.go.kr/expense/32984592,2025-02-11,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:32985443,6,https://opengov.seoul.go.kr/expense/32985443,2025-02-11,seoul_city,디자인정책관 디자인산업담당관,삼우정,서울 중구 서소문로 134-12,80000,p10
-opengov:32939973,5,https://opengov.seoul.go.kr/expense/32939973,2025-02-12,seoul_city,도시공간본부 도시재창조과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32995789,5,https://opengov.seoul.go.kr/expense/32995789,2025-02-12,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,117000,p10
-opengov:32951636,2,https://opengov.seoul.go.kr/expense/32951636,2025-02-13,seoul_city,감사위원회 공공감사담당관,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:32985435,19,https://opengov.seoul.go.kr/expense/32985435,2025-02-13,seoul_council,의정담당관,삼우정,서울 중구 서소문로 134-12,274000,p10
-opengov:32941251,15,https://opengov.seoul.go.kr/expense/32941251,2025-02-14,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:32985648,25,https://opengov.seoul.go.kr/expense/32985648,2025-02-18,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32985689,42,https://opengov.seoul.go.kr/expense/32985689,2025-02-18,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,154000,p10
-opengov:32941223,26,https://opengov.seoul.go.kr/expense/32941223,2025-02-19,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:32963664,8,https://opengov.seoul.go.kr/expense/32963664,2025-02-20,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,39000,p10
-opengov:33017151,22,https://opengov.seoul.go.kr/expense/33017151,2025-02-20,seoul_office,미래한강본부 총무부 총무과,삼우정,서울 중구 서소문로 134-12,121000,p10
-opengov:32941254,9,https://opengov.seoul.go.kr/expense/32941254,2025-02-21,seoul_city,디지털도시국 정보시스템과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:32983269,198,https://opengov.seoul.go.kr/expense/32983269,2025-02-21,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:32983269,200,https://opengov.seoul.go.kr/expense/32983269,2025-02-21,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,190000,p10
-opengov:32985682,40,https://opengov.seoul.go.kr/expense/32985682,2025-02-24,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,246000,p10
-opengov:32940292,14,https://opengov.seoul.go.kr/expense/32940292,2025-02-25,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:32985671,7,https://opengov.seoul.go.kr/expense/32985671,2025-02-25,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:32985689,65,https://opengov.seoul.go.kr/expense/32985689,2025-02-26,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,237000,p10
-opengov:32985688,38,https://opengov.seoul.go.kr/expense/32985688,2025-02-27,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:32963674,18,https://opengov.seoul.go.kr/expense/32963674,2025-02-28,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,180000,p10
-opengov:33152550,3,https://opengov.seoul.go.kr/expense/33152550,2025-03-05,seoul_council,재정분석담당관,삼우정,서울 중구 서소문로 134-12,167000,p10
-opengov:33166328,1,https://opengov.seoul.go.kr/expense/33166328,2025-03-05,seoul_office,보건환경연구원 운영기획부,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:33177859,3,https://opengov.seoul.go.kr/expense/33177859,2025-03-05,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33199348,8,https://opengov.seoul.go.kr/expense/33199348,2025-03-06,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:33153776,4,https://opengov.seoul.go.kr/expense/33153776,2025-03-07,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33164992,2,https://opengov.seoul.go.kr/expense/33164992,2025-03-07,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,315000,p10
-opengov:33199468,5,https://opengov.seoul.go.kr/expense/33199468,2025-03-07,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33220326,5,https://opengov.seoul.go.kr/expense/33220326,2025-03-07,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:33140861,5,https://opengov.seoul.go.kr/expense/33140861,2025-03-10,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33166341,9,https://opengov.seoul.go.kr/expense/33166341,2025-03-10,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,116000,p10
-opengov:33199348,14,https://opengov.seoul.go.kr/expense/33199348,2025-03-10,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,39000,p10
-opengov:33199468,6,https://opengov.seoul.go.kr/expense/33199468,2025-03-10,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33209071,56,https://opengov.seoul.go.kr/expense/33209071,2025-03-10,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:33209066,10,https://opengov.seoul.go.kr/expense/33209066,2025-03-11,seoul_city,주택실 주택정책과,삼우정,서울 중구 서소문로 134-12,298000,p10
-opengov:33239280,13,https://opengov.seoul.go.kr/expense/33239280,2025-03-12,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33229598,9,https://opengov.seoul.go.kr/expense/33229598,2025-03-13,seoul_council,의회사무처 도시안전건설전문위원실,삼우정,서울 중구 서소문로 134-12,228000,p10
-opengov:33188813,13,https://opengov.seoul.go.kr/expense/33188813,2025-03-17,seoul_council,서울특별시의회사무처 현장민원담당관,삼우정,서울 중구 서소문로 134-12,181000,p10
-opengov:33199475,8,https://opengov.seoul.go.kr/expense/33199475,2025-03-17,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33209071,121,https://opengov.seoul.go.kr/expense/33209071,2025-03-17,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:33210265,15,https://opengov.seoul.go.kr/expense/33210265,2025-03-18,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33220326,14,https://opengov.seoul.go.kr/expense/33220326,2025-03-18,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:33166340,10,https://opengov.seoul.go.kr/expense/33166340,2025-03-20,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,97000,p10
-opengov:33152550,22,https://opengov.seoul.go.kr/expense/33152550,2025-03-21,seoul_council,재정분석담당관,삼우정,서울 중구 서소문로 134-12,167000,p10
-opengov:33229623,58,https://opengov.seoul.go.kr/expense/33229623,2025-03-25,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33239280,32,https://opengov.seoul.go.kr/expense/33239280,2025-03-26,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,190000,p10
-opengov:33177859,26,https://opengov.seoul.go.kr/expense/33177859,2025-03-27,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33220013,11,https://opengov.seoul.go.kr/expense/33220013,2025-03-27,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,90000,p10
-opengov:33228392,15,https://opengov.seoul.go.kr/expense/33228392,2025-03-27,seoul_city,경제실 첨단산업과,삼우정,서울 중구 서소문로 134-12,160000,p10
-opengov:33177871,13,https://opengov.seoul.go.kr/expense/33177871,2025-03-28,seoul_council,교통전문위원실,삼우정,서울 중구 서소문로 134-12,124000,p10
-opengov:33199460,16,https://opengov.seoul.go.kr/expense/33199460,2025-03-28,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,150000,p10
-opengov:33153794,8,https://opengov.seoul.go.kr/expense/33153794,2025-03-31,seoul_city,기후환경본부 대기정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33177859,29,https://opengov.seoul.go.kr/expense/33177859,2025-03-31,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33382572,3,https://opengov.seoul.go.kr/expense/33382572,2025-04-02,seoul_council,재정분석담당관,삼우정,서울 중구 서소문로 134-12,167000,p10
-opengov:33404704,6,https://opengov.seoul.go.kr/expense/33404704,2025-04-03,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,324000,p10
-opengov:33406216,1,https://opengov.seoul.go.kr/expense/33406216,2025-04-03,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33417519,5,https://opengov.seoul.go.kr/expense/33417519,2025-04-03,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33490047,2,https://opengov.seoul.go.kr/expense/33490047,2025-04-03,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33392416,5,https://opengov.seoul.go.kr/expense/33392416,2025-04-08,seoul_council,서울특별시의회사무처 현장민원담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33430100,22,https://opengov.seoul.go.kr/expense/33430100,2025-04-08,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,181000,p10
-opengov:33416478,15,https://opengov.seoul.go.kr/expense/33416478,2025-04-09,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33429137,4,https://opengov.seoul.go.kr/expense/33429137,2025-04-09,seoul_city,시민건강국 감염병관리과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33405991,7,https://opengov.seoul.go.kr/expense/33405991,2025-04-14,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33406238,16,https://opengov.seoul.go.kr/expense/33406238,2025-04-14,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,80000,p10
-opengov:33392418,11,https://opengov.seoul.go.kr/expense/33392418,2025-04-15,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:33383894,4,https://opengov.seoul.go.kr/expense/33383894,2025-04-17,seoul_city,도시공간본부 도시재창조과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33416493,30,https://opengov.seoul.go.kr/expense/33416493,2025-04-17,seoul_council,의정담당관,삼우정,서울 중구 서소문로 134-12,248000,p10
-opengov:33430101,7,https://opengov.seoul.go.kr/expense/33430101,2025-04-17,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:33405983,20,https://opengov.seoul.go.kr/expense/33405983,2025-04-22,seoul_city,건축기획과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33406240,14,https://opengov.seoul.go.kr/expense/33406240,2025-04-22,seoul_city,교통실 도시철도과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33417507,46,https://opengov.seoul.go.kr/expense/33417507,2025-04-22,seoul_city,홍보기획관 홍보담당관,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33440718,15,https://opengov.seoul.go.kr/expense/33440718,2025-04-22,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33405994,8,https://opengov.seoul.go.kr/expense/33405994,2025-04-24,seoul_city,균형발전본부 동북권사업과,삼우정,서울 중구 서소문로 134-12,320000,p10
-opengov:33430113,19,https://opengov.seoul.go.kr/expense/33430113,2025-04-28,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,75000,p10
-opengov:33430100,77,https://opengov.seoul.go.kr/expense/33430100,2025-04-29,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:33382568,69,https://opengov.seoul.go.kr/expense/33382568,2025-04-30,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,90000,p10
-opengov:33383900,18,https://opengov.seoul.go.kr/expense/33383900,2025-04-30,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,153000,p10
-opengov:33417507,64,https://opengov.seoul.go.kr/expense/33417507,2025-04-30,seoul_city,홍보기획관 홍보담당관,삼우정,서울 중구 서소문로 134-12,85000,p10
-opengov:33417519,54,https://opengov.seoul.go.kr/expense/33417519,2025-04-30,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,p10
-opengov:33430100,85,https://opengov.seoul.go.kr/expense/33430100,2025-04-30,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,80000,p10
-opengov:33439689,16,https://opengov.seoul.go.kr/expense/33439689,2025-04-30,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,41000,p10
-opengov:33599587,6,https://opengov.seoul.go.kr/expense/33599587,2025-05-07,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33586788,5,https://opengov.seoul.go.kr/expense/33586788,2025-05-12,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33624346,13,https://opengov.seoul.go.kr/expense/33624346,2025-05-13,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,398000,p10
-opengov:33600335,13,https://opengov.seoul.go.kr/expense/33600335,2025-05-14,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33586768,8,https://opengov.seoul.go.kr/expense/33586768,2025-05-16,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:33612373,2,https://opengov.seoul.go.kr/expense/33612373,2025-05-16,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33675340,33,https://opengov.seoul.go.kr/expense/33675340,2025-05-19,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33600583,5,https://opengov.seoul.go.kr/expense/33600583,2025-05-20,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33624130,142,https://opengov.seoul.go.kr/expense/33624130,2025-05-20,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:33599587,20,https://opengov.seoul.go.kr/expense/33599587,2025-05-21,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,205000,p10
-opengov:33612356,11,https://opengov.seoul.go.kr/expense/33612356,2025-05-23,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,77000,p10
-opengov:33635004,5,https://opengov.seoul.go.kr/expense/33635004,2025-05-23,seoul_city,재난안전실 도로기획관 도로시설과,삼우정,서울 중구 서소문로 134-12,200000,p10
-opengov:33624332,12,https://opengov.seoul.go.kr/expense/33624332,2025-05-26,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,39000,p10
-opengov:33612355,16,https://opengov.seoul.go.kr/expense/33612355,2025-05-27,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33600583,10,https://opengov.seoul.go.kr/expense/33600583,2025-05-29,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33600328,23,https://opengov.seoul.go.kr/expense/33600328,2025-05-30,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:33624339,19,https://opengov.seoul.go.kr/expense/33624339,2025-05-30,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,250000,p10
-opengov:33636146,57,https://opengov.seoul.go.kr/expense/33636146,2025-05-30,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,200000,p10
-opengov:33815028,1,https://opengov.seoul.go.kr/expense/33815028,2025-06-02,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,77000,p10
-opengov:33857936,1,https://opengov.seoul.go.kr/expense/33857936,2025-06-02,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33815028,5,https://opengov.seoul.go.kr/expense/33815028,2025-06-04,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33825301,2,https://opengov.seoul.go.kr/expense/33825301,2025-06-04,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33868357,8,https://opengov.seoul.go.kr/expense/33868357,2025-06-04,seoul_council,운영지원과(의장실),삼우정,서울 중구 서소문로 134-12,475000,p10
-opengov:33868898,7,https://opengov.seoul.go.kr/expense/33868898,2025-06-05,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,119000,p10
-opengov:33790683,1,https://opengov.seoul.go.kr/expense/33790683,2025-06-09,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,180000,p10
-opengov:33889467,3,https://opengov.seoul.go.kr/expense/33889467,2025-06-10,seoul_city,디지털도시국 데이터정책과,삼우정,서울 중구 서소문로 134-12,63000,p10
-opengov:33847551,4,https://opengov.seoul.go.kr/expense/33847551,2025-06-12,seoul_city,미래공간기획관 공공개발담당관,삼우정,서울 중구 서소문로 134-12,140000,p10
-opengov:33889481,7,https://opengov.seoul.go.kr/expense/33889481,2025-06-12,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,210000,p10
-opengov:33815699,6,https://opengov.seoul.go.kr/expense/33815699,2025-06-13,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,45000,p10
-opengov:33848795,17,https://opengov.seoul.go.kr/expense/33848795,2025-06-13,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33889481,9,https://opengov.seoul.go.kr/expense/33889481,2025-06-13,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,170000,p10
-opengov:33837028,25,https://opengov.seoul.go.kr/expense/33837028,2025-06-16,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,470000,p10
-opengov:33857943,16,https://opengov.seoul.go.kr/expense/33857943,2025-06-16,seoul_city,디지털도시국 디지털정책과,삼우정,서울 중구 서소문로 134-12,234000,p10
-opengov:33826586,4,https://opengov.seoul.go.kr/expense/33826586,2025-06-17,seoul_office,보건환경연구원 운영기획부,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:33848795,25,https://opengov.seoul.go.kr/expense/33848795,2025-06-17,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:33868357,24,https://opengov.seoul.go.kr/expense/33868357,2025-06-17,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,186000,p10
-opengov:33848773,14,https://opengov.seoul.go.kr/expense/33848773,2025-06-18,seoul_city,감사위원회 감사담당관,삼우정,서울 중구 서소문로 134-12,300000,p10
-opengov:33803296,67,https://opengov.seoul.go.kr/expense/33803296,2025-06-19,seoul_city,대변인 언론담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33826582,24,https://opengov.seoul.go.kr/expense/33826582,2025-06-19,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,247000,p10
-opengov:33837484,44,https://opengov.seoul.go.kr/expense/33837484,2025-06-19,seoul_city,기획조정실 기획담당관,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33837554,25,https://opengov.seoul.go.kr/expense/33837554,2025-06-19,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:33868903,9,https://opengov.seoul.go.kr/expense/33868903,2025-06-19,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33889481,12,https://opengov.seoul.go.kr/expense/33889481,2025-06-19,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,285000,p10
-opengov:33987662,9,https://opengov.seoul.go.kr/expense/33987662,2025-06-19,seoul_city,평생교육국 청소년정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33815028,29,https://opengov.seoul.go.kr/expense/33815028,2025-06-20,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,115000,p10
-opengov:33825293,14,https://opengov.seoul.go.kr/expense/33825293,2025-06-23,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:33868900,33,https://opengov.seoul.go.kr/expense/33868900,2025-06-23,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:33848782,10,https://opengov.seoul.go.kr/expense/33848782,2025-06-24,seoul_city,도시정비과,삼우정,서울 중구 서소문로 134-12,154500,p10
-opengov:33868900,37,https://opengov.seoul.go.kr/expense/33868900,2025-06-24,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,154500,p10
-opengov:33837554,35,https://opengov.seoul.go.kr/expense/33837554,2025-06-25,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,304000,p10
-opengov:33848789,26,https://opengov.seoul.go.kr/expense/33848789,2025-06-25,seoul_city,문화본부 문화정책과,삼우정,서울 중구 서소문로 134-12,400000,p10
-opengov:33868891,30,https://opengov.seoul.go.kr/expense/33868891,2025-06-25,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:33837570,10,https://opengov.seoul.go.kr/expense/33837570,2025-06-26,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,85000,p10
-opengov:33804530,30,https://opengov.seoul.go.kr/expense/33804530,2025-06-27,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:33825302,18,https://opengov.seoul.go.kr/expense/33825302,2025-06-27,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:33868883,23,https://opengov.seoul.go.kr/expense/33868883,2025-06-27,seoul_city,기술심사담당관,삼우정,서울 중구 서소문로 134-12,100000,p10
-opengov:33847524,13,https://opengov.seoul.go.kr/expense/33847524,2025-06-30,seoul_city,물순환안전국 물재생계획과,삼우정,서울 중구 서소문로 134-12,120000,p10
-opengov:33848782,12,https://opengov.seoul.go.kr/expense/33848782,2025-06-30,seoul_city,도시정비과,삼우정,서울 중구 서소문로 134-12,405000,p10
-opengov:34066363,1,https://opengov.seoul.go.kr/expense/34066363,2025-07-01,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34077519,1,https://opengov.seoul.go.kr/expense/34077519,2025-07-01,seoul_city,재무국 재무과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34025112,2,https://opengov.seoul.go.kr/expense/34025112,2025-07-03,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34059241,7,https://opengov.seoul.go.kr/expense/34059241,2025-07-03,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34077474,2,https://opengov.seoul.go.kr/expense/34077474,2025-07-03,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34077481,10,https://opengov.seoul.go.kr/expense/34077481,2025-07-07,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34077510,37,https://opengov.seoul.go.kr/expense/34077510,2025-07-07,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34096976,7,https://opengov.seoul.go.kr/expense/34096976,2025-07-07,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34049232,21,https://opengov.seoul.go.kr/expense/34049232,2025-07-09,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,p10
-opengov:34144642,8,https://opengov.seoul.go.kr/expense/34144642,2025-07-09,seoul_city,감사위원회 감사담당관,삼우정,서울 중구 서소문로 134-12,234000,p10
-opengov:34037439,6,https://opengov.seoul.go.kr/expense/34037439,2025-07-11,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34059225,22,https://opengov.seoul.go.kr/expense/34059225,2025-07-11,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,107500,p10
-opengov:34077485,16,https://opengov.seoul.go.kr/expense/34077485,2025-07-11,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34058176,19,https://opengov.seoul.go.kr/expense/34058176,2025-07-14,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34086536,16,https://opengov.seoul.go.kr/expense/34086536,2025-07-14,seoul_office,동부공원여가센터 공원운영과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:34059224,5,https://opengov.seoul.go.kr/expense/34059224,2025-07-15,seoul_city,디지털도시국 정보시스템과,삼우정,서울 중구 서소문로 134-12,150000,p10
-opengov:34144638,16,https://opengov.seoul.go.kr/expense/34144638,2025-07-15,seoul_city,주택정책과,삼우정,서울 중구 서소문로 134-12,272000,p10
-opengov:34067499,9,https://opengov.seoul.go.kr/expense/34067499,2025-07-16,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,93000,p10
-opengov:34077510,110,https://opengov.seoul.go.kr/expense/34077510,2025-07-16,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34086130,35,https://opengov.seoul.go.kr/expense/34086130,2025-07-16,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,244000,p10
-opengov:34025084,10,https://opengov.seoul.go.kr/expense/34025084,2025-07-17,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34049232,37,https://opengov.seoul.go.kr/expense/34049232,2025-07-17,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,72000,p10
-opengov:34086709,23,https://opengov.seoul.go.kr/expense/34086709,2025-07-17,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34035941,11,https://opengov.seoul.go.kr/expense/34035941,2025-07-18,seoul_city,민생노동국 상권활성화과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34016219,14,https://opengov.seoul.go.kr/expense/34016219,2025-07-21,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34025084,13,https://opengov.seoul.go.kr/expense/34025084,2025-07-21,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34049247,13,https://opengov.seoul.go.kr/expense/34049247,2025-07-21,seoul_city,기후환경본부 대기정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34016219,16,https://opengov.seoul.go.kr/expense/34016219,2025-07-23,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34087203,18,https://opengov.seoul.go.kr/expense/34087203,2025-07-23,seoul_city,기술심사담당관,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34077540,15,https://opengov.seoul.go.kr/expense/34077540,2025-07-24,seoul_city,평생교육국 평생교육과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34077481,46,https://opengov.seoul.go.kr/expense/34077481,2025-07-25,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34086130,61,https://opengov.seoul.go.kr/expense/34086130,2025-07-28,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,200000,p10
-opengov:34077491,5,https://opengov.seoul.go.kr/expense/34077491,2025-07-29,seoul_office,서울아리수본부 급수부 계획설계과,삼우정,서울 중구 서소문로 134-12,109000,p10
-opengov:34086139,11,https://opengov.seoul.go.kr/expense/34086139,2025-07-29,seoul_office,서울시립과학관 총무과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34034817,40,https://opengov.seoul.go.kr/expense/34034817,2025-07-30,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,170000,p10
-opengov:34058176,53,https://opengov.seoul.go.kr/expense/34058176,2025-07-30,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,81000,p10
-opengov:34059241,44,https://opengov.seoul.go.kr/expense/34059241,2025-07-30,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34067506,12,https://opengov.seoul.go.kr/expense/34067506,2025-07-30,seoul_city,재무국 계약심사과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34076401,14,https://opengov.seoul.go.kr/expense/34076401,2025-07-30,seoul_city,평생교육국 청소년정책과,삼우정,서울 중구 서소문로 134-12,228000,p10
-opengov:34257470,3,https://opengov.seoul.go.kr/expense/34257470,2025-08-04,seoul_city,관광체육국 체육정책과,삼우정,서울 중구 서소문로 134-12,67000,p10
-opengov:34278356,5,https://opengov.seoul.go.kr/expense/34278356,2025-08-05,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34243924,2,https://opengov.seoul.go.kr/expense/34243924,2025-08-07,seoul_city,도시공간본부 시설계획과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34289487,4,https://opengov.seoul.go.kr/expense/34289487,2025-08-08,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34267819,2,https://opengov.seoul.go.kr/expense/34267819,2025-08-11,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34289484,64,https://opengov.seoul.go.kr/expense/34289484,2025-08-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,113000,p10
-opengov:34299609,21,https://opengov.seoul.go.kr/expense/34299609,2025-08-11,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34254446,3,https://opengov.seoul.go.kr/expense/34254446,2025-08-13,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,58000,p10
-opengov:34267819,3,https://opengov.seoul.go.kr/expense/34267819,2025-08-13,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34278366,6,https://opengov.seoul.go.kr/expense/34278366,2025-08-13,seoul_city,감사위원회 공공감사담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34299596,27,https://opengov.seoul.go.kr/expense/34299596,2025-08-14,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34267819,5,https://opengov.seoul.go.kr/expense/34267819,2025-08-18,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34267797,14,https://opengov.seoul.go.kr/expense/34267797,2025-08-19,seoul_office,북부공원여가센터 공원운영과,삼우정,서울 중구 서소문로 134-12,134000,p10
-opengov:34289533,4,https://opengov.seoul.go.kr/expense/34289533,2025-08-19,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34299641,6,https://opengov.seoul.go.kr/expense/34299641,2025-08-19,seoul_city,정원도시국 공원조성과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34243906,8,https://opengov.seoul.go.kr/expense/34243906,2025-08-20,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34289465,37,https://opengov.seoul.go.kr/expense/34289465,2025-08-22,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,442000,p10
-opengov:34299638,7,https://opengov.seoul.go.kr/expense/34299638,2025-08-25,seoul_city,주택실 부동산정책개발센터,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:34220898,38,https://opengov.seoul.go.kr/expense/34220898,2025-08-27,seoul_city,디자인정책담당관,삼우정,서울 중구 서소문로 134-12,92000,p10
-opengov:34243906,11,https://opengov.seoul.go.kr/expense/34243906,2025-08-27,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34299596,51,https://opengov.seoul.go.kr/expense/34299596,2025-08-27,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34289530,9,https://opengov.seoul.go.kr/expense/34289530,2025-08-28,seoul_office,학예연구부 전시교육과,삼우정,서울 중구 서소문로 134-12,418000,p10
-opengov:34465683,6,https://opengov.seoul.go.kr/expense/34465683,2025-09-03,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,247000,p10
-opengov:34454099,3,https://opengov.seoul.go.kr/expense/34454099,2025-09-05,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34454101,12,https://opengov.seoul.go.kr/expense/34454101,2025-09-05,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34440887,1,https://opengov.seoul.go.kr/expense/34440887,2025-09-08,seoul_city,문화본부 문화시설과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34482219,4,https://opengov.seoul.go.kr/expense/34482219,2025-09-08,seoul_city,재무국 세무과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34484005,1,https://opengov.seoul.go.kr/expense/34484005,2025-09-08,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34622069,6,https://opengov.seoul.go.kr/expense/34622069,2025-09-08,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34442151,26,https://opengov.seoul.go.kr/expense/34442151,2025-09-09,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34465695,1,https://opengov.seoul.go.kr/expense/34465695,2025-09-09,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34483996,71,https://opengov.seoul.go.kr/expense/34483996,2025-09-09,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:34466423,7,https://opengov.seoul.go.kr/expense/34466423,2025-09-10,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:34482768,18,https://opengov.seoul.go.kr/expense/34482768,2025-09-11,seoul_fire,소방재난본부 소방행정과,삼우정,서울 중구 서소문로 134-12,122000,p10
-opengov:34483938,22,https://opengov.seoul.go.kr/expense/34483938,2025-09-12,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,p10
-opengov:34481819,12,https://opengov.seoul.go.kr/expense/34481819,2025-09-16,seoul_city,정원도시국 공원조성과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34483830,39,https://opengov.seoul.go.kr/expense/34483830,2025-09-16,seoul_council,운영지원과(의장실),삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34454136,8,https://opengov.seoul.go.kr/expense/34454136,2025-09-17,seoul_city,기후환경본부 친환경건물과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34467183,11,https://opengov.seoul.go.kr/expense/34467183,2025-09-17,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,32000,p10
-opengov:34483822,30,https://opengov.seoul.go.kr/expense/34483822,2025-09-17,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34483830,44,https://opengov.seoul.go.kr/expense/34483830,2025-09-17,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,120000,p10
-opengov:34483938,28,https://opengov.seoul.go.kr/expense/34483938,2025-09-17,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34484006,41,https://opengov.seoul.go.kr/expense/34484006,2025-09-19,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34452870,28,https://opengov.seoul.go.kr/expense/34452870,2025-09-22,seoul_council,시의회사무처 의정국 법제과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34483962,8,https://opengov.seoul.go.kr/expense/34483962,2025-09-24,seoul_council,문화체육관광전문위원실,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:34495650,12,https://opengov.seoul.go.kr/expense/34495650,2025-09-24,seoul_city,정원도시국 조경과,삼우정,서울 중구 서소문로 134-12,190000,p10
-opengov:34484006,59,https://opengov.seoul.go.kr/expense/34484006,2025-09-25,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34483942,18,https://opengov.seoul.go.kr/expense/34483942,2025-09-26,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34483996,236,https://opengov.seoul.go.kr/expense/34483996,2025-09-26,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:34454101,51,https://opengov.seoul.go.kr/expense/34454101,2025-09-30,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34483828,14,https://opengov.seoul.go.kr/expense/34483828,2025-09-30,seoul_city,평생교육국 청소년정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34667907,1,https://opengov.seoul.go.kr/expense/34667907,2025-10-01,seoul_city,디지털도시국 정보시스템과,삼우정,서울 중구 서소문로 134-12,266000,p10
-opengov:34722640,1,https://opengov.seoul.go.kr/expense/34722640,2025-10-01,seoul_city,홍보기획관 민원담당관,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34691330,3,https://opengov.seoul.go.kr/expense/34691330,2025-10-13,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34679735,7,https://opengov.seoul.go.kr/expense/34679735,2025-10-16,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34669095,18,https://opengov.seoul.go.kr/expense/34669095,2025-10-17,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34669113,29,https://opengov.seoul.go.kr/expense/34669113,2025-10-20,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:34711333,6,https://opengov.seoul.go.kr/expense/34711333,2025-10-20,seoul_city,물순환안전국 물재생계획과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34733513,12,https://opengov.seoul.go.kr/expense/34733513,2025-10-20,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35214341,9,https://opengov.seoul.go.kr/expense/35214341,2025-10-21,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,163000,p10
-opengov:34669095,28,https://opengov.seoul.go.kr/expense/34669095,2025-10-23,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34669095,30,https://opengov.seoul.go.kr/expense/34669095,2025-10-23,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,253000,p10
-opengov:34701379,6,https://opengov.seoul.go.kr/expense/34701379,2025-10-23,seoul_city,평생교육국 평생교육과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34701384,150,https://opengov.seoul.go.kr/expense/34701384,2025-10-23,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:34655469,9,https://opengov.seoul.go.kr/expense/34655469,2025-10-24,seoul_city,민생노동국 상권활성화과,삼우정,서울 중구 서소문로 134-12,84000,p10
-opengov:34655622,21,https://opengov.seoul.go.kr/expense/34655622,2025-10-27,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,243000,p10
-opengov:34667922,36,https://opengov.seoul.go.kr/expense/34667922,2025-10-27,seoul_city,디자인정책관 디자인정책담당관,삼우정,서울 중구 서소문로 134-12,327000,p10
-opengov:34655642,11,https://opengov.seoul.go.kr/expense/34655642,2025-10-30,seoul_office,데이터센터 기획관리과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34669132,7,https://opengov.seoul.go.kr/expense/34669132,2025-10-31,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34711340,31,https://opengov.seoul.go.kr/expense/34711340,2025-10-31,seoul_city,재무국 재무과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34722636,18,https://opengov.seoul.go.kr/expense/34722636,2025-10-31,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34876693,1,https://opengov.seoul.go.kr/expense/34876693,2025-11-03,seoul_city,감사위원회 공공감사담당관,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34889837,2,https://opengov.seoul.go.kr/expense/34889837,2025-11-03,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34904044,1,https://opengov.seoul.go.kr/expense/34904044,2025-11-03,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34876506,5,https://opengov.seoul.go.kr/expense/34876506,2025-11-04,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,228000,p10
-opengov:34904042,6,https://opengov.seoul.go.kr/expense/34904042,2025-11-04,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,475000,p10
-opengov:34952062,2,https://opengov.seoul.go.kr/expense/34952062,2025-11-04,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34902478,6,https://opengov.seoul.go.kr/expense/34902478,2025-11-05,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,p10
-opengov:34962128,7,https://opengov.seoul.go.kr/expense/34962128,2025-11-05,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34889839,5,https://opengov.seoul.go.kr/expense/34889839,2025-11-06,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34889844,8,https://opengov.seoul.go.kr/expense/34889844,2025-11-06,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34891345,1,https://opengov.seoul.go.kr/expense/34891345,2025-11-06,seoul_fire,소방재난본부 소방감사담당관,삼우정,서울 중구 서소문로 134-12,490000,p10
-opengov:34876541,4,https://opengov.seoul.go.kr/expense/34876541,2025-11-07,seoul_fire,소방재난본부현장대응단,삼우정,서울 중구 서소문로 134-12,490000,p10
-opengov:34952051,67,https://opengov.seoul.go.kr/expense/34952051,2025-11-10,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34876507,6,https://opengov.seoul.go.kr/expense/34876507,2025-11-11,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:34876700,7,https://opengov.seoul.go.kr/expense/34876700,2025-11-11,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,115000,p10
-opengov:34904037,9,https://opengov.seoul.go.kr/expense/34904037,2025-11-11,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34915128,4,https://opengov.seoul.go.kr/expense/34915128,2025-11-11,seoul_city,복지실 돌봄고독정책관 어르신복지과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:34952051,77,https://opengov.seoul.go.kr/expense/34952051,2025-11-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,237000,p10
-opengov:34889844,21,https://opengov.seoul.go.kr/expense/34889844,2025-11-12,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34952051,101,https://opengov.seoul.go.kr/expense/34952051,2025-11-13,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,59000,p10
-opengov:34861382,3,https://opengov.seoul.go.kr/expense/34861382,2025-11-14,seoul_city,문화본부 문화시설과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:35036285,16,https://opengov.seoul.go.kr/expense/35036285,2025-11-14,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:34952051,164,https://opengov.seoul.go.kr/expense/34952051,2025-11-20,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:34876509,1,https://opengov.seoul.go.kr/expense/34876509,2025-11-24,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,150000,p10
-opengov:35036285,22,https://opengov.seoul.go.kr/expense/35036285,2025-11-24,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:34902484,26,https://opengov.seoul.go.kr/expense/34902484,2025-11-25,seoul_office,서울아리수본부 남부수도사업소,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:34891332,10,https://opengov.seoul.go.kr/expense/34891332,2025-11-26,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,100000,p10
-opengov:34904037,21,https://opengov.seoul.go.kr/expense/34904037,2025-11-26,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:34915139,44,https://opengov.seoul.go.kr/expense/34915139,2025-11-26,seoul_city,시민건강국 보건의료정책과,삼우정,서울 중구 서소문로 134-12,202000,p10
-opengov:34952052,7,https://opengov.seoul.go.kr/expense/34952052,2025-11-26,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:34963695,18,https://opengov.seoul.go.kr/expense/34963695,2025-11-26,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,260000,p10
-opengov:34876509,4,https://opengov.seoul.go.kr/expense/34876509,2025-11-27,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,200000,p10
-opengov:34876536,27,https://opengov.seoul.go.kr/expense/34876536,2025-11-27,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,228000,p10
-opengov:34876569,30,https://opengov.seoul.go.kr/expense/34876569,2025-11-27,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,490000,p10
-opengov:34963695,20,https://opengov.seoul.go.kr/expense/34963695,2025-11-27,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,135000,p10
-opengov:34963722,12,https://opengov.seoul.go.kr/expense/34963722,2025-11-27,seoul_council,예산결산특별전문위원실,삼우정,서울 중구 서소문로 134-12,56000,p10
-opengov:34876700,18,https://opengov.seoul.go.kr/expense/34876700,2025-11-28,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,190000,p10
-opengov:34902486,23,https://opengov.seoul.go.kr/expense/34902486,2025-11-28,seoul_council,시의회사무처 의정국 법제과,삼우정,서울 중구 서소문로 134-12,200000,p10
-opengov:35111762,1,https://opengov.seoul.go.kr/expense/35111762,2025-12-01,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,150000,p10
-opengov:35196493,1,https://opengov.seoul.go.kr/expense/35196493,2025-12-01,seoul_council,교통전문위원실,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35144140,2,https://opengov.seoul.go.kr/expense/35144140,2025-12-03,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,266000,p10
-opengov:35167235,6,https://opengov.seoul.go.kr/expense/35167235,2025-12-03,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,450000,p10
-opengov:35157243,4,https://opengov.seoul.go.kr/expense/35157243,2025-12-04,seoul_city,재무국 세무과,삼우정,서울 중구 서소문로 134-12,143000,p10
-opengov:35212183,10,https://opengov.seoul.go.kr/expense/35212183,2025-12-04,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35177671,65,https://opengov.seoul.go.kr/expense/35177671,2025-12-05,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,61000,p10
-opengov:35197489,3,https://opengov.seoul.go.kr/expense/35197489,2025-12-08,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,490000,p10
-opengov:35214344,8,https://opengov.seoul.go.kr/expense/35214344,2025-12-08,seoul_city,교통실 택시정책과,삼우정,서울 중구 서소문로 134-12,197000,p10
-opengov:35446153,10,https://opengov.seoul.go.kr/expense/35446153,2025-12-08,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35177671,115,https://opengov.seoul.go.kr/expense/35177671,2025-12-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:35111762,3,https://opengov.seoul.go.kr/expense/35111762,2025-12-15,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,150000,p10
-opengov:35145918,39,https://opengov.seoul.go.kr/expense/35145918,2025-12-15,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,304000,p10
-opengov:35145918,43,https://opengov.seoul.go.kr/expense/35145918,2025-12-16,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,83000,p10
-opengov:35167199,14,https://opengov.seoul.go.kr/expense/35167199,2025-12-16,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,224000,p10
-opengov:35214379,10,https://opengov.seoul.go.kr/expense/35214379,2025-12-16,seoul_city,기후환경본부 친환경차량과,삼우정,서울 중구 서소문로 134-12,116000,p10
-opengov:35204390,33,https://opengov.seoul.go.kr/expense/35204390,2025-12-17,seoul_office,서울대공원 경영관리부 총무과,삼우정,서울 중구 서소문로 134-12,350000,p10
-opengov:35205479,30,https://opengov.seoul.go.kr/expense/35205479,2025-12-17,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,380000,p10
-opengov:35223666,8,https://opengov.seoul.go.kr/expense/35223666,2025-12-17,seoul_city,38세금징수과,삼우정,서울 중구 서소문로 134-12,262000,p10
-opengov:35167284,15,https://opengov.seoul.go.kr/expense/35167284,2025-12-23,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35177657,8,https://opengov.seoul.go.kr/expense/35177657,2025-12-23,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35205468,6,https://opengov.seoul.go.kr/expense/35205468,2025-12-23,seoul_office,서울아리수본부 급수부 계획설계과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35167235,46,https://opengov.seoul.go.kr/expense/35167235,2025-12-24,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,490000,p10
-opengov:35197511,12,https://opengov.seoul.go.kr/expense/35197511,2025-12-24,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,315000,p10
-opengov:35177657,11,https://opengov.seoul.go.kr/expense/35177657,2025-12-26,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,228810,p10
-opengov:35177671,256,https://opengov.seoul.go.kr/expense/35177671,2025-12-26,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:35204422,34,https://opengov.seoul.go.kr/expense/35204422,2025-12-26,seoul_city,기획조정실 정책기획관 조직담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35241582,33,https://opengov.seoul.go.kr/expense/35241582,2025-12-26,seoul_council,재정분석과,삼우정,서울 중구 서소문로 134-12,167000,p10
-opengov:35177669,39,https://opengov.seoul.go.kr/expense/35177669,2025-12-29,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35157901,51,https://opengov.seoul.go.kr/expense/35157901,2025-12-30,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,158000,p10
-opengov:35197511,15,https://opengov.seoul.go.kr/expense/35197511,2025-12-30,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,455000,p10
-opengov:35204402,27,https://opengov.seoul.go.kr/expense/35204402,2025-12-30,seoul_city,경제실 창업정책과,삼우정,서울 중구 서소문로 134-12,180000,p10
-opengov:35223666,13,https://opengov.seoul.go.kr/expense/35223666,2025-12-30,seoul_city,38세금징수과,삼우정,서울 중구 서소문로 134-12,1027000,p10
-opengov:35197511,18,https://opengov.seoul.go.kr/expense/35197511,2025-12-31,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,379000,p10
-opengov:35410358,1,https://opengov.seoul.go.kr/expense/35410358,2026-01-05,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35420391,5,https://opengov.seoul.go.kr/expense/35420391,2026-01-05,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35444898,1,https://opengov.seoul.go.kr/expense/35444898,2026-01-05,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35444898,2,https://opengov.seoul.go.kr/expense/35444898,2026-01-06,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,323000,p10
-opengov:35410152,4,https://opengov.seoul.go.kr/expense/35410152,2026-01-07,seoul_city,균형발전본부 광화문광장사업과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35446150,5,https://opengov.seoul.go.kr/expense/35446150,2026-01-08,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35388718,6,https://opengov.seoul.go.kr/expense/35388718,2026-01-09,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35378927,9,https://opengov.seoul.go.kr/expense/35378927,2026-01-12,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,77000,p10
-opengov:35357688,2,https://opengov.seoul.go.kr/expense/35357688,2026-01-13,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35410197,13,https://opengov.seoul.go.kr/expense/35410197,2026-01-13,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35398221,95,https://opengov.seoul.go.kr/expense/35398221,2026-01-14,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:35357588,8,https://opengov.seoul.go.kr/expense/35357588,2026-01-15,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35410171,6,https://opengov.seoul.go.kr/expense/35410171,2026-01-15,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35408993,15,https://opengov.seoul.go.kr/expense/35408993,2026-01-16,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35410300,11,https://opengov.seoul.go.kr/expense/35410300,2026-01-16,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:35378925,28,https://opengov.seoul.go.kr/expense/35378925,2026-01-19,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35380352,11,https://opengov.seoul.go.kr/expense/35380352,2026-01-19,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35410327,6,https://opengov.seoul.go.kr/expense/35410327,2026-01-19,seoul_city,건설기술정책관 건설혁신담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35410358,16,https://opengov.seoul.go.kr/expense/35410358,2026-01-19,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35421608,7,https://opengov.seoul.go.kr/expense/35421608,2026-01-19,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35357688,6,https://opengov.seoul.go.kr/expense/35357688,2026-01-20,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35399568,26,https://opengov.seoul.go.kr/expense/35399568,2026-01-20,seoul_city,정원도시정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35420401,7,https://opengov.seoul.go.kr/expense/35420401,2026-01-20,seoul_council,주택공간전문위원실,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35357653,6,https://opengov.seoul.go.kr/expense/35357653,2026-01-21,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35410185,4,https://opengov.seoul.go.kr/expense/35410185,2026-01-21,seoul_council,기획경제위원회,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:35410353,23,https://opengov.seoul.go.kr/expense/35410353,2026-01-21,seoul_office,미래한강본부 운영부 시민활동지원과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35410358,19,https://opengov.seoul.go.kr/expense/35410358,2026-01-21,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35410360,8,https://opengov.seoul.go.kr/expense/35410360,2026-01-21,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35388729,5,https://opengov.seoul.go.kr/expense/35388729,2026-01-23,seoul_city,균형발전본부 도시정비과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35398235,23,https://opengov.seoul.go.kr/expense/35398235,2026-01-23,seoul_council,도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:35378925,43,https://opengov.seoul.go.kr/expense/35378925,2026-01-26,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:35398221,202,https://opengov.seoul.go.kr/expense/35398221,2026-01-27,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:35421542,12,https://opengov.seoul.go.kr/expense/35421542,2026-01-27,seoul_city,물순환안전국 물재생시설과,삼우정,서울 중구 서소문로 134-12,72900,p10
-opengov:35367999,18,https://opengov.seoul.go.kr/expense/35367999,2026-01-28,seoul_city,교통실 미래첨단교통과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35421601,15,https://opengov.seoul.go.kr/expense/35421601,2026-01-29,seoul_city,건설기술정책관 지역건축안전센터,삼우정,서울 중구 서소문로 134-12,380000,p10
-opengov:35410185,9,https://opengov.seoul.go.kr/expense/35410185,2026-01-30,seoul_council,기획경제위원회,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:35547878,3,https://opengov.seoul.go.kr/expense/35547878,2026-02-04,seoul_city,재무국 세제과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35547926,7,https://opengov.seoul.go.kr/expense/35547926,2026-02-04,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35559440,9,https://opengov.seoul.go.kr/expense/35559440,2026-02-04,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35560823,4,https://opengov.seoul.go.kr/expense/35560823,2026-02-04,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35595064,2,https://opengov.seoul.go.kr/expense/35595064,2026-02-04,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35583670,8,https://opengov.seoul.go.kr/expense/35583670,2026-02-05,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:35605738,43,https://opengov.seoul.go.kr/expense/35605738,2026-02-05,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35606777,2,https://opengov.seoul.go.kr/expense/35606777,2026-02-06,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35595244,5,https://opengov.seoul.go.kr/expense/35595244,2026-02-09,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35595233,7,https://opengov.seoul.go.kr/expense/35595233,2026-02-10,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,236000,p10
-opengov:35572195,8,https://opengov.seoul.go.kr/expense/35572195,2026-02-11,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35605738,92,https://opengov.seoul.go.kr/expense/35605738,2026-02-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:35559475,7,https://opengov.seoul.go.kr/expense/35559475,2026-02-12,seoul_council,의정국 언론홍보과,삼우정,서울 중구 서소문로 134-12,282000,p10
-opengov:35560790,9,https://opengov.seoul.go.kr/expense/35560790,2026-02-12,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35595229,3,https://opengov.seoul.go.kr/expense/35595229,2026-02-12,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35547913,6,https://opengov.seoul.go.kr/expense/35547913,2026-02-13,seoul_council,의정국 의사과,삼우정,서울 중구 서소문로 134-12,124000,p10
-opengov:35559457,16,https://opengov.seoul.go.kr/expense/35559457,2026-02-13,seoul_council,도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,192000,p10
-opengov:35560824,26,https://opengov.seoul.go.kr/expense/35560824,2026-02-19,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35581592,8,https://opengov.seoul.go.kr/expense/35581592,2026-02-19,seoul_city,균형발전본부 광화문광장사업과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35606800,9,https://opengov.seoul.go.kr/expense/35606800,2026-02-20,seoul_city,물순환안전국 물재생시설과,삼우정,서울 중구 서소문로 134-12,248000,p10
-opengov:35559476,6,https://opengov.seoul.go.kr/expense/35559476,2026-02-23,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35605738,145,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,p10
-opengov:35560824,33,https://opengov.seoul.go.kr/expense/35560824,2026-02-25,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:35581593,9,https://opengov.seoul.go.kr/expense/35581593,2026-02-26,seoul_city,교통실 택시정책과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:35595064,14,https://opengov.seoul.go.kr/expense/35595064,2026-02-26,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,190000,p10
-opengov:35572164,26,https://opengov.seoul.go.kr/expense/35572164,2026-02-27,seoul_council,의정국 재정분석과,삼우정,서울 중구 서소문로 134-12,170000,p10
-opengov:35812214,1,https://opengov.seoul.go.kr/expense/35812214,2026-03-03,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35823020,1,https://opengov.seoul.go.kr/expense/35823020,2026-03-03,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35824066,1,https://opengov.seoul.go.kr/expense/35824066,2026-03-03,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:35877464,1,https://opengov.seoul.go.kr/expense/35877464,2026-03-03,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35823039,3,https://opengov.seoul.go.kr/expense/35823039,2026-03-04,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35844315,1,https://opengov.seoul.go.kr/expense/35844315,2026-03-04,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35845480,2,https://opengov.seoul.go.kr/expense/35845480,2026-03-04,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35798918,1,https://opengov.seoul.go.kr/expense/35798918,2026-03-05,seoul_fire,소방재난본부 재난대응과,삼우정,서울 중구 서소문로 134-12,443000,p10
-opengov:35854644,1,https://opengov.seoul.go.kr/expense/35854644,2026-03-05,seoul_fire,소방재난본부 소방행정과,삼우정,서울 중구 서소문로 134-12,450000,p10
-opengov:35810599,3,https://opengov.seoul.go.kr/expense/35810599,2026-03-06,seoul_office,보건환경연구원 운영기획부,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35775003,5,https://opengov.seoul.go.kr/expense/35775003,2026-03-07,seoul_office,체육시설관리사업소 운영기획과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35776340,8,https://opengov.seoul.go.kr/expense/35776340,2026-03-09,seoul_city,문화본부 문화정책과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:35799977,3,https://opengov.seoul.go.kr/expense/35799977,2026-03-09,seoul_city,감사위원회 안전감사담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:35787109,2,https://opengov.seoul.go.kr/expense/35787109,2026-03-10,seoul_office,시립미술관 학예연구부 수집연구과,삼우정,서울 중구 서소문로 134-12,266000,p10
-opengov:35834086,56,https://opengov.seoul.go.kr/expense/35834086,2026-03-10,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:35835470,16,https://opengov.seoul.go.kr/expense/35835470,2026-03-10,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,164000,p10
-opengov:35845480,5,https://opengov.seoul.go.kr/expense/35845480,2026-03-10,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:35855689,18,https://opengov.seoul.go.kr/expense/35855689,2026-03-10,seoul_office,도시기반시설본부 총무부,삼우정,서울 중구 서소문로 134-12,234000,p10
-opengov:35855663,12,https://opengov.seoul.go.kr/expense/35855663,2026-03-11,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,204000,p10
-opengov:35799461,7,https://opengov.seoul.go.kr/expense/35799461,2026-03-12,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:35812219,4,https://opengov.seoul.go.kr/expense/35812219,2026-03-13,seoul_city,감사위원회 청렴담당관,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35824066,15,https://opengov.seoul.go.kr/expense/35824066,2026-03-13,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,243000,p10
-opengov:35855706,6,https://opengov.seoul.go.kr/expense/35855706,2026-03-19,seoul_council,예산결산특별전문위원실,삼우정,서울 중구 서소문로 134-12,127000,p10
-opengov:35844332,33,https://opengov.seoul.go.kr/expense/35844332,2026-03-25,seoul_city,감사위원회 감사담당관,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:35835434,27,https://opengov.seoul.go.kr/expense/35835434,2026-03-26,seoul_council,서울특별시의회사무처 의정국 현장민원과,삼우정,서울 중구 서소문로 134-12,202000,p10
-opengov:35787106,8,https://opengov.seoul.go.kr/expense/35787106,2026-03-27,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:35812193,13,https://opengov.seoul.go.kr/expense/35812193,2026-03-27,seoul_council,운영전문위원실,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:36048352,1,https://opengov.seoul.go.kr/expense/36048352,2026-04-01,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36013155,4,https://opengov.seoul.go.kr/expense/36013155,2026-04-03,seoul_council,도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36047166,4,https://opengov.seoul.go.kr/expense/36047166,2026-04-06,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:36058328,60,https://opengov.seoul.go.kr/expense/36058328,2026-04-07,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:36058328,66,https://opengov.seoul.go.kr/expense/36058328,2026-04-07,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,120000,p10
-opengov:36059165,5,https://opengov.seoul.go.kr/expense/36059165,2026-04-10,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36013181,3,https://opengov.seoul.go.kr/expense/36013181,2026-04-14,seoul_council,의회사무처 도시안전건설전문위원실,삼우정,서울 중구 서소문로 134-12,300000,p10
-opengov:36059068,11,https://opengov.seoul.go.kr/expense/36059068,2026-04-15,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36013167,11,https://opengov.seoul.go.kr/expense/36013167,2026-04-17,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,290000,p10
-opengov:36013167,13,https://opengov.seoul.go.kr/expense/36013167,2026-04-20,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,52000,p10
-opengov:36013172,27,https://opengov.seoul.go.kr/expense/36013172,2026-04-20,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36047150,7,https://opengov.seoul.go.kr/expense/36047150,2026-04-21,seoul_city,정원도시국 공원조성과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36058326,39,https://opengov.seoul.go.kr/expense/36058326,2026-04-23,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:36037087,30,https://opengov.seoul.go.kr/expense/36037087,2026-04-24,seoul_council,서울특별시의회사무처 의정국 현장민원과,삼우정,서울 중구 서소문로 134-12,199000,p10
-opengov:36047169,18,https://opengov.seoul.go.kr/expense/36047169,2026-04-24,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36058326,44,https://opengov.seoul.go.kr/expense/36058326,2026-04-27,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36058328,262,https://opengov.seoul.go.kr/expense/36058328,2026-04-28,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36048350,18,https://opengov.seoul.go.kr/expense/36048350,2026-04-29,seoul_city,도시공간본부 도시관리과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36058510,8,https://opengov.seoul.go.kr/expense/36058510,2026-04-30,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36240414,4,https://opengov.seoul.go.kr/expense/36240414,2026-05-07,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36262054,8,https://opengov.seoul.go.kr/expense/36262054,2026-05-07,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36203840,3,https://opengov.seoul.go.kr/expense/36203840,2026-05-11,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,171000,p10
-opengov:36216583,4,https://opengov.seoul.go.kr/expense/36216583,2026-05-13,seoul_city,정원도시국 조경과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36229041,3,https://opengov.seoul.go.kr/expense/36229041,2026-05-13,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36209780,8,https://opengov.seoul.go.kr/expense/36209780,2026-05-18,seoul_city,균형발전본부 광화문광장사업과,삼우정,서울 중구 서소문로 134-12,33000,p10
-opengov:36203700,19,https://opengov.seoul.go.kr/expense/36203700,2026-05-19,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36271404,14,https://opengov.seoul.go.kr/expense/36271404,2026-05-19,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36229376,7,https://opengov.seoul.go.kr/expense/36229376,2026-05-20,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36262048,5,https://opengov.seoul.go.kr/expense/36262048,2026-05-20,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36262054,34,https://opengov.seoul.go.kr/expense/36262054,2026-05-20,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,38000,p10
-opengov:36593999,11,https://opengov.seoul.go.kr/expense/36593999,2026-05-20,seoul_city,주택실 주택정책과,삼우정,서울 중구 서소문로 134-12,213000,p10
-opengov:36229066,7,https://opengov.seoul.go.kr/expense/36229066,2026-05-22,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:36272391,6,https://opengov.seoul.go.kr/expense/36272391,2026-05-28,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36502166,1,https://opengov.seoul.go.kr/expense/36502166,2026-06-02,seoul_council,예산결산특별전문위원실,삼우정,서울 중구 서소문로 134-12,132000,p10
-opengov:36427697,2,https://opengov.seoul.go.kr/expense/36427697,2026-06-04,seoul_city,재난안전실 교량안전과,삼우정,서울 중구 서소문로 134-12,100000,p10
-opengov:36461645,2,https://opengov.seoul.go.kr/expense/36461645,2026-06-04,seoul_city,재무국 재무과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36501236,2,https://opengov.seoul.go.kr/expense/36501236,2026-06-04,seoul_office,동부도로사업소 관리단속과,삼우정,서울 중구 서소문로 134-12,100000,p10
-opengov:36492743,2,https://opengov.seoul.go.kr/expense/36492743,2026-06-05,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,78000,p10
-opengov:36501234,7,https://opengov.seoul.go.kr/expense/36501234,2026-06-05,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,120000,p10
-opengov:36426455,3,https://opengov.seoul.go.kr/expense/36426455,2026-06-08,seoul_city,민생노동국 농수산유통과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36449215,2,https://opengov.seoul.go.kr/expense/36449215,2026-06-09,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36461610,5,https://opengov.seoul.go.kr/expense/36461610,2026-06-09,seoul_city,교통실 미래첨단교통과,삼우정,서울 중구 서소문로 134-12,250000,p10
-opengov:36502184,7,https://opengov.seoul.go.kr/expense/36502184,2026-06-09,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36473051,14,https://opengov.seoul.go.kr/expense/36473051,2026-06-12,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36487519,7,https://opengov.seoul.go.kr/expense/36487519,2026-06-15,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36492736,26,https://opengov.seoul.go.kr/expense/36492736,2026-06-15,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,456000,p10
-opengov:36502148,10,https://opengov.seoul.go.kr/expense/36502148,2026-06-15,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36426449,41,https://opengov.seoul.go.kr/expense/36426449,2026-06-16,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:36432947,16,https://opengov.seoul.go.kr/expense/36432947,2026-06-16,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:36438867,9,https://opengov.seoul.go.kr/expense/36438867,2026-06-16,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36461605,6,https://opengov.seoul.go.kr/expense/36461605,2026-06-16,seoul_office,인재개발원 인재양성과,삼우정,서울 중구 서소문로 134-12,168000,p10
-opengov:36501216,42,https://opengov.seoul.go.kr/expense/36501216,2026-06-16,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,152000,p10
-opengov:36461608,34,https://opengov.seoul.go.kr/expense/36461608,2026-06-19,seoul_office,인재개발원 인재기획과,삼우정,서울 중구 서소문로 134-12,57000,p10
-opengov:36533635,81,https://opengov.seoul.go.kr/expense/36533635,2026-06-19,seoul_city,대변인 언론담당관,삼우정,서울 중구 서소문로 134-12,62000,p10
-opengov:36461607,25,https://opengov.seoul.go.kr/expense/36461607,2026-06-23,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36414586,20,https://opengov.seoul.go.kr/expense/36414586,2026-06-24,seoul_council,의정국 의사과,삼우정,서울 중구 서소문로 134-12,463000,p10
-opengov:36502173,44,https://opengov.seoul.go.kr/expense/36502173,2026-06-24,seoul_office,도시기반시설본부 총무부,삼우정,서울 중구 서소문로 134-12,136000,p10
-opengov:36426449,65,https://opengov.seoul.go.kr/expense/36426449,2026-06-25,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,494000,p10
-opengov:36461607,29,https://opengov.seoul.go.kr/expense/36461607,2026-06-25,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,210000,p10
-opengov:36414586,23,https://opengov.seoul.go.kr/expense/36414586,2026-06-29,seoul_council,의정국 의사과,삼우정,서울 중구 서소문로 134-12,200000,p10
-opengov:36426449,72,https://opengov.seoul.go.kr/expense/36426449,2026-06-29,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36502194,24,https://opengov.seoul.go.kr/expense/36502194,2026-06-29,seoul_city,기획조정실 예산담당관,삼우정,서울 중구 서소문로 134-12,84000,p10
-opengov:36473056,16,https://opengov.seoul.go.kr/expense/36473056,2026-06-30,seoul_city,균형발전본부 도시정비과,삼우정,서울 중구 서소문로 134-12,123000,p10
-opengov:36707727,1,https://opengov.seoul.go.kr/expense/36707727,2026-07-01,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,266000,p10
-opengov:36678333,2,https://opengov.seoul.go.kr/expense/36678333,2026-07-03,seoul_city,여성가족실 아동담당관,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36707718,10,https://opengov.seoul.go.kr/expense/36707718,2026-07-03,seoul_city,정무부시장실,삼우정,서울 중구 서소문로 134-12,175000,p10
-opengov:36687853,6,https://opengov.seoul.go.kr/expense/36687853,2026-07-06,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36707514,4,https://opengov.seoul.go.kr/expense/36707514,2026-07-07,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,114000,p10
-opengov:36643971,6,https://opengov.seoul.go.kr/expense/36643971,2026-07-09,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36687853,12,https://opengov.seoul.go.kr/expense/36687853,2026-07-09,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36686807,6,https://opengov.seoul.go.kr/expense/36686807,2026-07-13,seoul_city,복지실 돌봄고독정책관 고령사회대응과,삼우정,서울 중구 서소문로 134-12,313000,p10
-opengov:36707749,25,https://opengov.seoul.go.kr/expense/36707749,2026-07-13,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:36655856,10,https://opengov.seoul.go.kr/expense/36655856,2026-07-15,seoul_city,주택실 부동산정책개발센터,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36655820,8,https://opengov.seoul.go.kr/expense/36655820,2026-07-16,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,323000,p10
-opengov:36697272,15,https://opengov.seoul.go.kr/expense/36697272,2026-07-16,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,122000,p10
-opengov:36707491,29,https://opengov.seoul.go.kr/expense/36707491,2026-07-16,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,110000,p10
-opengov:36707493,6,https://opengov.seoul.go.kr/expense/36707493,2026-07-16,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,361000,p10
-opengov:36668110,10,https://opengov.seoul.go.kr/expense/36668110,2026-07-20,seoul_city,민생노동국 상권활성화과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36677427,11,https://opengov.seoul.go.kr/expense/36677427,2026-07-20,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36677415,9,https://opengov.seoul.go.kr/expense/36677415,2026-07-22,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36687846,31,https://opengov.seoul.go.kr/expense/36687846,2026-07-23,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36707504,9,https://opengov.seoul.go.kr/expense/36707504,2026-07-23,seoul_city,주택실모아주택과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36707511,25,https://opengov.seoul.go.kr/expense/36707511,2026-07-24,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,p10
-opengov:36707582,15,https://opengov.seoul.go.kr/expense/36707582,2026-07-24,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,삼우정,서울 중구 서소문로 134-12,190000,p10
-opengov:36707504,10,https://opengov.seoul.go.kr/expense/36707504,2026-07-27,seoul_city,주택실모아주택과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36686801,44,https://opengov.seoul.go.kr/expense/36686801,2026-07-29,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36707498,13,https://opengov.seoul.go.kr/expense/36707498,2026-07-29,seoul_city,시민건강국 감염병관리과,삼우정,서울 중구 서소문로 134-12,209000,p10
-opengov:36655868,19,https://opengov.seoul.go.kr/expense/36655868,2026-07-30,seoul_office,품질시험소 총무과,삼우정,서울 중구 서소문로 134-12,137000,p10
-opengov:36696435,21,https://opengov.seoul.go.kr/expense/36696435,2026-07-31,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,133000,p10
-opengov:36856985,17,https://opengov.seoul.go.kr/expense/36856985,2026-08-14,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,p10
-opengov:36856985,22,https://opengov.seoul.go.kr/expense/36856985,2026-08-19,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,170000,p10
-opengov:36869664,42,https://opengov.seoul.go.kr/expense/36869664,2026-08-31,seoul_office,인재개발원 인재기획과,삼우정,서울 중구 서소문로 134-12,57000,p10
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,purpose_category,purpose_reason,place_id
+opengov:32773750,3,https://opengov.seoul.go.kr/expense/32773750,2025-01-02,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32775039,1,https://opengov.seoul.go.kr/expense/32775039,2025-01-02,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32784034,2,https://opengov.seoul.go.kr/expense/32784034,2025-01-03,seoul_city,경제실 산업입지과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:32743276,2,https://opengov.seoul.go.kr/expense/32743276,2025-01-06,seoul_city,재무국 세무과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32755452,1,https://opengov.seoul.go.kr/expense/32755452,2025-01-06,seoul_city,도시공간본부 시설계획과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32765886,5,https://opengov.seoul.go.kr/expense/32765886,2025-01-07,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32775026,8,https://opengov.seoul.go.kr/expense/32775026,2025-01-08,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32812985,7,https://opengov.seoul.go.kr/expense/32812985,2025-01-08,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,152000,meal,explicit_meal_word,p10
+opengov:32743356,3,https://opengov.seoul.go.kr/expense/32743356,2025-01-09,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32774988,5,https://opengov.seoul.go.kr/expense/32774988,2025-01-09,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32775040,2,https://opengov.seoul.go.kr/expense/32775040,2025-01-09,seoul_council,시의회사무처 도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:32793457,9,https://opengov.seoul.go.kr/expense/32793457,2025-01-09,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32765853,12,https://opengov.seoul.go.kr/expense/32765853,2025-01-10,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:32793467,7,https://opengov.seoul.go.kr/expense/32793467,2025-01-10,seoul_city,균형발전본부 동남권사업과,삼우정,서울 중구 서소문로 134-12,181000,uncertain,meeting_only_uncertain,p10
+opengov:32793657,14,https://opengov.seoul.go.kr/expense/32793657,2025-01-10,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:32743356,5,https://opengov.seoul.go.kr/expense/32743356,2025-01-13,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32793676,6,https://opengov.seoul.go.kr/expense/32793676,2025-01-13,seoul_city,교통실 도시철도과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32774988,6,https://opengov.seoul.go.kr/expense/32774988,2025-01-14,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:32792955,120,https://opengov.seoul.go.kr/expense/32792955,2025-01-15,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:32974359,8,https://opengov.seoul.go.kr/expense/32974359,2025-01-15,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:32793717,10,https://opengov.seoul.go.kr/expense/32793717,2025-01-16,seoul_city,홍보기획관 민원담당관,삼우정,서울 중구 서소문로 134-12,134000,uncertain,meeting_only_uncertain,p10
+opengov:32792580,19,https://opengov.seoul.go.kr/expense/32792580,2025-01-17,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32812985,27,https://opengov.seoul.go.kr/expense/32812985,2025-01-17,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32792580,20,https://opengov.seoul.go.kr/expense/32792580,2025-01-20,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32793476,10,https://opengov.seoul.go.kr/expense/32793476,2025-01-20,seoul_city,기후환경본부 친환경건물과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:32839362,42,https://opengov.seoul.go.kr/expense/32839362,2025-01-20,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,96000,uncertain,meeting_only_uncertain,p10
+opengov:32784052,9,https://opengov.seoul.go.kr/expense/32784052,2025-01-21,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,361000,uncertain,meeting_only_uncertain,p10
+opengov:32773774,8,https://opengov.seoul.go.kr/expense/32773774,2025-01-22,seoul_city,경제실 첨단산업과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32793476,11,https://opengov.seoul.go.kr/expense/32793476,2025-01-22,seoul_city,기후환경본부 친환경건물과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32755452,8,https://opengov.seoul.go.kr/expense/32755452,2025-01-23,seoul_city,도시공간본부 시설계획과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32782833,7,https://opengov.seoul.go.kr/expense/32782833,2025-01-23,seoul_city,재난안전실 재난상황관리과,삼우정,서울 중구 서소문로 134-12,121000,uncertain,meeting_only_uncertain,p10
+opengov:32784034,11,https://opengov.seoul.go.kr/expense/32784034,2025-01-23,seoul_city,경제실 산업입지과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32793525,8,https://opengov.seoul.go.kr/expense/32793525,2025-01-24,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32997058,5,https://opengov.seoul.go.kr/expense/32997058,2025-02-04,seoul_city,디지털도시국 데이터정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32974363,3,https://opengov.seoul.go.kr/expense/32974363,2025-02-05,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32974373,3,https://opengov.seoul.go.kr/expense/32974373,2025-02-05,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32985648,6,https://opengov.seoul.go.kr/expense/32985648,2025-02-05,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,meal,explicit_meal_word,p10
+opengov:33006267,3,https://opengov.seoul.go.kr/expense/33006267,2025-02-05,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32985479,2,https://opengov.seoul.go.kr/expense/32985479,2025-02-06,seoul_city,경제실 첨단산업과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32985689,13,https://opengov.seoul.go.kr/expense/32985689,2025-02-06,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:32952941,3,https://opengov.seoul.go.kr/expense/32952941,2025-02-07,seoul_city,재무국 계약심사과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32985688,12,https://opengov.seoul.go.kr/expense/32985688,2025-02-07,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32997055,4,https://opengov.seoul.go.kr/expense/32997055,2025-02-07,seoul_city,물순환안전국 물재생계획과,삼우정,서울 중구 서소문로 134-12,285000,uncertain,meeting_only_uncertain,p10
+opengov:32974358,10,https://opengov.seoul.go.kr/expense/32974358,2025-02-10,seoul_council,서울시의회사무처 도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,72000,uncertain,meeting_only_uncertain,p10
+opengov:32985654,14,https://opengov.seoul.go.kr/expense/32985654,2025-02-10,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32985669,11,https://opengov.seoul.go.kr/expense/32985669,2025-02-10,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,518000,uncertain,meeting_only_uncertain,p10
+opengov:32985682,20,https://opengov.seoul.go.kr/expense/32985682,2025-02-10,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32941251,11,https://opengov.seoul.go.kr/expense/32941251,2025-02-11,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:32984592,15,https://opengov.seoul.go.kr/expense/32984592,2025-02-11,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:32985443,6,https://opengov.seoul.go.kr/expense/32985443,2025-02-11,seoul_city,디자인정책관 디자인산업담당관,삼우정,서울 중구 서소문로 134-12,80000,uncertain,meeting_only_uncertain,p10
+opengov:32939973,5,https://opengov.seoul.go.kr/expense/32939973,2025-02-12,seoul_city,도시공간본부 도시재창조과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32995789,5,https://opengov.seoul.go.kr/expense/32995789,2025-02-12,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,117000,uncertain,meeting_only_uncertain,p10
+opengov:32951636,2,https://opengov.seoul.go.kr/expense/32951636,2025-02-13,seoul_city,감사위원회 공공감사담당관,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:32985435,19,https://opengov.seoul.go.kr/expense/32985435,2025-02-13,seoul_council,의정담당관,삼우정,서울 중구 서소문로 134-12,274000,uncertain,meeting_only_uncertain,p10
+opengov:32941251,15,https://opengov.seoul.go.kr/expense/32941251,2025-02-14,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:32985648,25,https://opengov.seoul.go.kr/expense/32985648,2025-02-18,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32985689,42,https://opengov.seoul.go.kr/expense/32985689,2025-02-18,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,154000,uncertain,meeting_only_uncertain,p10
+opengov:32941223,26,https://opengov.seoul.go.kr/expense/32941223,2025-02-19,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:32963664,8,https://opengov.seoul.go.kr/expense/32963664,2025-02-20,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,39000,uncertain,meeting_only_uncertain,p10
+opengov:33017151,22,https://opengov.seoul.go.kr/expense/33017151,2025-02-20,seoul_office,미래한강본부 총무부 총무과,삼우정,서울 중구 서소문로 134-12,121000,uncertain,meeting_only_uncertain,p10
+opengov:32941254,9,https://opengov.seoul.go.kr/expense/32941254,2025-02-21,seoul_city,디지털도시국 정보시스템과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:32983269,198,https://opengov.seoul.go.kr/expense/32983269,2025-02-21,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:32983269,200,https://opengov.seoul.go.kr/expense/32983269,2025-02-21,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,190000,uncertain,meeting_only_uncertain,p10
+opengov:32985682,40,https://opengov.seoul.go.kr/expense/32985682,2025-02-24,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,246000,uncertain,meeting_only_uncertain,p10
+opengov:32940292,14,https://opengov.seoul.go.kr/expense/32940292,2025-02-25,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:32985671,7,https://opengov.seoul.go.kr/expense/32985671,2025-02-25,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:32985689,65,https://opengov.seoul.go.kr/expense/32985689,2025-02-26,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,237000,uncertain,meeting_only_uncertain,p10
+opengov:32985688,38,https://opengov.seoul.go.kr/expense/32985688,2025-02-27,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,57000,meal,explicit_meal_word,p10
+opengov:32963674,18,https://opengov.seoul.go.kr/expense/32963674,2025-02-28,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,180000,uncertain,meeting_only_uncertain,p10
+opengov:33152550,3,https://opengov.seoul.go.kr/expense/33152550,2025-03-05,seoul_council,재정분석담당관,삼우정,서울 중구 서소문로 134-12,167000,uncertain,meeting_only_uncertain,p10
+opengov:33166328,1,https://opengov.seoul.go.kr/expense/33166328,2025-03-05,seoul_office,보건환경연구원 운영기획부,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:33177859,3,https://opengov.seoul.go.kr/expense/33177859,2025-03-05,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33199348,8,https://opengov.seoul.go.kr/expense/33199348,2025-03-06,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:33153776,4,https://opengov.seoul.go.kr/expense/33153776,2025-03-07,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33164992,2,https://opengov.seoul.go.kr/expense/33164992,2025-03-07,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,315000,uncertain,meeting_only_uncertain,p10
+opengov:33199468,5,https://opengov.seoul.go.kr/expense/33199468,2025-03-07,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33220326,5,https://opengov.seoul.go.kr/expense/33220326,2025-03-07,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:33140861,5,https://opengov.seoul.go.kr/expense/33140861,2025-03-10,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,76000,meal,explicit_meal_word,p10
+opengov:33166341,9,https://opengov.seoul.go.kr/expense/33166341,2025-03-10,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,116000,uncertain,meeting_only_uncertain,p10
+opengov:33199348,14,https://opengov.seoul.go.kr/expense/33199348,2025-03-10,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,39000,uncertain,meeting_only_uncertain,p10
+opengov:33199468,6,https://opengov.seoul.go.kr/expense/33199468,2025-03-10,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33209071,56,https://opengov.seoul.go.kr/expense/33209071,2025-03-10,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:33209066,10,https://opengov.seoul.go.kr/expense/33209066,2025-03-11,seoul_city,주택실 주택정책과,삼우정,서울 중구 서소문로 134-12,298000,uncertain,meeting_only_uncertain,p10
+opengov:33239280,13,https://opengov.seoul.go.kr/expense/33239280,2025-03-12,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,133000,meal,explicit_meal_word,p10
+opengov:33229598,9,https://opengov.seoul.go.kr/expense/33229598,2025-03-13,seoul_council,의회사무처 도시안전건설전문위원실,삼우정,서울 중구 서소문로 134-12,228000,uncertain,meeting_only_uncertain,p10
+opengov:33188813,13,https://opengov.seoul.go.kr/expense/33188813,2025-03-17,seoul_council,서울특별시의회사무처 현장민원담당관,삼우정,서울 중구 서소문로 134-12,181000,uncertain,meeting_only_uncertain,p10
+opengov:33199475,8,https://opengov.seoul.go.kr/expense/33199475,2025-03-17,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33209071,121,https://opengov.seoul.go.kr/expense/33209071,2025-03-17,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:33210265,15,https://opengov.seoul.go.kr/expense/33210265,2025-03-18,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33220326,14,https://opengov.seoul.go.kr/expense/33220326,2025-03-18,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:33166340,10,https://opengov.seoul.go.kr/expense/33166340,2025-03-20,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,97000,uncertain,meeting_only_uncertain,p10
+opengov:33152550,22,https://opengov.seoul.go.kr/expense/33152550,2025-03-21,seoul_council,재정분석담당관,삼우정,서울 중구 서소문로 134-12,167000,uncertain,meeting_only_uncertain,p10
+opengov:33229623,58,https://opengov.seoul.go.kr/expense/33229623,2025-03-25,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33239280,32,https://opengov.seoul.go.kr/expense/33239280,2025-03-26,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,190000,uncertain,meeting_only_uncertain,p10
+opengov:33177859,26,https://opengov.seoul.go.kr/expense/33177859,2025-03-27,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33220013,11,https://opengov.seoul.go.kr/expense/33220013,2025-03-27,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,90000,uncertain,meeting_only_uncertain,p10
+opengov:33228392,15,https://opengov.seoul.go.kr/expense/33228392,2025-03-27,seoul_city,경제실 첨단산업과,삼우정,서울 중구 서소문로 134-12,160000,uncertain,meeting_only_uncertain,p10
+opengov:33177871,13,https://opengov.seoul.go.kr/expense/33177871,2025-03-28,seoul_council,교통전문위원실,삼우정,서울 중구 서소문로 134-12,124000,uncertain,meeting_only_uncertain,p10
+opengov:33199460,16,https://opengov.seoul.go.kr/expense/33199460,2025-03-28,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,150000,uncertain,meeting_only_uncertain,p10
+opengov:33153794,8,https://opengov.seoul.go.kr/expense/33153794,2025-03-31,seoul_city,기후환경본부 대기정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33177859,29,https://opengov.seoul.go.kr/expense/33177859,2025-03-31,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33382572,3,https://opengov.seoul.go.kr/expense/33382572,2025-04-02,seoul_council,재정분석담당관,삼우정,서울 중구 서소문로 134-12,167000,uncertain,meeting_only_uncertain,p10
+opengov:33404704,6,https://opengov.seoul.go.kr/expense/33404704,2025-04-03,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,324000,uncertain,meeting_only_uncertain,p10
+opengov:33406216,1,https://opengov.seoul.go.kr/expense/33406216,2025-04-03,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33417519,5,https://opengov.seoul.go.kr/expense/33417519,2025-04-03,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33490047,2,https://opengov.seoul.go.kr/expense/33490047,2025-04-03,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33392416,5,https://opengov.seoul.go.kr/expense/33392416,2025-04-08,seoul_council,서울특별시의회사무처 현장민원담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33430100,22,https://opengov.seoul.go.kr/expense/33430100,2025-04-08,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,181000,uncertain,meeting_only_uncertain,p10
+opengov:33416478,15,https://opengov.seoul.go.kr/expense/33416478,2025-04-09,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33429137,4,https://opengov.seoul.go.kr/expense/33429137,2025-04-09,seoul_city,시민건강국 감염병관리과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33405991,7,https://opengov.seoul.go.kr/expense/33405991,2025-04-14,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33406238,16,https://opengov.seoul.go.kr/expense/33406238,2025-04-14,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,80000,uncertain,meeting_only_uncertain,p10
+opengov:33392418,11,https://opengov.seoul.go.kr/expense/33392418,2025-04-15,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:33383894,4,https://opengov.seoul.go.kr/expense/33383894,2025-04-17,seoul_city,도시공간본부 도시재창조과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33416493,30,https://opengov.seoul.go.kr/expense/33416493,2025-04-17,seoul_council,의정담당관,삼우정,서울 중구 서소문로 134-12,248000,uncertain,meeting_only_uncertain,p10
+opengov:33430101,7,https://opengov.seoul.go.kr/expense/33430101,2025-04-17,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:33405983,20,https://opengov.seoul.go.kr/expense/33405983,2025-04-22,seoul_city,건축기획과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33406240,14,https://opengov.seoul.go.kr/expense/33406240,2025-04-22,seoul_city,교통실 도시철도과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33417507,46,https://opengov.seoul.go.kr/expense/33417507,2025-04-22,seoul_city,홍보기획관 홍보담당관,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33440718,15,https://opengov.seoul.go.kr/expense/33440718,2025-04-22,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33405994,8,https://opengov.seoul.go.kr/expense/33405994,2025-04-24,seoul_city,균형발전본부 동북권사업과,삼우정,서울 중구 서소문로 134-12,320000,uncertain,meeting_only_uncertain,p10
+opengov:33430113,19,https://opengov.seoul.go.kr/expense/33430113,2025-04-28,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,75000,uncertain,meeting_only_uncertain,p10
+opengov:33430100,77,https://opengov.seoul.go.kr/expense/33430100,2025-04-29,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:33382568,69,https://opengov.seoul.go.kr/expense/33382568,2025-04-30,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,90000,uncertain,meeting_only_uncertain,p10
+opengov:33383900,18,https://opengov.seoul.go.kr/expense/33383900,2025-04-30,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,153000,uncertain,meeting_only_uncertain,p10
+opengov:33417507,64,https://opengov.seoul.go.kr/expense/33417507,2025-04-30,seoul_city,홍보기획관 홍보담당관,삼우정,서울 중구 서소문로 134-12,85000,uncertain,meeting_only_uncertain,p10
+opengov:33417519,54,https://opengov.seoul.go.kr/expense/33417519,2025-04-30,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,uncertain,meeting_only_uncertain,p10
+opengov:33430100,85,https://opengov.seoul.go.kr/expense/33430100,2025-04-30,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,80000,uncertain,meeting_only_uncertain,p10
+opengov:33439689,16,https://opengov.seoul.go.kr/expense/33439689,2025-04-30,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,41000,uncertain,no_explicit_meal_word,p10
+opengov:33599587,6,https://opengov.seoul.go.kr/expense/33599587,2025-05-07,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33586788,5,https://opengov.seoul.go.kr/expense/33586788,2025-05-12,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,95000,meal,explicit_meal_word,p10
+opengov:33624346,13,https://opengov.seoul.go.kr/expense/33624346,2025-05-13,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,398000,uncertain,meeting_only_uncertain,p10
+opengov:33600335,13,https://opengov.seoul.go.kr/expense/33600335,2025-05-14,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33586768,8,https://opengov.seoul.go.kr/expense/33586768,2025-05-16,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:33612373,2,https://opengov.seoul.go.kr/expense/33612373,2025-05-16,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33675340,33,https://opengov.seoul.go.kr/expense/33675340,2025-05-19,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33600583,5,https://opengov.seoul.go.kr/expense/33600583,2025-05-20,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33624130,142,https://opengov.seoul.go.kr/expense/33624130,2025-05-20,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:33599587,20,https://opengov.seoul.go.kr/expense/33599587,2025-05-21,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,205000,uncertain,meeting_only_uncertain,p10
+opengov:33612356,11,https://opengov.seoul.go.kr/expense/33612356,2025-05-23,seoul_city,시민건강국 식품정책과,삼우정,서울 중구 서소문로 134-12,77000,uncertain,meeting_only_uncertain,p10
+opengov:33635004,5,https://opengov.seoul.go.kr/expense/33635004,2025-05-23,seoul_city,재난안전실 도로기획관 도로시설과,삼우정,서울 중구 서소문로 134-12,200000,uncertain,meeting_only_uncertain,p10
+opengov:33624332,12,https://opengov.seoul.go.kr/expense/33624332,2025-05-26,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,39000,uncertain,meeting_only_uncertain,p10
+opengov:33612355,16,https://opengov.seoul.go.kr/expense/33612355,2025-05-27,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33600583,10,https://opengov.seoul.go.kr/expense/33600583,2025-05-29,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33600328,23,https://opengov.seoul.go.kr/expense/33600328,2025-05-30,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:33624339,19,https://opengov.seoul.go.kr/expense/33624339,2025-05-30,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,250000,uncertain,meeting_only_uncertain,p10
+opengov:33636146,57,https://opengov.seoul.go.kr/expense/33636146,2025-05-30,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,200000,uncertain,meeting_only_uncertain,p10
+opengov:33815028,1,https://opengov.seoul.go.kr/expense/33815028,2025-06-02,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,77000,uncertain,meeting_only_uncertain,p10
+opengov:33857936,1,https://opengov.seoul.go.kr/expense/33857936,2025-06-02,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33815028,5,https://opengov.seoul.go.kr/expense/33815028,2025-06-04,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33825301,2,https://opengov.seoul.go.kr/expense/33825301,2025-06-04,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33868357,8,https://opengov.seoul.go.kr/expense/33868357,2025-06-04,seoul_council,운영지원과(의장실),삼우정,서울 중구 서소문로 134-12,475000,uncertain,meeting_only_uncertain,p10
+opengov:33868898,7,https://opengov.seoul.go.kr/expense/33868898,2025-06-05,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,119000,uncertain,meeting_only_uncertain,p10
+opengov:33790683,1,https://opengov.seoul.go.kr/expense/33790683,2025-06-09,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,180000,uncertain,meeting_only_uncertain,p10
+opengov:33889467,3,https://opengov.seoul.go.kr/expense/33889467,2025-06-10,seoul_city,디지털도시국 데이터정책과,삼우정,서울 중구 서소문로 134-12,63000,uncertain,meeting_only_uncertain,p10
+opengov:33847551,4,https://opengov.seoul.go.kr/expense/33847551,2025-06-12,seoul_city,미래공간기획관 공공개발담당관,삼우정,서울 중구 서소문로 134-12,140000,uncertain,meeting_only_uncertain,p10
+opengov:33889481,7,https://opengov.seoul.go.kr/expense/33889481,2025-06-12,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,210000,uncertain,meeting_only_uncertain,p10
+opengov:33815699,6,https://opengov.seoul.go.kr/expense/33815699,2025-06-13,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,45000,uncertain,meeting_only_uncertain,p10
+opengov:33848795,17,https://opengov.seoul.go.kr/expense/33848795,2025-06-13,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33889481,9,https://opengov.seoul.go.kr/expense/33889481,2025-06-13,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,170000,uncertain,meeting_only_uncertain,p10
+opengov:33837028,25,https://opengov.seoul.go.kr/expense/33837028,2025-06-16,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,470000,uncertain,meeting_only_uncertain,p10
+opengov:33857943,16,https://opengov.seoul.go.kr/expense/33857943,2025-06-16,seoul_city,디지털도시국 디지털정책과,삼우정,서울 중구 서소문로 134-12,234000,uncertain,meeting_only_uncertain,p10
+opengov:33826586,4,https://opengov.seoul.go.kr/expense/33826586,2025-06-17,seoul_office,보건환경연구원 운영기획부,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:33848795,25,https://opengov.seoul.go.kr/expense/33848795,2025-06-17,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:33868357,24,https://opengov.seoul.go.kr/expense/33868357,2025-06-17,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,186000,uncertain,meeting_only_uncertain,p10
+opengov:33848773,14,https://opengov.seoul.go.kr/expense/33848773,2025-06-18,seoul_city,감사위원회 감사담당관,삼우정,서울 중구 서소문로 134-12,300000,uncertain,meeting_only_uncertain,p10
+opengov:33803296,67,https://opengov.seoul.go.kr/expense/33803296,2025-06-19,seoul_city,대변인 언론담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33826582,24,https://opengov.seoul.go.kr/expense/33826582,2025-06-19,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,247000,uncertain,meeting_only_uncertain,p10
+opengov:33837484,44,https://opengov.seoul.go.kr/expense/33837484,2025-06-19,seoul_city,기획조정실 기획담당관,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:33837554,25,https://opengov.seoul.go.kr/expense/33837554,2025-06-19,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:33868903,9,https://opengov.seoul.go.kr/expense/33868903,2025-06-19,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33889481,12,https://opengov.seoul.go.kr/expense/33889481,2025-06-19,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,285000,uncertain,meeting_only_uncertain,p10
+opengov:33987662,9,https://opengov.seoul.go.kr/expense/33987662,2025-06-19,seoul_city,평생교육국 청소년정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33815028,29,https://opengov.seoul.go.kr/expense/33815028,2025-06-20,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,115000,uncertain,meeting_only_uncertain,p10
+opengov:33825293,14,https://opengov.seoul.go.kr/expense/33825293,2025-06-23,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:33868900,33,https://opengov.seoul.go.kr/expense/33868900,2025-06-23,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,133000,meal,explicit_meal_word,p10
+opengov:33848782,10,https://opengov.seoul.go.kr/expense/33848782,2025-06-24,seoul_city,도시정비과,삼우정,서울 중구 서소문로 134-12,154500,uncertain,meeting_only_uncertain,p10
+opengov:33868900,37,https://opengov.seoul.go.kr/expense/33868900,2025-06-24,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,154500,uncertain,meeting_only_uncertain,p10
+opengov:33837554,35,https://opengov.seoul.go.kr/expense/33837554,2025-06-25,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,304000,uncertain,meeting_only_uncertain,p10
+opengov:33848789,26,https://opengov.seoul.go.kr/expense/33848789,2025-06-25,seoul_city,문화본부 문화정책과,삼우정,서울 중구 서소문로 134-12,400000,uncertain,meeting_only_uncertain,p10
+opengov:33868891,30,https://opengov.seoul.go.kr/expense/33868891,2025-06-25,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:33837570,10,https://opengov.seoul.go.kr/expense/33837570,2025-06-26,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,85000,uncertain,meeting_only_uncertain,p10
+opengov:33804530,30,https://opengov.seoul.go.kr/expense/33804530,2025-06-27,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:33825302,18,https://opengov.seoul.go.kr/expense/33825302,2025-06-27,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:33868883,23,https://opengov.seoul.go.kr/expense/33868883,2025-06-27,seoul_city,기술심사담당관,삼우정,서울 중구 서소문로 134-12,100000,uncertain,meeting_only_uncertain,p10
+opengov:33847524,13,https://opengov.seoul.go.kr/expense/33847524,2025-06-30,seoul_city,물순환안전국 물재생계획과,삼우정,서울 중구 서소문로 134-12,120000,uncertain,meeting_only_uncertain,p10
+opengov:33848782,12,https://opengov.seoul.go.kr/expense/33848782,2025-06-30,seoul_city,도시정비과,삼우정,서울 중구 서소문로 134-12,405000,meal,explicit_meal_word,p10
+opengov:34066363,1,https://opengov.seoul.go.kr/expense/34066363,2025-07-01,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34077519,1,https://opengov.seoul.go.kr/expense/34077519,2025-07-01,seoul_city,재무국 재무과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34025112,2,https://opengov.seoul.go.kr/expense/34025112,2025-07-03,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34059241,7,https://opengov.seoul.go.kr/expense/34059241,2025-07-03,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34077474,2,https://opengov.seoul.go.kr/expense/34077474,2025-07-03,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34077481,10,https://opengov.seoul.go.kr/expense/34077481,2025-07-07,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34077510,37,https://opengov.seoul.go.kr/expense/34077510,2025-07-07,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34096976,7,https://opengov.seoul.go.kr/expense/34096976,2025-07-07,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34049232,21,https://opengov.seoul.go.kr/expense/34049232,2025-07-09,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,uncertain,meeting_only_uncertain,p10
+opengov:34144642,8,https://opengov.seoul.go.kr/expense/34144642,2025-07-09,seoul_city,감사위원회 감사담당관,삼우정,서울 중구 서소문로 134-12,234000,uncertain,meeting_only_uncertain,p10
+opengov:34037439,6,https://opengov.seoul.go.kr/expense/34037439,2025-07-11,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34059225,22,https://opengov.seoul.go.kr/expense/34059225,2025-07-11,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,107500,uncertain,meeting_only_uncertain,p10
+opengov:34077485,16,https://opengov.seoul.go.kr/expense/34077485,2025-07-11,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,57000,meal,explicit_meal_word,p10
+opengov:34058176,19,https://opengov.seoul.go.kr/expense/34058176,2025-07-14,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34086536,16,https://opengov.seoul.go.kr/expense/34086536,2025-07-14,seoul_office,동부공원여가센터 공원운영과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:34059224,5,https://opengov.seoul.go.kr/expense/34059224,2025-07-15,seoul_city,디지털도시국 정보시스템과,삼우정,서울 중구 서소문로 134-12,150000,uncertain,meeting_only_uncertain,p10
+opengov:34144638,16,https://opengov.seoul.go.kr/expense/34144638,2025-07-15,seoul_city,주택정책과,삼우정,서울 중구 서소문로 134-12,272000,uncertain,meeting_only_uncertain,p10
+opengov:34067499,9,https://opengov.seoul.go.kr/expense/34067499,2025-07-16,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,93000,uncertain,meeting_only_uncertain,p10
+opengov:34077510,110,https://opengov.seoul.go.kr/expense/34077510,2025-07-16,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34086130,35,https://opengov.seoul.go.kr/expense/34086130,2025-07-16,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,244000,uncertain,meeting_only_uncertain,p10
+opengov:34025084,10,https://opengov.seoul.go.kr/expense/34025084,2025-07-17,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34049232,37,https://opengov.seoul.go.kr/expense/34049232,2025-07-17,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,72000,uncertain,meeting_only_uncertain,p10
+opengov:34086709,23,https://opengov.seoul.go.kr/expense/34086709,2025-07-17,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34035941,11,https://opengov.seoul.go.kr/expense/34035941,2025-07-18,seoul_city,민생노동국 상권활성화과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34016219,14,https://opengov.seoul.go.kr/expense/34016219,2025-07-21,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34025084,13,https://opengov.seoul.go.kr/expense/34025084,2025-07-21,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34049247,13,https://opengov.seoul.go.kr/expense/34049247,2025-07-21,seoul_city,기후환경본부 대기정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34016219,16,https://opengov.seoul.go.kr/expense/34016219,2025-07-23,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34087203,18,https://opengov.seoul.go.kr/expense/34087203,2025-07-23,seoul_city,기술심사담당관,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34077540,15,https://opengov.seoul.go.kr/expense/34077540,2025-07-24,seoul_city,평생교육국 평생교육과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34077481,46,https://opengov.seoul.go.kr/expense/34077481,2025-07-25,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34086130,61,https://opengov.seoul.go.kr/expense/34086130,2025-07-28,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,200000,uncertain,meeting_only_uncertain,p10
+opengov:34077491,5,https://opengov.seoul.go.kr/expense/34077491,2025-07-29,seoul_office,서울아리수본부 급수부 계획설계과,삼우정,서울 중구 서소문로 134-12,109000,uncertain,meeting_only_uncertain,p10
+opengov:34086139,11,https://opengov.seoul.go.kr/expense/34086139,2025-07-29,seoul_office,서울시립과학관 총무과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34034817,40,https://opengov.seoul.go.kr/expense/34034817,2025-07-30,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,170000,uncertain,meeting_only_uncertain,p10
+opengov:34058176,53,https://opengov.seoul.go.kr/expense/34058176,2025-07-30,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,81000,uncertain,meeting_only_uncertain,p10
+opengov:34059241,44,https://opengov.seoul.go.kr/expense/34059241,2025-07-30,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34067506,12,https://opengov.seoul.go.kr/expense/34067506,2025-07-30,seoul_city,재무국 계약심사과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34076401,14,https://opengov.seoul.go.kr/expense/34076401,2025-07-30,seoul_city,평생교육국 청소년정책과,삼우정,서울 중구 서소문로 134-12,228000,uncertain,meeting_only_uncertain,p10
+opengov:34257470,3,https://opengov.seoul.go.kr/expense/34257470,2025-08-04,seoul_city,관광체육국 체육정책과,삼우정,서울 중구 서소문로 134-12,67000,uncertain,meeting_only_uncertain,p10
+opengov:34278356,5,https://opengov.seoul.go.kr/expense/34278356,2025-08-05,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34243924,2,https://opengov.seoul.go.kr/expense/34243924,2025-08-07,seoul_city,도시공간본부 시설계획과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34289487,4,https://opengov.seoul.go.kr/expense/34289487,2025-08-08,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34267819,2,https://opengov.seoul.go.kr/expense/34267819,2025-08-11,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34289484,64,https://opengov.seoul.go.kr/expense/34289484,2025-08-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,113000,uncertain,meeting_only_uncertain,p10
+opengov:34299609,21,https://opengov.seoul.go.kr/expense/34299609,2025-08-11,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,76000,meal,explicit_meal_word,p10
+opengov:34254446,3,https://opengov.seoul.go.kr/expense/34254446,2025-08-13,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,58000,uncertain,meeting_only_uncertain,p10
+opengov:34267819,3,https://opengov.seoul.go.kr/expense/34267819,2025-08-13,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34278366,6,https://opengov.seoul.go.kr/expense/34278366,2025-08-13,seoul_city,감사위원회 공공감사담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34299596,27,https://opengov.seoul.go.kr/expense/34299596,2025-08-14,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34267819,5,https://opengov.seoul.go.kr/expense/34267819,2025-08-18,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34267797,14,https://opengov.seoul.go.kr/expense/34267797,2025-08-19,seoul_office,북부공원여가센터 공원운영과,삼우정,서울 중구 서소문로 134-12,134000,uncertain,meeting_only_uncertain,p10
+opengov:34289533,4,https://opengov.seoul.go.kr/expense/34289533,2025-08-19,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34299641,6,https://opengov.seoul.go.kr/expense/34299641,2025-08-19,seoul_city,정원도시국 공원조성과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34243906,8,https://opengov.seoul.go.kr/expense/34243906,2025-08-20,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,95000,meal,explicit_meal_word,p10
+opengov:34289465,37,https://opengov.seoul.go.kr/expense/34289465,2025-08-22,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,442000,uncertain,meeting_only_uncertain,p10
+opengov:34299638,7,https://opengov.seoul.go.kr/expense/34299638,2025-08-25,seoul_city,주택실 부동산정책개발센터,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:34220898,38,https://opengov.seoul.go.kr/expense/34220898,2025-08-27,seoul_city,디자인정책담당관,삼우정,서울 중구 서소문로 134-12,92000,uncertain,meeting_only_uncertain,p10
+opengov:34243906,11,https://opengov.seoul.go.kr/expense/34243906,2025-08-27,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34299596,51,https://opengov.seoul.go.kr/expense/34299596,2025-08-27,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34289530,9,https://opengov.seoul.go.kr/expense/34289530,2025-08-28,seoul_office,학예연구부 전시교육과,삼우정,서울 중구 서소문로 134-12,418000,uncertain,meeting_only_uncertain,p10
+opengov:34465683,6,https://opengov.seoul.go.kr/expense/34465683,2025-09-03,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,247000,uncertain,meeting_only_uncertain,p10
+opengov:34454099,3,https://opengov.seoul.go.kr/expense/34454099,2025-09-05,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34454101,12,https://opengov.seoul.go.kr/expense/34454101,2025-09-05,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34440887,1,https://opengov.seoul.go.kr/expense/34440887,2025-09-08,seoul_city,문화본부 문화시설과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34482219,4,https://opengov.seoul.go.kr/expense/34482219,2025-09-08,seoul_city,재무국 세무과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34484005,1,https://opengov.seoul.go.kr/expense/34484005,2025-09-08,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34622069,6,https://opengov.seoul.go.kr/expense/34622069,2025-09-08,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34442151,26,https://opengov.seoul.go.kr/expense/34442151,2025-09-09,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34465695,1,https://opengov.seoul.go.kr/expense/34465695,2025-09-09,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34483996,71,https://opengov.seoul.go.kr/expense/34483996,2025-09-09,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:34466423,7,https://opengov.seoul.go.kr/expense/34466423,2025-09-10,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:34482768,18,https://opengov.seoul.go.kr/expense/34482768,2025-09-11,seoul_fire,소방재난본부 소방행정과,삼우정,서울 중구 서소문로 134-12,122000,uncertain,meeting_only_uncertain,p10
+opengov:34483938,22,https://opengov.seoul.go.kr/expense/34483938,2025-09-12,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,uncertain,meeting_only_uncertain,p10
+opengov:34481819,12,https://opengov.seoul.go.kr/expense/34481819,2025-09-16,seoul_city,정원도시국 공원조성과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34483830,39,https://opengov.seoul.go.kr/expense/34483830,2025-09-16,seoul_council,운영지원과(의장실),삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34454136,8,https://opengov.seoul.go.kr/expense/34454136,2025-09-17,seoul_city,기후환경본부 친환경건물과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34467183,11,https://opengov.seoul.go.kr/expense/34467183,2025-09-17,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,32000,uncertain,meeting_only_uncertain,p10
+opengov:34483822,30,https://opengov.seoul.go.kr/expense/34483822,2025-09-17,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34483830,44,https://opengov.seoul.go.kr/expense/34483830,2025-09-17,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,120000,uncertain,meeting_only_uncertain,p10
+opengov:34483938,28,https://opengov.seoul.go.kr/expense/34483938,2025-09-17,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34484006,41,https://opengov.seoul.go.kr/expense/34484006,2025-09-19,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34452870,28,https://opengov.seoul.go.kr/expense/34452870,2025-09-22,seoul_council,시의회사무처 의정국 법제과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34483962,8,https://opengov.seoul.go.kr/expense/34483962,2025-09-24,seoul_council,문화체육관광전문위원실,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:34495650,12,https://opengov.seoul.go.kr/expense/34495650,2025-09-24,seoul_city,정원도시국 조경과,삼우정,서울 중구 서소문로 134-12,190000,uncertain,meeting_only_uncertain,p10
+opengov:34484006,59,https://opengov.seoul.go.kr/expense/34484006,2025-09-25,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34483942,18,https://opengov.seoul.go.kr/expense/34483942,2025-09-26,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34483996,236,https://opengov.seoul.go.kr/expense/34483996,2025-09-26,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:34454101,51,https://opengov.seoul.go.kr/expense/34454101,2025-09-30,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34483828,14,https://opengov.seoul.go.kr/expense/34483828,2025-09-30,seoul_city,평생교육국 청소년정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34667907,1,https://opengov.seoul.go.kr/expense/34667907,2025-10-01,seoul_city,디지털도시국 정보시스템과,삼우정,서울 중구 서소문로 134-12,266000,uncertain,meeting_only_uncertain,p10
+opengov:34722640,1,https://opengov.seoul.go.kr/expense/34722640,2025-10-01,seoul_city,홍보기획관 민원담당관,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34691330,3,https://opengov.seoul.go.kr/expense/34691330,2025-10-13,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34679735,7,https://opengov.seoul.go.kr/expense/34679735,2025-10-16,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34669095,18,https://opengov.seoul.go.kr/expense/34669095,2025-10-17,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34669113,29,https://opengov.seoul.go.kr/expense/34669113,2025-10-20,seoul_city,경제실 경제정책과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:34711333,6,https://opengov.seoul.go.kr/expense/34711333,2025-10-20,seoul_city,물순환안전국 물재생계획과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34733513,12,https://opengov.seoul.go.kr/expense/34733513,2025-10-20,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35214341,9,https://opengov.seoul.go.kr/expense/35214341,2025-10-21,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,163000,uncertain,meeting_only_uncertain,p10
+opengov:34669095,28,https://opengov.seoul.go.kr/expense/34669095,2025-10-23,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34669095,30,https://opengov.seoul.go.kr/expense/34669095,2025-10-23,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,253000,uncertain,meeting_only_uncertain,p10
+opengov:34701379,6,https://opengov.seoul.go.kr/expense/34701379,2025-10-23,seoul_city,평생교육국 평생교육과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34701384,150,https://opengov.seoul.go.kr/expense/34701384,2025-10-23,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:34655469,9,https://opengov.seoul.go.kr/expense/34655469,2025-10-24,seoul_city,민생노동국 상권활성화과,삼우정,서울 중구 서소문로 134-12,84000,uncertain,meeting_only_uncertain,p10
+opengov:34655622,21,https://opengov.seoul.go.kr/expense/34655622,2025-10-27,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,243000,uncertain,meeting_only_uncertain,p10
+opengov:34667922,36,https://opengov.seoul.go.kr/expense/34667922,2025-10-27,seoul_city,디자인정책관 디자인정책담당관,삼우정,서울 중구 서소문로 134-12,327000,uncertain,meeting_only_uncertain,p10
+opengov:34655642,11,https://opengov.seoul.go.kr/expense/34655642,2025-10-30,seoul_office,데이터센터 기획관리과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34669132,7,https://opengov.seoul.go.kr/expense/34669132,2025-10-31,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34711340,31,https://opengov.seoul.go.kr/expense/34711340,2025-10-31,seoul_city,재무국 재무과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34722636,18,https://opengov.seoul.go.kr/expense/34722636,2025-10-31,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34876693,1,https://opengov.seoul.go.kr/expense/34876693,2025-11-03,seoul_city,감사위원회 공공감사담당관,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34889837,2,https://opengov.seoul.go.kr/expense/34889837,2025-11-03,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34904044,1,https://opengov.seoul.go.kr/expense/34904044,2025-11-03,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34876506,5,https://opengov.seoul.go.kr/expense/34876506,2025-11-04,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,228000,uncertain,meeting_only_uncertain,p10
+opengov:34904042,6,https://opengov.seoul.go.kr/expense/34904042,2025-11-04,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,475000,uncertain,meeting_only_uncertain,p10
+opengov:34952062,2,https://opengov.seoul.go.kr/expense/34952062,2025-11-04,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34902478,6,https://opengov.seoul.go.kr/expense/34902478,2025-11-05,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,60000,uncertain,meeting_only_uncertain,p10
+opengov:34962128,7,https://opengov.seoul.go.kr/expense/34962128,2025-11-05,seoul_city,감사위원회 조사담당관,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34889839,5,https://opengov.seoul.go.kr/expense/34889839,2025-11-06,seoul_city,여성가족실 가족담당관,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34889844,8,https://opengov.seoul.go.kr/expense/34889844,2025-11-06,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34891345,1,https://opengov.seoul.go.kr/expense/34891345,2025-11-06,seoul_fire,소방재난본부 소방감사담당관,삼우정,서울 중구 서소문로 134-12,490000,uncertain,meeting_only_uncertain,p10
+opengov:34876541,4,https://opengov.seoul.go.kr/expense/34876541,2025-11-07,seoul_fire,소방재난본부현장대응단,삼우정,서울 중구 서소문로 134-12,490000,uncertain,meeting_only_uncertain,p10
+opengov:34952051,67,https://opengov.seoul.go.kr/expense/34952051,2025-11-10,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34876507,6,https://opengov.seoul.go.kr/expense/34876507,2025-11-11,seoul_city,주택정책실한옥건축자산과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:34876700,7,https://opengov.seoul.go.kr/expense/34876700,2025-11-11,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,115000,uncertain,meeting_only_uncertain,p10
+opengov:34904037,9,https://opengov.seoul.go.kr/expense/34904037,2025-11-11,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34915128,4,https://opengov.seoul.go.kr/expense/34915128,2025-11-11,seoul_city,복지실 돌봄고독정책관 어르신복지과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:34952051,77,https://opengov.seoul.go.kr/expense/34952051,2025-11-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,237000,uncertain,meeting_only_uncertain,p10
+opengov:34889844,21,https://opengov.seoul.go.kr/expense/34889844,2025-11-12,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34952051,101,https://opengov.seoul.go.kr/expense/34952051,2025-11-13,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,59000,uncertain,meeting_only_uncertain,p10
+opengov:34861382,3,https://opengov.seoul.go.kr/expense/34861382,2025-11-14,seoul_city,문화본부 문화시설과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:35036285,16,https://opengov.seoul.go.kr/expense/35036285,2025-11-14,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:34952051,164,https://opengov.seoul.go.kr/expense/34952051,2025-11-20,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:34876509,1,https://opengov.seoul.go.kr/expense/34876509,2025-11-24,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,150000,uncertain,meeting_only_uncertain,p10
+opengov:35036285,22,https://opengov.seoul.go.kr/expense/35036285,2025-11-24,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:34902484,26,https://opengov.seoul.go.kr/expense/34902484,2025-11-25,seoul_office,서울아리수본부 남부수도사업소,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:34891332,10,https://opengov.seoul.go.kr/expense/34891332,2025-11-26,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,100000,uncertain,no_explicit_meal_word,p10
+opengov:34904037,21,https://opengov.seoul.go.kr/expense/34904037,2025-11-26,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:34915139,44,https://opengov.seoul.go.kr/expense/34915139,2025-11-26,seoul_city,시민건강국 보건의료정책과,삼우정,서울 중구 서소문로 134-12,202000,uncertain,meeting_only_uncertain,p10
+opengov:34952052,7,https://opengov.seoul.go.kr/expense/34952052,2025-11-26,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:34963695,18,https://opengov.seoul.go.kr/expense/34963695,2025-11-26,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,260000,uncertain,meeting_only_uncertain,p10
+opengov:34876509,4,https://opengov.seoul.go.kr/expense/34876509,2025-11-27,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,200000,uncertain,meeting_only_uncertain,p10
+opengov:34876536,27,https://opengov.seoul.go.kr/expense/34876536,2025-11-27,seoul_city,물순환안전국 수변감성도시과,삼우정,서울 중구 서소문로 134-12,228000,uncertain,meeting_only_uncertain,p10
+opengov:34876569,30,https://opengov.seoul.go.kr/expense/34876569,2025-11-27,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,490000,uncertain,meeting_only_uncertain,p10
+opengov:34963695,20,https://opengov.seoul.go.kr/expense/34963695,2025-11-27,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,135000,meal,explicit_meal_word,p10
+opengov:34963722,12,https://opengov.seoul.go.kr/expense/34963722,2025-11-27,seoul_council,예산결산특별전문위원실,삼우정,서울 중구 서소문로 134-12,56000,uncertain,meeting_only_uncertain,p10
+opengov:34876700,18,https://opengov.seoul.go.kr/expense/34876700,2025-11-28,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,190000,uncertain,meeting_only_uncertain,p10
+opengov:34902486,23,https://opengov.seoul.go.kr/expense/34902486,2025-11-28,seoul_council,시의회사무처 의정국 법제과,삼우정,서울 중구 서소문로 134-12,200000,uncertain,meeting_only_uncertain,p10
+opengov:35111762,1,https://opengov.seoul.go.kr/expense/35111762,2025-12-01,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,150000,uncertain,meeting_only_uncertain,p10
+opengov:35196493,1,https://opengov.seoul.go.kr/expense/35196493,2025-12-01,seoul_council,교통전문위원실,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35144140,2,https://opengov.seoul.go.kr/expense/35144140,2025-12-03,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,266000,uncertain,meeting_only_uncertain,p10
+opengov:35167235,6,https://opengov.seoul.go.kr/expense/35167235,2025-12-03,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,450000,uncertain,meeting_only_uncertain,p10
+opengov:35157243,4,https://opengov.seoul.go.kr/expense/35157243,2025-12-04,seoul_city,재무국 세무과,삼우정,서울 중구 서소문로 134-12,143000,uncertain,meeting_only_uncertain,p10
+opengov:35212183,10,https://opengov.seoul.go.kr/expense/35212183,2025-12-04,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35177671,65,https://opengov.seoul.go.kr/expense/35177671,2025-12-05,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,61000,uncertain,meeting_only_uncertain,p10
+opengov:35197489,3,https://opengov.seoul.go.kr/expense/35197489,2025-12-08,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,490000,uncertain,meeting_only_uncertain,p10
+opengov:35214344,8,https://opengov.seoul.go.kr/expense/35214344,2025-12-08,seoul_city,교통실 택시정책과,삼우정,서울 중구 서소문로 134-12,197000,uncertain,meeting_only_uncertain,p10
+opengov:35446153,10,https://opengov.seoul.go.kr/expense/35446153,2025-12-08,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35177671,115,https://opengov.seoul.go.kr/expense/35177671,2025-12-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:35111762,3,https://opengov.seoul.go.kr/expense/35111762,2025-12-15,seoul_office,도시기반시설본부 시설국 안전관리과,삼우정,서울 중구 서소문로 134-12,150000,uncertain,meeting_only_uncertain,p10
+opengov:35145918,39,https://opengov.seoul.go.kr/expense/35145918,2025-12-15,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,304000,uncertain,meeting_only_uncertain,p10
+opengov:35145918,43,https://opengov.seoul.go.kr/expense/35145918,2025-12-16,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,83000,uncertain,meeting_only_uncertain,p10
+opengov:35167199,14,https://opengov.seoul.go.kr/expense/35167199,2025-12-16,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,224000,uncertain,meeting_only_uncertain,p10
+opengov:35214379,10,https://opengov.seoul.go.kr/expense/35214379,2025-12-16,seoul_city,기후환경본부 친환경차량과,삼우정,서울 중구 서소문로 134-12,116000,uncertain,meeting_only_uncertain,p10
+opengov:35204390,33,https://opengov.seoul.go.kr/expense/35204390,2025-12-17,seoul_office,서울대공원 경영관리부 총무과,삼우정,서울 중구 서소문로 134-12,350000,uncertain,meeting_only_uncertain,p10
+opengov:35205479,30,https://opengov.seoul.go.kr/expense/35205479,2025-12-17,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,380000,uncertain,meeting_only_uncertain,p10
+opengov:35223666,8,https://opengov.seoul.go.kr/expense/35223666,2025-12-17,seoul_city,38세금징수과,삼우정,서울 중구 서소문로 134-12,262000,uncertain,meeting_only_uncertain,p10
+opengov:35167284,15,https://opengov.seoul.go.kr/expense/35167284,2025-12-23,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35177657,8,https://opengov.seoul.go.kr/expense/35177657,2025-12-23,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35205468,6,https://opengov.seoul.go.kr/expense/35205468,2025-12-23,seoul_office,서울아리수본부 급수부 계획설계과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35167235,46,https://opengov.seoul.go.kr/expense/35167235,2025-12-24,seoul_city,정원도시국 정원도시정책과,삼우정,서울 중구 서소문로 134-12,490000,uncertain,meeting_only_uncertain,p10
+opengov:35197511,12,https://opengov.seoul.go.kr/expense/35197511,2025-12-24,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,315000,uncertain,meeting_only_uncertain,p10
+opengov:35177657,11,https://opengov.seoul.go.kr/expense/35177657,2025-12-26,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,228810,uncertain,meeting_only_uncertain,p10
+opengov:35177671,256,https://opengov.seoul.go.kr/expense/35177671,2025-12-26,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:35204422,34,https://opengov.seoul.go.kr/expense/35204422,2025-12-26,seoul_city,기획조정실 정책기획관 조직담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35241582,33,https://opengov.seoul.go.kr/expense/35241582,2025-12-26,seoul_council,재정분석과,삼우정,서울 중구 서소문로 134-12,167000,uncertain,meeting_only_uncertain,p10
+opengov:35177669,39,https://opengov.seoul.go.kr/expense/35177669,2025-12-29,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35157901,51,https://opengov.seoul.go.kr/expense/35157901,2025-12-30,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,158000,uncertain,meeting_only_uncertain,p10
+opengov:35197511,15,https://opengov.seoul.go.kr/expense/35197511,2025-12-30,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,455000,uncertain,meeting_only_uncertain,p10
+opengov:35204402,27,https://opengov.seoul.go.kr/expense/35204402,2025-12-30,seoul_city,경제실 창업정책과,삼우정,서울 중구 서소문로 134-12,180000,uncertain,meeting_only_uncertain,p10
+opengov:35223666,13,https://opengov.seoul.go.kr/expense/35223666,2025-12-30,seoul_city,38세금징수과,삼우정,서울 중구 서소문로 134-12,1027000,uncertain,meeting_only_uncertain,p10
+opengov:35197511,18,https://opengov.seoul.go.kr/expense/35197511,2025-12-31,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,379000,uncertain,meeting_only_uncertain,p10
+opengov:35410358,1,https://opengov.seoul.go.kr/expense/35410358,2026-01-05,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35420391,5,https://opengov.seoul.go.kr/expense/35420391,2026-01-05,seoul_council,운영지원과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35444898,1,https://opengov.seoul.go.kr/expense/35444898,2026-01-05,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35444898,2,https://opengov.seoul.go.kr/expense/35444898,2026-01-06,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,323000,uncertain,meeting_only_uncertain,p10
+opengov:35410152,4,https://opengov.seoul.go.kr/expense/35410152,2026-01-07,seoul_city,균형발전본부 광화문광장사업과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35446150,5,https://opengov.seoul.go.kr/expense/35446150,2026-01-08,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35388718,6,https://opengov.seoul.go.kr/expense/35388718,2026-01-09,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35378927,9,https://opengov.seoul.go.kr/expense/35378927,2026-01-12,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,77000,uncertain,meeting_only_uncertain,p10
+opengov:35357688,2,https://opengov.seoul.go.kr/expense/35357688,2026-01-13,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35410197,13,https://opengov.seoul.go.kr/expense/35410197,2026-01-13,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35398221,95,https://opengov.seoul.go.kr/expense/35398221,2026-01-14,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:35357588,8,https://opengov.seoul.go.kr/expense/35357588,2026-01-15,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35410171,6,https://opengov.seoul.go.kr/expense/35410171,2026-01-15,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35408993,15,https://opengov.seoul.go.kr/expense/35408993,2026-01-16,seoul_city,주택실 임대주택과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35410300,11,https://opengov.seoul.go.kr/expense/35410300,2026-01-16,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:35378925,28,https://opengov.seoul.go.kr/expense/35378925,2026-01-19,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35380352,11,https://opengov.seoul.go.kr/expense/35380352,2026-01-19,seoul_city,주택실 재정비촉진과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35410327,6,https://opengov.seoul.go.kr/expense/35410327,2026-01-19,seoul_city,건설기술정책관 건설혁신담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35410358,16,https://opengov.seoul.go.kr/expense/35410358,2026-01-19,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35421608,7,https://opengov.seoul.go.kr/expense/35421608,2026-01-19,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35357688,6,https://opengov.seoul.go.kr/expense/35357688,2026-01-20,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35399568,26,https://opengov.seoul.go.kr/expense/35399568,2026-01-20,seoul_city,정원도시정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35420401,7,https://opengov.seoul.go.kr/expense/35420401,2026-01-20,seoul_council,주택공간전문위원실,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35357653,6,https://opengov.seoul.go.kr/expense/35357653,2026-01-21,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35410185,4,https://opengov.seoul.go.kr/expense/35410185,2026-01-21,seoul_council,기획경제위원회,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:35410353,23,https://opengov.seoul.go.kr/expense/35410353,2026-01-21,seoul_office,미래한강본부 운영부 시민활동지원과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35410358,19,https://opengov.seoul.go.kr/expense/35410358,2026-01-21,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35410360,8,https://opengov.seoul.go.kr/expense/35410360,2026-01-21,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,policy_topic_uncertain,p10
+opengov:35388729,5,https://opengov.seoul.go.kr/expense/35388729,2026-01-23,seoul_city,균형발전본부 도시정비과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35398235,23,https://opengov.seoul.go.kr/expense/35398235,2026-01-23,seoul_council,도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:35378925,43,https://opengov.seoul.go.kr/expense/35378925,2026-01-26,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:35398221,202,https://opengov.seoul.go.kr/expense/35398221,2026-01-27,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:35421542,12,https://opengov.seoul.go.kr/expense/35421542,2026-01-27,seoul_city,물순환안전국 물재생시설과,삼우정,서울 중구 서소문로 134-12,72900,uncertain,meeting_only_uncertain,p10
+opengov:35367999,18,https://opengov.seoul.go.kr/expense/35367999,2026-01-28,seoul_city,교통실 미래첨단교통과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35421601,15,https://opengov.seoul.go.kr/expense/35421601,2026-01-29,seoul_city,건설기술정책관 지역건축안전센터,삼우정,서울 중구 서소문로 134-12,380000,uncertain,meeting_only_uncertain,p10
+opengov:35410185,9,https://opengov.seoul.go.kr/expense/35410185,2026-01-30,seoul_council,기획경제위원회,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:35547878,3,https://opengov.seoul.go.kr/expense/35547878,2026-02-04,seoul_city,재무국 세제과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35547926,7,https://opengov.seoul.go.kr/expense/35547926,2026-02-04,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35559440,9,https://opengov.seoul.go.kr/expense/35559440,2026-02-04,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35560823,4,https://opengov.seoul.go.kr/expense/35560823,2026-02-04,seoul_city,주택실 전략주택공급과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35595064,2,https://opengov.seoul.go.kr/expense/35595064,2026-02-04,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35583670,8,https://opengov.seoul.go.kr/expense/35583670,2026-02-05,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:35605738,43,https://opengov.seoul.go.kr/expense/35605738,2026-02-05,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35606777,2,https://opengov.seoul.go.kr/expense/35606777,2026-02-06,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35595244,5,https://opengov.seoul.go.kr/expense/35595244,2026-02-09,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35595233,7,https://opengov.seoul.go.kr/expense/35595233,2026-02-10,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,236000,uncertain,meeting_only_uncertain,p10
+opengov:35572195,8,https://opengov.seoul.go.kr/expense/35572195,2026-02-11,seoul_city,교통실 물류정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35605738,92,https://opengov.seoul.go.kr/expense/35605738,2026-02-11,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:35559475,7,https://opengov.seoul.go.kr/expense/35559475,2026-02-12,seoul_council,의정국 언론홍보과,삼우정,서울 중구 서소문로 134-12,282000,uncertain,meeting_only_uncertain,p10
+opengov:35560790,9,https://opengov.seoul.go.kr/expense/35560790,2026-02-12,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35595229,3,https://opengov.seoul.go.kr/expense/35595229,2026-02-12,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35547913,6,https://opengov.seoul.go.kr/expense/35547913,2026-02-13,seoul_council,의정국 의사과,삼우정,서울 중구 서소문로 134-12,124000,uncertain,meeting_only_uncertain,p10
+opengov:35559457,16,https://opengov.seoul.go.kr/expense/35559457,2026-02-13,seoul_council,도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,192000,uncertain,meeting_only_uncertain,p10
+opengov:35560824,26,https://opengov.seoul.go.kr/expense/35560824,2026-02-19,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35581592,8,https://opengov.seoul.go.kr/expense/35581592,2026-02-19,seoul_city,균형발전본부 광화문광장사업과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35606800,9,https://opengov.seoul.go.kr/expense/35606800,2026-02-20,seoul_city,물순환안전국 물재생시설과,삼우정,서울 중구 서소문로 134-12,248000,uncertain,meeting_only_uncertain,p10
+opengov:35559476,6,https://opengov.seoul.go.kr/expense/35559476,2026-02-23,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,no_explicit_meal_word,p10
+opengov:35605738,145,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,40000,uncertain,meeting_only_uncertain,p10
+opengov:35560824,33,https://opengov.seoul.go.kr/expense/35560824,2026-02-25,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:35581593,9,https://opengov.seoul.go.kr/expense/35581593,2026-02-26,seoul_city,교통실 택시정책과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:35595064,14,https://opengov.seoul.go.kr/expense/35595064,2026-02-26,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,190000,uncertain,meeting_only_uncertain,p10
+opengov:35572164,26,https://opengov.seoul.go.kr/expense/35572164,2026-02-27,seoul_council,의정국 재정분석과,삼우정,서울 중구 서소문로 134-12,170000,uncertain,meeting_only_uncertain,p10
+opengov:35812214,1,https://opengov.seoul.go.kr/expense/35812214,2026-03-03,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35823020,1,https://opengov.seoul.go.kr/expense/35823020,2026-03-03,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35824066,1,https://opengov.seoul.go.kr/expense/35824066,2026-03-03,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:35877464,1,https://opengov.seoul.go.kr/expense/35877464,2026-03-03,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35823039,3,https://opengov.seoul.go.kr/expense/35823039,2026-03-04,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35844315,1,https://opengov.seoul.go.kr/expense/35844315,2026-03-04,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35845480,2,https://opengov.seoul.go.kr/expense/35845480,2026-03-04,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,policy_topic_uncertain,p10
+opengov:35798918,1,https://opengov.seoul.go.kr/expense/35798918,2026-03-05,seoul_fire,소방재난본부 재난대응과,삼우정,서울 중구 서소문로 134-12,443000,uncertain,meeting_only_uncertain,p10
+opengov:35854644,1,https://opengov.seoul.go.kr/expense/35854644,2026-03-05,seoul_fire,소방재난본부 소방행정과,삼우정,서울 중구 서소문로 134-12,450000,uncertain,meeting_only_uncertain,p10
+opengov:35810599,3,https://opengov.seoul.go.kr/expense/35810599,2026-03-06,seoul_office,보건환경연구원 운영기획부,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35775003,5,https://opengov.seoul.go.kr/expense/35775003,2026-03-07,seoul_office,체육시설관리사업소 운영기획과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35776340,8,https://opengov.seoul.go.kr/expense/35776340,2026-03-09,seoul_city,문화본부 문화정책과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:35799977,3,https://opengov.seoul.go.kr/expense/35799977,2026-03-09,seoul_city,감사위원회 안전감사담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:35787109,2,https://opengov.seoul.go.kr/expense/35787109,2026-03-10,seoul_office,시립미술관 학예연구부 수집연구과,삼우정,서울 중구 서소문로 134-12,266000,uncertain,meeting_only_uncertain,p10
+opengov:35834086,56,https://opengov.seoul.go.kr/expense/35834086,2026-03-10,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:35835470,16,https://opengov.seoul.go.kr/expense/35835470,2026-03-10,seoul_city,교통실 교통정책과,삼우정,서울 중구 서소문로 134-12,164000,uncertain,meeting_only_uncertain,p10
+opengov:35845480,5,https://opengov.seoul.go.kr/expense/35845480,2026-03-10,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:35855689,18,https://opengov.seoul.go.kr/expense/35855689,2026-03-10,seoul_office,도시기반시설본부 총무부,삼우정,서울 중구 서소문로 134-12,234000,uncertain,meeting_only_uncertain,p10
+opengov:35855663,12,https://opengov.seoul.go.kr/expense/35855663,2026-03-11,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,204000,uncertain,meeting_only_uncertain,p10
+opengov:35799461,7,https://opengov.seoul.go.kr/expense/35799461,2026-03-12,seoul_city,주택실 주택정책관 주거환경개선과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:35812219,4,https://opengov.seoul.go.kr/expense/35812219,2026-03-13,seoul_city,감사위원회 청렴담당관,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35824066,15,https://opengov.seoul.go.kr/expense/35824066,2026-03-13,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,243000,uncertain,meeting_only_uncertain,p10
+opengov:35855706,6,https://opengov.seoul.go.kr/expense/35855706,2026-03-19,seoul_council,예산결산특별전문위원실,삼우정,서울 중구 서소문로 134-12,127000,uncertain,meeting_only_uncertain,p10
+opengov:35844332,33,https://opengov.seoul.go.kr/expense/35844332,2026-03-25,seoul_city,감사위원회 감사담당관,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:35835434,27,https://opengov.seoul.go.kr/expense/35835434,2026-03-26,seoul_council,서울특별시의회사무처 의정국 현장민원과,삼우정,서울 중구 서소문로 134-12,202000,uncertain,meeting_only_uncertain,p10
+opengov:35787106,8,https://opengov.seoul.go.kr/expense/35787106,2026-03-27,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:35812193,13,https://opengov.seoul.go.kr/expense/35812193,2026-03-27,seoul_council,운영전문위원실,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:36048352,1,https://opengov.seoul.go.kr/expense/36048352,2026-04-01,seoul_city,경제실 대학협력과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36013155,4,https://opengov.seoul.go.kr/expense/36013155,2026-04-03,seoul_council,도시계획균형전문위원실,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36047166,4,https://opengov.seoul.go.kr/expense/36047166,2026-04-06,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:36058328,60,https://opengov.seoul.go.kr/expense/36058328,2026-04-07,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,meeting_only_uncertain,p10
+opengov:36058328,66,https://opengov.seoul.go.kr/expense/36058328,2026-04-07,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,120000,uncertain,meeting_only_uncertain,p10
+opengov:36059165,5,https://opengov.seoul.go.kr/expense/36059165,2026-04-10,seoul_city,주거정비과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36013181,3,https://opengov.seoul.go.kr/expense/36013181,2026-04-14,seoul_council,의회사무처 도시안전건설전문위원실,삼우정,서울 중구 서소문로 134-12,300000,uncertain,meeting_only_uncertain,p10
+opengov:36059068,11,https://opengov.seoul.go.kr/expense/36059068,2026-04-15,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36013167,11,https://opengov.seoul.go.kr/expense/36013167,2026-04-17,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,290000,uncertain,meeting_only_uncertain,p10
+opengov:36013167,13,https://opengov.seoul.go.kr/expense/36013167,2026-04-20,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,52000,uncertain,meeting_only_uncertain,p10
+opengov:36013172,27,https://opengov.seoul.go.kr/expense/36013172,2026-04-20,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36047150,7,https://opengov.seoul.go.kr/expense/36047150,2026-04-21,seoul_city,정원도시국 공원조성과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36058326,39,https://opengov.seoul.go.kr/expense/36058326,2026-04-23,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,171000,meal,explicit_meal_word,p10
+opengov:36037087,30,https://opengov.seoul.go.kr/expense/36037087,2026-04-24,seoul_council,서울특별시의회사무처 의정국 현장민원과,삼우정,서울 중구 서소문로 134-12,199000,uncertain,meeting_only_uncertain,p10
+opengov:36047169,18,https://opengov.seoul.go.kr/expense/36047169,2026-04-24,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36058326,44,https://opengov.seoul.go.kr/expense/36058326,2026-04-27,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36058328,262,https://opengov.seoul.go.kr/expense/36058328,2026-04-28,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36048350,18,https://opengov.seoul.go.kr/expense/36048350,2026-04-29,seoul_city,도시공간본부 도시관리과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36058510,8,https://opengov.seoul.go.kr/expense/36058510,2026-04-30,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36240414,4,https://opengov.seoul.go.kr/expense/36240414,2026-05-07,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36262054,8,https://opengov.seoul.go.kr/expense/36262054,2026-05-07,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36203840,3,https://opengov.seoul.go.kr/expense/36203840,2026-05-11,seoul_city,물순환안전국 치수안전과,삼우정,서울 중구 서소문로 134-12,171000,uncertain,no_explicit_meal_word,p10
+opengov:36216583,4,https://opengov.seoul.go.kr/expense/36216583,2026-05-13,seoul_city,정원도시국 조경과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36229041,3,https://opengov.seoul.go.kr/expense/36229041,2026-05-13,seoul_city,재무국 재산관리과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36209780,8,https://opengov.seoul.go.kr/expense/36209780,2026-05-18,seoul_city,균형발전본부 광화문광장사업과,삼우정,서울 중구 서소문로 134-12,33000,uncertain,meeting_only_uncertain,p10
+opengov:36203700,19,https://opengov.seoul.go.kr/expense/36203700,2026-05-19,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36271404,14,https://opengov.seoul.go.kr/expense/36271404,2026-05-19,seoul_city,경제실 창조산업과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36229376,7,https://opengov.seoul.go.kr/expense/36229376,2026-05-20,seoul_city,디지털도시국 정보통신과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36262048,5,https://opengov.seoul.go.kr/expense/36262048,2026-05-20,seoul_city,도시공간본부 신속통합기획과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36262054,34,https://opengov.seoul.go.kr/expense/36262054,2026-05-20,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,38000,uncertain,meeting_only_uncertain,p10
+opengov:36593999,11,https://opengov.seoul.go.kr/expense/36593999,2026-05-20,seoul_city,주택실 주택정책과,삼우정,서울 중구 서소문로 134-12,213000,uncertain,meeting_only_uncertain,p10
+opengov:36229066,7,https://opengov.seoul.go.kr/expense/36229066,2026-05-22,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,57000,uncertain,meeting_only_uncertain,p10
+opengov:36272391,6,https://opengov.seoul.go.kr/expense/36272391,2026-05-28,seoul_city,평생교육국 친환경급식과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,policy_topic_uncertain,p10
+opengov:36502166,1,https://opengov.seoul.go.kr/expense/36502166,2026-06-02,seoul_council,예산결산특별전문위원실,삼우정,서울 중구 서소문로 134-12,132000,uncertain,meeting_only_uncertain,p10
+opengov:36427697,2,https://opengov.seoul.go.kr/expense/36427697,2026-06-04,seoul_city,재난안전실 교량안전과,삼우정,서울 중구 서소문로 134-12,100000,uncertain,meeting_only_uncertain,p10
+opengov:36461645,2,https://opengov.seoul.go.kr/expense/36461645,2026-06-04,seoul_city,재무국 재무과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36501236,2,https://opengov.seoul.go.kr/expense/36501236,2026-06-04,seoul_office,동부도로사업소 관리단속과,삼우정,서울 중구 서소문로 134-12,100000,uncertain,meeting_only_uncertain,p10
+opengov:36492743,2,https://opengov.seoul.go.kr/expense/36492743,2026-06-05,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,78000,uncertain,meeting_only_uncertain,p10
+opengov:36501234,7,https://opengov.seoul.go.kr/expense/36501234,2026-06-05,seoul_city,민생사법경찰국 경제수사과,삼우정,서울 중구 서소문로 134-12,120000,uncertain,meeting_only_uncertain,p10
+opengov:36426455,3,https://opengov.seoul.go.kr/expense/36426455,2026-06-08,seoul_city,민생노동국 농수산유통과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36449215,2,https://opengov.seoul.go.kr/expense/36449215,2026-06-09,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36461610,5,https://opengov.seoul.go.kr/expense/36461610,2026-06-09,seoul_city,교통실 미래첨단교통과,삼우정,서울 중구 서소문로 134-12,250000,meal,explicit_meal_word,p10
+opengov:36502184,7,https://opengov.seoul.go.kr/expense/36502184,2026-06-09,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36473051,14,https://opengov.seoul.go.kr/expense/36473051,2026-06-12,seoul_city,미래공간기획관 미래공간담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36487519,7,https://opengov.seoul.go.kr/expense/36487519,2026-06-15,seoul_city,복지실 고독대응과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36492736,26,https://opengov.seoul.go.kr/expense/36492736,2026-06-15,seoul_city,재난안전실 재난안전정책과,삼우정,서울 중구 서소문로 134-12,456000,uncertain,meeting_only_uncertain,p10
+opengov:36502148,10,https://opengov.seoul.go.kr/expense/36502148,2026-06-15,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36426449,41,https://opengov.seoul.go.kr/expense/36426449,2026-06-16,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:36432947,16,https://opengov.seoul.go.kr/expense/36432947,2026-06-16,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:36438867,9,https://opengov.seoul.go.kr/expense/36438867,2026-06-16,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36461605,6,https://opengov.seoul.go.kr/expense/36461605,2026-06-16,seoul_office,인재개발원 인재양성과,삼우정,서울 중구 서소문로 134-12,168000,uncertain,meeting_only_uncertain,p10
+opengov:36501216,42,https://opengov.seoul.go.kr/expense/36501216,2026-06-16,seoul_city,행정국 총무과,삼우정,서울 중구 서소문로 134-12,152000,uncertain,meeting_only_uncertain,p10
+opengov:36461608,34,https://opengov.seoul.go.kr/expense/36461608,2026-06-19,seoul_office,인재개발원 인재기획과,삼우정,서울 중구 서소문로 134-12,57000,meal,explicit_meal_word,p10
+opengov:36533635,81,https://opengov.seoul.go.kr/expense/36533635,2026-06-19,seoul_city,대변인 언론담당관,삼우정,서울 중구 서소문로 134-12,62000,uncertain,meeting_only_uncertain,p10
+opengov:36461607,25,https://opengov.seoul.go.kr/expense/36461607,2026-06-23,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36414586,20,https://opengov.seoul.go.kr/expense/36414586,2026-06-24,seoul_council,의정국 의사과,삼우정,서울 중구 서소문로 134-12,463000,uncertain,meeting_only_uncertain,p10
+opengov:36502173,44,https://opengov.seoul.go.kr/expense/36502173,2026-06-24,seoul_office,도시기반시설본부 총무부,삼우정,서울 중구 서소문로 134-12,136000,uncertain,meeting_only_uncertain,p10
+opengov:36426449,65,https://opengov.seoul.go.kr/expense/36426449,2026-06-25,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,494000,uncertain,meeting_only_uncertain,p10
+opengov:36461607,29,https://opengov.seoul.go.kr/expense/36461607,2026-06-25,seoul_city,시민감사옴부즈만위원회,삼우정,서울 중구 서소문로 134-12,210000,uncertain,meeting_only_uncertain,p10
+opengov:36414586,23,https://opengov.seoul.go.kr/expense/36414586,2026-06-29,seoul_council,의정국 의사과,삼우정,서울 중구 서소문로 134-12,200000,uncertain,meeting_only_uncertain,p10
+opengov:36426449,72,https://opengov.seoul.go.kr/expense/36426449,2026-06-29,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36502194,24,https://opengov.seoul.go.kr/expense/36502194,2026-06-29,seoul_city,기획조정실 예산담당관,삼우정,서울 중구 서소문로 134-12,84000,uncertain,meeting_only_uncertain,p10
+opengov:36473056,16,https://opengov.seoul.go.kr/expense/36473056,2026-06-30,seoul_city,균형발전본부 도시정비과,삼우정,서울 중구 서소문로 134-12,123000,uncertain,meeting_only_uncertain,p10
+opengov:36707727,1,https://opengov.seoul.go.kr/expense/36707727,2026-07-01,seoul_council,보건복지전문위원실,삼우정,서울 중구 서소문로 134-12,266000,uncertain,meeting_only_uncertain,p10
+opengov:36678333,2,https://opengov.seoul.go.kr/expense/36678333,2026-07-03,seoul_city,여성가족실 아동담당관,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36707718,10,https://opengov.seoul.go.kr/expense/36707718,2026-07-03,seoul_city,정무부시장실,삼우정,서울 중구 서소문로 134-12,175000,uncertain,meeting_only_uncertain,p10
+opengov:36687853,6,https://opengov.seoul.go.kr/expense/36687853,2026-07-06,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36707514,4,https://opengov.seoul.go.kr/expense/36707514,2026-07-07,seoul_city,민생노동국 노동정책과,삼우정,서울 중구 서소문로 134-12,114000,uncertain,meeting_only_uncertain,p10
+opengov:36643971,6,https://opengov.seoul.go.kr/expense/36643971,2026-07-09,seoul_city,정원도시국 동물보호과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36687853,12,https://opengov.seoul.go.kr/expense/36687853,2026-07-09,seoul_city,민생노동국 소상공인정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36686807,6,https://opengov.seoul.go.kr/expense/36686807,2026-07-13,seoul_city,복지실 돌봄고독정책관 고령사회대응과,삼우정,서울 중구 서소문로 134-12,313000,uncertain,meeting_only_uncertain,p10
+opengov:36707749,25,https://opengov.seoul.go.kr/expense/36707749,2026-07-13,seoul_city,경제정책과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:36655856,10,https://opengov.seoul.go.kr/expense/36655856,2026-07-15,seoul_city,주택실 부동산정책개발센터,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36655820,8,https://opengov.seoul.go.kr/expense/36655820,2026-07-16,seoul_city,미래청년기획관 청년사업담당관,삼우정,서울 중구 서소문로 134-12,323000,uncertain,meeting_only_uncertain,p10
+opengov:36697272,15,https://opengov.seoul.go.kr/expense/36697272,2026-07-16,seoul_city,경제실 일자리정책과,삼우정,서울 중구 서소문로 134-12,122000,uncertain,meeting_only_uncertain,p10
+opengov:36707491,29,https://opengov.seoul.go.kr/expense/36707491,2026-07-16,seoul_city,균형발전본부 균형발전정책과,삼우정,서울 중구 서소문로 134-12,110000,meal,explicit_meal_word,p10
+opengov:36707493,6,https://opengov.seoul.go.kr/expense/36707493,2026-07-16,seoul_city,정원도시국 자연생태과,삼우정,서울 중구 서소문로 134-12,361000,meal,explicit_meal_word,p10
+opengov:36668110,10,https://opengov.seoul.go.kr/expense/36668110,2026-07-20,seoul_city,민생노동국 상권활성화과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36677427,11,https://opengov.seoul.go.kr/expense/36677427,2026-07-20,seoul_city,도시공간본부 도시계획과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36677415,9,https://opengov.seoul.go.kr/expense/36677415,2026-07-22,seoul_city,정원도시국 산지방재과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36687846,31,https://opengov.seoul.go.kr/expense/36687846,2026-07-23,seoul_city,평생교육국 교육지원정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36707504,9,https://opengov.seoul.go.kr/expense/36707504,2026-07-23,seoul_city,주택실모아주택과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36707511,25,https://opengov.seoul.go.kr/expense/36707511,2026-07-24,seoul_city,경제실 창조산업기획관 산업입지과,삼우정,서울 중구 서소문로 134-12,76000,uncertain,meeting_only_uncertain,p10
+opengov:36707582,15,https://opengov.seoul.go.kr/expense/36707582,2026-07-24,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,삼우정,서울 중구 서소문로 134-12,190000,uncertain,meeting_only_uncertain,p10
+opengov:36707504,10,https://opengov.seoul.go.kr/expense/36707504,2026-07-27,seoul_city,주택실모아주택과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36686801,44,https://opengov.seoul.go.kr/expense/36686801,2026-07-29,seoul_city,기후환경본부 기후환경정책과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36707498,13,https://opengov.seoul.go.kr/expense/36707498,2026-07-29,seoul_city,시민건강국 감염병관리과,삼우정,서울 중구 서소문로 134-12,209000,uncertain,meeting_only_uncertain,p10
+opengov:36655868,19,https://opengov.seoul.go.kr/expense/36655868,2026-07-30,seoul_office,품질시험소 총무과,삼우정,서울 중구 서소문로 134-12,137000,uncertain,meeting_only_uncertain,p10
+opengov:36696435,21,https://opengov.seoul.go.kr/expense/36696435,2026-07-31,seoul_city,주택실 건축기획관 공동주택과,삼우정,서울 중구 서소문로 134-12,133000,uncertain,meeting_only_uncertain,p10
+opengov:36856985,17,https://opengov.seoul.go.kr/expense/36856985,2026-08-14,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,95000,uncertain,meeting_only_uncertain,p10
+opengov:36856985,22,https://opengov.seoul.go.kr/expense/36856985,2026-08-19,seoul_city,도시공간본부 도시공간전략과,삼우정,서울 중구 서소문로 134-12,170000,uncertain,meeting_only_uncertain,p10
+opengov:36869664,42,https://opengov.seoul.go.kr/expense/36869664,2026-08-31,seoul_office,인재개발원 인재기획과,삼우정,서울 중구 서소문로 134-12,57000,meal,explicit_meal_word,p10
