@@ -1,0 +1,138 @@
+{
+  "checked_on": "2026-10-23",
+  "scope": "2025 서울시 본청 기존 수집 JSONL 중 지정 9개 상호·13개 주소 조합의 식사 관련 기록",
+  "input_sha256": "b5bda47f3b6a871d68acd4aaa9324dfeb8f0840a461a9a058045b57b779dce53",
+  "raw_files": [
+    {
+      "file": "2025-01.jsonl",
+      "sha256": "3fb86dc9529c3fd2910795e89c3cc9d56d331321e1984d63b2f799cece5bce4e",
+      "bytes": 2223191
+    },
+    {
+      "file": "2025-02.jsonl",
+      "sha256": "c877b0a1a36dc6fdc1fd0c614a6bf0b0e100a7ee93b5ad0faaccfa2d6dfdcb77",
+      "bytes": 2468538
+    },
+    {
+      "file": "2025-03.jsonl",
+      "sha256": "5fa872e2d5bd2eb2cb3aea7bd55b7483ddcd56b0177860328b489a46fb788957",
+      "bytes": 2376901
+    },
+    {
+      "file": "2025-04.jsonl",
+      "sha256": "677bf1aa154c1f04e50f19803e4ba5f82648ebafc51d5e552a1d76f6cc7376d6",
+      "bytes": 2591052
+    },
+    {
+      "file": "2025-05.jsonl",
+      "sha256": "20e6de2ff7fd8f842ec42b00b164409f40139d820a65fcd66d3682b4ffdfb2fe",
+      "bytes": 2402067
+    },
+    {
+      "file": "2025-06.jsonl",
+      "sha256": "5ce6d9f80d35d82c42db0aa7dfcf082fe345117bebde3a0e89763607c810188c",
+      "bytes": 2439114
+    },
+    {
+      "file": "2025-07.jsonl",
+      "sha256": "3c3905b3f17e22238d6f205ee5eabca81bd49bb008b7e30c7b005875ac4983ff",
+      "bytes": 2790393
+    },
+    {
+      "file": "2025-08.jsonl",
+      "sha256": "dc663077828561a0cec2f9258c0a7cdf1bc5bd2c59eaa71af52af4bc068c838e",
+      "bytes": 2344362
+    },
+    {
+      "file": "2025-09.jsonl",
+      "sha256": "2da187af91b3eb57913ee9b314f282dd25cf4b3959a78ac2ecb91e94b226ab9d",
+      "bytes": 2684230
+    },
+    {
+      "file": "2025-10.jsonl",
+      "sha256": "78efcc342cac15c640e478c8a4d470fd08debdb1fad3a4bcd625395f10eaa553",
+      "bytes": 2316290
+    },
+    {
+      "file": "2025-11.jsonl",
+      "sha256": "be2c6ea714189a8f2a584ffd5de2f7a1795ad3e0ee95122e8ec50e10fac2da20",
+      "bytes": 2624719
+    },
+    {
+      "file": "2025-12.jsonl",
+      "sha256": "9b207ffc3528c189bd9c0fc913f61f176e180c67193425145439d5ad155817aa",
+      "bytes": 3365126
+    }
+  ],
+  "raw_seoul_documents": 2157,
+  "raw_seoul_rows": 47231,
+  "matched_selected_rows": 2699,
+  "unique_document_row_keys": 2699,
+  "field_mismatches": 0,
+  "selected_first_date": "2025-01-02",
+  "selected_last_date": "2025-12-31",
+  "existing_selection_exclusions": {
+    "outside_selected_names": 43796,
+    "missing_or_other_address": 322,
+    "purpose_not_meal_scope": 405,
+    "outside_2025": 9
+  },
+  "same_date_department_place_address_amount_candidate_pairs": 1,
+  "candidate_decision": "Both rows retained: official source has separate serials and different times; does not prove two separate meals.",
+  "official_source_samples": [
+    {
+      "source_id": "opengov:32773754",
+      "official_row": 3,
+      "date_time": "2025-01-17 12:55",
+      "merchant": "참숯골",
+      "department": "기획조정실 공기업담당관",
+      "amount": 138000,
+      "source_url": "https://opengov.seoul.go.kr/expense/32773754"
+    },
+    {
+      "source_id": "opengov:33017153",
+      "official_row": 4,
+      "date_time": "2025-02-04 12:14",
+      "merchant": "브라주카 그릴",
+      "department": "재난안전실 재난안전정책과",
+      "amount": 95600,
+      "source_url": "https://opengov.seoul.go.kr/expense/33017153"
+    },
+    {
+      "source_id": "opengov:34483996",
+      "official_row": 72,
+      "date_time": "2025-09-09 13:02",
+      "merchant": "브이아이피참치",
+      "department": "행정국 총무과",
+      "amount": 140000,
+      "source_url": "https://opengov.seoul.go.kr/expense/34483996"
+    },
+    {
+      "source_id": "opengov:34483996",
+      "official_row": 74,
+      "date_time": "2025-09-09 13:08",
+      "merchant": "브이아이피참치",
+      "department": "행정국 총무과",
+      "amount": 140000,
+      "source_url": "https://opengov.seoul.go.kr/expense/34483996"
+    },
+    {
+      "source_id": "opengov:34711308",
+      "official_row": 19,
+      "date_time": "2025-10-24 19:06",
+      "merchant": "복성각",
+      "department": "시민감사옴부즈만위원회",
+      "amount": 1110000,
+      "source_url": "https://opengov.seoul.go.kr/expense/34711308"
+    }
+  ],
+  "official_check_method": "Official HTML samples were inspected earlier on checked_on. This rerun checked saved raw files and selected rows only; it did not fetch official pages again.",
+  "privacy": "No attendee names, recipient fields, or free-text purpose exported.",
+  "limitations": [
+    "Fixed selected sample, not all Seoul restaurants",
+    "Saved department labels are not unique organizational IDs",
+    "Current official source checked for samples only",
+    "Business identity and current operation unverified"
+  ],
+  "raw_reaudit_status": "passed"
+}

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-23",
   "pages": [
     {
       "path": "index.html",
@@ -8,6 +8,10 @@
     {
       "path": "map.html",
       "canonical": "https://gyyi0718.github.io/map.html"
+    },
+    {
+      "path": "analysis/departments.html",
+      "canonical": "https://gyyi0718.github.io/analysis/departments.html"
     },
     {
       "path": "regions/seoul_city.html",

@@ -2,6 +2,8 @@
 
 Build: python3 tools/build_site.py
 Validate: python3 tools/verify_site.py
+Department calculations: python3 -B tools/test_department_analysis.py
+Raw audit: python3 -B tools/audit_departments.py /path/to/opengov
 
 Only the files in this current tree are published. 228 retired regional pages and old catalogue/template snapshots were removed, not hidden using robots/noindex. The build never re-creates them. Retired URLs use the Pages 404 response. tools is excluded by Jekyll.
 
