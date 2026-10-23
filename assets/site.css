@@ -9,3 +9,9 @@
 #compare label{display:flex;flex-direction:column;gap:.5rem;min-width:0}#compare select{width:100%;max-width:100%;padding:.7rem;border:1px solid #8d9991;border-radius:6px;background:#fff;color:#182b22;font:inherit}.table-wrap th{text-align:left}a:focus-visible,select:focus-visible{outline:3px solid #b56123;outline-offset:3px}
 
 #finder .grid{grid-template-columns:1fr}#finder input,#finder select{max-width:100%;width:100%;padding:.7rem;font:inherit}#b-results .grid{grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr))}.month-chips{display:flex;flex-wrap:wrap;gap:.5rem}.month-chips span{padding:.5rem;background:#e9eee3;border-radius:4px}#record-detail:focus{outline:2px solid #52725c;outline-offset:5px}
+
+/* Reproduction commands stay readable within the article on narrow screens. */
+.article pre{max-width:100%;white-space:pre-wrap;overflow-wrap:anywhere;font-size:14px;background:#e9efdf;padding:16px;border-radius:6px}
+
+/* Keep per-record dates and times intact; scroll only the evidence table. */
+details[id^="time-"] table{min-width:680px}details[id^="time-"] td:nth-child(1),details[id^="time-"] td:nth-child(2),details[id^="time-"] td:nth-child(5){white-space:nowrap}

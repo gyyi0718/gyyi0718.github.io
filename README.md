@@ -2,6 +2,8 @@
 
 Build: python3 tools/build_site.py
 Validate: python3 tools/verify_site.py
+Editorial calculations: python3 -B tools/test_editorial_features.py /path/to/opengov
+Editorial source/time refresh (network): python3 -B tools/editorial_times.py /path/to/opengov
 Department calculations: python3 -B tools/test_department_analysis.py
 Broad directory rebuild: python3 -B tools/broad_seoul.py /path/to/opengov
 Broad validation: python3 -B tools/test_broad_seoul.py /path/to/opengov; node tools/test_seoul_directory.cjs

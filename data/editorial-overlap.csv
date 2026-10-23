@@ -1,0 +1,7 @@
+﻿a,b,intersection,union,only_a,only_b
+seoul_city,seoul_council,328,873,534,11
+seoul_city,seoul_fire,6,880,856,18
+seoul_city,seoul_office,206,946,656,84
+seoul_council,seoul_fire,1,362,338,23
+seoul_council,seoul_office,106,523,233,184
+seoul_fire,seoul_office,9,305,15,281

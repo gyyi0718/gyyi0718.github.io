@@ -1,0 +1,2536 @@
+{
+  "period": [
+    "2025-01-01",
+    "2025-12-31"
+  ],
+  "rows": 17117,
+  "places": 969,
+  "organizations": [
+    {
+      "organization": "seoul_city",
+      "rows": 14619,
+      "places": 862,
+      "districts": 13,
+      "documents": 995,
+      "central_rows": 14293,
+      "central_share": 0.977700253095287,
+      "equal_month_share": 0.977185379286817,
+      "meal_rows": 397,
+      "not_in_city": 0,
+      "strict_2025_rows": 13993,
+      "strict_2025_places": 650,
+      "strict_2025_central_share": 0.9804902451225613
+    },
+    {
+      "organization": "seoul_council",
+      "rows": 1406,
+      "places": 339,
+      "districts": 6,
+      "documents": 158,
+      "central_rows": 1382,
+      "central_share": 0.9829302987197724,
+      "equal_month_share": 0.9826680361235524,
+      "meal_rows": 3,
+      "not_in_city": 11,
+      "strict_2025_rows": 1354,
+      "strict_2025_places": 304,
+      "strict_2025_central_share": 0.983751846381093
+    },
+    {
+      "organization": "seoul_fire",
+      "rows": 110,
+      "places": 24,
+      "districts": 10,
+      "documents": 72,
+      "central_rows": 6,
+      "central_share": 0.05454545454545454,
+      "equal_month_share": 0.049893624893624894,
+      "meal_rows": 7,
+      "not_in_city": 18,
+      "strict_2025_rows": 87,
+      "strict_2025_places": 15,
+      "strict_2025_central_share": 0.034482758620689655
+    },
+    {
+      "organization": "seoul_office",
+      "rows": 982,
+      "places": 290,
+      "districts": 19,
+      "documents": 360,
+      "central_rows": 453,
+      "central_share": 0.46130346232179226,
+      "equal_month_share": 0.4634936441241815,
+      "meal_rows": 61,
+      "not_in_city": 84,
+      "strict_2025_rows": 820,
+      "strict_2025_places": 227,
+      "strict_2025_central_share": 0.4792682926829268
+    }
+  ],
+  "districts": [
+    {
+      "organization": "seoul_city",
+      "district": "강남구",
+      "rows": 1,
+      "places": 1,
+      "share": 6.840413160954922e-05
+    },
+    {
+      "organization": "seoul_city",
+      "district": "강동구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "강북구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "강서구",
+      "rows": 1,
+      "places": 1,
+      "share": 6.840413160954922e-05
+    },
+    {
+      "organization": "seoul_city",
+      "district": "관악구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "광진구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "노원구",
+      "rows": 22,
+      "places": 2,
+      "share": 0.0015048908954100827
+    },
+    {
+      "organization": "seoul_city",
+      "district": "도봉구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "동대문구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "동작구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "마포구",
+      "rows": 14,
+      "places": 4,
+      "share": 0.0009576578425336891
+    },
+    {
+      "organization": "seoul_city",
+      "district": "서대문구",
+      "rows": 80,
+      "places": 15,
+      "share": 0.005472330528763937
+    },
+    {
+      "organization": "seoul_city",
+      "district": "서초구",
+      "rows": 1,
+      "places": 1,
+      "share": 6.840413160954922e-05
+    },
+    {
+      "organization": "seoul_city",
+      "district": "성동구",
+      "rows": 24,
+      "places": 6,
+      "share": 0.0016416991586291811
+    },
+    {
+      "organization": "seoul_city",
+      "district": "성북구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "송파구",
+      "rows": 14,
+      "places": 2,
+      "share": 0.0009576578425336891
+    },
+    {
+      "organization": "seoul_city",
+      "district": "양천구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "영등포구",
+      "rows": 136,
+      "places": 12,
+      "share": 0.009302961898898694
+    },
+    {
+      "organization": "seoul_city",
+      "district": "용산구",
+      "rows": 30,
+      "places": 4,
+      "share": 0.0020521239482864766
+    },
+    {
+      "organization": "seoul_city",
+      "district": "은평구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_city",
+      "district": "종로구",
+      "rows": 881,
+      "places": 136,
+      "share": 0.06026403994801286
+    },
+    {
+      "organization": "seoul_city",
+      "district": "중구",
+      "rows": 13412,
+      "places": 677,
+      "share": 0.9174362131472741
+    },
+    {
+      "organization": "seoul_city",
+      "district": "중랑구",
+      "rows": 3,
+      "places": 1,
+      "share": 0.00020521239482864764
+    },
+    {
+      "organization": "seoul_council",
+      "district": "강남구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "강동구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "강북구",
+      "rows": 1,
+      "places": 1,
+      "share": 0.0007112375533428165
+    },
+    {
+      "organization": "seoul_council",
+      "district": "강서구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "관악구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "광진구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "노원구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "도봉구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "동대문구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "동작구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "마포구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "서대문구",
+      "rows": 5,
+      "places": 2,
+      "share": 0.0035561877667140826
+    },
+    {
+      "organization": "seoul_council",
+      "district": "서초구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "성동구",
+      "rows": 1,
+      "places": 1,
+      "share": 0.0007112375533428165
+    },
+    {
+      "organization": "seoul_council",
+      "district": "성북구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "송파구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "양천구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "영등포구",
+      "rows": 17,
+      "places": 3,
+      "share": 0.01209103840682788
+    },
+    {
+      "organization": "seoul_council",
+      "district": "용산구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "은평구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_council",
+      "district": "종로구",
+      "rows": 108,
+      "places": 40,
+      "share": 0.07681365576102418
+    },
+    {
+      "organization": "seoul_council",
+      "district": "중구",
+      "rows": 1274,
+      "places": 292,
+      "share": 0.9061166429587483
+    },
+    {
+      "organization": "seoul_council",
+      "district": "중랑구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "강남구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "강동구",
+      "rows": 7,
+      "places": 1,
+      "share": 0.06363636363636363
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "강북구",
+      "rows": 3,
+      "places": 2,
+      "share": 0.02727272727272727
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "강서구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "관악구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "광진구",
+      "rows": 9,
+      "places": 2,
+      "share": 0.08181818181818182
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "노원구",
+      "rows": 32,
+      "places": 3,
+      "share": 0.2909090909090909
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "도봉구",
+      "rows": 3,
+      "places": 1,
+      "share": 0.02727272727272727
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "동대문구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "동작구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "마포구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "서대문구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "서초구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "성동구",
+      "rows": 22,
+      "places": 4,
+      "share": 0.2
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "성북구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "송파구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "양천구",
+      "rows": 7,
+      "places": 1,
+      "share": 0.06363636363636363
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "영등포구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "용산구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "은평구",
+      "rows": 17,
+      "places": 3,
+      "share": 0.15454545454545454
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "종로구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "중구",
+      "rows": 6,
+      "places": 6,
+      "share": 0.05454545454545454
+    },
+    {
+      "organization": "seoul_fire",
+      "district": "중랑구",
+      "rows": 4,
+      "places": 1,
+      "share": 0.03636363636363636
+    },
+    {
+      "organization": "seoul_office",
+      "district": "강남구",
+      "rows": 18,
+      "places": 3,
+      "share": 0.018329938900203666
+    },
+    {
+      "organization": "seoul_office",
+      "district": "강동구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_office",
+      "district": "강북구",
+      "rows": 31,
+      "places": 4,
+      "share": 0.031568228105906315
+    },
+    {
+      "organization": "seoul_office",
+      "district": "강서구",
+      "rows": 11,
+      "places": 2,
+      "share": 0.01120162932790224
+    },
+    {
+      "organization": "seoul_office",
+      "district": "관악구",
+      "rows": 6,
+      "places": 1,
+      "share": 0.006109979633401222
+    },
+    {
+      "organization": "seoul_office",
+      "district": "광진구",
+      "rows": 16,
+      "places": 2,
+      "share": 0.016293279022403257
+    },
+    {
+      "organization": "seoul_office",
+      "district": "노원구",
+      "rows": 18,
+      "places": 3,
+      "share": 0.018329938900203666
+    },
+    {
+      "organization": "seoul_office",
+      "district": "도봉구",
+      "rows": 36,
+      "places": 5,
+      "share": 0.03665987780040733
+    },
+    {
+      "organization": "seoul_office",
+      "district": "동대문구",
+      "rows": 4,
+      "places": 1,
+      "share": 0.004073319755600814
+    },
+    {
+      "organization": "seoul_office",
+      "district": "동작구",
+      "rows": 7,
+      "places": 1,
+      "share": 0.007128309572301426
+    },
+    {
+      "organization": "seoul_office",
+      "district": "마포구",
+      "rows": 52,
+      "places": 7,
+      "share": 0.05295315682281059
+    },
+    {
+      "organization": "seoul_office",
+      "district": "서대문구",
+      "rows": 27,
+      "places": 9,
+      "share": 0.0274949083503055
+    },
+    {
+      "organization": "seoul_office",
+      "district": "서초구",
+      "rows": 66,
+      "places": 9,
+      "share": 0.06720977596741344
+    },
+    {
+      "organization": "seoul_office",
+      "district": "성동구",
+      "rows": 73,
+      "places": 16,
+      "share": 0.07433808553971487
+    },
+    {
+      "organization": "seoul_office",
+      "district": "성북구",
+      "rows": 13,
+      "places": 3,
+      "share": 0.013238289205702648
+    },
+    {
+      "organization": "seoul_office",
+      "district": "송파구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_office",
+      "district": "양천구",
+      "rows": 6,
+      "places": 1,
+      "share": 0.006109979633401222
+    },
+    {
+      "organization": "seoul_office",
+      "district": "영등포구",
+      "rows": 10,
+      "places": 3,
+      "share": 0.010183299389002037
+    },
+    {
+      "organization": "seoul_office",
+      "district": "용산구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    },
+    {
+      "organization": "seoul_office",
+      "district": "은평구",
+      "rows": 135,
+      "places": 17,
+      "share": 0.13747454175152748
+    },
+    {
+      "organization": "seoul_office",
+      "district": "종로구",
+      "rows": 83,
+      "places": 29,
+      "share": 0.0845213849287169
+    },
+    {
+      "organization": "seoul_office",
+      "district": "중구",
+      "rows": 370,
+      "places": 174,
+      "share": 0.37678207739307534
+    },
+    {
+      "organization": "seoul_office",
+      "district": "중랑구",
+      "rows": 0,
+      "places": 0,
+      "share": 0.0
+    }
+  ],
+  "monthly": [
+    {
+      "organization": "seoul_city",
+      "month": "2025-01",
+      "rows": 1024,
+      "central_rows": 982,
+      "central_share": 0.958984375
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-02",
+      "rows": 1177,
+      "central_rows": 1133,
+      "central_share": 0.9626168224299065
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-03",
+      "rows": 1203,
+      "central_rows": 1153,
+      "central_share": 0.9584372402327515
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-04",
+      "rows": 1295,
+      "central_rows": 1252,
+      "central_share": 0.9667953667953668
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-05",
+      "rows": 1063,
+      "central_rows": 1030,
+      "central_share": 0.9689557855126999
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-06",
+      "rows": 1149,
+      "central_rows": 1133,
+      "central_share": 0.9860748476936466
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-07",
+      "rows": 1469,
+      "central_rows": 1452,
+      "central_share": 0.988427501701838
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-08",
+      "rows": 1192,
+      "central_rows": 1180,
+      "central_share": 0.9899328859060402
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-09",
+      "rows": 1273,
+      "central_rows": 1265,
+      "central_share": 0.9937156323644933
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-10",
+      "rows": 1162,
+      "central_rows": 1145,
+      "central_share": 0.9853700516351118
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-11",
+      "rows": 1211,
+      "central_rows": 1196,
+      "central_share": 0.9876135425268373
+    },
+    {
+      "organization": "seoul_city",
+      "month": "2025-12",
+      "rows": 1401,
+      "central_rows": 1372,
+      "central_share": 0.979300499643112
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-01",
+      "rows": 122,
+      "central_rows": 119,
+      "central_share": 0.9754098360655737
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-02",
+      "rows": 101,
+      "central_rows": 97,
+      "central_share": 0.9603960396039604
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-03",
+      "rows": 94,
+      "central_rows": 92,
+      "central_share": 0.9787234042553191
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-04",
+      "rows": 134,
+      "central_rows": 130,
+      "central_share": 0.9701492537313433
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-05",
+      "rows": 109,
+      "central_rows": 104,
+      "central_share": 0.9541284403669725
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-06",
+      "rows": 122,
+      "central_rows": 122,
+      "central_share": 1.0
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-07",
+      "rows": 111,
+      "central_rows": 109,
+      "central_share": 0.9819819819819819
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-08",
+      "rows": 111,
+      "central_rows": 110,
+      "central_share": 0.990990990990991
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-09",
+      "rows": 160,
+      "central_rows": 159,
+      "central_share": 0.99375
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-10",
+      "rows": 88,
+      "central_rows": 88,
+      "central_share": 1.0
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-11",
+      "rows": 106,
+      "central_rows": 106,
+      "central_share": 1.0
+    },
+    {
+      "organization": "seoul_council",
+      "month": "2025-12",
+      "rows": 148,
+      "central_rows": 146,
+      "central_share": 0.9864864864864865
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-01",
+      "rows": 6,
+      "central_rows": 0,
+      "central_share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-02",
+      "rows": 7,
+      "central_rows": 0,
+      "central_share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-03",
+      "rows": 9,
+      "central_rows": 1,
+      "central_share": 0.1111111111111111
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-04",
+      "rows": 11,
+      "central_rows": 0,
+      "central_share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-05",
+      "rows": 6,
+      "central_rows": 0,
+      "central_share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-06",
+      "rows": 11,
+      "central_rows": 1,
+      "central_share": 0.09090909090909091
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-07",
+      "rows": 10,
+      "central_rows": 1,
+      "central_share": 0.1
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-08",
+      "rows": 13,
+      "central_rows": 1,
+      "central_share": 0.07692307692307693
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-09",
+      "rows": 8,
+      "central_rows": 0,
+      "central_share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-10",
+      "rows": 9,
+      "central_rows": 0,
+      "central_share": 0.0
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-11",
+      "rows": 7,
+      "central_rows": 1,
+      "central_share": 0.14285714285714285
+    },
+    {
+      "organization": "seoul_fire",
+      "month": "2025-12",
+      "rows": 13,
+      "central_rows": 1,
+      "central_share": 0.07692307692307693
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-01",
+      "rows": 73,
+      "central_rows": 23,
+      "central_share": 0.3150684931506849
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-02",
+      "rows": 87,
+      "central_rows": 45,
+      "central_share": 0.5172413793103449
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-03",
+      "rows": 61,
+      "central_rows": 25,
+      "central_share": 0.4098360655737705
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-04",
+      "rows": 78,
+      "central_rows": 37,
+      "central_share": 0.47435897435897434
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-05",
+      "rows": 68,
+      "central_rows": 35,
+      "central_share": 0.5147058823529411
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-06",
+      "rows": 72,
+      "central_rows": 39,
+      "central_share": 0.5416666666666666
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-07",
+      "rows": 92,
+      "central_rows": 35,
+      "central_share": 0.3804347826086957
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-08",
+      "rows": 64,
+      "central_rows": 23,
+      "central_share": 0.359375
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-09",
+      "rows": 111,
+      "central_rows": 55,
+      "central_share": 0.4954954954954955
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-10",
+      "rows": 63,
+      "central_rows": 36,
+      "central_share": 0.5714285714285714
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-11",
+      "rows": 82,
+      "central_rows": 48,
+      "central_share": 0.5853658536585366
+    },
+    {
+      "organization": "seoul_office",
+      "month": "2025-12",
+      "rows": 131,
+      "central_rows": 52,
+      "central_share": 0.3969465648854962
+    }
+  ],
+  "overlap": [
+    {
+      "a": "seoul_city",
+      "b": "seoul_council",
+      "intersection": 328,
+      "union": 873,
+      "only_a": 534,
+      "only_b": 11
+    },
+    {
+      "a": "seoul_city",
+      "b": "seoul_fire",
+      "intersection": 6,
+      "union": 880,
+      "only_a": 856,
+      "only_b": 18
+    },
+    {
+      "a": "seoul_city",
+      "b": "seoul_office",
+      "intersection": 206,
+      "union": 946,
+      "only_a": 656,
+      "only_b": 84
+    },
+    {
+      "a": "seoul_council",
+      "b": "seoul_fire",
+      "intersection": 1,
+      "union": 362,
+      "only_a": 338,
+      "only_b": 23
+    },
+    {
+      "a": "seoul_council",
+      "b": "seoul_office",
+      "intersection": 106,
+      "union": 523,
+      "only_a": 233,
+      "only_b": 184
+    },
+    {
+      "a": "seoul_fire",
+      "b": "seoul_office",
+      "intersection": 9,
+      "union": 305,
+      "only_a": 15,
+      "only_b": 281
+    }
+  ],
+  "office_extra": [
+    {
+      "place_id": "00fd79ad4cd2",
+      "name": "농협유통창동농산물종합",
+      "address": "서울 도봉구 마들로11길 20",
+      "district": "도봉구",
+      "rows": 7,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743275"
+    },
+    {
+      "place_id": "023ce8e619ab",
+      "name": "콤포타블안국",
+      "address": "서울 종로구 윤보선길 16-1",
+      "district": "종로구",
+      "rows": 6,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33392426"
+    },
+    {
+      "place_id": "045fbcec9690",
+      "name": "할머니의레시피",
+      "address": "서울 성동구 서울숲2길 44-12",
+      "district": "성동구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32926831"
+    },
+    {
+      "place_id": "0a7e4269a362",
+      "name": "홈플러스",
+      "address": "서울 관악구 과천대로 909",
+      "district": "관악구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34077511"
+    },
+    {
+      "place_id": "119351aa2069",
+      "name": "디라이프키친스타일",
+      "address": "서울 중구 세종대로 136",
+      "district": "중구",
+      "rows": 6,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34465657"
+    },
+    {
+      "place_id": "11edea4d5699",
+      "name": "홈플러스익스프레스",
+      "address": "서울 종로구 새문안로 91",
+      "district": "종로구",
+      "rows": 7,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743258"
+    },
+    {
+      "place_id": "13436c275ca9",
+      "name": "신안밥상",
+      "address": "서울 마포구 월드컵로 235",
+      "district": "마포구",
+      "rows": 9,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33624117"
+    },
+    {
+      "place_id": "14bac74efca4",
+      "name": "순이네",
+      "address": "서울 성북구 돌곶이로39길 17",
+      "district": "성북구",
+      "rows": 1,
+      "documents": 1,
+      "meal_rows": 1,
+      "source_url": "https://opengov.seoul.go.kr/expense/34889818"
+    },
+    {
+      "place_id": "15948b63183e",
+      "name": "사생활",
+      "address": "서울 은평구 응암로22길 25",
+      "district": "은평구",
+      "rows": 24,
+      "documents": 11,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "18001e1aecce",
+      "name": "김경자대구왕뽈찜",
+      "address": "서울 마포구 월드컵로 235",
+      "district": "마포구",
+      "rows": 3,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34076404"
+    },
+    {
+      "place_id": "1c10bb90e8e5",
+      "name": "춘선",
+      "address": "서울 은평구 백련산로 87",
+      "district": "은평구",
+      "rows": 20,
+      "documents": 13,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "1d634efac5b3",
+      "name": "화평동왕냉면",
+      "address": "서울 성북구 월계로 170",
+      "district": "성북구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 6,
+      "source_url": "https://opengov.seoul.go.kr/expense/32952992"
+    },
+    {
+      "place_id": "1f489f20dcd0",
+      "name": "선어도",
+      "address": "서울 서대문구 충정로 18",
+      "district": "서대문구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34962140"
+    },
+    {
+      "place_id": "2261b0b7b340",
+      "name": "백련식당",
+      "address": "서울 은평구 응암로22길 35",
+      "district": "은평구",
+      "rows": 18,
+      "documents": 9,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "24a5d9298be9",
+      "name": "혼합복식",
+      "address": "서울 성동구 성덕정3길 7-1",
+      "district": "성동구",
+      "rows": 5,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/35087408"
+    },
+    {
+      "place_id": "25723d77ac78",
+      "name": "맛있는이야기담",
+      "address": "서울 서초구 남부순환로 2406",
+      "district": "서초구",
+      "rows": 7,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33611284"
+    },
+    {
+      "place_id": "267c468589e8",
+      "name": "햇빛촌",
+      "address": "서울 중구 중림로 10",
+      "district": "중구",
+      "rows": 6,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32755531"
+    },
+    {
+      "place_id": "3403898d77d4",
+      "name": "익선동만찬",
+      "address": "서울 은평구 응암로22길 41",
+      "district": "은평구",
+      "rows": 15,
+      "documents": 10,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33177861"
+    },
+    {
+      "place_id": "36b588bb894e",
+      "name": "메르카토",
+      "address": "서울 은평구 응암로22길 5-3",
+      "district": "은평구",
+      "rows": 4,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32974362"
+    },
+    {
+      "place_id": "37b2c6a4b6d4",
+      "name": "포메인서울숲점",
+      "address": "서울 성동구 서울숲2길 32-14",
+      "district": "성동구",
+      "rows": 5,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32926831"
+    },
+    {
+      "place_id": "37ff38df5695",
+      "name": "멜팅샵치즈룸",
+      "address": "서울 종로구 종로3길 17",
+      "district": "종로구",
+      "rows": 1,
+      "documents": 1,
+      "meal_rows": 1,
+      "source_url": "https://opengov.seoul.go.kr/expense/33600325"
+    },
+    {
+      "place_id": "39b6dbc2d218",
+      "name": "불광천왕돈까스",
+      "address": "서울 은평구 응암로21길 22-1",
+      "district": "은평구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33586893"
+    },
+    {
+      "place_id": "3a86e510ea64",
+      "name": "제형면옥",
+      "address": "서울 노원구 공릉로59나길 78-10",
+      "district": "노원구",
+      "rows": 5,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32941252"
+    },
+    {
+      "place_id": "45f27900d9f5",
+      "name": "참토우",
+      "address": "서울 광진구 구의강변로 81",
+      "district": "광진구",
+      "rows": 3,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/35144133"
+    },
+    {
+      "place_id": "48a20cb80815",
+      "name": "정돈성수점",
+      "address": "서울 성동구 왕십리로 83-21",
+      "district": "성동구",
+      "rows": 7,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32940002"
+    },
+    {
+      "place_id": "4d58c1843935",
+      "name": "엘리펀트파크",
+      "address": "서울 서초구 바우뫼로6길 56",
+      "district": "서초구",
+      "rows": 3,
+      "documents": 1,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/35197492"
+    },
+    {
+      "place_id": "4d7e9c2a2c88",
+      "name": "옥수해물찜칼국수",
+      "address": "서울 성동구 독서당로40길 39",
+      "district": "성동구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 1,
+      "source_url": "https://opengov.seoul.go.kr/expense/34232674"
+    },
+    {
+      "place_id": "4febc87d30b1",
+      "name": "기자클럽",
+      "address": "서울 중구 세종대로 124",
+      "district": "중구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32940004"
+    },
+    {
+      "place_id": "532c74e806ea",
+      "name": "중림장",
+      "address": "서울 중구 청파로 459-1",
+      "district": "중구",
+      "rows": 5,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32784065"
+    },
+    {
+      "place_id": "536e13d318c3",
+      "name": "굿프랜드은평점",
+      "address": "서울 은평구 갈현로7길 49",
+      "district": "은평구",
+      "rows": 4,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32782829"
+    },
+    {
+      "place_id": "539b871e8b8f",
+      "name": "진진쌈밥",
+      "address": "서울 은평구 응암로 263",
+      "district": "은평구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33847522"
+    },
+    {
+      "place_id": "543815c0e4a5",
+      "name": "동경㈜창동지점",
+      "address": "서울 도봉구 마들로13길 61",
+      "district": "도봉구",
+      "rows": 6,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32951630"
+    },
+    {
+      "place_id": "552a62134964",
+      "name": "오발탄",
+      "address": "서울 성동구 왕십리로 50",
+      "district": "성동구",
+      "rows": 5,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32940002"
+    },
+    {
+      "place_id": "56372dfd043f",
+      "name": "거궁창동점",
+      "address": "서울 도봉구 마들로13길 61",
+      "district": "도봉구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34483848"
+    },
+    {
+      "place_id": "5779cb5fd8c1",
+      "name": "동감",
+      "address": "서울 종로구 사직로8길 24",
+      "district": "종로구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33815738"
+    },
+    {
+      "place_id": "57a972e738c5",
+      "name": "부안애서",
+      "address": "서울 서초구 청계산로 223",
+      "district": "서초구",
+      "rows": 8,
+      "documents": 6,
+      "meal_rows": 2,
+      "source_url": "https://opengov.seoul.go.kr/expense/33210198"
+    },
+    {
+      "place_id": "5eb862933628",
+      "name": "두미집",
+      "address": "서울 강북구 한천로140길 5-8",
+      "district": "강북구",
+      "rows": 4,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33406224"
+    },
+    {
+      "place_id": "66a2116ecee6",
+      "name": "전주명가",
+      "address": "서울 도봉구 덕릉로54길 8",
+      "district": "도봉구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32952991"
+    },
+    {
+      "place_id": "6744d7202127",
+      "name": "온기담",
+      "address": "서울 은평구 응암로 277",
+      "district": "은평구",
+      "rows": 8,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "677312dd197b",
+      "name": "바다양푼이동태탕",
+      "address": "서울 서대문구 충정로4길 13",
+      "district": "서대문구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32774990"
+    },
+    {
+      "place_id": "6eee856c778e",
+      "name": "장어세상",
+      "address": "서울 동대문구 장한로 9",
+      "district": "동대문구",
+      "rows": 4,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32985434"
+    },
+    {
+      "place_id": "76e470a4fd00",
+      "name": "제주하루방",
+      "address": "서울 은평구 응암로 250",
+      "district": "은평구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "7a3a438b853b",
+      "name": "강경불고기",
+      "address": "서울 노원구 한글비석로 127",
+      "district": "노원구",
+      "rows": 10,
+      "documents": 9,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33165008"
+    },
+    {
+      "place_id": "7cb4148b84a5",
+      "name": "회현집",
+      "address": "서울 성동구 성덕정3가길 1",
+      "district": "성동구",
+      "rows": 7,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33586790"
+    },
+    {
+      "place_id": "7e35985c4687",
+      "name": "퀸즈",
+      "address": "서울 서초구 바우뫼로2길 69",
+      "district": "서초구",
+      "rows": 1,
+      "documents": 1,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/35074626"
+    },
+    {
+      "place_id": "826ef34e6984",
+      "name": "육타",
+      "address": "서울 성동구 왕십리로 58",
+      "district": "성동구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34288296"
+    },
+    {
+      "place_id": "8a48cc91bc48",
+      "name": "미시령너머",
+      "address": "서울 중구 통일로4길 16",
+      "district": "중구",
+      "rows": 1,
+      "documents": 1,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34701401"
+    },
+    {
+      "place_id": "8b6c6352ed6d",
+      "name": "지호한방삼계탕",
+      "address": "서울 강북구 월계로 183",
+      "district": "강북구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 6,
+      "source_url": "https://opengov.seoul.go.kr/expense/33392407"
+    },
+    {
+      "place_id": "8ee04556e23b",
+      "name": "신비로유통",
+      "address": "서울 은평구 응암로22길 22-1",
+      "district": "은평구",
+      "rows": 8,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "94268df702f0",
+      "name": "늘해랑",
+      "address": "서울 도봉구 우이천로 132",
+      "district": "도봉구",
+      "rows": 14,
+      "documents": 9,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32784043"
+    },
+    {
+      "place_id": "96eb720b17d0",
+      "name": "사리원안녕인사동점",
+      "address": "서울 종로구 인사동길 49",
+      "district": "종로구",
+      "rows": 4,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33406013"
+    },
+    {
+      "place_id": "976717424687",
+      "name": "으뜸농산물",
+      "address": "서울 은평구 갈현로5길 7",
+      "district": "은평구",
+      "rows": 7,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32782829"
+    },
+    {
+      "place_id": "97798155e3e0",
+      "name": "장꼬방",
+      "address": "서울 서초구 효령로 364",
+      "district": "서초구",
+      "rows": 26,
+      "documents": 6,
+      "meal_rows": 4,
+      "source_url": "https://opengov.seoul.go.kr/expense/34067541"
+    },
+    {
+      "place_id": "97ca133a07ef",
+      "name": "박용석스시",
+      "address": "서울 은평구 응암로 207",
+      "district": "은평구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743370"
+    },
+    {
+      "place_id": "9ed0a71f9ff3",
+      "name": "고흥만",
+      "address": "서울 성동구 뚝섬로3길 9",
+      "district": "성동구",
+      "rows": 6,
+      "documents": 4,
+      "meal_rows": 1,
+      "source_url": "https://opengov.seoul.go.kr/expense/33153769"
+    },
+    {
+      "place_id": "a0be29f08e72",
+      "name": "진라이",
+      "address": "서울 서초구 남부순환로 2457",
+      "district": "서초구",
+      "rows": 5,
+      "documents": 5,
+      "meal_rows": 1,
+      "source_url": "https://opengov.seoul.go.kr/expense/32974332"
+    },
+    {
+      "place_id": "a670fcb792cb",
+      "name": "향림",
+      "address": "서울 노원구 한글비석로 127",
+      "district": "노원구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32793773"
+    },
+    {
+      "place_id": "aaa135ffc7b2",
+      "name": "낙지마을",
+      "address": "서울 강남구 개포로 623",
+      "district": "강남구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32765855"
+    },
+    {
+      "place_id": "ac6ea5b3cd68",
+      "name": "북서울진순대",
+      "address": "서울 성북구 돌곶이로 221-1",
+      "district": "성북구",
+      "rows": 6,
+      "documents": 5,
+      "meal_rows": 5,
+      "source_url": "https://opengov.seoul.go.kr/expense/32952992"
+    },
+    {
+      "place_id": "b0b02a423280",
+      "name": "승리원",
+      "address": "서울 성동구 왕십리로 78",
+      "district": "성동구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34047883"
+    },
+    {
+      "place_id": "b3ee519185e2",
+      "name": "방아실연탄구이",
+      "address": "서울 성동구 왕십리로2길 38",
+      "district": "성동구",
+      "rows": 1,
+      "documents": 1,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34753595"
+    },
+    {
+      "place_id": "bb57ffa5dd1d",
+      "name": "하동우렁추어탕",
+      "address": "서울 광진구 자양로 277",
+      "district": "광진구",
+      "rows": 13,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32755473"
+    },
+    {
+      "place_id": "bea7713dbdb7",
+      "name": "함초손두부",
+      "address": "서울 마포구 월드컵로 154-1",
+      "district": "마포구",
+      "rows": 8,
+      "documents": 5,
+      "meal_rows": 2,
+      "source_url": "https://opengov.seoul.go.kr/expense/33825944"
+    },
+    {
+      "place_id": "c3da8dfe3228",
+      "name": "서광슈퍼",
+      "address": "서울 강서구 양천로27길 129",
+      "district": "강서구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32793655"
+    },
+    {
+      "place_id": "c437eb91a131",
+      "name": "홈플러스월드컵점",
+      "address": "서울 마포구 월드컵로 240",
+      "district": "마포구",
+      "rows": 10,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32793655"
+    },
+    {
+      "place_id": "c995d0e0e563",
+      "name": "박군자진주냉면",
+      "address": "서울 중구 을지로3길 30-5",
+      "district": "중구",
+      "rows": 3,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34037468"
+    },
+    {
+      "place_id": "cab2bd800cac",
+      "name": "구인증_갤럭시아",
+      "address": "서울 강남구 광평로 281",
+      "district": "강남구",
+      "rows": 5,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34254433"
+    },
+    {
+      "place_id": "d1682f252efe",
+      "name": "푸디스트주식회사마포점",
+      "address": "서울 마포구 월드컵로3길 76",
+      "district": "마포구",
+      "rows": 7,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33624312"
+    },
+    {
+      "place_id": "d404cffeb060",
+      "name": "아뮤즈",
+      "address": "서울 은평구 은평로8길 29",
+      "district": "은평구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32974362"
+    },
+    {
+      "place_id": "d58d9702ad86",
+      "name": "장수마늘보쌈",
+      "address": "서울 강북구 한천로 960",
+      "district": "강북구",
+      "rows": 9,
+      "documents": 9,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32784043"
+    },
+    {
+      "place_id": "d74d95fa68f3",
+      "name": "명동충무김밥",
+      "address": "서울 중구 명동10길 16",
+      "district": "중구",
+      "rows": 12,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32985434"
+    },
+    {
+      "place_id": "db1c208c2a23",
+      "name": "노원짬뽕",
+      "address": "서울 강북구 한천로 936",
+      "district": "강북구",
+      "rows": 12,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32784043"
+    },
+    {
+      "place_id": "db87120b21cd",
+      "name": "제주삼다돈",
+      "address": "서울 성동구 왕십리로 273-16",
+      "district": "성동구",
+      "rows": 1,
+      "documents": 1,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32940010"
+    },
+    {
+      "place_id": "db8bf06e5159",
+      "name": "김현우스시",
+      "address": "서울 은평구 갈현로1길 19",
+      "district": "은평구",
+      "rows": 6,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32782829"
+    },
+    {
+      "place_id": "dbf1d6f966b7",
+      "name": "스미스가좋아하는한옥",
+      "address": "서울 종로구 삼청로 22-7",
+      "district": "종로구",
+      "rows": 4,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32985456"
+    },
+    {
+      "place_id": "e464e33a71f5",
+      "name": "장어시대",
+      "address": "서울 성동구 고산자로10길 8",
+      "district": "성동구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32743351"
+    },
+    {
+      "place_id": "ebfa196ce677",
+      "name": "길조",
+      "address": "서울 동작구 여의대방로16길 16",
+      "district": "동작구",
+      "rows": 7,
+      "documents": 5,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32773744"
+    },
+    {
+      "place_id": "f2c891807f38",
+      "name": "아로이타이",
+      "address": "서울 은평구 은평로 101",
+      "district": "은평구",
+      "rows": 3,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33847522"
+    },
+    {
+      "place_id": "f4d2e59b5f69",
+      "name": "GSTHEFRESH",
+      "address": "서울 마포구 월드컵북로 496",
+      "district": "마포구",
+      "rows": 7,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33331819"
+    },
+    {
+      "place_id": "f4fb995fb18b",
+      "name": "팔진향사당점",
+      "address": "서울 서초구 방배천로 11",
+      "district": "서초구",
+      "rows": 4,
+      "documents": 4,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32773782"
+    },
+    {
+      "place_id": "f5453de77feb",
+      "name": "우성리테일",
+      "address": "서울 양천구 지양로 78",
+      "district": "양천구",
+      "rows": 6,
+      "documents": 6,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32985679"
+    },
+    {
+      "place_id": "f6ac80be0c80",
+      "name": "마리스테이블",
+      "address": "서울 서초구 서초중앙로 50",
+      "district": "서초구",
+      "rows": 10,
+      "documents": 7,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/32793483"
+    },
+    {
+      "place_id": "f968fd0f2c52",
+      "name": "혁신풍천민물장어",
+      "address": "서울 성동구 왕십리로 66-26",
+      "district": "성동구",
+      "rows": 4,
+      "documents": 3,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/33792090"
+    },
+    {
+      "place_id": "fadf110a6c36",
+      "name": "응암식당",
+      "address": "서울 은평구 응암로22길 22",
+      "district": "은평구",
+      "rows": 2,
+      "documents": 2,
+      "meal_rows": 0,
+      "source_url": "https://opengov.seoul.go.kr/expense/34220903"
+    }
+  ],
+  "purpose_counts": {
+    "uncertain": 16261,
+    "refreshment": 388,
+    "meal": 468
+  },
+  "time_rows": 468,
+  "hours": [
+    {
+      "hour": 0,
+      "rows": 0
+    },
+    {
+      "hour": 1,
+      "rows": 0
+    },
+    {
+      "hour": 2,
+      "rows": 0
+    },
+    {
+      "hour": 3,
+      "rows": 0
+    },
+    {
+      "hour": 4,
+      "rows": 0
+    },
+    {
+      "hour": 5,
+      "rows": 0
+    },
+    {
+      "hour": 6,
+      "rows": 0
+    },
+    {
+      "hour": 7,
+      "rows": 0
+    },
+    {
+      "hour": 8,
+      "rows": 0
+    },
+    {
+      "hour": 9,
+      "rows": 0
+    },
+    {
+      "hour": 10,
+      "rows": 1
+    },
+    {
+      "hour": 11,
+      "rows": 57
+    },
+    {
+      "hour": 12,
+      "rows": 235
+    },
+    {
+      "hour": 13,
+      "rows": 62
+    },
+    {
+      "hour": 14,
+      "rows": 2
+    },
+    {
+      "hour": 15,
+      "rows": 3
+    },
+    {
+      "hour": 16,
+      "rows": 0
+    },
+    {
+      "hour": 17,
+      "rows": 1
+    },
+    {
+      "hour": 18,
+      "rows": 16
+    },
+    {
+      "hour": 19,
+      "rows": 27
+    },
+    {
+      "hour": 20,
+      "rows": 40
+    },
+    {
+      "hour": 21,
+      "rows": 23
+    },
+    {
+      "hour": 22,
+      "rows": 1
+    },
+    {
+      "hour": 23,
+      "rows": 0
+    }
+  ],
+  "time_places": [
+    {
+      "place_id": "026e3240bd41",
+      "name": "은행골",
+      "address": "서울 중구 세종대로 70-1",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 2,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "0805ccca3924",
+      "name": "하나노마이",
+      "address": "서울 중구 남대문로 7",
+      "district": "중구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 0,
+      "evening": 4,
+      "other": 0
+    },
+    {
+      "place_id": "112e17b5cd6a",
+      "name": "참복집",
+      "address": "서울 중구 세종대로 135-7",
+      "district": "중구",
+      "rows": 8,
+      "documents": 7,
+      "midday": 8,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "15faa73885cc",
+      "name": "행복한구이세상",
+      "address": "서울 중구 남대문로9길 24",
+      "district": "중구",
+      "rows": 7,
+      "documents": 6,
+      "midday": 7,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "1796d5da33c3",
+      "name": "곰국시집",
+      "address": "서울 중구 무교로 24",
+      "district": "중구",
+      "rows": 8,
+      "documents": 8,
+      "midday": 5,
+      "evening": 3,
+      "other": 0
+    },
+    {
+      "place_id": "17acbf621b72",
+      "name": "오리마당",
+      "address": "서울 중구 세종대로 92",
+      "district": "중구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 4,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "1bec913c9bfc",
+      "name": "삼우정",
+      "address": "서울 중구 서소문로 134-12",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "1d634efac5b3",
+      "name": "화평동왕냉면",
+      "address": "서울 성북구 월계로 170",
+      "district": "성북구",
+      "rows": 6,
+      "documents": 5,
+      "midday": 6,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "1f86e331a5cd",
+      "name": "목포세발낙지",
+      "address": "서울 중구 남대문로9길 20",
+      "district": "중구",
+      "rows": 6,
+      "documents": 4,
+      "midday": 6,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "24e2ba658307",
+      "name": "우도일식",
+      "address": "서울 중구 세종대로 124",
+      "district": "중구",
+      "rows": 6,
+      "documents": 5,
+      "midday": 6,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "27c243889766",
+      "name": "완백부대찌개삼겹살시청역씨티스퀘어점",
+      "address": "서울 중구 서소문로 124",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "281344da23c0",
+      "name": "모두",
+      "address": "서울 중구 서소문로 109-6",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 2,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "2be65f23966d",
+      "name": "바른고기정육점광화문SFC점",
+      "address": "서울 중구 세종대로 136",
+      "district": "중구",
+      "rows": 6,
+      "documents": 6,
+      "midday": 5,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "3ce71df6c523",
+      "name": "서민갈비살",
+      "address": "서울 중구 세종대로18길 16-3",
+      "district": "중구",
+      "rows": 7,
+      "documents": 5,
+      "midday": 1,
+      "evening": 6,
+      "other": 0
+    },
+    {
+      "place_id": "4998b3b337bf",
+      "name": "시청해우리",
+      "address": "서울 중구 서소문로 95",
+      "district": "중구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 3,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "49edf5c28bb6",
+      "name": "라칸티나",
+      "address": "서울 중구 을지로 19",
+      "district": "중구",
+      "rows": 15,
+      "documents": 12,
+      "midday": 14,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "4ecf71a97bb7",
+      "name": "퍼스트플로어",
+      "address": "서울 중구 세종대로 58",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "62659fe901ee",
+      "name": "콩지POT지",
+      "address": "서울 종로구 북촌로 21-15",
+      "district": "종로구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 2,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "63aafbfca130",
+      "name": "부자되세요",
+      "address": "서울 영등포구 국제금융로6길 33",
+      "district": "영등포구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 4,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "69b5d3455e5f",
+      "name": "복성각",
+      "address": "서울 중구 덕수궁길 7",
+      "district": "중구",
+      "rows": 6,
+      "documents": 6,
+      "midday": 6,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "6f52cbf8253c",
+      "name": "더테이블한정식",
+      "address": "서울 중구 세종대로 124",
+      "district": "중구",
+      "rows": 9,
+      "documents": 6,
+      "midday": 9,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "6fcf3308d9b0",
+      "name": "배수사",
+      "address": "서울 중구 남대문로9길 12",
+      "district": "중구",
+      "rows": 5,
+      "documents": 5,
+      "midday": 3,
+      "evening": 2,
+      "other": 0
+    },
+    {
+      "place_id": "73a9af10a176",
+      "name": "브라주카그릴",
+      "address": "서울 중구 무교로 19",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "792dbc39a193",
+      "name": "보돌미역광화문SFC몰점",
+      "address": "서울 중구 세종대로 136",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "7e38ee1ddadc",
+      "name": "무교소호정",
+      "address": "서울 중구 무교로 17-25",
+      "district": "중구",
+      "rows": 9,
+      "documents": 8,
+      "midday": 9,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "7fa1b790c21b",
+      "name": "신가원설렁탕",
+      "address": "서울 중구 을지로1길 10",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 2,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "8b6c6352ed6d",
+      "name": "지호한방삼계탕",
+      "address": "서울 강북구 월계로 183",
+      "district": "강북구",
+      "rows": 6,
+      "documents": 5,
+      "midday": 6,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "8fb0a5f77b0d",
+      "name": "참숯골",
+      "address": "서울 중구 무교로 16",
+      "district": "중구",
+      "rows": 17,
+      "documents": 13,
+      "midday": 17,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "9295124351d6",
+      "name": "브이아이피참치",
+      "address": "서울 중구 세종대로11길 42",
+      "district": "중구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 4,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "93581a6e2f77",
+      "name": "설품",
+      "address": "서울 중구 덕수궁길 7",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 2,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "9718c8d2dcda",
+      "name": "한촌설렁탕",
+      "address": "서울 성동구 뚝섬로 389",
+      "district": "성동구",
+      "rows": 6,
+      "documents": 5,
+      "midday": 6,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "a553f231dc65",
+      "name": "한뫼촌",
+      "address": "서울 종로구 북촌로 24-4",
+      "district": "종로구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 2,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "a650f5ba98c3",
+      "name": "본도시락종각점",
+      "address": "서울 종로구 청계천로 67",
+      "district": "종로구",
+      "rows": 5,
+      "documents": 4,
+      "midday": 5,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "ac6ea5b3cd68",
+      "name": "북서울진순대",
+      "address": "서울 성북구 돌곶이로 221-1",
+      "district": "성북구",
+      "rows": 5,
+      "documents": 4,
+      "midday": 5,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "b1613441d1f0",
+      "name": "푸에르코광화문",
+      "address": "서울 중구 무교로 21",
+      "district": "중구",
+      "rows": 5,
+      "documents": 4,
+      "midday": 4,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "b52712980dfc",
+      "name": "창고43무교점",
+      "address": "서울 중구 무교로 21",
+      "district": "중구",
+      "rows": 6,
+      "documents": 5,
+      "midday": 5,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "bbf7ed005e83",
+      "name": "행복한하루소바",
+      "address": "서울 중구 무교로 16",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "be09d1791720",
+      "name": "마포만두",
+      "address": "서울 중구 남대문로9길 51",
+      "district": "중구",
+      "rows": 3,
+      "documents": 3,
+      "midday": 3,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "d0d25bb56a99",
+      "name": "디라이프스티일키친",
+      "address": "서울 중구 세종대로 136",
+      "district": "중구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 3,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "d1e5feeee98c",
+      "name": "삼원일식",
+      "address": "서울 중구 무교로 32",
+      "district": "중구",
+      "rows": 14,
+      "documents": 11,
+      "midday": 13,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "d70dec1fbfd0",
+      "name": "열빈",
+      "address": "서울 중구 세종대로21길 22",
+      "district": "중구",
+      "rows": 4,
+      "documents": 4,
+      "midday": 4,
+      "evening": 0,
+      "other": 0
+    },
+    {
+      "place_id": "de9a9bb5dcfb",
+      "name": "컨퍼런스하우스달개비정동점",
+      "address": "서울 중구 세종대로21길 15",
+      "district": "중구",
+      "rows": 6,
+      "documents": 4,
+      "midday": 5,
+      "evening": 1,
+      "other": 0
+    },
+    {
+      "place_id": "e0a4cb418f66",
+      "name": "포도나무",
+      "address": "서울 종로구 사직로 108-1",
+      "district": "종로구",
+      "rows": 5,
+      "documents": 4,
+      "midday": 2,
+      "evening": 3,
+      "other": 0
+    },
+    {
+      "place_id": "ecfe2826cb90",
+      "name": "동해수산",
+      "address": "서울 중구 무교로 16",
+      "district": "중구",
+      "rows": 14,
+      "documents": 9,
+      "midday": 13,
+      "evening": 1,
+      "other": 0
+    }
+  ]
+}

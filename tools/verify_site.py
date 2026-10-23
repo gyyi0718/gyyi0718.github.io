@@ -60,9 +60,9 @@ def run():
   else:
    assert '/map.html#region-directory' in text
    assert 'id="region-directory"' not in text
-   assert text.index('새 분석과 부서·월별 비교 도구')<text.index('id="nationwide-section"')
+   assert text.index('17,117행의 지역·기관 분석 읽기')<text.index('id="nationwide-section"')
   assert 'nationwide-map.js' in text and 'map-region' in text
- files=list(ROOT.rglob('*.html'));assert len(files)==32;assert len(list((ROOT/'regions').glob('*.html')))==1
+ files=list(ROOT.rglob('*.html'));assert len(files)==34;assert len(list((ROOT/'regions').glob('*.html')))==1
  forbidden=['data/catalogue.json','data/review-held.json','data/quality-status.json','data/segeummatjib-2025-top10.csv','data/segeummatjib-2025-regions.csv','tools/input','ga-events.js','maechul/og-map.png','maechul/og-survivors.png']
  for p in forbidden:assert not (ROOT/p).exists(),p
  parsed={p:Page(p.read_text()) for p in files}
@@ -82,7 +82,7 @@ def run():
  assert 'Disallow:' not in (ROOT/'robots.txt').read_text()
  assert (ROOT/'ads.txt').read_text().strip()=='google.com, pub-3133301641364865, DIRECT, f08c47fec0942fa0'
  assert '  - tools' in (ROOT/'_config.yml').read_text()
- urls=[x.text for x in ET.parse(ROOT/'sitemap.xml').findall('.//{*}loc')];assert len(urls)==len(set(urls))==31
- result={'status':'PASS','html_pages':32,'indexable_pages':31,'retired_region_files_absent':228,'nationwide_regions':229,'nationwide_entries':2186,'nationwide_coordinates':2160,'seoul_rows':2699,'seoul_groups':13,'jeju_dongs':43,'jeju_inputs':24,'checks':['source row identity and duplicate regression','Seoul CSV equality and derived aggregates','Jeju cohort/month/dong reconciliation','all internal resources and anchor targets','publication boundary and retired bulk endpoints absent','metadata sitemap robots ads ownership'],'file_hashes':{str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in files}}
+ urls=[x.text for x in ET.parse(ROOT/'sitemap.xml').findall('.//{*}loc')];assert len(urls)==len(set(urls))==33
+ result={'status':'PASS','html_pages':34,'indexable_pages':33,'retired_region_files_absent':228,'nationwide_regions':229,'nationwide_entries':2186,'nationwide_coordinates':2160,'seoul_rows':2699,'seoul_groups':13,'jeju_dongs':43,'jeju_inputs':24,'checks':['source row identity and duplicate regression','Seoul CSV equality and derived aggregates','Jeju cohort/month/dong reconciliation','all internal resources and anchor targets','publication boundary and retired bulk endpoints absent','metadata sitemap robots ads ownership'],'file_hashes':{str(p.relative_to(ROOT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in files}}
  print(json.dumps(result,ensure_ascii=False,indent=2))
 if __name__=='__main__':run()

@@ -1,0 +1,13 @@
+{
+  "period": [
+    "2025-01-01",
+    "2025-12-31"
+  ],
+  "inputs": {
+    "seoul-directory-records.csv": "f9a7d111866c0d60eb83dcc0b86530c7ec3680c65193c5db51515aaadebd7057",
+    "editorial-times.csv": "6617e939247450bc032ce88bcdc3bebed6adaa01206a7e8b4e6de844d24220e7",
+    "editorial-calculations.py": "0a85b1fe6c131257046a0aa9e609f3937466f1abd9adecd2b7952571a0708ee5"
+  },
+  "selection": "Published directory, then calendar 2025; sensitivity reapplies five-document/three-month threshold within 2025",
+  "time_scope": "All 2025 published meal-labelled rows; exact raw join on document ID and parsed row; no attendees or purpose free text"
+}
