@@ -56,7 +56,11 @@ def run():
   if i.get('sources'):assert all(x['url'].startswith('https://opengov.seoul.go.kr/expense/') for x in i['sources'])
  for name in ['index.html','map.html']:
   text=(ROOT/name).read_text()
-  assert all('/map.html?region='+r['slug'] in text for r in regions)
+  if name=='map.html':assert all('/map.html?region='+r['slug'] in text for r in regions)
+  else:
+   assert '/map.html#region-directory' in text
+   assert 'id="region-directory"' not in text
+   assert text.index('주소별 계산과 원문 확인')<text.index('id="nationwide-section"')
   assert 'nationwide-map.js' in text and 'map-region' in text
  files=list(ROOT.rglob('*.html'));assert len(files)==15;assert len(list((ROOT/'regions').glob('*.html')))==1
  forbidden=['data/catalogue.json','data/review-held.json','data/quality-status.json','data/segeummatjib-2025-top10.csv','data/segeummatjib-2025-regions.csv','tools/input','ga-events.js','maechul/og-map.png','maechul/og-survivors.png']
