@@ -1,0 +1,296 @@
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
+opengov:32773774,1,https://opengov.seoul.go.kr/expense/32773774,2025-01-02,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,120000,p07
+opengov:32774994,1,https://opengov.seoul.go.kr/expense/32774994,2025-01-02,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,159000,p07
+opengov:32793657,3,https://opengov.seoul.go.kr/expense/32793657,2025-01-03,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,96000,p07
+opengov:32743365,6,https://opengov.seoul.go.kr/expense/32743365,2025-01-06,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:32793657,6,https://opengov.seoul.go.kr/expense/32793657,2025-01-06,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:32793770,8,https://opengov.seoul.go.kr/expense/32793770,2025-01-06,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:32743301,1,https://opengov.seoul.go.kr/expense/32743301,2025-01-07,seoul_city,재무국 재산관리과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:32765845,3,https://opengov.seoul.go.kr/expense/32765845,2025-01-07,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,162000,p07
+opengov:32793753,5,https://opengov.seoul.go.kr/expense/32793753,2025-01-07,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 세종대로11길 42,174000,p07
+opengov:32743261,6,https://opengov.seoul.go.kr/expense/32743261,2025-01-13,seoul_council,재정분석담당관,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:32974359,7,https://opengov.seoul.go.kr/expense/32974359,2025-01-13,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 세종대로11길 42,180000,p07
+opengov:32743301,5,https://opengov.seoul.go.kr/expense/32743301,2025-01-14,seoul_city,재무국 재산관리과,브이아이피참치,서울 중구 세종대로11길 42,95000,p07
+opengov:32793657,17,https://opengov.seoul.go.kr/expense/32793657,2025-01-14,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:32754051,14,https://opengov.seoul.go.kr/expense/32754051,2025-01-15,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:32754075,7,https://opengov.seoul.go.kr/expense/32754075,2025-01-15,seoul_city,건설기술정책관 지역건축안전센터,브이아이피참치,서울 중구 세종대로11길 42,122000,p07
+opengov:32773774,5,https://opengov.seoul.go.kr/expense/32773774,2025-01-17,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:32793770,38,https://opengov.seoul.go.kr/expense/32793770,2025-01-17,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:32765886,10,https://opengov.seoul.go.kr/expense/32765886,2025-01-20,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:32793738,11,https://opengov.seoul.go.kr/expense/32793738,2025-01-20,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,102000,p07
+opengov:32812985,30,https://opengov.seoul.go.kr/expense/32812985,2025-01-21,seoul_city,정원도시국 정원도시정책과,브이아이피참치,서울 중구 세종대로11길 42,114000,p07
+opengov:32743301,12,https://opengov.seoul.go.kr/expense/32743301,2025-01-22,seoul_city,재무국 재산관리과,브이아이피참치,서울 중구 세종대로11길 42,51000,p07
+opengov:32743365,37,https://opengov.seoul.go.kr/expense/32743365,2025-01-24,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:32765845,26,https://opengov.seoul.go.kr/expense/32765845,2025-01-31,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:32974328,1,https://opengov.seoul.go.kr/expense/32974328,2025-02-06,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:32985688,15,https://opengov.seoul.go.kr/expense/32985688,2025-02-10,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:32985689,21,https://opengov.seoul.go.kr/expense/32985689,2025-02-10,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,105000,p07
+opengov:32940752,14,https://opengov.seoul.go.kr/expense/32940752,2025-02-12,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:32952954,16,https://opengov.seoul.go.kr/expense/32952954,2025-02-14,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,156000,p07
+opengov:32996725,16,https://opengov.seoul.go.kr/expense/32996725,2025-02-14,seoul_city,주택실 주택정책과,브이아이피참치,서울 중구 세종대로11길 42,181000,p07
+opengov:32941221,7,https://opengov.seoul.go.kr/expense/32941221,2025-02-17,seoul_city,재무국 세무과,브이아이피참치,서울 중구 세종대로11길 42,216000,p07
+opengov:32963655,7,https://opengov.seoul.go.kr/expense/32963655,2025-02-17,seoul_city,행정국 평화기반조성과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:32951604,7,https://opengov.seoul.go.kr/expense/32951604,2025-02-18,seoul_city,건설기술정책관 지역건축안전센터,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:32962306,12,https://opengov.seoul.go.kr/expense/32962306,2025-02-19,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,99000,p07
+opengov:32985656,6,https://opengov.seoul.go.kr/expense/32985656,2025-02-20,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,195000,p07
+opengov:32985656,7,https://opengov.seoul.go.kr/expense/32985656,2025-02-20,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,156000,p07
+opengov:32962306,15,https://opengov.seoul.go.kr/expense/32962306,2025-02-21,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:32974328,5,https://opengov.seoul.go.kr/expense/32974328,2025-02-21,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,33000,p07
+opengov:32985689,49,https://opengov.seoul.go.kr/expense/32985689,2025-02-21,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:32940752,32,https://opengov.seoul.go.kr/expense/32940752,2025-02-25,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,250000,p07
+opengov:32985689,60,https://opengov.seoul.go.kr/expense/32985689,2025-02-25,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,69000,p07
+opengov:32939973,10,https://opengov.seoul.go.kr/expense/32939973,2025-02-27,seoul_city,도시공간본부 도시재창조과,브이아이피참치,서울 중구 세종대로11길 42,150000,p07
+opengov:32974328,8,https://opengov.seoul.go.kr/expense/32974328,2025-02-27,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:32985689,66,https://opengov.seoul.go.kr/expense/32985689,2025-02-27,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,56000,p07
+opengov:32985669,33,https://opengov.seoul.go.kr/expense/32985669,2025-02-28,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:33228392,1,https://opengov.seoul.go.kr/expense/33228392,2025-03-04,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:33229623,12,https://opengov.seoul.go.kr/expense/33229623,2025-03-07,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:33177872,8,https://opengov.seoul.go.kr/expense/33177872,2025-03-10,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,123000,p07
+opengov:33177872,10,https://opengov.seoul.go.kr/expense/33177872,2025-03-11,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:33140861,8,https://opengov.seoul.go.kr/expense/33140861,2025-03-13,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,58000,p07
+opengov:33152550,13,https://opengov.seoul.go.kr/expense/33152550,2025-03-14,seoul_council,재정분석담당관,브이아이피참치,서울 중구 세종대로11길 42,58000,p07
+opengov:33152550,15,https://opengov.seoul.go.kr/expense/33152550,2025-03-17,seoul_council,재정분석담당관,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:33249126,23,https://opengov.seoul.go.kr/expense/33249126,2025-03-17,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:33177875,25,https://opengov.seoul.go.kr/expense/33177875,2025-03-18,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,308000,p07
+opengov:33152550,16,https://opengov.seoul.go.kr/expense/33152550,2025-03-19,seoul_council,재정분석담당관,브이아이피참치,서울 중구 세종대로11길 42,152000,p07
+opengov:33228392,11,https://opengov.seoul.go.kr/expense/33228392,2025-03-19,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,174000,p07
+opengov:33209056,17,https://opengov.seoul.go.kr/expense/33209056,2025-03-25,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:33229600,45,https://opengov.seoul.go.kr/expense/33229600,2025-03-26,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:33165011,11,https://opengov.seoul.go.kr/expense/33165011,2025-03-27,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:33209066,32,https://opengov.seoul.go.kr/expense/33209066,2025-03-27,seoul_city,주택실 주택정책과,브이아이피참치,서울 중구 세종대로11길 42,215000,p07
+opengov:33177843,10,https://opengov.seoul.go.kr/expense/33177843,2025-03-28,seoul_city,건설기술정책관 건설혁신담당관,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:33177872,28,https://opengov.seoul.go.kr/expense/33177872,2025-03-31,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,288000,p07
+opengov:33199468,21,https://opengov.seoul.go.kr/expense/33199468,2025-03-31,seoul_city,경제실 창조산업기획관 산업입지과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:33430093,3,https://opengov.seoul.go.kr/expense/33430093,2025-04-02,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:33440710,4,https://opengov.seoul.go.kr/expense/33440710,2025-04-02,seoul_city,주택정책과,브이아이피참치,서울 중구 세종대로11길 42,162000,p07
+opengov:33430107,3,https://opengov.seoul.go.kr/expense/33430107,2025-04-04,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:33430084,8,https://opengov.seoul.go.kr/expense/33430084,2025-04-07,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:33430093,6,https://opengov.seoul.go.kr/expense/33430093,2025-04-09,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,141000,p07
+opengov:33460525,12,https://opengov.seoul.go.kr/expense/33460525,2025-04-09,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,261000,p07
+opengov:33417514,16,https://opengov.seoul.go.kr/expense/33417514,2025-04-11,seoul_city,정원도시국 정원도시정책과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:33430107,9,https://opengov.seoul.go.kr/expense/33430107,2025-04-16,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:33440709,15,https://opengov.seoul.go.kr/expense/33440709,2025-04-16,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,450000,p07
+opengov:33430084,23,https://opengov.seoul.go.kr/expense/33430084,2025-04-17,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:33429122,9,https://opengov.seoul.go.kr/expense/33429122,2025-04-22,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:33393383,13,https://opengov.seoul.go.kr/expense/33393383,2025-04-23,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:33430104,7,https://opengov.seoul.go.kr/expense/33430104,2025-04-23,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:33405983,25,https://opengov.seoul.go.kr/expense/33405983,2025-04-25,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:33586788,2,https://opengov.seoul.go.kr/expense/33586788,2025-05-07,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,69000,p07
+opengov:33600335,9,https://opengov.seoul.go.kr/expense/33600335,2025-05-12,seoul_city,정원도시국 정원도시정책과,브이아이피참치,서울 중구 세종대로11길 42,162000,p07
+opengov:33636115,14,https://opengov.seoul.go.kr/expense/33636115,2025-05-15,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,105000,p07
+opengov:33611258,5,https://opengov.seoul.go.kr/expense/33611258,2025-05-16,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:33624303,8,https://opengov.seoul.go.kr/expense/33624303,2025-05-19,seoul_city,주거정비과,브이아이피참치,서울 중구 세종대로11길 42,105000,p07
+opengov:33624303,9,https://opengov.seoul.go.kr/expense/33624303,2025-05-20,seoul_city,주거정비과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:33778718,15,https://opengov.seoul.go.kr/expense/33778718,2025-05-22,seoul_city,주택정책과,브이아이피참치,서울 중구 세종대로11길 42,262000,p07
+opengov:33868891,1,https://opengov.seoul.go.kr/expense/33868891,2025-06-04,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,84000,p07
+opengov:33825301,7,https://opengov.seoul.go.kr/expense/33825301,2025-06-09,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:33804490,2,https://opengov.seoul.go.kr/expense/33804490,2025-06-11,seoul_city,재무국 재산관리과,브이아이피참치,서울 중구 세종대로11길 42,117000,p07
+opengov:33790698,3,https://opengov.seoul.go.kr/expense/33790698,2025-06-12,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,39000,p07
+opengov:33848783,8,https://opengov.seoul.go.kr/expense/33848783,2025-06-16,seoul_city,복지실 고독대응과,브이아이피참치,서울 중구 세종대로11길 42,112000,p07
+opengov:33825301,22,https://opengov.seoul.go.kr/expense/33825301,2025-06-18,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:33868891,26,https://opengov.seoul.go.kr/expense/33868891,2025-06-23,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:33826563,29,https://opengov.seoul.go.kr/expense/33826563,2025-06-24,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,100000,p07
+opengov:33790688,48,https://opengov.seoul.go.kr/expense/33790688,2025-06-25,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 세종대로11길 42,210000,p07
+opengov:33848773,24,https://opengov.seoul.go.kr/expense/33848773,2025-06-27,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,132000,p07
+opengov:34035941,1,https://opengov.seoul.go.kr/expense/34035941,2025-07-01,seoul_city,민생노동국 상권활성화과,브이아이피참치,서울 중구 세종대로11길 42,114000,p07
+opengov:34076402,1,https://opengov.seoul.go.kr/expense/34076402,2025-07-01,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:34077523,1,https://opengov.seoul.go.kr/expense/34077523,2025-07-01,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:34077485,3,https://opengov.seoul.go.kr/expense/34077485,2025-07-02,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:34077523,7,https://opengov.seoul.go.kr/expense/34077523,2025-07-09,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,96000,p07
+opengov:34233937,6,https://opengov.seoul.go.kr/expense/34233937,2025-07-09,seoul_city,기후환경본부 친환경차량과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:34016219,5,https://opengov.seoul.go.kr/expense/34016219,2025-07-10,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:34047864,7,https://opengov.seoul.go.kr/expense/34047864,2025-07-10,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,220000,p07
+opengov:34077531,19,https://opengov.seoul.go.kr/expense/34077531,2025-07-14,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:34077523,11,https://opengov.seoul.go.kr/expense/34077523,2025-07-15,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,94000,p07
+opengov:34037567,18,https://opengov.seoul.go.kr/expense/34037567,2025-07-16,seoul_office,서울아리수본부 남부수도사업소,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:34144634,8,https://opengov.seoul.go.kr/expense/34144634,2025-07-16,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,138000,p07
+opengov:34049232,36,https://opengov.seoul.go.kr/expense/34049232,2025-07-17,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로11길 42,140000,p07
+opengov:34087203,13,https://opengov.seoul.go.kr/expense/34087203,2025-07-17,seoul_city,기술심사담당관,브이아이피참치,서울 중구 세종대로11길 42,190000,p07
+opengov:34016219,12,https://opengov.seoul.go.kr/expense/34016219,2025-07-18,seoul_city,주택실 전략주택공급과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:34047864,13,https://opengov.seoul.go.kr/expense/34047864,2025-07-18,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:34059237,16,https://opengov.seoul.go.kr/expense/34059237,2025-07-21,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:34144638,24,https://opengov.seoul.go.kr/expense/34144638,2025-07-21,seoul_city,주택정책과,브이아이피참치,서울 중구 세종대로11길 42,220000,p07
+opengov:34077531,38,https://opengov.seoul.go.kr/expense/34077531,2025-07-24,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:34049251,26,https://opengov.seoul.go.kr/expense/34049251,2025-07-25,seoul_city,건축기획과,브이아이피참치,서울 중구 세종대로11길 42,110000,p07
+opengov:34058176,43,https://opengov.seoul.go.kr/expense/34058176,2025-07-25,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:34077515,10,https://opengov.seoul.go.kr/expense/34077515,2025-07-25,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,154000,p07
+opengov:34495640,3,https://opengov.seoul.go.kr/expense/34495640,2025-08-01,seoul_city,주택정책과,브이아이피참치,서울 중구 세종대로11길 42,169000,p07
+opengov:34278366,1,https://opengov.seoul.go.kr/expense/34278366,2025-08-05,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,174000,p07
+opengov:34243933,1,https://opengov.seoul.go.kr/expense/34243933,2025-08-06,seoul_city,민생노동국 상권활성화과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:34233893,3,https://opengov.seoul.go.kr/expense/34233893,2025-08-08,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,232000,p07
+opengov:34299645,56,https://opengov.seoul.go.kr/expense/34299645,2025-08-18,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로11길 42,150000,p07
+opengov:34299596,35,https://opengov.seoul.go.kr/expense/34299596,2025-08-19,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:34233893,6,https://opengov.seoul.go.kr/expense/34233893,2025-08-20,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:34267820,28,https://opengov.seoul.go.kr/expense/34267820,2025-08-22,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:34289527,14,https://opengov.seoul.go.kr/expense/34289527,2025-08-25,seoul_city,경제실 창조산업기획관 산업입지과,브이아이피참치,서울 중구 세종대로11길 42,120000,p07
+opengov:34299641,9,https://opengov.seoul.go.kr/expense/34299641,2025-08-25,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,99000,p07
+opengov:34465683,3,https://opengov.seoul.go.kr/expense/34465683,2025-09-01,seoul_city,정원도시국 정원도시정책과,브이아이피참치,서울 중구 세종대로11길 42,129000,p07
+opengov:34454101,8,https://opengov.seoul.go.kr/expense/34454101,2025-09-03,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,80000,p07
+opengov:34467175,3,https://opengov.seoul.go.kr/expense/34467175,2025-09-03,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,140000,p07
+opengov:34483954,3,https://opengov.seoul.go.kr/expense/34483954,2025-09-03,seoul_office,동부공원여가센터 공원운영과,브이아이피참치,서울 중구 세종대로11길 42,128000,p07
+opengov:34454101,9,https://opengov.seoul.go.kr/expense/34454101,2025-09-04,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,144000,p07
+opengov:34483822,15,https://opengov.seoul.go.kr/expense/34483822,2025-09-05,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,92000,p07
+opengov:34484006,14,https://opengov.seoul.go.kr/expense/34484006,2025-09-08,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:34550809,10,https://opengov.seoul.go.kr/expense/34550809,2025-09-08,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,144000,p07
+opengov:34484009,1,https://opengov.seoul.go.kr/expense/34484009,2025-09-09,seoul_city,기후환경본부 친환경차량과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:34643621,10,https://opengov.seoul.go.kr/expense/34643621,2025-09-10,seoul_city,주택정책과,브이아이피참치,서울 중구 세종대로11길 42,302000,p07
+opengov:34483324,29,https://opengov.seoul.go.kr/expense/34483324,2025-09-15,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,100000,p07
+opengov:34483822,26,https://opengov.seoul.go.kr/expense/34483822,2025-09-15,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:34483838,18,https://opengov.seoul.go.kr/expense/34483838,2025-09-16,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 세종대로11길 42,78000,p07
+opengov:34495645,5,https://opengov.seoul.go.kr/expense/34495645,2025-09-16,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:34465655,24,https://opengov.seoul.go.kr/expense/34465655,2025-09-18,seoul_city,미래공간기획관 미래공간담당관,브이아이피참치,서울 중구 세종대로11길 42,180000,p07
+opengov:34452845,10,https://opengov.seoul.go.kr/expense/34452845,2025-09-22,seoul_city,건설기술정책관 건설혁신담당관,브이아이피참치,서울 중구 세종대로11길 42,69000,p07
+opengov:34495645,9,https://opengov.seoul.go.kr/expense/34495645,2025-09-22,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:34467210,44,https://opengov.seoul.go.kr/expense/34467210,2025-09-24,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:34467175,29,https://opengov.seoul.go.kr/expense/34467175,2025-09-29,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,134000,p07
+opengov:34483220,17,https://opengov.seoul.go.kr/expense/34483220,2025-09-30,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,232000,p07
+opengov:34889831,1,https://opengov.seoul.go.kr/expense/34889831,2025-10-01,seoul_city,주택정책과,브이아이피참치,서울 중구 세종대로11길 42,190000,p07
+opengov:34669134,2,https://opengov.seoul.go.kr/expense/34669134,2025-10-02,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,120000,p07
+opengov:34700277,3,https://opengov.seoul.go.kr/expense/34700277,2025-10-13,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:34711323,16,https://opengov.seoul.go.kr/expense/34711323,2025-10-17,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,76000,p07
+opengov:34680954,13,https://opengov.seoul.go.kr/expense/34680954,2025-10-21,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,69000,p07
+opengov:34691333,79,https://opengov.seoul.go.kr/expense/34691333,2025-10-31,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로11길 42,174000,p07
+opengov:34876536,1,https://opengov.seoul.go.kr/expense/34876536,2025-11-03,seoul_city,물순환안전국 수변감성도시과,브이아이피참치,서울 중구 세종대로11길 42,76000,p07
+opengov:34916631,4,https://opengov.seoul.go.kr/expense/34916631,2025-11-06,seoul_office,서울아리수본부 요금관리부,브이아이피참치,서울 중구 세종대로11길 42,156000,p07
+opengov:34952057,5,https://opengov.seoul.go.kr/expense/34952057,2025-11-11,seoul_city,교통실 택시정책과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:34902476,3,https://opengov.seoul.go.kr/expense/34902476,2025-11-12,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,66000,p07
+opengov:34928402,4,https://opengov.seoul.go.kr/expense/34928402,2025-11-13,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,174000,p07
+opengov:34963693,15,https://opengov.seoul.go.kr/expense/34963693,2025-11-14,seoul_city,디자인정책관 도시경관담당관,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:34928402,5,https://opengov.seoul.go.kr/expense/34928402,2025-11-17,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:34904036,36,https://opengov.seoul.go.kr/expense/34904036,2025-11-21,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:34904048,30,https://opengov.seoul.go.kr/expense/34904048,2025-11-24,seoul_council,재정분석과,브이아이피참치,서울 중구 세종대로11길 42,167000,p07
+opengov:34962135,20,https://opengov.seoul.go.kr/expense/34962135,2025-11-28,seoul_office,은평병원 원무과,브이아이피참치,서울 중구 세종대로11길 42,234000,p07
+opengov:34963682,16,https://opengov.seoul.go.kr/expense/34963682,2025-11-28,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 세종대로11길 42,198000,p07
+opengov:34963689,43,https://opengov.seoul.go.kr/expense/34963689,2025-11-28,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:35165355,3,https://opengov.seoul.go.kr/expense/35165355,2025-12-01,seoul_city,물순환안전국 수변감성도시과,브이아이피참치,서울 중구 세종대로11길 42,480000,p07
+opengov:35197522,1,https://opengov.seoul.go.kr/expense/35197522,2025-12-01,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:35157872,2,https://opengov.seoul.go.kr/expense/35157872,2025-12-03,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,102000,p07
+opengov:35157889,9,https://opengov.seoul.go.kr/expense/35157889,2025-12-15,seoul_city,디자인정책관 도시경관담당관,브이아이피참치,서울 중구 세종대로11길 42,80000,p07
+opengov:35241582,14,https://opengov.seoul.go.kr/expense/35241582,2025-12-15,seoul_council,재정분석과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:35446153,18,https://opengov.seoul.go.kr/expense/35446153,2025-12-15,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 세종대로11길 42,89000,p07
+opengov:35197497,7,https://opengov.seoul.go.kr/expense/35197497,2025-12-19,seoul_city,도시공간본부 토지관리과,브이아이피참치,서울 중구 세종대로11길 42,264000,p07
+opengov:35204399,43,https://opengov.seoul.go.kr/expense/35204399,2025-12-19,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,200000,p07
+opengov:35186070,10,https://opengov.seoul.go.kr/expense/35186070,2025-12-23,seoul_city,디지털도시국 정보시스템과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:35157872,10,https://opengov.seoul.go.kr/expense/35157872,2025-12-29,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,300000,p07
+opengov:35204399,61,https://opengov.seoul.go.kr/expense/35204399,2025-12-29,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,107000,p07
+opengov:35157872,12,https://opengov.seoul.go.kr/expense/35157872,2025-12-30,seoul_city,정원도시국 공원여가사업과,브이아이피참치,서울 중구 세종대로11길 42,148000,p07
+opengov:35167199,22,https://opengov.seoul.go.kr/expense/35167199,2025-12-30,seoul_city,디지털도시국 정보통신과,브이아이피참치,서울 중구 세종대로11길 42,150000,p07
+opengov:35388718,1,https://opengov.seoul.go.kr/expense/35388718,2026-01-02,seoul_city,민생노동국 노동정책과,브이아이피참치,서울 중구 세종대로11길 42,117000,p07
+opengov:35409703,1,https://opengov.seoul.go.kr/expense/35409703,2026-01-02,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,162000,p07
+opengov:35410167,1,https://opengov.seoul.go.kr/expense/35410167,2026-01-02,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,123000,p07
+opengov:35410360,1,https://opengov.seoul.go.kr/expense/35410360,2026-01-02,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:35407850,1,https://opengov.seoul.go.kr/expense/35407850,2026-01-05,seoul_city,경제실 첨단산업과,브이아이피참치,서울 중구 세종대로11길 42,132000,p07
+opengov:35399568,3,https://opengov.seoul.go.kr/expense/35399568,2026-01-06,seoul_city,정원도시정책과,브이아이피참치,서울 중구 세종대로11길 42,141000,p07
+opengov:35357570,2,https://opengov.seoul.go.kr/expense/35357570,2026-01-09,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:35380366,12,https://opengov.seoul.go.kr/expense/35380366,2026-01-09,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,123000,p07
+opengov:35357686,13,https://opengov.seoul.go.kr/expense/35357686,2026-01-13,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,174000,p07
+opengov:35410152,8,https://opengov.seoul.go.kr/expense/35410152,2026-01-13,seoul_city,균형발전본부 광화문광장사업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:35421551,32,https://opengov.seoul.go.kr/expense/35421551,2026-01-13,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:35378925,21,https://opengov.seoul.go.kr/expense/35378925,2026-01-14,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,203000,p07
+opengov:35410152,9,https://opengov.seoul.go.kr/expense/35410152,2026-01-14,seoul_city,균형발전본부 광화문광장사업과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:35410269,6,https://opengov.seoul.go.kr/expense/35410269,2026-01-15,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:35420388,4,https://opengov.seoul.go.kr/expense/35420388,2026-01-16,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:35410269,8,https://opengov.seoul.go.kr/expense/35410269,2026-01-19,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:35408993,19,https://opengov.seoul.go.kr/expense/35408993,2026-01-20,seoul_city,주택실 임대주택과,브이아이피참치,서울 중구 세종대로11길 42,232000,p07
+opengov:35409703,37,https://opengov.seoul.go.kr/expense/35409703,2026-01-20,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,144000,p07
+opengov:35421608,8,https://opengov.seoul.go.kr/expense/35421608,2026-01-20,seoul_city,경제실 대학협력과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:35410374,24,https://opengov.seoul.go.kr/expense/35410374,2026-01-21,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:35410292,7,https://opengov.seoul.go.kr/expense/35410292,2026-01-22,seoul_city,교통실 택시정책과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:35357534,51,https://opengov.seoul.go.kr/expense/35357534,2026-01-23,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:35380366,32,https://opengov.seoul.go.kr/expense/35380366,2026-01-27,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,123000,p07
+opengov:35436053,8,https://opengov.seoul.go.kr/expense/35436053,2026-01-27,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:35380363,8,https://opengov.seoul.go.kr/expense/35380363,2026-01-29,seoul_city,감사위원회 안전감사담당관,브이아이피참치,서울 중구 세종대로11길 42,138000,p07
+opengov:35410269,15,https://opengov.seoul.go.kr/expense/35410269,2026-01-29,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:35446150,27,https://opengov.seoul.go.kr/expense/35446150,2026-01-30,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 세종대로11길 42,78000,p07
+opengov:35547878,1,https://opengov.seoul.go.kr/expense/35547878,2026-02-02,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:35571527,5,https://opengov.seoul.go.kr/expense/35571527,2026-02-03,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:35547926,9,https://opengov.seoul.go.kr/expense/35547926,2026-02-04,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:35560824,6,https://opengov.seoul.go.kr/expense/35560824,2026-02-04,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:35581599,6,https://opengov.seoul.go.kr/expense/35581599,2026-02-09,seoul_city,경제실 창조산업기획관 산업입지과,브이아이피참치,서울 중구 세종대로11길 42,63000,p07
+opengov:35595230,11,https://opengov.seoul.go.kr/expense/35595230,2026-02-09,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:35606775,21,https://opengov.seoul.go.kr/expense/35606775,2026-02-12,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,203000,p07
+opengov:35547926,31,https://opengov.seoul.go.kr/expense/35547926,2026-02-19,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,66000,p07
+opengov:35606767,9,https://opengov.seoul.go.kr/expense/35606767,2026-02-25,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:35560824,36,https://opengov.seoul.go.kr/expense/35560824,2026-02-26,seoul_city,민생노동국 소상공인정책과,브이아이피참치,서울 중구 세종대로11길 42,156000,p07
+opengov:35606777,10,https://opengov.seoul.go.kr/expense/35606777,2026-02-27,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:35812225,1,https://opengov.seoul.go.kr/expense/35812225,2026-03-03,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,66000,p07
+opengov:35776314,18,https://opengov.seoul.go.kr/expense/35776314,2026-03-06,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,195000,p07
+opengov:35799976,11,https://opengov.seoul.go.kr/expense/35799976,2026-03-06,seoul_city,경제실 경제정책과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:35855712,3,https://opengov.seoul.go.kr/expense/35855712,2026-03-06,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,42000,p07
+opengov:35823014,2,https://opengov.seoul.go.kr/expense/35823014,2026-03-09,seoul_city,정원도시국 조경과,브이아이피참치,서울 중구 세종대로11길 42,156000,p07
+opengov:35877464,5,https://opengov.seoul.go.kr/expense/35877464,2026-03-09,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:35799974,4,https://opengov.seoul.go.kr/expense/35799974,2026-03-11,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:35776314,39,https://opengov.seoul.go.kr/expense/35776314,2026-03-16,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:35788435,16,https://opengov.seoul.go.kr/expense/35788435,2026-03-18,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:35812225,8,https://opengov.seoul.go.kr/expense/35812225,2026-03-20,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,89000,p07
+opengov:35799974,11,https://opengov.seoul.go.kr/expense/35799974,2026-03-30,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,84000,p07
+opengov:35855663,42,https://opengov.seoul.go.kr/expense/35855663,2026-03-30,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,38000,p07
+opengov:36024930,7,https://opengov.seoul.go.kr/expense/36024930,2026-04-03,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,83000,p07
+opengov:36047148,8,https://opengov.seoul.go.kr/expense/36047148,2026-04-08,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,185000,p07
+opengov:36048335,2,https://opengov.seoul.go.kr/expense/36048335,2026-04-08,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,73000,p07
+opengov:36229384,4,https://opengov.seoul.go.kr/expense/36229384,2026-04-09,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,92000,p07
+opengov:36048319,9,https://opengov.seoul.go.kr/expense/36048319,2026-04-15,seoul_city,디지털도시국 데이터전략과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:36023313,12,https://opengov.seoul.go.kr/expense/36023313,2026-04-17,seoul_city,정원도시국 조경과,브이아이피참치,서울 중구 세종대로11길 42,81000,p07
+opengov:36048342,12,https://opengov.seoul.go.kr/expense/36048342,2026-04-21,seoul_city,평생교육국 평생교육과,브이아이피참치,서울 중구 세종대로11길 42,112000,p07
+opengov:36013137,7,https://opengov.seoul.go.kr/expense/36013137,2026-04-22,seoul_city,건설기술정책관 건설혁신담당관,브이아이피참치,서울 중구 세종대로11길 42,91000,p07
+opengov:36026819,35,https://opengov.seoul.go.kr/expense/36026819,2026-04-22,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:36229384,8,https://opengov.seoul.go.kr/expense/36229384,2026-04-22,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,127000,p07
+opengov:36048335,7,https://opengov.seoul.go.kr/expense/36048335,2026-04-23,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:36013145,11,https://opengov.seoul.go.kr/expense/36013145,2026-04-24,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:36025222,11,https://opengov.seoul.go.kr/expense/36025222,2026-04-24,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로11길 42,54000,p07
+opengov:36013162,9,https://opengov.seoul.go.kr/expense/36013162,2026-04-28,seoul_city,재무국 세무과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:36013021,61,https://opengov.seoul.go.kr/expense/36013021,2026-04-30,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,105000,p07
+opengov:36240392,3,https://opengov.seoul.go.kr/expense/36240392,2026-05-06,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,144000,p07
+opengov:36593999,2,https://opengov.seoul.go.kr/expense/36593999,2026-05-07,seoul_city,주택실 주택정책과,브이아이피참치,서울 중구 세종대로11길 42,169000,p07
+opengov:36251009,11,https://opengov.seoul.go.kr/expense/36251009,2026-05-08,seoul_city,교통실 주차계획과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:36240392,7,https://opengov.seoul.go.kr/expense/36240392,2026-05-11,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,112000,p07
+opengov:36271404,12,https://opengov.seoul.go.kr/expense/36271404,2026-05-18,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:36262015,1,https://opengov.seoul.go.kr/expense/36262015,2026-05-19,seoul_city,도시공간본부 토지관리과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:36203679,8,https://opengov.seoul.go.kr/expense/36203679,2026-05-20,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,260000,p07
+opengov:36216594,7,https://opengov.seoul.go.kr/expense/36216594,2026-05-20,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:36262037,21,https://opengov.seoul.go.kr/expense/36262037,2026-05-20,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,102000,p07
+opengov:36272380,29,https://opengov.seoul.go.kr/expense/36272380,2026-05-20,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,261000,p07
+opengov:36272389,12,https://opengov.seoul.go.kr/expense/36272389,2026-05-21,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,63000,p07
+opengov:36593999,14,https://opengov.seoul.go.kr/expense/36593999,2026-05-21,seoul_city,주택실 주택정책과,브이아이피참치,서울 중구 세종대로11길 42,318000,p07
+opengov:36203679,11,https://opengov.seoul.go.kr/expense/36203679,2026-05-26,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,178000,p07
+opengov:36272389,15,https://opengov.seoul.go.kr/expense/36272389,2026-05-27,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,78000,p07
+opengov:36487518,1,https://opengov.seoul.go.kr/expense/36487518,2026-06-01,seoul_city,균형발전본부 광화문광장사업과,브이아이피참치,서울 중구 세종대로11길 42,200000,p07
+opengov:36502184,1,https://opengov.seoul.go.kr/expense/36502184,2026-06-01,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 세종대로11길 42,78000,p07
+opengov:36473057,1,https://opengov.seoul.go.kr/expense/36473057,2026-06-02,seoul_office,북부공원여가센터 시설과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:36492743,1,https://opengov.seoul.go.kr/expense/36492743,2026-06-02,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,87000,p07
+opengov:36502196,15,https://opengov.seoul.go.kr/expense/36502196,2026-06-05,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,160000,p07
+opengov:36426449,23,https://opengov.seoul.go.kr/expense/36426449,2026-06-08,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로11길 42,80000,p07
+opengov:36492743,3,https://opengov.seoul.go.kr/expense/36492743,2026-06-10,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:36502170,8,https://opengov.seoul.go.kr/expense/36502170,2026-06-11,seoul_city,경제실 창조산업과,브이아이피참치,서울 중구 세종대로11길 42,36000,p07
+opengov:36502180,1,https://opengov.seoul.go.kr/expense/36502180,2026-06-11,seoul_city,평생교육국 친환경급식과,브이아이피참치,서울 중구 세종대로11길 42,74000,p07
+opengov:36432949,4,https://opengov.seoul.go.kr/expense/36432949,2026-06-12,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,165000,p07
+opengov:36426455,7,https://opengov.seoul.go.kr/expense/36426455,2026-06-16,seoul_city,민생노동국 농수산유통과,브이아이피참치,서울 중구 세종대로11길 42,192000,p07
+opengov:36492752,26,https://opengov.seoul.go.kr/expense/36492752,2026-06-16,seoul_city,교통실 주차계획과,브이아이피참치,서울 중구 세종대로11길 42,58000,p07
+opengov:36449306,13,https://opengov.seoul.go.kr/expense/36449306,2026-06-23,seoul_city,정원도시국 조경과,브이아이피참치,서울 중구 세종대로11길 42,116000,p07
+opengov:36492743,7,https://opengov.seoul.go.kr/expense/36492743,2026-06-23,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,72000,p07
+opengov:36473057,3,https://opengov.seoul.go.kr/expense/36473057,2026-06-24,seoul_office,북부공원여가센터 시설과,브이아이피참치,서울 중구 세종대로11길 42,150000,p07
+opengov:36426440,10,https://opengov.seoul.go.kr/expense/36426440,2026-06-25,seoul_city,시민건강국 감염병관리과,브이아이피참치,서울 중구 세종대로11길 42,84000,p07
+opengov:36449212,38,https://opengov.seoul.go.kr/expense/36449212,2026-06-25,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,159000,p07
+opengov:36745262,4,https://opengov.seoul.go.kr/expense/36745262,2026-07-06,seoul_city,뷰티패션산업과,브이아이피참치,서울 중구 세종대로11길 42,90000,p07
+opengov:36687804,14,https://opengov.seoul.go.kr/expense/36687804,2026-07-09,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로11길 42,195000,p07
+opengov:36707491,17,https://opengov.seoul.go.kr/expense/36707491,2026-07-09,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,234000,p07
+opengov:36707493,3,https://opengov.seoul.go.kr/expense/36707493,2026-07-09,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,63000,p07
+opengov:36707578,26,https://opengov.seoul.go.kr/expense/36707578,2026-07-10,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 세종대로11길 42,60000,p07
+opengov:36668108,4,https://opengov.seoul.go.kr/expense/36668108,2026-07-14,seoul_city,건설기술정책관 건설혁신담당관,브이아이피참치,서울 중구 세종대로11길 42,147000,p07
+opengov:36678335,7,https://opengov.seoul.go.kr/expense/36678335,2026-07-16,seoul_city,교통실 택시정책과,브이아이피참치,서울 중구 세종대로11길 42,145000,p07
+opengov:36668112,19,https://opengov.seoul.go.kr/expense/36668112,2026-07-20,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,132000,p07
+opengov:36678337,8,https://opengov.seoul.go.kr/expense/36678337,2026-07-20,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,98000,p07
+opengov:36697272,17,https://opengov.seoul.go.kr/expense/36697272,2026-07-21,seoul_city,경제실 일자리정책과,브이아이피참치,서울 중구 세종대로11길 42,56000,p07
+opengov:36677428,11,https://opengov.seoul.go.kr/expense/36677428,2026-07-22,seoul_city,정원도시국 공원조성과,브이아이피참치,서울 중구 세종대로11길 42,107000,p07
+opengov:36707491,37,https://opengov.seoul.go.kr/expense/36707491,2026-07-22,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,118000,p07
+opengov:36707493,9,https://opengov.seoul.go.kr/expense/36707493,2026-07-22,seoul_city,정원도시국 자연생태과,브이아이피참치,서울 중구 세종대로11길 42,126000,p07
+opengov:36707713,25,https://opengov.seoul.go.kr/expense/36707713,2026-07-23,seoul_city,재무국 재무과,브이아이피참치,서울 중구 세종대로11길 42,60000,p07
+opengov:36668112,24,https://opengov.seoul.go.kr/expense/36668112,2026-07-24,seoul_city,주택실 건축기획과,브이아이피참치,서울 중구 세종대로11길 42,156000,p07
+opengov:36707713,26,https://opengov.seoul.go.kr/expense/36707713,2026-07-24,seoul_city,재무국 재무과,브이아이피참치,서울 중구 세종대로11길 42,232000,p07
+opengov:36655911,10,https://opengov.seoul.go.kr/expense/36655911,2026-07-28,seoul_council,의회사무처 도시안전건설전문위원실,브이아이피참치,서울 중구 세종대로11길 42,134000,p07
+opengov:36678318,9,https://opengov.seoul.go.kr/expense/36678318,2026-07-30,seoul_city,도시공간본부 토지관리과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07
+opengov:36707491,51,https://opengov.seoul.go.kr/expense/36707491,2026-07-30,seoul_city,균형발전본부 균형발전정책과,브이아이피참치,서울 중구 세종대로11길 42,316000,p07
+opengov:36856970,1,https://opengov.seoul.go.kr/expense/36856970,2026-08-03,seoul_city,감사위원회 공공감사담당관,브이아이피참치,서울 중구 세종대로11길 42,98000,p07
+opengov:36856973,3,https://opengov.seoul.go.kr/expense/36856973,2026-08-04,seoul_city,균형발전본부 동북권사업과,브이아이피참치,서울 중구 세종대로11길 42,118000,p07
+opengov:36868538,1,https://opengov.seoul.go.kr/expense/36868538,2026-08-10,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로11길 42,265000,p07
+opengov:36858129,9,https://opengov.seoul.go.kr/expense/36858129,2026-08-26,seoul_city,평생교육국 중장년지원과,브이아이피참치,서울 중구 세종대로11길 42,108000,p07

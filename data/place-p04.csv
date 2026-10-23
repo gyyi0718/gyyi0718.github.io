@@ -1,0 +1,338 @@
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
+opengov:32839362,5,https://opengov.seoul.go.kr/expense/32839362,2025-01-03,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,155000,p04
+opengov:32775010,3,https://opengov.seoul.go.kr/expense/32775010,2025-01-07,seoul_city,미래공간기획관 용산입체도시담당관,복성각,서울 중구 덕수궁길 7,118000,p04
+opengov:32784035,2,https://opengov.seoul.go.kr/expense/32784035,2025-01-08,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,48000,p04
+opengov:32784056,2,https://opengov.seoul.go.kr/expense/32784056,2025-01-08,seoul_council,서울특별시의회사무처 현장민원담당관,복성각,서울 중구 덕수궁길 7,120000,p04
+opengov:32773773,12,https://opengov.seoul.go.kr/expense/32773773,2025-01-10,seoul_city,재무국 재무과,복성각,서울 중구 덕수궁길 7,144000,p04
+opengov:32784035,5,https://opengov.seoul.go.kr/expense/32784035,2025-01-10,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,80000,p04
+opengov:32793723,1,https://opengov.seoul.go.kr/expense/32793723,2025-01-13,seoul_city,도시공간본부 도시계획상임기획과,복성각,서울 중구 덕수궁길 7,300000,p04
+opengov:32839362,22,https://opengov.seoul.go.kr/expense/32839362,2025-01-13,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,150000,p04
+opengov:32741938,10,https://opengov.seoul.go.kr/expense/32741938,2025-01-14,seoul_office,시립미술관 경영지원부 총무과,복성각,서울 중구 덕수궁길 7,78000,p04
+opengov:32743292,3,https://opengov.seoul.go.kr/expense/32743292,2025-01-14,seoul_city,교통실 보행자전거과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:32754050,6,https://opengov.seoul.go.kr/expense/32754050,2025-01-14,seoul_city,도시공간본부 도시재창조과,복성각,서울 중구 덕수궁길 7,203000,p04
+opengov:32774994,6,https://opengov.seoul.go.kr/expense/32774994,2025-01-14,seoul_city,정원도시국 공원조성과,복성각,서울 중구 덕수궁길 7,138000,p04
+opengov:32792580,14,https://opengov.seoul.go.kr/expense/32792580,2025-01-14,seoul_city,도시공간본부 도시계획과,복성각,서울 중구 덕수궁길 7,190000,p04
+opengov:32804039,20,https://opengov.seoul.go.kr/expense/32804039,2025-01-16,seoul_city,도시외교담당관,복성각,서울 중구 덕수궁길 7,150000,p04
+opengov:32741938,19,https://opengov.seoul.go.kr/expense/32741938,2025-01-21,seoul_office,시립미술관 경영지원부 총무과,복성각,서울 중구 덕수궁길 7,116000,p04
+opengov:32755452,7,https://opengov.seoul.go.kr/expense/32755452,2025-01-21,seoul_city,도시공간본부 시설계획과,복성각,서울 중구 덕수궁길 7,80000,p04
+opengov:32775026,21,https://opengov.seoul.go.kr/expense/32775026,2025-01-21,seoul_city,경제실 창조산업과,복성각,서울 중구 덕수궁길 7,120000,p04
+opengov:32782824,10,https://opengov.seoul.go.kr/expense/32782824,2025-01-21,seoul_city,재무국 계약심사과,복성각,서울 중구 덕수궁길 7,63000,p04
+opengov:32784035,12,https://opengov.seoul.go.kr/expense/32784035,2025-01-21,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,49000,p04
+opengov:32782820,43,https://opengov.seoul.go.kr/expense/32782820,2025-01-24,seoul_council,의정담당관,복성각,서울 중구 덕수궁길 7,141000,p04
+opengov:32784034,14,https://opengov.seoul.go.kr/expense/32784034,2025-01-31,seoul_city,경제실 산업입지과,복성각,서울 중구 덕수궁길 7,88000,p04
+opengov:32962306,2,https://opengov.seoul.go.kr/expense/32962306,2025-02-05,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,78000,p04
+opengov:32984592,7,https://opengov.seoul.go.kr/expense/32984592,2025-02-05,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,273000,p04
+opengov:32963660,5,https://opengov.seoul.go.kr/expense/32963660,2025-02-06,seoul_city,도시공간본부 신속통합기획과,복성각,서울 중구 덕수궁길 7,113000,p04
+opengov:32997057,7,https://opengov.seoul.go.kr/expense/32997057,2025-02-06,seoul_council,의회사무처 의사담당관,복성각,서울 중구 덕수궁길 7,459000,p04
+opengov:33017152,8,https://opengov.seoul.go.kr/expense/33017152,2025-02-06,seoul_city,행정2부시장실,복성각,서울 중구 덕수궁길 7,450000,p04
+opengov:32962308,7,https://opengov.seoul.go.kr/expense/32962308,2025-02-07,seoul_city,물순환안전국 수변감성도시과,복성각,서울 중구 덕수궁길 7,450000,p04
+opengov:32963652,3,https://opengov.seoul.go.kr/expense/32963652,2025-02-07,seoul_city,물순환안전국 물재생시설과,복성각,서울 중구 덕수궁길 7,101000,p04
+opengov:33878746,8,https://opengov.seoul.go.kr/expense/33878746,2025-02-10,seoul_office,학예연구부 전시교육과,복성각,서울 중구 덕수궁길 7,68000,p04
+opengov:32941254,3,https://opengov.seoul.go.kr/expense/32941254,2025-02-11,seoul_city,디지털도시국 정보시스템과,복성각,서울 중구 덕수궁길 7,240000,p04
+opengov:32963668,5,https://opengov.seoul.go.kr/expense/32963668,2025-02-12,seoul_city,민생노동국 노동정책과,복성각,서울 중구 덕수궁길 7,116000,p04
+opengov:32985688,17,https://opengov.seoul.go.kr/expense/32985688,2025-02-13,seoul_city,균형발전본부 균형발전정책과,복성각,서울 중구 덕수궁길 7,92000,p04
+opengov:32997057,18,https://opengov.seoul.go.kr/expense/32997057,2025-02-13,seoul_council,의회사무처 의사담당관,복성각,서울 중구 덕수궁길 7,235000,p04
+opengov:32962306,10,https://opengov.seoul.go.kr/expense/32962306,2025-02-14,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,85000,p04
+opengov:32985471,9,https://opengov.seoul.go.kr/expense/32985471,2025-02-14,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,53000,p04
+opengov:32985649,14,https://opengov.seoul.go.kr/expense/32985649,2025-02-17,seoul_city,시민건강국 보건의료정책과,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:32985689,44,https://opengov.seoul.go.kr/expense/32985689,2025-02-19,seoul_city,경제실 경제정책과,복성각,서울 중구 덕수궁길 7,120000,p04
+opengov:32983269,182,https://opengov.seoul.go.kr/expense/32983269,2025-02-20,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,120000,p04
+opengov:32940292,12,https://opengov.seoul.go.kr/expense/32940292,2025-02-21,seoul_city,경제실 대학협력과,복성각,서울 중구 덕수궁길 7,85000,p04
+opengov:32962308,30,https://opengov.seoul.go.kr/expense/32962308,2025-02-21,seoul_city,물순환안전국 수변감성도시과,복성각,서울 중구 덕수궁길 7,200000,p04
+opengov:32985654,39,https://opengov.seoul.go.kr/expense/32985654,2025-02-24,seoul_city,평생교육국 교육지원정책과,복성각,서울 중구 덕수궁길 7,109000,p04
+opengov:32973584,28,https://opengov.seoul.go.kr/expense/32973584,2025-02-26,seoul_city,디지털도시국 디지털정책과,복성각,서울 중구 덕수궁길 7,109000,p04
+opengov:32984592,34,https://opengov.seoul.go.kr/expense/32984592,2025-02-26,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,133000,p04
+opengov:33220316,1,https://opengov.seoul.go.kr/expense/33220316,2025-03-04,seoul_city,글로벌도시정책관 외국인이민담당관,복성각,서울 중구 덕수궁길 7,170000,p04
+opengov:33177872,2,https://opengov.seoul.go.kr/expense/33177872,2025-03-05,seoul_city,건축기획과,복성각,서울 중구 덕수궁길 7,126000,p04
+opengov:33199458,2,https://opengov.seoul.go.kr/expense/33199458,2025-03-07,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,32000,p04
+opengov:33152550,8,https://opengov.seoul.go.kr/expense/33152550,2025-03-10,seoul_council,재정분석담당관,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:33153778,8,https://opengov.seoul.go.kr/expense/33153778,2025-03-12,seoul_city,도시공간본부 도시재창조과,복성각,서울 중구 덕수궁길 7,85000,p04
+opengov:33220326,15,https://opengov.seoul.go.kr/expense/33220326,2025-03-18,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,67000,p04
+opengov:33198729,10,https://opengov.seoul.go.kr/expense/33198729,2025-03-19,seoul_city,재무국 계약심사과,복성각,서울 중구 덕수궁길 7,143000,p04
+opengov:33220326,22,https://opengov.seoul.go.kr/expense/33220326,2025-03-24,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,163000,p04
+opengov:33229623,69,https://opengov.seoul.go.kr/expense/33229623,2025-03-28,seoul_city,경제실 경제정책과,복성각,서울 중구 덕수궁길 7,132000,p04
+opengov:33417514,1,https://opengov.seoul.go.kr/expense/33417514,2025-04-01,seoul_city,정원도시국 정원도시정책과,복성각,서울 중구 덕수궁길 7,74000,p04
+opengov:33406238,3,https://opengov.seoul.go.kr/expense/33406238,2025-04-02,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,114000,p04
+opengov:33430102,3,https://opengov.seoul.go.kr/expense/33430102,2025-04-02,seoul_city,행정2부시장실,복성각,서울 중구 덕수궁길 7,450000,p04
+opengov:33393383,4,https://opengov.seoul.go.kr/expense/33393383,2025-04-04,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,75000,p04
+opengov:33430069,5,https://opengov.seoul.go.kr/expense/33430069,2025-04-04,seoul_city,도시공간본부 도시계획과,복성각,서울 중구 덕수궁길 7,192000,p04
+opengov:33393383,5,https://opengov.seoul.go.kr/expense/33393383,2025-04-07,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,187000,p04
+opengov:33430109,5,https://opengov.seoul.go.kr/expense/33430109,2025-04-11,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,35000,p04
+opengov:33406015,17,https://opengov.seoul.go.kr/expense/33406015,2025-04-13,seoul_city,여성가족실 저출생담당관,복성각,서울 중구 덕수궁길 7,130000,p04
+opengov:33430100,48,https://opengov.seoul.go.kr/expense/33430100,2025-04-17,seoul_city,경제실 경제정책과,복성각,서울 중구 덕수궁길 7,63000,p04
+opengov:33406238,25,https://opengov.seoul.go.kr/expense/33406238,2025-04-21,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,131000,p04
+opengov:33416478,40,https://opengov.seoul.go.kr/expense/33416478,2025-04-21,seoul_city,민생노동국 소상공인정책과,복성각,서울 중구 덕수궁길 7,37000,p04
+opengov:33417509,10,https://opengov.seoul.go.kr/expense/33417509,2025-04-21,seoul_council,서울특별시의회사무처 법제담당관,복성각,서울 중구 덕수궁길 7,259300,p04
+opengov:33430109,9,https://opengov.seoul.go.kr/expense/33430109,2025-04-21,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,108000,p04
+opengov:33393383,12,https://opengov.seoul.go.kr/expense/33393383,2025-04-22,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,60000,p04
+opengov:33430103,46,https://opengov.seoul.go.kr/expense/33430103,2025-04-22,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,466000,p04
+opengov:33450355,13,https://opengov.seoul.go.kr/expense/33450355,2025-04-23,seoul_city,복지실 고독대응과,복성각,서울 중구 덕수궁길 7,185000,p04
+opengov:33406230,32,https://opengov.seoul.go.kr/expense/33406230,2025-04-24,seoul_city,감사위원회 조사담당관,복성각,서울 중구 덕수궁길 7,67000,p04
+opengov:33429143,74,https://opengov.seoul.go.kr/expense/33429143,2025-04-24,seoul_city,기획조정실 기획담당관,복성각,서울 중구 덕수궁길 7,466000,p04
+opengov:33406230,35,https://opengov.seoul.go.kr/expense/33406230,2025-04-25,seoul_city,감사위원회 조사담당관,복성각,서울 중구 덕수궁길 7,67000,p04
+opengov:33406013,11,https://opengov.seoul.go.kr/expense/33406013,2025-04-28,seoul_office,문화본부 서울공예박물관 총무과,복성각,서울 중구 덕수궁길 7,35000,p04
+opengov:33406225,20,https://opengov.seoul.go.kr/expense/33406225,2025-04-30,seoul_city,민생노동국 노동정책과,복성각,서울 중구 덕수궁길 7,110000,p04
+opengov:33624102,1,https://opengov.seoul.go.kr/expense/33624102,2025-05-01,seoul_city,관광체육국 체육진흥과,복성각,서울 중구 덕수궁길 7,48000,p04
+opengov:33624346,1,https://opengov.seoul.go.kr/expense/33624346,2025-05-01,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,58000,p04
+opengov:33586932,4,https://opengov.seoul.go.kr/expense/33586932,2025-05-07,seoul_city,물순환안전국 치수안전과,복성각,서울 중구 덕수궁길 7,176000,p04
+opengov:33565801,2,https://opengov.seoul.go.kr/expense/33565801,2025-05-09,seoul_city,교통실 보행자전거과,복성각,서울 중구 덕수궁길 7,87000,p04
+opengov:33586895,5,https://opengov.seoul.go.kr/expense/33586895,2025-05-09,seoul_city,정원도시국 산지방재과,복성각,서울 중구 덕수궁길 7,70000,p04
+opengov:33586788,6,https://opengov.seoul.go.kr/expense/33586788,2025-05-13,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,78000,p04
+opengov:33624130,124,https://opengov.seoul.go.kr/expense/33624130,2025-05-16,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,400000,p04
+opengov:33612373,3,https://opengov.seoul.go.kr/expense/33612373,2025-05-19,seoul_city,경제실 대학협력과,복성각,서울 중구 덕수궁길 7,20000,p04
+opengov:33611261,10,https://opengov.seoul.go.kr/expense/33611261,2025-05-20,seoul_city,건축기획과,복성각,서울 중구 덕수궁길 7,176000,p04
+opengov:33586923,4,https://opengov.seoul.go.kr/expense/33586923,2025-05-22,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,77000,p04
+opengov:33586767,15,https://opengov.seoul.go.kr/expense/33586767,2025-05-23,seoul_council,재정분석담당관,복성각,서울 중구 덕수궁길 7,32000,p04
+opengov:33612374,32,https://opengov.seoul.go.kr/expense/33612374,2025-05-23,seoul_city,감사위원회 조사담당관,복성각,서울 중구 덕수궁길 7,35000,p04
+opengov:33600328,18,https://opengov.seoul.go.kr/expense/33600328,2025-05-27,seoul_city,민생사법경찰국 경제수사과,복성각,서울 중구 덕수궁길 7,372000,p04
+opengov:33624346,34,https://opengov.seoul.go.kr/expense/33624346,2025-05-27,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,136000,p04
+opengov:33635004,7,https://opengov.seoul.go.kr/expense/33635004,2025-05-28,seoul_city,재난안전실 도로기획관 도로시설과,복성각,서울 중구 덕수궁길 7,356000,p04
+opengov:33792091,1,https://opengov.seoul.go.kr/expense/33792091,2025-06-02,seoul_city,도시공간본부 도시계획상임기획과,복성각,서울 중구 덕수궁길 7,519000,p04
+opengov:33792076,3,https://opengov.seoul.go.kr/expense/33792076,2025-06-04,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,88000,p04
+opengov:33790691,3,https://opengov.seoul.go.kr/expense/33790691,2025-06-05,seoul_council,재정분석담당관,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:33792093,4,https://opengov.seoul.go.kr/expense/33792093,2025-06-09,seoul_city,정원도시국 산지방재과,복성각,서울 중구 덕수궁길 7,97000,p04
+opengov:33792112,2,https://opengov.seoul.go.kr/expense/33792112,2025-06-09,seoul_city,디지털도시국 정보시스템과,복성각,서울 중구 덕수궁길 7,76000,p04
+opengov:33792076,6,https://opengov.seoul.go.kr/expense/33792076,2025-06-10,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,33000,p04
+opengov:33837028,19,https://opengov.seoul.go.kr/expense/33837028,2025-06-12,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,350000,p04
+opengov:33868884,8,https://opengov.seoul.go.kr/expense/33868884,2025-06-12,seoul_city,재무국 38세금징수과,복성각,서울 중구 덕수궁길 7,101000,p04
+opengov:33814553,2,https://opengov.seoul.go.kr/expense/33814553,2025-06-16,seoul_city,미래청년기획관 청년사업담당관,복성각,서울 중구 덕수궁길 7,54000,p04
+opengov:33814560,7,https://opengov.seoul.go.kr/expense/33814560,2025-06-16,seoul_city,감사위원회 청렴담당관,복성각,서울 중구 덕수궁길 7,126000,p04
+opengov:33814556,9,https://opengov.seoul.go.kr/expense/33814556,2025-06-17,seoul_city,시민건강국 식품정책과,복성각,서울 중구 덕수궁길 7,122000,p04
+opengov:33814567,4,https://opengov.seoul.go.kr/expense/33814567,2025-06-17,seoul_city,미래공간기획관 용산입체도시담당관,복성각,서울 중구 덕수궁길 7,133000,p04
+opengov:33848794,5,https://opengov.seoul.go.kr/expense/33848794,2025-06-17,seoul_city,경제실 창조산업기획관 산업입지과,복성각,서울 중구 덕수궁길 7,97000,p04
+opengov:33889470,20,https://opengov.seoul.go.kr/expense/33889470,2025-06-20,seoul_city,도시외교담당관,복성각,서울 중구 덕수궁길 7,142000,p04
+opengov:33790691,14,https://opengov.seoul.go.kr/expense/33790691,2025-06-24,seoul_council,재정분석담당관,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:33848779,32,https://opengov.seoul.go.kr/expense/33848779,2025-06-25,seoul_city,기획조정실 예산담당관,복성각,서울 중구 덕수궁길 7,191000,p04
+opengov:33848795,41,https://opengov.seoul.go.kr/expense/33848795,2025-06-25,seoul_city,감사위원회 조사담당관,복성각,서울 중구 덕수궁길 7,54000,p04
+opengov:33815729,15,https://opengov.seoul.go.kr/expense/33815729,2025-06-26,seoul_city,주택실 임대주택과,복성각,서울 중구 덕수궁길 7,122000,p04
+opengov:33859018,16,https://opengov.seoul.go.kr/expense/33859018,2025-06-30,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,234000,p04
+opengov:34059241,1,https://opengov.seoul.go.kr/expense/34059241,2025-07-01,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,150000,p04
+opengov:34077481,16,https://opengov.seoul.go.kr/expense/34077481,2025-07-08,seoul_city,민생사법경찰국 경제수사과,복성각,서울 중구 덕수궁길 7,311000,p04
+opengov:34058170,5,https://opengov.seoul.go.kr/expense/34058170,2025-07-09,seoul_city,주택실 건축기획관 공동주택과,복성각,서울 중구 덕수궁길 7,116000,p04
+opengov:34059221,6,https://opengov.seoul.go.kr/expense/34059221,2025-07-09,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,84000,p04
+opengov:34086707,10,https://opengov.seoul.go.kr/expense/34086707,2025-07-09,seoul_city,디지털도시국 디지털정책과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34025083,23,https://opengov.seoul.go.kr/expense/34025083,2025-07-10,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,372000,p04
+opengov:34025112,7,https://opengov.seoul.go.kr/expense/34025112,2025-07-10,seoul_city,경제실 대학협력과,복성각,서울 중구 덕수궁길 7,144000,p04
+opengov:34144634,4,https://opengov.seoul.go.kr/expense/34144634,2025-07-10,seoul_city,재무국 세제과,복성각,서울 중구 덕수궁길 7,107000,p04
+opengov:34059241,17,https://opengov.seoul.go.kr/expense/34059241,2025-07-11,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,87000,p04
+opengov:34066366,5,https://opengov.seoul.go.kr/expense/34066366,2025-07-11,seoul_council,환경수자원전문위원실,복성각,서울 중구 덕수궁길 7,150000,p04
+opengov:34037607,8,https://opengov.seoul.go.kr/expense/34037607,2025-07-15,seoul_city,물순환안전국 치수안전과,복성각,서울 중구 덕수궁길 7,108000,p04
+opengov:34037456,6,https://opengov.seoul.go.kr/expense/34037456,2025-07-17,seoul_city,시민건강국 식품정책과,복성각,서울 중구 덕수궁길 7,164000,p04
+opengov:34086709,25,https://opengov.seoul.go.kr/expense/34086709,2025-07-17,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,384000,p04
+opengov:34007129,12,https://opengov.seoul.go.kr/expense/34007129,2025-07-18,seoul_city,교통실 보행자전거과,복성각,서울 중구 덕수궁길 7,168000,p04
+opengov:34077468,9,https://opengov.seoul.go.kr/expense/34077468,2025-07-18,seoul_city,물순환안전국 물재생계획과,복성각,서울 중구 덕수궁길 7,91000,p04
+opengov:34026259,12,https://opengov.seoul.go.kr/expense/34026259,2025-07-21,seoul_city,도시공간본부 도시관리과,복성각,서울 중구 덕수궁길 7,81000,p04
+opengov:34066365,27,https://opengov.seoul.go.kr/expense/34066365,2025-07-24,seoul_city,기후환경본부 기후환경정책과,복성각,서울 중구 덕수궁길 7,300000,p04
+opengov:34047887,13,https://opengov.seoul.go.kr/expense/34047887,2025-07-29,seoul_city,물순환안전국 물재생시설과,복성각,서울 중구 덕수궁길 7,53000,p04
+opengov:34077480,18,https://opengov.seoul.go.kr/expense/34077480,2025-07-29,seoul_city,도시정비과,복성각,서울 중구 덕수궁길 7,145000,p04
+opengov:34015209,8,https://opengov.seoul.go.kr/expense/34015209,2025-07-30,seoul_city,문화본부 문화시설과,복성각,서울 중구 덕수궁길 7,135000,p04
+opengov:34058176,55,https://opengov.seoul.go.kr/expense/34058176,2025-07-31,seoul_city,민생노동국 소상공인정책과,복성각,서울 중구 덕수궁길 7,87000,p04
+opengov:34243906,1,https://opengov.seoul.go.kr/expense/34243906,2025-08-01,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,72000,p04
+opengov:34243931,2,https://opengov.seoul.go.kr/expense/34243931,2025-08-01,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,250000,p04
+opengov:34208779,2,https://opengov.seoul.go.kr/expense/34208779,2025-08-04,seoul_city,기후환경본부 친환경건물과,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:34327281,2,https://opengov.seoul.go.kr/expense/34327281,2025-08-06,seoul_city,교통실 물류정책과,복성각,서울 중구 덕수궁길 7,86000,p04
+opengov:34221100,5,https://opengov.seoul.go.kr/expense/34221100,2025-08-07,seoul_council,시의회사무처 의정국 법제과,복성각,서울 중구 덕수궁길 7,170000,p04
+opengov:34243931,10,https://opengov.seoul.go.kr/expense/34243931,2025-08-08,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,230000,p04
+opengov:34494483,10,https://opengov.seoul.go.kr/expense/34494483,2025-08-08,seoul_city,디지털도시국 디지털정책과,복성각,서울 중구 덕수궁길 7,216000,p04
+opengov:34243906,4,https://opengov.seoul.go.kr/expense/34243906,2025-08-11,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,49000,p04
+opengov:34243931,13,https://opengov.seoul.go.kr/expense/34243931,2025-08-12,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:34243931,14,https://opengov.seoul.go.kr/expense/34243931,2025-08-13,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,220000,p04
+opengov:34278427,16,https://opengov.seoul.go.kr/expense/34278427,2025-08-13,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,66000,p04
+opengov:34243908,5,https://opengov.seoul.go.kr/expense/34243908,2025-08-14,seoul_city,복지실 돌봄고독정책관 어르신복지과,복성각,서울 중구 덕수궁길 7,153000,p04
+opengov:34233900,26,https://opengov.seoul.go.kr/expense/34233900,2025-08-15,seoul_city,복지실 복지기획관 복지정책과,복성각,서울 중구 덕수궁길 7,116000,p04
+opengov:34233942,4,https://opengov.seoul.go.kr/expense/34233942,2025-08-18,seoul_city,기후환경본부 친환경차량과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34220886,28,https://opengov.seoul.go.kr/expense/34220886,2025-08-19,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,130000,p04
+opengov:34257466,11,https://opengov.seoul.go.kr/expense/34257466,2025-08-21,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,54000,p04
+opengov:34278427,28,https://opengov.seoul.go.kr/expense/34278427,2025-08-21,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,149000,p04
+opengov:34221083,15,https://opengov.seoul.go.kr/expense/34221083,2025-08-22,seoul_city,민생노동국 노동정책과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34220930,17,https://opengov.seoul.go.kr/expense/34220930,2025-08-26,seoul_city,정원도시국 조경과,복성각,서울 중구 덕수궁길 7,427000,p04
+opengov:34245182,36,https://opengov.seoul.go.kr/expense/34245182,2025-08-26,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,232000,p04
+opengov:34243931,26,https://opengov.seoul.go.kr/expense/34243931,2025-08-27,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:34245149,19,https://opengov.seoul.go.kr/expense/34245149,2025-08-27,seoul_city,디지털도시국 정보시스템과,복성각,서울 중구 덕수궁길 7,180000,p04
+opengov:34289497,18,https://opengov.seoul.go.kr/expense/34289497,2025-08-27,seoul_city,교통실 미래첨단교통과,복성각,서울 중구 덕수궁길 7,193000,p04
+opengov:34233942,13,https://opengov.seoul.go.kr/expense/34233942,2025-08-28,seoul_city,기후환경본부 친환경차량과,복성각,서울 중구 덕수궁길 7,99000,p04
+opengov:34243933,12,https://opengov.seoul.go.kr/expense/34243933,2025-08-28,seoul_city,민생노동국 상권활성화과,복성각,서울 중구 덕수궁길 7,68000,p04
+opengov:34243906,12,https://opengov.seoul.go.kr/expense/34243906,2025-08-29,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,71000,p04
+opengov:34467210,5,https://opengov.seoul.go.kr/expense/34467210,2025-09-02,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,67000,p04
+opengov:34454103,3,https://opengov.seoul.go.kr/expense/34454103,2025-09-03,seoul_city,감사위원회 청렴담당관,복성각,서울 중구 덕수궁길 7,216000,p04
+opengov:34483860,2,https://opengov.seoul.go.kr/expense/34483860,2025-09-03,seoul_city,물순환안전국 치수안전과,복성각,서울 중구 덕수궁길 7,78000,p04
+opengov:34495652,2,https://opengov.seoul.go.kr/expense/34495652,2025-09-03,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,66000,p04
+opengov:34452870,8,https://opengov.seoul.go.kr/expense/34452870,2025-09-04,seoul_council,시의회사무처 의정국 법제과,복성각,서울 중구 덕수궁길 7,171000,p04
+opengov:34454136,2,https://opengov.seoul.go.kr/expense/34454136,2025-09-04,seoul_city,기후환경본부 친환경건물과,복성각,서울 중구 덕수궁길 7,48000,p04
+opengov:34465677,5,https://opengov.seoul.go.kr/expense/34465677,2025-09-04,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:34467188,22,https://opengov.seoul.go.kr/expense/34467188,2025-09-08,seoul_city,기획조정실 기획담당관,복성각,서울 중구 덕수궁길 7,278000,p04
+opengov:34483821,17,https://opengov.seoul.go.kr/expense/34483821,2025-09-08,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,104000,p04
+opengov:34483938,13,https://opengov.seoul.go.kr/expense/34483938,2025-09-08,seoul_city,평생교육국 교육지원정책과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34495652,6,https://opengov.seoul.go.kr/expense/34495652,2025-09-08,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,74000,p04
+opengov:34483937,5,https://opengov.seoul.go.kr/expense/34483937,2025-09-09,seoul_office,정원도시국 중부공원여가센터 공원운영과,복성각,서울 중구 덕수궁길 7,249000,p04
+opengov:34723994,11,https://opengov.seoul.go.kr/expense/34723994,2025-09-09,seoul_city,디지털도시국 디지털정책과,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:34452870,20,https://opengov.seoul.go.kr/expense/34452870,2025-09-10,seoul_council,시의회사무처 의정국 법제과,복성각,서울 중구 덕수궁길 7,312000,p04
+opengov:34454112,10,https://opengov.seoul.go.kr/expense/34454112,2025-09-10,seoul_council,의정국 언론홍보과,복성각,서울 중구 덕수궁길 7,499000,p04
+opengov:34442145,14,https://opengov.seoul.go.kr/expense/34442145,2025-09-11,seoul_office,서울역사박물관 경영지원부 총무과,복성각,서울 중구 덕수궁길 7,59000,p04
+opengov:34454105,13,https://opengov.seoul.go.kr/expense/34454105,2025-09-11,seoul_office,시립미술관 경영지원부 고객홍보과,복성각,서울 중구 덕수궁길 7,66000,p04
+opengov:34483996,97,https://opengov.seoul.go.kr/expense/34483996,2025-09-11,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,265000,p04
+opengov:34467220,3,https://opengov.seoul.go.kr/expense/34467220,2025-09-12,seoul_council,기획경제위원회,복성각,서울 중구 덕수궁길 7,310000,p04
+opengov:34467223,14,https://opengov.seoul.go.kr/expense/34467223,2025-09-12,seoul_city,재무국 재무과,복성각,서울 중구 덕수궁길 7,47000,p04
+opengov:34484007,13,https://opengov.seoul.go.kr/expense/34484007,2025-09-15,seoul_council,의정국 의사과,복성각,서울 중구 덕수궁길 7,401000,p04
+opengov:34483822,29,https://opengov.seoul.go.kr/expense/34483822,2025-09-16,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34483832,6,https://opengov.seoul.go.kr/expense/34483832,2025-09-16,seoul_city,관광체육국 체육진흥과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34467177,8,https://opengov.seoul.go.kr/expense/34467177,2025-09-17,seoul_city,주택실 건축기획관 공동주택과,복성각,서울 중구 덕수궁길 7,87000,p04
+opengov:34467210,32,https://opengov.seoul.go.kr/expense/34467210,2025-09-18,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,205000,p04
+opengov:34452833,7,https://opengov.seoul.go.kr/expense/34452833,2025-09-19,seoul_city,도시공간본부 시설계획과,복성각,서울 중구 덕수궁길 7,69000,p04
+opengov:34442151,75,https://opengov.seoul.go.kr/expense/34442151,2025-09-30,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,89000,p04
+opengov:34465668,13,https://opengov.seoul.go.kr/expense/34465668,2025-09-30,seoul_city,행정국 시민협력과,복성각,서울 중구 덕수궁길 7,398000,p04
+opengov:34483822,51,https://opengov.seoul.go.kr/expense/34483822,2025-09-30,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:34701379,1,https://opengov.seoul.go.kr/expense/34701379,2025-10-02,seoul_city,평생교육국 평생교육과,복성각,서울 중구 덕수궁길 7,145000,p04
+opengov:34701384,21,https://opengov.seoul.go.kr/expense/34701384,2025-10-02,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,144000,p04
+opengov:34655595,2,https://opengov.seoul.go.kr/expense/34655595,2025-10-10,seoul_city,재무국 재산관리과,복성각,서울 중구 덕수궁길 7,97000,p04
+opengov:34734638,6,https://opengov.seoul.go.kr/expense/34734638,2025-10-10,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:34680967,28,https://opengov.seoul.go.kr/expense/34680967,2025-10-19,seoul_city,기후환경본부 기후환경정책과,복성각,서울 중구 덕수궁길 7,24000,p04
+opengov:34655619,16,https://opengov.seoul.go.kr/expense/34655619,2025-10-20,seoul_city,평생교육국 교육지원정책과,복성각,서울 중구 덕수궁길 7,44000,p04
+opengov:34667916,8,https://opengov.seoul.go.kr/expense/34667916,2025-10-20,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,102000,p04
+opengov:34669110,22,https://opengov.seoul.go.kr/expense/34669110,2025-10-20,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,132000,p04
+opengov:34711308,11,https://opengov.seoul.go.kr/expense/34711308,2025-10-20,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,108000,p04
+opengov:34669094,5,https://opengov.seoul.go.kr/expense/34669094,2025-10-23,seoul_city,도시공간본부 시설계획과,복성각,서울 중구 덕수궁길 7,92000,p04
+opengov:34669127,9,https://opengov.seoul.go.kr/expense/34669127,2025-10-24,seoul_city,도시공간본부 도시관리과,복성각,서울 중구 덕수궁길 7,168000,p04
+opengov:34711308,19,https://opengov.seoul.go.kr/expense/34711308,2025-10-24,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,1110000,p04
+opengov:34722636,17,https://opengov.seoul.go.kr/expense/34722636,2025-10-29,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,50000,p04
+opengov:34711328,88,https://opengov.seoul.go.kr/expense/34711328,2025-10-30,seoul_city,대변인 언론담당관,복성각,서울 중구 덕수궁길 7,120000,p04
+opengov:34734638,34,https://opengov.seoul.go.kr/expense/34734638,2025-10-30,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:34889825,1,https://opengov.seoul.go.kr/expense/34889825,2025-11-03,seoul_city,여성가족실 아동담당관,복성각,서울 중구 덕수궁길 7,145000,p04
+opengov:34915127,1,https://opengov.seoul.go.kr/expense/34915127,2025-11-03,seoul_city,디지털도시국 공간정보과,복성각,서울 중구 덕수궁길 7,134000,p04
+opengov:34904047,2,https://opengov.seoul.go.kr/expense/34904047,2025-11-04,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,28000,p04
+opengov:34963716,7,https://opengov.seoul.go.kr/expense/34963716,2025-11-04,seoul_city,대변인 언론담당관,복성각,서울 중구 덕수궁길 7,155000,p04
+opengov:34876569,8,https://opengov.seoul.go.kr/expense/34876569,2025-11-06,seoul_city,정원도시국 정원도시정책과,복성각,서울 중구 덕수궁길 7,346000,p04
+opengov:34904045,2,https://opengov.seoul.go.kr/expense/34904045,2025-11-06,seoul_city,주거정비과,복성각,서울 중구 덕수궁길 7,116000,p04
+opengov:34904047,4,https://opengov.seoul.go.kr/expense/34904047,2025-11-06,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,36000,p04
+opengov:34952062,6,https://opengov.seoul.go.kr/expense/34952062,2025-11-07,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,51000,p04
+opengov:34928404,14,https://opengov.seoul.go.kr/expense/34928404,2025-11-10,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,113000,p04
+opengov:34902486,10,https://opengov.seoul.go.kr/expense/34902486,2025-11-12,seoul_council,시의회사무처 의정국 법제과,복성각,서울 중구 덕수궁길 7,60000,p04
+opengov:34952062,10,https://opengov.seoul.go.kr/expense/34952062,2025-11-12,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,107000,p04
+opengov:34904048,16,https://opengov.seoul.go.kr/expense/34904048,2025-11-14,seoul_council,재정분석과,복성각,서울 중구 덕수궁길 7,167000,p04
+opengov:34876693,7,https://opengov.seoul.go.kr/expense/34876693,2025-11-17,seoul_city,감사위원회 공공감사담당관,복성각,서울 중구 덕수궁길 7,68000,p04
+opengov:34889843,5,https://opengov.seoul.go.kr/expense/34889843,2025-11-18,seoul_council,보건복지전문위원실,복성각,서울 중구 덕수궁길 7,89000,p04
+opengov:34891332,5,https://opengov.seoul.go.kr/expense/34891332,2025-11-18,seoul_city,물순환안전국 치수안전과,복성각,서울 중구 덕수궁길 7,60000,p04
+opengov:34902455,7,https://opengov.seoul.go.kr/expense/34902455,2025-11-18,seoul_city,재무국 세제과,복성각,서울 중구 덕수궁길 7,127000,p04
+opengov:34952051,140,https://opengov.seoul.go.kr/expense/34952051,2025-11-18,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,350000,p04
+opengov:34904042,47,https://opengov.seoul.go.kr/expense/34904042,2025-11-20,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34889816,4,https://opengov.seoul.go.kr/expense/34889816,2025-11-21,seoul_city,디지털도시국 정보시스템과,복성각,서울 중구 덕수궁길 7,158000,p04
+opengov:34904046,12,https://opengov.seoul.go.kr/expense/34904046,2025-11-21,seoul_city,도시공간본부 토지관리과,복성각,서울 중구 덕수궁길 7,160000,p04
+opengov:34876707,8,https://opengov.seoul.go.kr/expense/34876707,2025-11-24,seoul_city,민생노동국 상권활성화과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:34962128,32,https://opengov.seoul.go.kr/expense/34962128,2025-11-24,seoul_city,감사위원회 조사담당관,복성각,서울 중구 덕수궁길 7,307000,p04
+opengov:34963716,84,https://opengov.seoul.go.kr/expense/34963716,2025-11-24,seoul_city,대변인 언론담당관,복성각,서울 중구 덕수궁길 7,171000,p04
+opengov:34876546,14,https://opengov.seoul.go.kr/expense/34876546,2025-11-25,seoul_city,미래공간기획관 도시활력담당관,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:34904042,55,https://opengov.seoul.go.kr/expense/34904042,2025-11-26,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,259000,p04
+opengov:34928404,35,https://opengov.seoul.go.kr/expense/34928404,2025-11-26,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,282000,p04
+opengov:34952051,219,https://opengov.seoul.go.kr/expense/34952051,2025-11-26,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,240000,p04
+opengov:34952056,11,https://opengov.seoul.go.kr/expense/34952056,2025-11-27,seoul_city,균형발전본부 광화문광장사업과,복성각,서울 중구 덕수궁길 7,65000,p04
+opengov:34889826,14,https://opengov.seoul.go.kr/expense/34889826,2025-11-28,seoul_office,서울도서관행정지원과,복성각,서울 중구 덕수궁길 7,53000,p04
+opengov:34915139,46,https://opengov.seoul.go.kr/expense/34915139,2025-11-28,seoul_city,시민건강국 보건의료정책과,복성각,서울 중구 덕수궁길 7,40000,p04
+opengov:35186072,1,https://opengov.seoul.go.kr/expense/35186072,2025-12-02,seoul_city,재무국 계약심사과,복성각,서울 중구 덕수궁길 7,272000,p04
+opengov:35214344,2,https://opengov.seoul.go.kr/expense/35214344,2025-12-02,seoul_city,교통실 택시정책과,복성각,서울 중구 덕수궁길 7,86000,p04
+opengov:35167199,3,https://opengov.seoul.go.kr/expense/35167199,2025-12-03,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,106000,p04
+opengov:35167217,11,https://opengov.seoul.go.kr/expense/35167217,2025-12-03,seoul_council,운영지원과,복성각,서울 중구 덕수궁길 7,140000,p04
+opengov:35205479,10,https://opengov.seoul.go.kr/expense/35205479,2025-12-04,seoul_city,재난안전실 재난안전정책과,복성각,서울 중구 덕수궁길 7,232000,p04
+opengov:35186071,4,https://opengov.seoul.go.kr/expense/35186071,2025-12-05,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,39000,p04
+opengov:35177686,11,https://opengov.seoul.go.kr/expense/35177686,2025-12-09,seoul_city,물순환안전국 치수안전과,복성각,서울 중구 덕수궁길 7,160000,p04
+opengov:35145918,21,https://opengov.seoul.go.kr/expense/35145918,2025-12-10,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,480000,p04
+opengov:35167217,38,https://opengov.seoul.go.kr/expense/35167217,2025-12-10,seoul_council,운영지원과,복성각,서울 중구 덕수궁길 7,90000,p04
+opengov:35167199,9,https://opengov.seoul.go.kr/expense/35167199,2025-12-11,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,48000,p04
+opengov:35144138,4,https://opengov.seoul.go.kr/expense/35144138,2025-12-12,seoul_city,교통실 보행자전거과,복성각,서울 중구 덕수궁길 7,71000,p04
+opengov:35205469,17,https://opengov.seoul.go.kr/expense/35205469,2025-12-12,seoul_city,기획조정실 예산담당관,복성각,서울 중구 덕수궁길 7,170000,p04
+opengov:35167310,26,https://opengov.seoul.go.kr/expense/35167310,2025-12-15,seoul_city,민생노동국 소상공인정책과,복성각,서울 중구 덕수궁길 7,196000,p04
+opengov:35197517,13,https://opengov.seoul.go.kr/expense/35197517,2025-12-16,seoul_city,도시공간본부 도시재창조과,복성각,서울 중구 덕수궁길 7,157000,p04
+opengov:35167293,7,https://opengov.seoul.go.kr/expense/35167293,2025-12-17,seoul_city,시민건강국 스마트건강과,복성각,서울 중구 덕수궁길 7,133000,p04
+opengov:35177686,17,https://opengov.seoul.go.kr/expense/35177686,2025-12-17,seoul_city,물순환안전국 치수안전과,복성각,서울 중구 덕수궁길 7,430000,p04
+opengov:35204399,37,https://opengov.seoul.go.kr/expense/35204399,2025-12-17,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,73000,p04
+opengov:35144160,16,https://opengov.seoul.go.kr/expense/35144160,2025-12-18,seoul_city,교통실 교통운영과,복성각,서울 중구 덕수궁길 7,435000,p04
+opengov:35165355,52,https://opengov.seoul.go.kr/expense/35165355,2025-12-22,seoul_city,물순환안전국 수변감성도시과,복성각,서울 중구 덕수궁길 7,390000,p04
+opengov:35204415,13,https://opengov.seoul.go.kr/expense/35204415,2025-12-22,seoul_city,민생노동국 상권활성화과,복성각,서울 중구 덕수궁길 7,387000,p04
+opengov:35145922,11,https://opengov.seoul.go.kr/expense/35145922,2025-12-23,seoul_office,시립미술관 학예연구부 전시교육과,복성각,서울 중구 덕수궁길 7,225000,p04
+opengov:35214356,14,https://opengov.seoul.go.kr/expense/35214356,2025-12-23,seoul_city,경제실 창조산업기획관 산업입지과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:35214377,43,https://opengov.seoul.go.kr/expense/35214377,2025-12-23,seoul_city,홍보기획관 홍보담당관,복성각,서울 중구 덕수궁길 7,106000,p04
+opengov:35197503,40,https://opengov.seoul.go.kr/expense/35197503,2025-12-24,seoul_city,재무국 재무과,복성각,서울 중구 덕수궁길 7,230000,p04
+opengov:35490826,21,https://opengov.seoul.go.kr/expense/35490826,2025-12-24,seoul_city,주택실 부동산정책개발센터,복성각,서울 중구 덕수궁길 7,100000,p04
+opengov:35158212,21,https://opengov.seoul.go.kr/expense/35158212,2025-12-26,seoul_city,기후환경본부 친환경건물과,복성각,서울 중구 덕수궁길 7,72000,p04
+opengov:35177657,16,https://opengov.seoul.go.kr/expense/35177657,2025-12-26,seoul_city,주거정비과,복성각,서울 중구 덕수궁길 7,200000,p04
+opengov:35186061,19,https://opengov.seoul.go.kr/expense/35186061,2025-12-26,seoul_city,정원도시국 산지방재과,복성각,서울 중구 덕수궁길 7,163000,p04
+opengov:35214221,18,https://opengov.seoul.go.kr/expense/35214221,2025-12-26,seoul_city,자원회수시설과,복성각,서울 중구 덕수궁길 7,285000,p04
+opengov:35214344,24,https://opengov.seoul.go.kr/expense/35214344,2025-12-26,seoul_city,교통실 택시정책과,복성각,서울 중구 덕수궁길 7,270000,p04
+opengov:35158212,24,https://opengov.seoul.go.kr/expense/35158212,2025-12-30,seoul_city,기후환경본부 친환경건물과,복성각,서울 중구 덕수궁길 7,270000,p04
+opengov:35177669,44,https://opengov.seoul.go.kr/expense/35177669,2025-12-30,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,36000,p04
+opengov:35197522,19,https://opengov.seoul.go.kr/expense/35197522,2025-12-30,seoul_city,경제실 첨단산업과,복성각,서울 중구 덕수궁길 7,165000,p04
+opengov:35357681,2,https://opengov.seoul.go.kr/expense/35357681,2026-01-06,seoul_city,감사위원회 청렴담당관,복성각,서울 중구 덕수궁길 7,111000,p04
+opengov:35378910,3,https://opengov.seoul.go.kr/expense/35378910,2026-01-06,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,50000,p04
+opengov:35380362,3,https://opengov.seoul.go.kr/expense/35380362,2026-01-07,seoul_city,민생노동국 상권활성화과,복성각,서울 중구 덕수궁길 7,154000,p04
+opengov:35380366,9,https://opengov.seoul.go.kr/expense/35380366,2026-01-07,seoul_city,주택실 건축기획과,복성각,서울 중구 덕수궁길 7,100000,p04
+opengov:35389954,4,https://opengov.seoul.go.kr/expense/35389954,2026-01-07,seoul_city,디지털도시국 디지털정책과,복성각,서울 중구 덕수궁길 7,136000,p04
+opengov:35408993,8,https://opengov.seoul.go.kr/expense/35408993,2026-01-08,seoul_city,주택실 임대주택과,복성각,서울 중구 덕수궁길 7,237000,p04
+opengov:35421551,19,https://opengov.seoul.go.kr/expense/35421551,2026-01-08,seoul_city,경제실 경제정책과,복성각,서울 중구 덕수궁길 7,153000,p04
+opengov:35357534,19,https://opengov.seoul.go.kr/expense/35357534,2026-01-09,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,116000,p04
+opengov:35548088,4,https://opengov.seoul.go.kr/expense/35548088,2026-01-09,seoul_city,정원도시국 공원여가사업과,복성각,서울 중구 덕수궁길 7,96000,p04
+opengov:35399564,4,https://opengov.seoul.go.kr/expense/35399564,2026-01-13,seoul_city,교통실 물류정책과,복성각,서울 중구 덕수궁길 7,106000,p04
+opengov:35410292,4,https://opengov.seoul.go.kr/expense/35410292,2026-01-13,seoul_city,교통실 택시정책과,복성각,서울 중구 덕수궁길 7,59000,p04
+opengov:35410278,10,https://opengov.seoul.go.kr/expense/35410278,2026-01-14,seoul_council,의정국 재정분석과,복성각,서울 중구 덕수궁길 7,102000,p04
+opengov:35410354,7,https://opengov.seoul.go.kr/expense/35410354,2026-01-14,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,60000,p04
+opengov:35357694,8,https://opengov.seoul.go.kr/expense/35357694,2026-01-15,seoul_city,기후환경본부 친환경건물과,복성각,서울 중구 덕수궁길 7,168000,p04
+opengov:35380371,12,https://opengov.seoul.go.kr/expense/35380371,2026-01-15,seoul_city,기획조정실 창의규제담당관,복성각,서울 중구 덕수궁길 7,125000,p04
+opengov:35389943,7,https://opengov.seoul.go.kr/expense/35389943,2026-01-16,seoul_city,행정국 시민협력과,복성각,서울 중구 덕수궁길 7,144000,p04
+opengov:35398235,12,https://opengov.seoul.go.kr/expense/35398235,2026-01-19,seoul_council,도시계획균형전문위원실,복성각,서울 중구 덕수궁길 7,141000,p04
+opengov:35389943,9,https://opengov.seoul.go.kr/expense/35389943,2026-01-21,seoul_city,행정국 시민협력과,복성각,서울 중구 덕수궁길 7,218000,p04
+opengov:35389931,6,https://opengov.seoul.go.kr/expense/35389931,2026-01-23,seoul_city,38세금징수과,복성각,서울 중구 덕수궁길 7,192000,p04
+opengov:35357546,21,https://opengov.seoul.go.kr/expense/35357546,2026-01-27,seoul_council,의정국 의사과,복성각,서울 중구 덕수궁길 7,286000,p04
+opengov:35380367,1,https://opengov.seoul.go.kr/expense/35380367,2026-01-27,seoul_city,도시공간본부 도시계획상임기획과,복성각,서울 중구 덕수궁길 7,158000,p04
+opengov:35398218,36,https://opengov.seoul.go.kr/expense/35398218,2026-01-27,seoul_council,서울특별시의회사무처 의정국 현장민원과,복성각,서울 중구 덕수궁길 7,198000,p04
+opengov:35380346,9,https://opengov.seoul.go.kr/expense/35380346,2026-01-28,seoul_city,정원도시국 동물보호과,복성각,서울 중구 덕수궁길 7,125000,p04
+opengov:35398234,36,https://opengov.seoul.go.kr/expense/35398234,2026-01-28,seoul_city,기후환경본부 기후환경정책과,복성각,서울 중구 덕수궁길 7,192000,p04
+opengov:35410374,35,https://opengov.seoul.go.kr/expense/35410374,2026-01-28,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,420000,p04
+opengov:35369470,75,https://opengov.seoul.go.kr/expense/35369470,2026-01-29,seoul_city,기획조정실 기획담당관,복성각,서울 중구 덕수궁길 7,312000,p04
+opengov:35357549,12,https://opengov.seoul.go.kr/expense/35357549,2026-01-30,seoul_city,여성가족실 아동담당관,복성각,서울 중구 덕수궁길 7,124000,p04
+opengov:35547913,1,https://opengov.seoul.go.kr/expense/35547913,2026-02-02,seoul_council,의정국 의사과,복성각,서울 중구 덕수궁길 7,140000,p04
+opengov:35595247,2,https://opengov.seoul.go.kr/expense/35595247,2026-02-03,seoul_city,디지털도시국 디지털정책과,복성각,서울 중구 덕수궁길 7,130000,p04
+opengov:35582802,1,https://opengov.seoul.go.kr/expense/35582802,2026-02-04,seoul_city,관광체육국 관광산업과,복성각,서울 중구 덕수궁길 7,72000,p04
+opengov:35595053,8,https://opengov.seoul.go.kr/expense/35595053,2026-02-04,seoul_city,행정1부시장실,복성각,서울 중구 덕수궁길 7,152000,p04
+opengov:35559440,12,https://opengov.seoul.go.kr/expense/35559440,2026-02-05,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,103000,p04
+opengov:35606762,10,https://opengov.seoul.go.kr/expense/35606762,2026-02-09,seoul_city,재무국 재무과,복성각,서울 중구 덕수궁길 7,104000,p04
+opengov:35548114,4,https://opengov.seoul.go.kr/expense/35548114,2026-02-10,seoul_city,민생노동국 농수산유통과,복성각,서울 중구 덕수궁길 7,117000,p04
+opengov:35595244,8,https://opengov.seoul.go.kr/expense/35595244,2026-02-13,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,88000,p04
+opengov:35571145,12,https://opengov.seoul.go.kr/expense/35571145,2026-02-24,seoul_city,재무국 38세금징수과,복성각,서울 중구 덕수궁길 7,230000,p04
+opengov:35595095,20,https://opengov.seoul.go.kr/expense/35595095,2026-02-24,seoul_council,서울특별시의회사무처 의정국 현장민원과,복성각,서울 중구 덕수궁길 7,122000,p04
+opengov:35605715,45,https://opengov.seoul.go.kr/expense/35605715,2026-02-25,seoul_council,운영지원과,복성각,서울 중구 덕수궁길 7,202000,p04
+opengov:35547873,11,https://opengov.seoul.go.kr/expense/35547873,2026-02-26,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,82000,p04
+opengov:35776336,1,https://opengov.seoul.go.kr/expense/35776336,2026-03-03,seoul_city,교통실 도시철도과,복성각,서울 중구 덕수궁길 7,107000,p04
+opengov:35835470,1,https://opengov.seoul.go.kr/expense/35835470,2026-03-03,seoul_city,교통실 교통정책과,복성각,서울 중구 덕수궁길 7,358000,p04
+opengov:35787121,6,https://opengov.seoul.go.kr/expense/35787121,2026-03-04,seoul_city,기획조정실 기획담당관,복성각,서울 중구 덕수궁길 7,257000,p04
+opengov:35855699,11,https://opengov.seoul.go.kr/expense/35855699,2026-03-05,seoul_city,대변인 언론담당관,복성각,서울 중구 덕수궁길 7,166000,p04
+opengov:35799977,2,https://opengov.seoul.go.kr/expense/35799977,2026-03-06,seoul_city,감사위원회 안전감사담당관,복성각,서울 중구 덕수궁길 7,152000,p04
+opengov:36031880,5,https://opengov.seoul.go.kr/expense/36031880,2026-03-06,seoul_city,시민건강국 정신건강과,복성각,서울 중구 덕수궁길 7,76000,p04
+opengov:35823041,4,https://opengov.seoul.go.kr/expense/35823041,2026-03-10,seoul_city,여성가족실 아동담당관,복성각,서울 중구 덕수궁길 7,144000,p04
+opengov:35823039,12,https://opengov.seoul.go.kr/expense/35823039,2026-03-13,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,51000,p04
+opengov:35788440,21,https://opengov.seoul.go.kr/expense/35788440,2026-03-19,seoul_city,주택실 건축기획과,복성각,서울 중구 덕수궁길 7,112000,p04
+opengov:35823039,15,https://opengov.seoul.go.kr/expense/35823039,2026-03-19,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,48000,p04
+opengov:35835465,12,https://opengov.seoul.go.kr/expense/35835465,2026-03-20,seoul_council,의정국 재정분석과,복성각,서울 중구 덕수궁길 7,170000,p04
+opengov:35776334,9,https://opengov.seoul.go.kr/expense/35776334,2026-03-24,seoul_city,정원도시국 공원조성과,복성각,서울 중구 덕수궁길 7,100000,p04
+opengov:35824066,27,https://opengov.seoul.go.kr/expense/35824066,2026-03-25,seoul_city,시민감사옴부즈만위원회,복성각,서울 중구 덕수궁길 7,100000,p04
+opengov:35844332,38,https://opengov.seoul.go.kr/expense/35844332,2026-03-30,seoul_city,감사위원회 감사담당관,복성각,서울 중구 덕수궁길 7,168000,p04
+opengov:36010870,2,https://opengov.seoul.go.kr/expense/36010870,2026-04-02,seoul_city,평생교육국 청소년정책과,복성각,서울 중구 덕수궁길 7,75000,p04
+opengov:36037076,7,https://opengov.seoul.go.kr/expense/36037076,2026-04-02,seoul_office,도시기반시설본부 총무부,복성각,서울 중구 덕수궁길 7,120000,p04
+opengov:36048350,4,https://opengov.seoul.go.kr/expense/36048350,2026-04-07,seoul_city,도시공간본부 도시관리과,복성각,서울 중구 덕수궁길 7,33000,p04
+opengov:36013148,4,https://opengov.seoul.go.kr/expense/36013148,2026-04-08,seoul_city,건설기술정책관 지역건축안전센터,복성각,서울 중구 덕수궁길 7,67000,p04
+opengov:36026846,13,https://opengov.seoul.go.kr/expense/36026846,2026-04-08,seoul_city,시민건강국 보건의료정책과,복성각,서울 중구 덕수궁길 7,145000,p04
+opengov:36012986,11,https://opengov.seoul.go.kr/expense/36012986,2026-04-09,seoul_city,물순환안전국 수변감성도시과,복성각,서울 중구 덕수궁길 7,118000,p04
+opengov:36026844,31,https://opengov.seoul.go.kr/expense/36026844,2026-04-09,seoul_city,교통정책과,복성각,서울 중구 덕수궁길 7,174000,p04
+opengov:36037116,19,https://opengov.seoul.go.kr/expense/36037116,2026-04-10,seoul_city,도시외교담당관,복성각,서울 중구 덕수궁길 7,119000,p04
+opengov:36059068,7,https://opengov.seoul.go.kr/expense/36059068,2026-04-10,seoul_city,디지털도시국 정보통신과,복성각,서울 중구 덕수궁길 7,38000,p04
+opengov:36047148,16,https://opengov.seoul.go.kr/expense/36047148,2026-04-14,seoul_city,감사위원회 감사담당관,복성각,서울 중구 덕수궁길 7,76000,p04
+opengov:35998765,7,https://opengov.seoul.go.kr/expense/35998765,2026-04-17,seoul_office,서울아리수본부 구의아리수정수센터 행정관리과,복성각,서울 중구 덕수궁길 7,189000,p04
+opengov:36047152,12,https://opengov.seoul.go.kr/expense/36047152,2026-04-17,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,복성각,서울 중구 덕수궁길 7,48000,p04
+opengov:36048308,19,https://opengov.seoul.go.kr/expense/36048308,2026-04-21,seoul_office,시립미술관 경영지원부 고객홍보과,복성각,서울 중구 덕수궁길 7,98000,p04
+opengov:36037060,10,https://opengov.seoul.go.kr/expense/36037060,2026-04-22,seoul_city,교통실 도시철도과,복성각,서울 중구 덕수궁길 7,122000,p04
+opengov:36048350,15,https://opengov.seoul.go.kr/expense/36048350,2026-04-22,seoul_city,도시공간본부 도시관리과,복성각,서울 중구 덕수궁길 7,44000,p04
+opengov:36058328,215,https://opengov.seoul.go.kr/expense/36058328,2026-04-23,seoul_city,행정국 총무과,복성각,서울 중구 덕수궁길 7,98000,p04
+opengov:36059172,13,https://opengov.seoul.go.kr/expense/36059172,2026-04-24,seoul_city,디지털도시국 정보시스템과,복성각,서울 중구 덕수궁길 7,61000,p04
+opengov:36024930,54,https://opengov.seoul.go.kr/expense/36024930,2026-04-27,seoul_city,도시공간본부 도시공간전략과,복성각,서울 중구 덕수궁길 7,102000,p04
+opengov:36047162,14,https://opengov.seoul.go.kr/expense/36047162,2026-04-27,seoul_council,예산결산특별전문위원실,복성각,서울 중구 덕수궁길 7,39000,p04
+opengov:35998671,14,https://opengov.seoul.go.kr/expense/35998671,2026-04-29,seoul_city,기후환경본부 친환경건물과,복성각,서울 중구 덕수궁길 7,188000,p04
+opengov:36047148,41,https://opengov.seoul.go.kr/expense/36047148,2026-04-29,seoul_city,감사위원회 감사담당관,복성각,서울 중구 덕수궁길 7,66000,p04
+opengov:36059172,15,https://opengov.seoul.go.kr/expense/36059172,2026-04-29,seoul_city,디지털도시국 정보시스템과,복성각,서울 중구 덕수궁길 7,70000,p04
+opengov:36025204,10,https://opengov.seoul.go.kr/expense/36025204,2026-04-30,seoul_council,의정국 재정분석과,복성각,서울 중구 덕수궁길 7,94000,p04

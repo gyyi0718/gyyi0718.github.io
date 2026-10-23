@@ -1,0 +1,233 @@
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
+opengov:32743353,3,https://opengov.seoul.go.kr/expense/32743353,2025-01-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,114000,p08
+opengov:32743309,1,https://opengov.seoul.go.kr/expense/32743309,2025-01-03,seoul_city,문화본부 박물관과,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:32765833,2,https://opengov.seoul.go.kr/expense/32765833,2025-01-03,seoul_city,행정국 인사과,브이아이피참치,서울 중구 세종대로22길 16,162000,p08
+opengov:32775008,14,https://opengov.seoul.go.kr/expense/32775008,2025-01-08,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 세종대로22길 16,302000,p08
+opengov:32743369,7,https://opengov.seoul.go.kr/expense/32743369,2025-01-13,seoul_city,문화본부 문화시설과,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:32773779,9,https://opengov.seoul.go.kr/expense/32773779,2025-01-13,seoul_city,행정국 인력개발과,브이아이피참치,서울 중구 세종대로22길 16,141000,p08
+opengov:32775008,20,https://opengov.seoul.go.kr/expense/32775008,2025-01-13,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:32775039,9,https://opengov.seoul.go.kr/expense/32775039,2025-01-13,seoul_city,주거정비과,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:32774997,6,https://opengov.seoul.go.kr/expense/32774997,2025-01-15,seoul_city,여성가족실 가족담당관,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:32784056,8,https://opengov.seoul.go.kr/expense/32784056,2025-01-15,seoul_council,서울특별시의회사무처 현장민원담당관,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:32754056,12,https://opengov.seoul.go.kr/expense/32754056,2025-01-17,seoul_city,행정국 대외협력과,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:32793771,14,https://opengov.seoul.go.kr/expense/32793771,2025-01-17,seoul_council,의사담당관,브이아이피참치,서울 중구 세종대로22길 16,328000,p08
+opengov:32743361,25,https://opengov.seoul.go.kr/expense/32743361,2025-01-20,seoul_city,디자인정책관디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,144000,p08
+opengov:32793510,44,https://opengov.seoul.go.kr/expense/32793510,2025-01-22,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:32773779,19,https://opengov.seoul.go.kr/expense/32773779,2025-01-23,seoul_city,행정국 인력개발과,브이아이피참치,서울 중구 세종대로22길 16,99000,p08
+opengov:32793510,51,https://opengov.seoul.go.kr/expense/32793510,2025-01-23,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:32755464,10,https://opengov.seoul.go.kr/expense/32755464,2025-01-31,seoul_city,재난안전실 도로기획관 도로관리과,브이아이피참치,서울 중구 세종대로22길 16,151000,p08
+opengov:32951634,7,https://opengov.seoul.go.kr/expense/32951634,2025-02-05,seoul_city,자치경찰위원회 자치경찰총괄과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:32939969,11,https://opengov.seoul.go.kr/expense/32939969,2025-02-06,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:32941249,4,https://opengov.seoul.go.kr/expense/32941249,2025-02-10,seoul_city,문화예술과,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:32983269,88,https://opengov.seoul.go.kr/expense/32983269,2025-02-10,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,132000,p08
+opengov:32941232,7,https://opengov.seoul.go.kr/expense/32941232,2025-02-12,seoul_city,행정국 대외협력과,브이아이피참치,서울 중구 세종대로22길 16,123000,p08
+opengov:32963668,8,https://opengov.seoul.go.kr/expense/32963668,2025-02-13,seoul_city,민생노동국 노동정책과,브이아이피참치,서울 중구 세종대로22길 16,232000,p08
+opengov:32985654,21,https://opengov.seoul.go.kr/expense/32985654,2025-02-13,seoul_city,평생교육국 교육지원정책과,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:32995790,13,https://opengov.seoul.go.kr/expense/32995790,2025-02-13,seoul_city,글로벌도시정책관 국제협력담당관,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:32985457,9,https://opengov.seoul.go.kr/expense/32985457,2025-02-14,seoul_council,시의회사무처 언론홍보실,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:32941232,11,https://opengov.seoul.go.kr/expense/32941232,2025-02-17,seoul_city,행정국 대외협력과,브이아이피참치,서울 중구 세종대로22길 16,51000,p08
+opengov:32974363,10,https://opengov.seoul.go.kr/expense/32974363,2025-02-17,seoul_city,주거정비과,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:32941249,8,https://opengov.seoul.go.kr/expense/32941249,2025-02-18,seoul_city,문화예술과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:33017153,40,https://opengov.seoul.go.kr/expense/33017153,2025-02-20,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:32940752,29,https://opengov.seoul.go.kr/expense/32940752,2025-02-21,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:33229601,7,https://opengov.seoul.go.kr/expense/33229601,2025-03-07,seoul_city,문화본부 문화유산보존과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:33229601,8,https://opengov.seoul.go.kr/expense/33229601,2025-03-07,seoul_city,문화본부 문화유산보존과,브이아이피참치,서울 중구 세종대로22길 16,232000,p08
+opengov:33176487,4,https://opengov.seoul.go.kr/expense/33176487,2025-03-11,seoul_office,도시기반시설본부 시설국 건축부,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:33209071,96,https://opengov.seoul.go.kr/expense/33209071,2025-03-12,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:33229588,15,https://opengov.seoul.go.kr/expense/33229588,2025-03-14,seoul_council,시의회사무처 언론홍보실,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:33209079,16,https://opengov.seoul.go.kr/expense/33209079,2025-03-19,seoul_city,자치경찰위원회 자치경찰협력과,브이아이피참치,서울 중구 세종대로22길 16,75600,p08
+opengov:33187564,8,https://opengov.seoul.go.kr/expense/33187564,2025-03-20,seoul_office,농업기술센터,브이아이피참치,서울 중구 세종대로22길 16,270000,p08
+opengov:33199346,21,https://opengov.seoul.go.kr/expense/33199346,2025-03-21,seoul_city,문화본부 문화정책과,브이아이피참치,서울 중구 세종대로22길 16,126000,p08
+opengov:33176491,76,https://opengov.seoul.go.kr/expense/33176491,2025-03-24,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:33209071,247,https://opengov.seoul.go.kr/expense/33209071,2025-03-31,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,126000,p08
+opengov:33430079,1,https://opengov.seoul.go.kr/expense/33430079,2025-04-01,seoul_city,행정1부시장실,브이아이피참치,서울 중구 세종대로22길 16,114000,p08
+opengov:33404726,52,https://opengov.seoul.go.kr/expense/33404726,2025-04-04,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:33404726,170,https://opengov.seoul.go.kr/expense/33404726,2025-04-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:33416479,13,https://opengov.seoul.go.kr/expense/33416479,2025-04-16,seoul_city,행정국 인사과,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:33417518,61,https://opengov.seoul.go.kr/expense/33417518,2025-04-25,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:33430079,41,https://opengov.seoul.go.kr/expense/33430079,2025-04-28,seoul_city,행정1부시장실,브이아이피참치,서울 중구 세종대로22길 16,406000,p08
+opengov:33416493,43,https://opengov.seoul.go.kr/expense/33416493,2025-04-29,seoul_council,의정담당관,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:33393388,27,https://opengov.seoul.go.kr/expense/33393388,2025-04-30,seoul_office,시립미술관 경영지원부 총무과,브이아이피참치,서울 중구 세종대로22길 16,62100,p08
+opengov:33430112,33,https://opengov.seoul.go.kr/expense/33430112,2025-04-30,seoul_city,글로벌도시정책관 외국인이민담당관,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:33600619,7,https://opengov.seoul.go.kr/expense/33600619,2025-05-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,58000,p08
+opengov:33636103,2,https://opengov.seoul.go.kr/expense/33636103,2025-05-02,seoul_city,도시외교담당관,브이아이피참치,서울 중구 세종대로22길 16,69000,p08
+opengov:33600610,4,https://opengov.seoul.go.kr/expense/33600610,2025-05-12,seoul_city,재난안전실 교량안전과,브이아이피참치,서울 중구 세종대로22길 16,200000,p08
+opengov:33611263,2,https://opengov.seoul.go.kr/expense/33611263,2025-05-14,seoul_office,시립미술관 경영지원부 총무과,브이아이피참치,서울 중구 세종대로22길 16,186000,p08
+opengov:33586778,12,https://opengov.seoul.go.kr/expense/33586778,2025-05-15,seoul_city,디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,58000,p08
+opengov:33624301,7,https://opengov.seoul.go.kr/expense/33624301,2025-05-20,seoul_office,행정관리과,브이아이피참치,서울 중구 세종대로22길 16,332000,p08
+opengov:33624130,165,https://opengov.seoul.go.kr/expense/33624130,2025-05-21,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:33624345,9,https://opengov.seoul.go.kr/expense/33624345,2025-05-21,seoul_city,디자인정책관 도시경관담당관,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:33611263,8,https://opengov.seoul.go.kr/expense/33611263,2025-05-23,seoul_office,시립미술관 경영지원부 총무과,브이아이피참치,서울 중구 세종대로22길 16,140000,p08
+opengov:33624130,208,https://opengov.seoul.go.kr/expense/33624130,2025-05-26,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,33000,p08
+opengov:33804520,2,https://opengov.seoul.go.kr/expense/33804520,2025-06-04,seoul_city,문화예술과,브이아이피참치,서울 중구 세종대로22길 16,250000,p08
+opengov:33803296,15,https://opengov.seoul.go.kr/expense/33803296,2025-06-05,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:33857931,2,https://opengov.seoul.go.kr/expense/33857931,2025-06-16,seoul_city,관광체육국 체육진흥과,브이아이피참치,서울 중구 세종대로22길 16,134000,p08
+opengov:33826578,156,https://opengov.seoul.go.kr/expense/33826578,2025-06-17,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,69000,p08
+opengov:33867846,16,https://opengov.seoul.go.kr/expense/33867846,2025-06-17,seoul_city,행정1부시장실,브이아이피참치,서울 중구 세종대로22길 16,382000,p08
+opengov:33804520,17,https://opengov.seoul.go.kr/expense/33804520,2025-06-20,seoul_city,문화예술과,브이아이피참치,서울 중구 세종대로22길 16,183000,p08
+opengov:33792099,14,https://opengov.seoul.go.kr/expense/33792099,2025-06-23,seoul_council,서울시의회사무처 인사담당관,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:33826578,242,https://opengov.seoul.go.kr/expense/33826578,2025-06-24,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,480000,p08
+opengov:33826578,268,https://opengov.seoul.go.kr/expense/33826578,2025-06-26,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,98000,p08
+opengov:33804522,15,https://opengov.seoul.go.kr/expense/33804522,2025-06-27,seoul_city,행정국 대외협력과,브이아이피참치,서울 중구 세종대로22길 16,94000,p08
+opengov:33867834,58,https://opengov.seoul.go.kr/expense/33867834,2025-06-30,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,159000,p08
+opengov:34077489,1,https://opengov.seoul.go.kr/expense/34077489,2025-07-01,seoul_city,행정국 인력개발과,브이아이피참치,서울 중구 세종대로22길 16,112000,p08
+opengov:34077510,14,https://opengov.seoul.go.kr/expense/34077510,2025-07-02,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:34077520,12,https://opengov.seoul.go.kr/expense/34077520,2025-07-02,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:34067537,17,https://opengov.seoul.go.kr/expense/34067537,2025-07-04,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로22길 16,206000,p08
+opengov:34067539,19,https://opengov.seoul.go.kr/expense/34067539,2025-07-04,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:34077510,41,https://opengov.seoul.go.kr/expense/34077510,2025-07-07,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,60000,p08
+opengov:34077494,7,https://opengov.seoul.go.kr/expense/34077494,2025-07-09,seoul_city,기획조정실 재정담당관,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:34059225,26,https://opengov.seoul.go.kr/expense/34059225,2025-07-15,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,180000,p08
+opengov:34077484,11,https://opengov.seoul.go.kr/expense/34077484,2025-07-15,seoul_city,재난안전실 재난안전예방과,브이아이피참치,서울 중구 세종대로22길 16,138000,p08
+opengov:34067498,23,https://opengov.seoul.go.kr/expense/34067498,2025-07-16,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:34037558,14,https://opengov.seoul.go.kr/expense/34037558,2025-07-17,seoul_office,강남수도사업소 행정지원과,브이아이피참치,서울 중구 세종대로22길 16,189000,p08
+opengov:34067530,15,https://opengov.seoul.go.kr/expense/34067530,2025-07-17,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 세종대로22길 16,132000,p08
+opengov:34077489,19,https://opengov.seoul.go.kr/expense/34077489,2025-07-18,seoul_city,행정국 인력개발과,브이아이피참치,서울 중구 세종대로22길 16,195000,p08
+opengov:34037605,10,https://opengov.seoul.go.kr/expense/34037605,2025-07-22,seoul_city,미래청년기획관 청년사업담당관,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:34077489,21,https://opengov.seoul.go.kr/expense/34077489,2025-07-22,seoul_city,행정국 인력개발과,브이아이피참치,서울 중구 세종대로22길 16,335000,p08
+opengov:34077505,29,https://opengov.seoul.go.kr/expense/34077505,2025-07-22,seoul_city,문화본부 문화정책과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:34086709,30,https://opengov.seoul.go.kr/expense/34086709,2025-07-23,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:34077507,11,https://opengov.seoul.go.kr/expense/34077507,2025-07-24,seoul_city,복지실 돌봄복지과,브이아이피참치,서울 중구 세종대로22길 16,95000,p08
+opengov:34087200,27,https://opengov.seoul.go.kr/expense/34087200,2025-07-28,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로22길 16,203000,p08
+opengov:34047857,24,https://opengov.seoul.go.kr/expense/34047857,2025-07-30,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 세종대로22길 16,96000,p08
+opengov:34254469,7,https://opengov.seoul.go.kr/expense/34254469,2025-08-05,seoul_city,문화본부 문화정책과,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:34288313,5,https://opengov.seoul.go.kr/expense/34288313,2025-08-05,seoul_city,행정1부시장실,브이아이피참치,서울 중구 세종대로22길 16,192000,p08
+opengov:34278427,7,https://opengov.seoul.go.kr/expense/34278427,2025-08-06,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:34220896,2,https://opengov.seoul.go.kr/expense/34220896,2025-08-11,seoul_office,도시기반시설본부 도시철도건축부,브이아이피참치,서울 중구 세종대로22길 16,36000,p08
+opengov:34278426,9,https://opengov.seoul.go.kr/expense/34278426,2025-08-12,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로22길 16,163000,p08
+opengov:34220898,15,https://opengov.seoul.go.kr/expense/34220898,2025-08-13,seoul_city,디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,92000,p08
+opengov:34289484,93,https://opengov.seoul.go.kr/expense/34289484,2025-08-14,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,107000,p08
+opengov:34278340,7,https://opengov.seoul.go.kr/expense/34278340,2025-08-21,seoul_city,도시공간본부 도시계획과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:34254470,33,https://opengov.seoul.go.kr/expense/34254470,2025-08-25,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 세종대로22길 16,74000,p08
+opengov:34288313,35,https://opengov.seoul.go.kr/expense/34288313,2025-08-26,seoul_city,행정1부시장실,브이아이피참치,서울 중구 세종대로22길 16,203000,p08
+opengov:34257445,11,https://opengov.seoul.go.kr/expense/34257445,2025-08-27,seoul_city,행정국 대외협력과,브이아이피참치,서울 중구 세종대로22길 16,53000,p08
+opengov:34233894,23,https://opengov.seoul.go.kr/expense/34233894,2025-08-28,seoul_city,기후환경본부 기후환경정책과,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:34467180,1,https://opengov.seoul.go.kr/expense/34467180,2025-09-03,seoul_office,도시기반시설본부 방재시설부,브이아이피참치,서울 중구 세종대로22길 16,52000,p08
+opengov:34467211,3,https://opengov.seoul.go.kr/expense/34467211,2025-09-03,seoul_city,문화본부 문화예술과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:34495684,9,https://opengov.seoul.go.kr/expense/34495684,2025-09-04,seoul_city,디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:34484004,14,https://opengov.seoul.go.kr/expense/34484004,2025-09-05,seoul_city,자치경찰위원회 자치경찰운영과,브이아이피참치,서울 중구 세종대로22길 16,60000,p08
+opengov:34483842,5,https://opengov.seoul.go.kr/expense/34483842,2025-09-08,seoul_city,행정국 인사과,브이아이피참치,서울 중구 세종대로22길 16,213000,p08
+opengov:34483996,61,https://opengov.seoul.go.kr/expense/34483996,2025-09-08,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,111000,p08
+opengov:34483996,82,https://opengov.seoul.go.kr/expense/34483996,2025-09-10,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:34467210,25,https://opengov.seoul.go.kr/expense/34467210,2025-09-15,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 세종대로22길 16,40000,p08
+opengov:34495684,22,https://opengov.seoul.go.kr/expense/34495684,2025-09-15,seoul_city,디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:34483996,139,https://opengov.seoul.go.kr/expense/34483996,2025-09-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,207000,p08
+opengov:34483842,14,https://opengov.seoul.go.kr/expense/34483842,2025-09-17,seoul_city,행정국 인사과,브이아이피참치,서울 중구 세종대로22길 16,61000,p08
+opengov:34483842,15,https://opengov.seoul.go.kr/expense/34483842,2025-09-18,seoul_city,행정국 인사과,브이아이피참치,서울 중구 세종대로22길 16,152000,p08
+opengov:34454112,20,https://opengov.seoul.go.kr/expense/34454112,2025-09-23,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:34467164,8,https://opengov.seoul.go.kr/expense/34467164,2025-09-24,seoul_office,서울아리수본부 요금관리부,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:34467210,46,https://opengov.seoul.go.kr/expense/34467210,2025-09-25,seoul_city,시민감사옴부즈만위원회,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:34467187,14,https://opengov.seoul.go.kr/expense/34467187,2025-09-30,seoul_city,경제실 금융투자과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:34483852,13,https://opengov.seoul.go.kr/expense/34483852,2025-09-30,seoul_city,디자인정책관 디자인산업담당관,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:34484001,15,https://opengov.seoul.go.kr/expense/34484001,2025-09-30,seoul_city,경제실 창업정책과,브이아이피참치,서울 중구 세종대로22길 16,195000,p08
+opengov:34667903,1,https://opengov.seoul.go.kr/expense/34667903,2025-10-16,seoul_office,도시기반시설본부 설비부,브이아이피참치,서울 중구 세종대로22길 16,69000,p08
+opengov:34669128,47,https://opengov.seoul.go.kr/expense/34669128,2025-10-20,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:34667922,37,https://opengov.seoul.go.kr/expense/34667922,2025-10-29,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,195000,p08
+opengov:34669105,14,https://opengov.seoul.go.kr/expense/34669105,2025-10-30,seoul_city,교통실 미래첨단교통과,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:34680969,12,https://opengov.seoul.go.kr/expense/34680969,2025-10-30,seoul_city,미래청년기획관 청년사업담당관,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:34655635,12,https://opengov.seoul.go.kr/expense/34655635,2025-10-31,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:34889815,7,https://opengov.seoul.go.kr/expense/34889815,2025-11-04,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,190000,p08
+opengov:34876533,6,https://opengov.seoul.go.kr/expense/34876533,2025-11-12,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,36000,p08
+opengov:34904059,5,https://opengov.seoul.go.kr/expense/34904059,2025-11-13,seoul_office,서울아리수본부 서부수도사업소 시설관리과,브이아이피참치,서울 중구 세종대로22길 16,122000,p08
+opengov:34926698,19,https://opengov.seoul.go.kr/expense/34926698,2025-11-17,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:34963716,64,https://opengov.seoul.go.kr/expense/34963716,2025-11-18,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,195000,p08
+opengov:34889823,37,https://opengov.seoul.go.kr/expense/34889823,2025-11-19,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,134000,p08
+opengov:34952051,150,https://opengov.seoul.go.kr/expense/34952051,2025-11-19,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:34876704,10,https://opengov.seoul.go.kr/expense/34876704,2025-11-27,seoul_city,기획조정실 법률지원담당관,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:34889815,76,https://opengov.seoul.go.kr/expense/34889815,2025-11-27,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:34952051,235,https://opengov.seoul.go.kr/expense/34952051,2025-11-27,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,84000,p08
+opengov:34891341,79,https://opengov.seoul.go.kr/expense/34891341,2025-11-28,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:35167217,10,https://opengov.seoul.go.kr/expense/35167217,2025-12-03,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,150000,p08
+opengov:35177671,37,https://opengov.seoul.go.kr/expense/35177671,2025-12-03,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35223666,1,https://opengov.seoul.go.kr/expense/35223666,2025-12-03,seoul_city,38세금징수과,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:35490826,2,https://opengov.seoul.go.kr/expense/35490826,2025-12-03,seoul_city,주택실 부동산정책개발센터,브이아이피참치,서울 중구 세종대로22길 16,36000,p08
+opengov:35175505,4,https://opengov.seoul.go.kr/expense/35175505,2025-12-05,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35157863,6,https://opengov.seoul.go.kr/expense/35157863,2025-12-08,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,58000,p08
+opengov:35158211,6,https://opengov.seoul.go.kr/expense/35158211,2025-12-08,seoul_city,재난안전실 재난상황관리과,브이아이피참치,서울 중구 세종대로22길 16,400000,p08
+opengov:35241582,9,https://opengov.seoul.go.kr/expense/35241582,2025-12-08,seoul_council,재정분석과,브이아이피참치,서울 중구 세종대로22길 16,117000,p08
+opengov:35157842,4,https://opengov.seoul.go.kr/expense/35157842,2025-12-09,seoul_city,재무국 세제과,브이아이피참치,서울 중구 세종대로22길 16,300000,p08
+opengov:35158211,9,https://opengov.seoul.go.kr/expense/35158211,2025-12-10,seoul_city,재난안전실 재난상황관리과,브이아이피참치,서울 중구 세종대로22길 16,350000,p08
+opengov:35167217,39,https://opengov.seoul.go.kr/expense/35167217,2025-12-10,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,134000,p08
+opengov:35158211,11,https://opengov.seoul.go.kr/expense/35158211,2025-12-12,seoul_city,재난안전실 재난상황관리과,브이아이피참치,서울 중구 세종대로22길 16,300000,p08
+opengov:35167217,59,https://opengov.seoul.go.kr/expense/35167217,2025-12-16,seoul_council,운영지원과(의장실),브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:35175505,12,https://opengov.seoul.go.kr/expense/35175505,2025-12-16,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35158202,11,https://opengov.seoul.go.kr/expense/35158202,2025-12-17,seoul_city,여성가족실 가족담당관,브이아이피참치,서울 중구 세종대로22길 16,117000,p08
+opengov:35177671,200,https://opengov.seoul.go.kr/expense/35177671,2025-12-18,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:35167217,73,https://opengov.seoul.go.kr/expense/35167217,2025-12-19,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:35177671,221,https://opengov.seoul.go.kr/expense/35177671,2025-12-22,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:35204384,13,https://opengov.seoul.go.kr/expense/35204384,2025-12-22,seoul_city,행정국 시민협력과,브이아이피참치,서울 중구 세종대로22길 16,186000,p08
+opengov:35158211,14,https://opengov.seoul.go.kr/expense/35158211,2025-12-23,seoul_city,재난안전실 재난상황관리과,브이아이피참치,서울 중구 세종대로22길 16,188000,p08
+opengov:35157863,21,https://opengov.seoul.go.kr/expense/35157863,2025-12-24,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:35167282,73,https://opengov.seoul.go.kr/expense/35167282,2025-12-26,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로22길 16,203000,p08
+opengov:35184942,79,https://opengov.seoul.go.kr/expense/35184942,2025-12-31,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:35522673,1,https://opengov.seoul.go.kr/expense/35522673,2026-01-02,seoul_city,문화본부 문화시설과,브이아이피참치,서울 중구 세종대로22길 16,123000,p08
+opengov:35380356,4,https://opengov.seoul.go.kr/expense/35380356,2026-01-05,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:35420391,10,https://opengov.seoul.go.kr/expense/35420391,2026-01-06,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:35389951,3,https://opengov.seoul.go.kr/expense/35389951,2026-01-12,seoul_city,기획조정실 공기업담당관,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35522673,9,https://opengov.seoul.go.kr/expense/35522673,2026-01-15,seoul_city,문화본부 문화시설과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:35398221,127,https://opengov.seoul.go.kr/expense/35398221,2026-01-16,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,36000,p08
+opengov:35398221,149,https://opengov.seoul.go.kr/expense/35398221,2026-01-20,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:35398221,157,https://opengov.seoul.go.kr/expense/35398221,2026-01-21,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,144000,p08
+opengov:35410279,10,https://opengov.seoul.go.kr/expense/35410279,2026-01-21,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,36000,p08
+opengov:35380356,27,https://opengov.seoul.go.kr/expense/35380356,2026-01-27,seoul_city,관광체육국 관광정책과,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:35388722,40,https://opengov.seoul.go.kr/expense/35388722,2026-01-29,seoul_council,의정국 언론홍보과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35399571,16,https://opengov.seoul.go.kr/expense/35399571,2026-01-29,seoul_city,문화본부 문화유산보존과,브이아이피참치,서울 중구 세종대로22길 16,144000,p08
+opengov:35410336,8,https://opengov.seoul.go.kr/expense/35410336,2026-01-30,seoul_office,도시기반시설본부 방재시설부,브이아이피참치,서울 중구 세종대로22길 16,90000,p08
+opengov:35572173,1,https://opengov.seoul.go.kr/expense/35572173,2026-02-03,seoul_city,문화본부 문화유산활용과,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35606788,10,https://opengov.seoul.go.kr/expense/35606788,2026-02-03,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:35560809,6,https://opengov.seoul.go.kr/expense/35560809,2026-02-04,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로22길 16,198000,p08
+opengov:35605738,96,https://opengov.seoul.go.kr/expense/35605738,2026-02-11,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,126000,p08
+opengov:35605740,14,https://opengov.seoul.go.kr/expense/35605740,2026-02-19,seoul_city,기획조정실 정책기획관 법무담당관,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:35595257,37,https://opengov.seoul.go.kr/expense/35595257,2026-02-20,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,117000,p08
+opengov:35595209,12,https://opengov.seoul.go.kr/expense/35595209,2026-02-27,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,100000,p08
+opengov:35855689,2,https://opengov.seoul.go.kr/expense/35855689,2026-03-03,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,114000,p08
+opengov:35776314,11,https://opengov.seoul.go.kr/expense/35776314,2026-03-04,seoul_city,도시공간본부 도시공간전략과,브이아이피참치,서울 중구 세종대로22길 16,105000,p08
+opengov:35866099,8,https://opengov.seoul.go.kr/expense/35866099,2026-03-05,seoul_office,강남수도사업소 행정지원과,브이아이피참치,서울 중구 세종대로22길 16,111000,p08
+opengov:35812194,15,https://opengov.seoul.go.kr/expense/35812194,2026-03-09,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:35824098,5,https://opengov.seoul.go.kr/expense/35824098,2026-03-10,seoul_city,재난안전실 재난안전예방과,브이아이피참치,서울 중구 세종대로22길 16,36000,p08
+opengov:35855689,23,https://opengov.seoul.go.kr/expense/35855689,2026-03-11,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,150000,p08
+opengov:35834099,4,https://opengov.seoul.go.kr/expense/35834099,2026-03-12,seoul_city,균형발전본부 광화문광장사업과,브이아이피참치,서울 중구 세종대로22길 16,232000,p08
+opengov:35835470,21,https://opengov.seoul.go.kr/expense/35835470,2026-03-12,seoul_city,교통실 교통정책과,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:35787134,3,https://opengov.seoul.go.kr/expense/35787134,2026-03-18,seoul_city,문화본부 문화예술과,브이아이피참치,서울 중구 세종대로22길 16,217000,p08
+opengov:35812194,30,https://opengov.seoul.go.kr/expense/35812194,2026-03-18,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:35824072,28,https://opengov.seoul.go.kr/expense/35824072,2026-03-23,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:35834100,59,https://opengov.seoul.go.kr/expense/35834100,2026-03-25,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 세종대로22길 16,150000,p08
+opengov:35834109,44,https://opengov.seoul.go.kr/expense/35834109,2026-03-25,seoul_city,자치경찰위원회 자치경찰운영과,브이아이피참치,서울 중구 세종대로22길 16,130000,p08
+opengov:35855699,112,https://opengov.seoul.go.kr/expense/35855699,2026-03-25,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:36048309,3,https://opengov.seoul.go.kr/expense/36048309,2026-04-03,seoul_city,복지실 고독대응과,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:36025209,3,https://opengov.seoul.go.kr/expense/36025209,2026-04-06,seoul_city,복지실 돌봄고독정책관 어르신복지과,브이아이피참치,서울 중구 세종대로22길 16,91000,p08
+opengov:36037089,13,https://opengov.seoul.go.kr/expense/36037089,2026-04-06,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로22길 16,234000,p08
+opengov:36024958,23,https://opengov.seoul.go.kr/expense/36024958,2026-04-13,seoul_city,여성가족실 저출생담당관,브이아이피참치,서울 중구 세종대로22길 16,91000,p08
+opengov:36025222,6,https://opengov.seoul.go.kr/expense/36025222,2026-04-14,seoul_council,교육전문위원실,브이아이피참치,서울 중구 세종대로22길 16,76000,p08
+opengov:36047148,18,https://opengov.seoul.go.kr/expense/36047148,2026-04-15,seoul_city,감사위원회 감사담당관,브이아이피참치,서울 중구 세종대로22길 16,87400,p08
+opengov:36037076,31,https://opengov.seoul.go.kr/expense/36037076,2026-04-16,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,135000,p08
+opengov:36037057,15,https://opengov.seoul.go.kr/expense/36037057,2026-04-20,seoul_city,행정국 인사과,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:36037083,5,https://opengov.seoul.go.kr/expense/36037083,2026-04-20,seoul_city,재난안전실 재난안전예방과,브이아이피참치,서울 중구 세종대로22길 16,57000,p08
+opengov:36037116,47,https://opengov.seoul.go.kr/expense/36037116,2026-04-30,seoul_city,도시외교담당관,브이아이피참치,서울 중구 세종대로22길 16,85000,p08
+opengov:36261038,34,https://opengov.seoul.go.kr/expense/36261038,2026-05-20,seoul_city,행정국 총무과,브이아이피참치,서울 중구 세종대로22길 16,282000,p08
+opengov:36229368,9,https://opengov.seoul.go.kr/expense/36229368,2026-05-22,seoul_city,복지실 자활지원과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:36214403,25,https://opengov.seoul.go.kr/expense/36214403,2026-05-26,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,145000,p08
+opengov:36202439,15,https://opengov.seoul.go.kr/expense/36202439,2026-05-28,seoul_council,서울시의회사무처 인사과,브이아이피참치,서울 중구 세종대로22길 16,72000,p08
+opengov:36271397,73,https://opengov.seoul.go.kr/expense/36271397,2026-05-28,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:36512453,1,https://opengov.seoul.go.kr/expense/36512453,2026-06-01,seoul_city,문화본부 문화유산보존과,브이아이피참치,서울 중구 세종대로22길 16,92000,p08
+opengov:36426432,9,https://opengov.seoul.go.kr/expense/36426432,2026-06-09,seoul_council,서울시의회사무처 인사과,브이아이피참치,서울 중구 세종대로22길 16,94000,p08
+opengov:36449221,4,https://opengov.seoul.go.kr/expense/36449221,2026-06-10,seoul_city,시민건강국 스마트건강과,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:36449806,19,https://opengov.seoul.go.kr/expense/36449806,2026-06-12,seoul_city,기획조정실 기획담당관,브이아이피참치,서울 중구 세종대로22길 16,117000,p08
+opengov:36512453,14,https://opengov.seoul.go.kr/expense/36512453,2026-06-18,seoul_city,문화본부 문화유산보존과,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:36533635,88,https://opengov.seoul.go.kr/expense/36533635,2026-06-22,seoul_city,대변인 언론담당관,브이아이피참치,서울 중구 세종대로22길 16,54000,p08
+opengov:36492733,69,https://opengov.seoul.go.kr/expense/36492733,2026-06-26,seoul_council,운영지원과,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:36686803,1,https://opengov.seoul.go.kr/expense/36686803,2026-07-01,seoul_city,기후환경본부 녹색에너지과,브이아이피참치,서울 중구 세종대로22길 16,87000,p08
+opengov:36707516,1,https://opengov.seoul.go.kr/expense/36707516,2026-07-01,seoul_city,시민건강국 공공의료과,브이아이피참치,서울 중구 세종대로22길 16,108000,p08
+opengov:36705315,1,https://opengov.seoul.go.kr/expense/36705315,2026-07-02,seoul_city,기획조정실 정책기획관 법무담당관,브이아이피참치,서울 중구 세종대로22길 16,117000,p08
+opengov:36678309,6,https://opengov.seoul.go.kr/expense/36678309,2026-07-03,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:36697259,10,https://opengov.seoul.go.kr/expense/36697259,2026-07-03,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 세종대로22길 16,420000,p08
+opengov:36687868,15,https://opengov.seoul.go.kr/expense/36687868,2026-07-08,seoul_city,디자인정책관 디자인정책담당관,브이아이피참치,서울 중구 세종대로22길 16,116000,p08
+opengov:36754206,5,https://opengov.seoul.go.kr/expense/36754206,2026-07-08,seoul_office,도시기반시설본부 방재시설부,브이아이피참치,서울 중구 세종대로22길 16,239000,p08
+opengov:36678309,22,https://opengov.seoul.go.kr/expense/36678309,2026-07-14,seoul_city,시민건강국 보건의료정책과,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:36707570,28,https://opengov.seoul.go.kr/expense/36707570,2026-07-15,seoul_office,도시기반시설본부 총무부,브이아이피참치,서울 중구 세종대로22길 16,156000,p08
+opengov:36667178,7,https://opengov.seoul.go.kr/expense/36667178,2026-07-16,seoul_city,재무국 재산관리과,브이아이피참치,서울 중구 세종대로22길 16,282000,p08
+opengov:36707745,12,https://opengov.seoul.go.kr/expense/36707745,2026-07-22,seoul_city,기획조정실 평가담당관,브이아이피참치,서울 중구 세종대로22길 16,78000,p08
+opengov:36686807,14,https://opengov.seoul.go.kr/expense/36686807,2026-07-24,seoul_city,복지실 돌봄고독정책관 고령사회대응과,브이아이피참치,서울 중구 세종대로22길 16,114000,p08
+opengov:36686813,7,https://opengov.seoul.go.kr/expense/36686813,2026-07-27,seoul_office,서울역사박물관 학예연구부 교류홍보과,브이아이피참치,서울 중구 세종대로22길 16,40000,p08
+opengov:36655758,30,https://opengov.seoul.go.kr/expense/36655758,2026-07-28,seoul_city,기획조정실 창의규제담당관,브이아이피참치,서울 중구 세종대로22길 16,174000,p08
+opengov:36697259,64,https://opengov.seoul.go.kr/expense/36697259,2026-07-29,seoul_city,재난안전실 재난안전정책과,브이아이피참치,서울 중구 세종대로22길 16,198000,p08

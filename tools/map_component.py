@@ -5,7 +5,7 @@ from pathlib import Path
 
 DATA = json.loads((Path(__file__).resolve().parents[1] / 'data/nationwide-locations.json').read_text())
 PROVINCES = ['서울','부산','대구','인천','광주','대전','울산','세종','경기','강원','충북','충남','전북','전남','경북','경남','제주']
-MAP_SCRIPTS = '<script defer src="/assets/vendor/leaflet/leaflet.js"></script><script defer src="/assets/nationwide-map.js"></script>'
+MAP_SCRIPTS = '<script defer src="/assets/vendor/leaflet/leaflet.js"></script><script defer src="/assets/nationwide-map.js?v=20261023b"></script>'
 
 def map_content(include_directory=True):
     region_index = ''

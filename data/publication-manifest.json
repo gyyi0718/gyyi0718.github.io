@@ -2,6 +2,62 @@
   "date": "2026-10-23",
   "pages": [
     {
+      "path": "places/p01.html",
+      "canonical": "https://gyyi0718.github.io/places/p01.html"
+    },
+    {
+      "path": "places/p02.html",
+      "canonical": "https://gyyi0718.github.io/places/p02.html"
+    },
+    {
+      "path": "places/p03.html",
+      "canonical": "https://gyyi0718.github.io/places/p03.html"
+    },
+    {
+      "path": "places/p04.html",
+      "canonical": "https://gyyi0718.github.io/places/p04.html"
+    },
+    {
+      "path": "places/p05.html",
+      "canonical": "https://gyyi0718.github.io/places/p05.html"
+    },
+    {
+      "path": "places/p06.html",
+      "canonical": "https://gyyi0718.github.io/places/p06.html"
+    },
+    {
+      "path": "places/p07.html",
+      "canonical": "https://gyyi0718.github.io/places/p07.html"
+    },
+    {
+      "path": "places/p08.html",
+      "canonical": "https://gyyi0718.github.io/places/p08.html"
+    },
+    {
+      "path": "places/p09.html",
+      "canonical": "https://gyyi0718.github.io/places/p09.html"
+    },
+    {
+      "path": "places/p10.html",
+      "canonical": "https://gyyi0718.github.io/places/p10.html"
+    },
+    {
+      "path": "places/p11.html",
+      "canonical": "https://gyyi0718.github.io/places/p11.html"
+    },
+    {
+      "path": "places/p12.html",
+      "canonical": "https://gyyi0718.github.io/places/p12.html"
+    },
+    {
+      "path": "places/p13.html",
+      "canonical": "https://gyyi0718.github.io/places/p13.html"
+    },
+    {
+      "path": "places/index.html",
+      "canonical": "https://gyyi0718.github.io/places/"
+    },
+    {
       "path": "index.html",
       "canonical": "https://gyyi0718.github.io/"
     },
@@ -67,6 +123,8 @@
   "nationwide_place_entries": 2189,
   "nationwide_coordinates": 2172,
   "seoul_selected_records": 2699,
+  "place_guide_records": 4478,
+  "place_guide_pages": 13,
   "seoul_address_keys": 13,
   "jeju_dongs": 43,
   "retired_region_pages": 228

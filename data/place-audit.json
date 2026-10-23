@@ -1,0 +1,28 @@
+{
+  "checked": "2026-10-23",
+  "method": "Official HTML table: date, place/address and amount compared; no attendee fields exported",
+  "new_samples": [
+    {
+      "url": "https://opengov.seoul.go.kr/expense/35184942",
+      "row": 54,
+      "date": "2025-12-18",
+      "amount": 450000,
+      "status": "matched"
+    },
+    {
+      "url": "https://opengov.seoul.go.kr/expense/34454112",
+      "row": 10,
+      "date": "2025-09-10",
+      "amount": 499000,
+      "status": "matched"
+    },
+    {
+      "url": "https://opengov.seoul.go.kr/expense/34891345",
+      "row": 1,
+      "date": "2025-11-06",
+      "amount": 490000,
+      "status": "matched"
+    }
+  ],
+  "limitation": "Three non-city institution maximum-amount samples; not all 4478 source rows re-fetched. Existing city maximum check in seoul-department-audit.json."
+}

@@ -19,6 +19,8 @@
     regions.filter(r => !ui.province.value || r.province === ui.province.value).sort((a,b) => a.name.localeCompare(b.name,'ko')).forEach(r => ui.region.append(option(r.slug, r.province + ' · ' + r.name)));
     if ([...ui.region.options].some(o => o.value === previous)) ui.region.value = previous;
   }
+  const placeProfiles = {"브이아이피참치|서울 중구 세종대로22길 16": "p08", "브라주카 그릴|서울 중구 무교로 19": "p05", "곰국시집|서울 중구 무교로 24": "p02", "삼우정|서울 중구 서소문로 134-12": "p10", "브이아이피참치|서울 중구 세종대로11길 42": "p07", "구이구이|서울 중구 을지로 6": "p03", "참숯골|서울 중구 무교로 16": "p13", "브이아이피참치|서울 중구 을지로 16": "p09", "우도일식|서울 중구 세종대로 124": "p12", "브이아이피참치|서울 중구 세종대로 135": "p06", "복성각|서울 중구 덕수궁길 7": "p04", "오리마당|서울 중구 세종대로 92": "p11", "곰국시집|서울 중구 명동10길 19-3": "p01"};
+  function profileLink(item) { const id = item.record_status === "source_linked" && placeProfiles[item.name+"|"+item.address]; return id ? `<a href="/places/${id}.html">주소별 기록·비교 →</a>` : ""; }
   function stateLabel(item) { return item.record_status === 'source_linked' ? '지출 원문 연결' : '보관 장소 정보'; }
   function popup(item) {
     return '<div class="map-popup"><h4>' + esc(item.name) + '</h4><p>' + esc(item.address || '주소 정보 없음') + '</p><p>' + esc(item.province + ' · ' + item.regionName + ' 자료 / ' + item.category) + '</p><p>' + stateLabel(item) + ' · 위치·영업 재확인 필요</p><a href="' + esc(searchURL(item)) + '" target="_blank" rel="noopener noreferrer">카카오맵에서 확인 ↗</a>' + (item.sources ? '<p><a href="' + esc(item.sources[0].url) + '" target="_blank" rel="noopener noreferrer">서울시 지출 원문 ↗</a></p>' : '') + '</div>';
@@ -60,7 +62,7 @@
   function renderList() {
     const max = Math.max(1, Math.ceil(filtered.length/pageSize));
     page = Math.min(page,max-1);
-    ui.results.innerHTML = filtered.length ? filtered.slice(page*pageSize,(page+1)*pageSize).map(item => '<section class="place-card"><span class="place-category">'+esc(item.province+' · '+item.regionName+' 자료 / '+item.category)+'</span><h4>'+esc(item.name)+'</h4><p>'+esc(item.address||'주소 정보 없음')+'</p><span class="place-state '+(item.sources?'source-linked':'')+'">'+stateLabel(item)+'</span><div class="place-actions">'+(item.coordinates?'<button type="button" data-place="'+esc(item.id)+'">지도에서 보기</button>':'<span>보관 좌표 없음</span>')+'<a target="_blank" rel="noopener noreferrer" href="'+esc(searchURL(item))+'">카카오맵 ↗</a>'+(item.sources?'<a target="_blank" rel="noopener noreferrer" href="'+esc(item.sources[0].url)+'">지출 원문 ↗</a>':'')+'</div></section>').join('') : '<p class="map-empty">조건에 맞는 장소가 없습니다. 검색어를 줄이거나 전국 전체 보기를 눌러 주세요.</p>';
+    ui.results.innerHTML = filtered.length ? filtered.slice(page*pageSize,(page+1)*pageSize).map(item => '<section class="place-card"><span class="place-category">'+esc(item.province+' · '+item.regionName+' 자료 / '+item.category)+'</span><h4>'+esc(item.name)+'</h4><p>'+esc(item.address||'주소 정보 없음')+'</p><span class="place-state '+(item.sources?'source-linked':'')+'">'+stateLabel(item)+'</span><div class="place-actions">'+(item.coordinates?'<button type="button" data-place="'+esc(item.id)+'">지도에서 보기</button>':'<span>보관 좌표 없음</span>')+'<a target="_blank" rel="noopener noreferrer" href="'+esc(searchURL(item))+'">카카오맵 ↗</a>'+(item.sources?'<a target="_blank" rel="noopener noreferrer" href="'+esc(item.sources[0].url)+'">지출 원문 ↗</a>':'')+profileLink(item)+'</div></section>').join('') : '<p class="map-empty">조건에 맞는 장소가 없습니다. 검색어를 줄이거나 전국 전체 보기를 눌러 주세요.</p>';
     ui.page.textContent = (page+1)+' / '+max;
     ui.prev.disabled = !page;
     ui.next.disabled = page+1>=max;

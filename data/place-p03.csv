@@ -1,0 +1,514 @@
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
+opengov:32793717,1,https://opengov.seoul.go.kr/expense/32793717,2025-01-02,seoul_city,홍보기획관 민원담당관,구이구이,서울 중구 을지로 6,81000,p03
+opengov:32764521,3,https://opengov.seoul.go.kr/expense/32764521,2025-01-06,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,122000,p03
+opengov:32792955,33,https://opengov.seoul.go.kr/expense/32792955,2025-01-06,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,80000,p03
+opengov:32793491,6,https://opengov.seoul.go.kr/expense/32793491,2025-01-07,seoul_city,기획조정실 예산담당관,구이구이,서울 중구 을지로 6,134000,p03
+opengov:32755475,7,https://opengov.seoul.go.kr/expense/32755475,2025-01-08,seoul_city,주택실 주택정책관 주거환경개선과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:32743305,5,https://opengov.seoul.go.kr/expense/32743305,2025-01-09,seoul_council,서울특별시의회사무처 법제담당관,구이구이,서울 중구 을지로 6,163000,p03
+opengov:32743329,2,https://opengov.seoul.go.kr/expense/32743329,2025-01-09,seoul_city,평생교육국 평생교육과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:32765863,2,https://opengov.seoul.go.kr/expense/32765863,2025-01-09,seoul_city,복지실 1인가구지원과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:32743354,3,https://opengov.seoul.go.kr/expense/32743354,2025-01-10,seoul_office,서울도서관지식문화과,구이구이,서울 중구 을지로 6,204000,p03
+opengov:32765830,5,https://opengov.seoul.go.kr/expense/32765830,2025-01-10,seoul_city,건설기술정책관 건설혁신담당관,구이구이,서울 중구 을지로 6,129000,p03
+opengov:32793753,14,https://opengov.seoul.go.kr/expense/32793753,2025-01-10,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,142000,p03
+opengov:32775019,2,https://opengov.seoul.go.kr/expense/32775019,2025-01-13,seoul_city,디지털도시국 정보시스템과,구이구이,서울 중구 을지로 6,122000,p03
+opengov:32784056,7,https://opengov.seoul.go.kr/expense/32784056,2025-01-14,seoul_council,서울특별시의회사무처 현장민원담당관,구이구이,서울 중구 을지로 6,168000,p03
+opengov:32773765,10,https://opengov.seoul.go.kr/expense/32773765,2025-01-16,seoul_city,홍보기획관 콘텐츠담당관,구이구이,서울 중구 을지로 6,95000,p03
+opengov:32782820,22,https://opengov.seoul.go.kr/expense/32782820,2025-01-16,seoul_council,의정담당관,구이구이,서울 중구 을지로 6,83000,p03
+opengov:32793676,8,https://opengov.seoul.go.kr/expense/32793676,2025-01-16,seoul_city,교통실 도시철도과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:32773773,20,https://opengov.seoul.go.kr/expense/32773773,2025-01-17,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,108000,p03
+opengov:32754056,13,https://opengov.seoul.go.kr/expense/32754056,2025-01-20,seoul_city,행정국 대외협력과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:32793665,20,https://opengov.seoul.go.kr/expense/32793665,2025-01-20,seoul_city,문화본부 문화정책과,구이구이,서울 중구 을지로 6,127000,p03
+opengov:32793770,46,https://opengov.seoul.go.kr/expense/32793770,2025-01-20,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,100000,p03
+opengov:32804034,6,https://opengov.seoul.go.kr/expense/32804034,2025-01-20,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,128000,p03
+opengov:32755472,12,https://opengov.seoul.go.kr/expense/32755472,2025-01-21,seoul_city,복지실 돌봄복지과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:32765876,8,https://opengov.seoul.go.kr/expense/32765876,2025-01-22,seoul_city,기후환경본부 대기정책과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:32743389,18,https://opengov.seoul.go.kr/expense/32743389,2025-01-23,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,133000,p03
+opengov:32743389,19,https://opengov.seoul.go.kr/expense/32743389,2025-01-23,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,99000,p03
+opengov:32792579,8,https://opengov.seoul.go.kr/expense/32792579,2025-01-23,seoul_city,행정국 평화기반조성과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:32792955,220,https://opengov.seoul.go.kr/expense/32792955,2025-01-23,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,125000,p03
+opengov:32793465,6,https://opengov.seoul.go.kr/expense/32793465,2025-01-23,seoul_city,시민건강국 감염병관리과,구이구이,서울 중구 을지로 6,135000,p03
+opengov:32755470,73,https://opengov.seoul.go.kr/expense/32755470,2025-01-24,seoul_city,기획조정실 기획담당관,구이구이,서울 중구 을지로 6,208000,p03
+opengov:32765842,8,https://opengov.seoul.go.kr/expense/32765842,2025-01-31,seoul_city,시민건강국 스마트건강과,구이구이,서울 중구 을지로 6,98000,p03
+opengov:32939969,1,https://opengov.seoul.go.kr/expense/32939969,2025-02-03,seoul_city,디자인정책관 디자인정책담당관,구이구이,서울 중구 을지로 6,134000,p03
+opengov:32939977,1,https://opengov.seoul.go.kr/expense/32939977,2025-02-03,seoul_city,미래청년기획관 청년사업담당관,구이구이,서울 중구 을지로 6,106000,p03
+opengov:32952928,2,https://opengov.seoul.go.kr/expense/32952928,2025-02-03,seoul_city,건축기획과,구이구이,서울 중구 을지로 6,110000,p03
+opengov:32941254,1,https://opengov.seoul.go.kr/expense/32941254,2025-02-04,seoul_city,디지털도시국 정보시스템과,구이구이,서울 중구 을지로 6,99000,p03
+opengov:32963655,1,https://opengov.seoul.go.kr/expense/32963655,2025-02-04,seoul_city,행정국 평화기반조성과,구이구이,서울 중구 을지로 6,98000,p03
+opengov:32985682,2,https://opengov.seoul.go.kr/expense/32985682,2025-02-04,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,135000,p03
+opengov:32940303,2,https://opengov.seoul.go.kr/expense/32940303,2025-02-05,seoul_city,주택실 건축기획관 공동주택과,구이구이,서울 중구 을지로 6,72000,p03
+opengov:32985669,8,https://opengov.seoul.go.kr/expense/32985669,2025-02-06,seoul_city,도시공간본부 도시공간전략과,구이구이,서울 중구 을지로 6,324000,p03
+opengov:32985644,24,https://opengov.seoul.go.kr/expense/32985644,2025-02-07,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,109000,p03
+opengov:32951607,6,https://opengov.seoul.go.kr/expense/32951607,2025-02-11,seoul_city,복지실 돌봄고독정책관,구이구이,서울 중구 을지로 6,286000,p03
+opengov:32985439,8,https://opengov.seoul.go.kr/expense/32985439,2025-02-11,seoul_city,관광체육국 체육정책과,구이구이,서울 중구 을지로 6,67000,p03
+opengov:32996725,10,https://opengov.seoul.go.kr/expense/32996725,2025-02-11,seoul_city,주택실 주택정책과,구이구이,서울 중구 을지로 6,200000,p03
+opengov:32941256,9,https://opengov.seoul.go.kr/expense/32941256,2025-02-12,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,95000,p03
+opengov:32985689,26,https://opengov.seoul.go.kr/expense/32985689,2025-02-12,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:32962293,10,https://opengov.seoul.go.kr/expense/32962293,2025-02-13,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,93000,p03
+opengov:32983269,133,https://opengov.seoul.go.kr/expense/32983269,2025-02-14,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,250000,p03
+opengov:32939968,10,https://opengov.seoul.go.kr/expense/32939968,2025-02-17,seoul_council,재정분석담당관,구이구이,서울 중구 을지로 6,82000,p03
+opengov:32939990,8,https://opengov.seoul.go.kr/expense/32939990,2025-02-17,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,164000,p03
+opengov:32939969,26,https://opengov.seoul.go.kr/expense/32939969,2025-02-18,seoul_city,디자인정책관 디자인정책담당관,구이구이,서울 중구 을지로 6,57000,p03
+opengov:32962305,25,https://opengov.seoul.go.kr/expense/32962305,2025-02-18,seoul_city,기획조정실 예산담당관,구이구이,서울 중구 을지로 6,92000,p03
+opengov:32939969,28,https://opengov.seoul.go.kr/expense/32939969,2025-02-19,seoul_city,디자인정책관 디자인정책담당관,구이구이,서울 중구 을지로 6,92000,p03
+opengov:32985432,7,https://opengov.seoul.go.kr/expense/32985432,2025-02-21,seoul_office,서북병원 간호부,구이구이,서울 중구 을지로 6,156000,p03
+opengov:32985441,22,https://opengov.seoul.go.kr/expense/32985441,2025-02-21,seoul_fire,소방재난본부 소방행정과,구이구이,서울 중구 을지로 6,57000,p03
+opengov:32985682,36,https://opengov.seoul.go.kr/expense/32985682,2025-02-21,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,127000,p03
+opengov:32985426,13,https://opengov.seoul.go.kr/expense/32985426,2025-02-25,seoul_city,교통실 도시철도과,구이구이,서울 중구 을지로 6,135000,p03
+opengov:32926854,13,https://opengov.seoul.go.kr/expense/32926854,2025-02-26,seoul_city,문화본부 박물관과,구이구이,서울 중구 을지로 6,124000,p03
+opengov:32941236,16,https://opengov.seoul.go.kr/expense/32941236,2025-02-26,seoul_city,기후환경본부 녹색에너지과,구이구이,서울 중구 을지로 6,143000,p03
+opengov:32952952,8,https://opengov.seoul.go.kr/expense/32952952,2025-02-27,seoul_city,시민건강국 스마트건강과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:33209071,22,https://opengov.seoul.go.kr/expense/33209071,2025-03-05,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,39000,p03
+opengov:33229607,2,https://opengov.seoul.go.kr/expense/33229607,2025-03-05,seoul_city,기후환경본부 친환경차량과,구이구이,서울 중구 을지로 6,134000,p03
+opengov:33239280,3,https://opengov.seoul.go.kr/expense/33239280,2025-03-05,seoul_city,정원도시국 정원도시정책과,구이구이,서울 중구 을지로 6,108000,p03
+opengov:33177855,5,https://opengov.seoul.go.kr/expense/33177855,2025-03-06,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,98000,p03
+opengov:33199455,1,https://opengov.seoul.go.kr/expense/33199455,2025-03-07,seoul_council,서울특별시의회사무처 법제담당관,구이구이,서울 중구 을지로 6,141000,p03
+opengov:33229623,11,https://opengov.seoul.go.kr/expense/33229623,2025-03-07,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:33188819,12,https://opengov.seoul.go.kr/expense/33188819,2025-03-10,seoul_city,자치경찰위원회 자치경찰총괄과,구이구이,서울 중구 을지로 6,158000,p03
+opengov:33199346,4,https://opengov.seoul.go.kr/expense/33199346,2025-03-10,seoul_city,문화본부 문화정책과,구이구이,서울 중구 을지로 6,112000,p03
+opengov:33229608,5,https://opengov.seoul.go.kr/expense/33229608,2025-03-10,seoul_city,복지실 돌봄복지과,구이구이,서울 중구 을지로 6,108000,p03
+opengov:33152550,11,https://opengov.seoul.go.kr/expense/33152550,2025-03-11,seoul_council,재정분석담당관,구이구이,서울 중구 을지로 6,82000,p03
+opengov:33188816,21,https://opengov.seoul.go.kr/expense/33188816,2025-03-11,seoul_city,기획조정실 기획담당관,구이구이,서울 중구 을지로 6,103000,p03
+opengov:33199446,43,https://opengov.seoul.go.kr/expense/33199446,2025-03-11,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,176000,p03
+opengov:33220325,7,https://opengov.seoul.go.kr/expense/33220325,2025-03-11,seoul_council,의회사무처 의사담당관,구이구이,서울 중구 을지로 6,67000,p03
+opengov:33199449,6,https://opengov.seoul.go.kr/expense/33199449,2025-03-17,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,109000,p03
+opengov:33229623,38,https://opengov.seoul.go.kr/expense/33229623,2025-03-17,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,123000,p03
+opengov:33153767,24,https://opengov.seoul.go.kr/expense/33153767,2025-03-18,seoul_city,행정국 총무과(서울특별시장),구이구이,서울 중구 을지로 6,73000,p03
+opengov:33177855,20,https://opengov.seoul.go.kr/expense/33177855,2025-03-18,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,59000,p03
+opengov:33229581,6,https://opengov.seoul.go.kr/expense/33229581,2025-03-18,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,118000,p03
+opengov:33405351,19,https://opengov.seoul.go.kr/expense/33405351,2025-03-18,seoul_fire,소방재난본부 소방행정과,구이구이,서울 중구 을지로 6,76000,p03
+opengov:33128592,8,https://opengov.seoul.go.kr/expense/33128592,2025-03-19,seoul_city,교통실 보행자전거과,구이구이,서울 중구 을지로 6,68000,p03
+opengov:33128592,9,https://opengov.seoul.go.kr/expense/33128592,2025-03-20,seoul_city,교통실 보행자전거과,구이구이,서울 중구 을지로 6,114000,p03
+opengov:33152559,28,https://opengov.seoul.go.kr/expense/33152559,2025-03-21,seoul_city,디자인정책관 디자인정책담당관,구이구이,서울 중구 을지로 6,67000,p03
+opengov:33153767,29,https://opengov.seoul.go.kr/expense/33153767,2025-03-21,seoul_city,행정국 총무과(서울특별시장),구이구이,서울 중구 을지로 6,82000,p03
+opengov:33199473,13,https://opengov.seoul.go.kr/expense/33199473,2025-03-21,seoul_city,버스정책과,구이구이,서울 중구 을지로 6,149000,p03
+opengov:33209071,163,https://opengov.seoul.go.kr/expense/33209071,2025-03-21,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,62000,p03
+opengov:33188819,33,https://opengov.seoul.go.kr/expense/33188819,2025-03-25,seoul_city,자치경찰위원회 자치경찰총괄과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:33220314,7,https://opengov.seoul.go.kr/expense/33220314,2025-03-26,seoul_city,물순환안전국 물재생계획과,구이구이,서울 중구 을지로 6,115000,p03
+opengov:33152588,12,https://opengov.seoul.go.kr/expense/33152588,2025-03-27,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,161000,p03
+opengov:33416493,1,https://opengov.seoul.go.kr/expense/33416493,2025-04-01,seoul_council,의정담당관,구이구이,서울 중구 을지로 6,189000,p03
+opengov:33383881,2,https://opengov.seoul.go.kr/expense/33383881,2025-04-02,seoul_city,복지실 장애인자립지원과,구이구이,서울 중구 을지로 6,113000,p03
+opengov:33382610,1,https://opengov.seoul.go.kr/expense/33382610,2025-04-03,seoul_city,미래청년기획관 청년사업담당관,구이구이,서울 중구 을지로 6,224000,p03
+opengov:33430069,3,https://opengov.seoul.go.kr/expense/33430069,2025-04-03,seoul_city,도시공간본부 도시계획과,구이구이,서울 중구 을지로 6,125000,p03
+opengov:33987660,2,https://opengov.seoul.go.kr/expense/33987660,2025-04-03,seoul_city,평생교육국 청소년정책과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:33430100,14,https://opengov.seoul.go.kr/expense/33430100,2025-04-04,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,80000,p03
+opengov:33383927,7,https://opengov.seoul.go.kr/expense/33383927,2025-04-07,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,122000,p03
+opengov:33405991,3,https://opengov.seoul.go.kr/expense/33405991,2025-04-07,seoul_city,경제실 대학협력과,구이구이,서울 중구 을지로 6,100000,p03
+opengov:33406019,6,https://opengov.seoul.go.kr/expense/33406019,2025-04-07,seoul_city,행정국 시민협력과,구이구이,서울 중구 을지로 6,145000,p03
+opengov:33416493,11,https://opengov.seoul.go.kr/expense/33416493,2025-04-07,seoul_council,의정담당관,구이구이,서울 중구 을지로 6,122000,p03
+opengov:33382580,5,https://opengov.seoul.go.kr/expense/33382580,2025-04-09,seoul_city,민생사법경찰국 안전수사과,구이구이,서울 중구 을지로 6,78000,p03
+opengov:33383881,6,https://opengov.seoul.go.kr/expense/33383881,2025-04-09,seoul_city,복지실 장애인자립지원과,구이구이,서울 중구 을지로 6,132000,p03
+opengov:33404726,94,https://opengov.seoul.go.kr/expense/33404726,2025-04-09,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,197000,p03
+opengov:33430069,7,https://opengov.seoul.go.kr/expense/33430069,2025-04-09,seoul_city,도시공간본부 도시계획과,구이구이,서울 중구 을지로 6,114000,p03
+opengov:33383922,6,https://opengov.seoul.go.kr/expense/33383922,2025-04-10,seoul_city,감사위원회 청렴담당관,구이구이,서울 중구 을지로 6,81000,p03
+opengov:33404726,103,https://opengov.seoul.go.kr/expense/33404726,2025-04-10,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:33404726,105,https://opengov.seoul.go.kr/expense/33404726,2025-04-10,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:33429122,7,https://opengov.seoul.go.kr/expense/33429122,2025-04-10,seoul_city,경제실 첨단산업과,구이구이,서울 중구 을지로 6,103000,p03
+opengov:34233924,7,https://opengov.seoul.go.kr/expense/34233924,2025-04-10,seoul_city,기후환경본부 친환경차량과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:33383929,5,https://opengov.seoul.go.kr/expense/33383929,2025-04-14,seoul_city,기획조정실 공기업담당관,구이구이,서울 중구 을지로 6,84000,p03
+opengov:34233924,10,https://opengov.seoul.go.kr/expense/34233924,2025-04-16,seoul_city,기후환경본부 친환경차량과,구이구이,서울 중구 을지로 6,67000,p03
+opengov:33382568,42,https://opengov.seoul.go.kr/expense/33382568,2025-04-17,seoul_city,교통실 교통정책과,구이구이,서울 중구 을지로 6,80000,p03
+opengov:33406230,25,https://opengov.seoul.go.kr/expense/33406230,2025-04-18,seoul_city,감사위원회 조사담당관,구이구이,서울 중구 을지로 6,98000,p03
+opengov:33417493,17,https://opengov.seoul.go.kr/expense/33417493,2025-04-18,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,73000,p03
+opengov:33417508,77,https://opengov.seoul.go.kr/expense/33417508,2025-04-18,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,174000,p03
+opengov:33392418,20,https://opengov.seoul.go.kr/expense/33392418,2025-04-21,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,64000,p03
+opengov:33392419,7,https://opengov.seoul.go.kr/expense/33392419,2025-04-22,seoul_city,평생교육국 평생교육과,구이구이,서울 중구 을지로 6,117000,p03
+opengov:33383926,8,https://opengov.seoul.go.kr/expense/33383926,2025-04-23,seoul_city,시민건강국 정신건강과,구이구이,서울 중구 을지로 6,126000,p03
+opengov:33406001,41,https://opengov.seoul.go.kr/expense/33406001,2025-04-23,seoul_city,자치경찰위원회 자치경찰총괄과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:33417493,29,https://opengov.seoul.go.kr/expense/33417493,2025-04-24,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,98000,p03
+opengov:33406216,12,https://opengov.seoul.go.kr/expense/33406216,2025-04-25,seoul_city,주택실 재정비촉진과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:33392418,29,https://opengov.seoul.go.kr/expense/33392418,2025-04-28,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,89000,p03
+opengov:33406214,17,https://opengov.seoul.go.kr/expense/33406214,2025-04-28,seoul_city,여성가족실 아동담당관,구이구이,서울 중구 을지로 6,164000,p03
+opengov:33383926,9,https://opengov.seoul.go.kr/expense/33383926,2025-04-29,seoul_city,시민건강국 정신건강과,구이구이,서울 중구 을지로 6,111000,p03
+opengov:33430100,83,https://opengov.seoul.go.kr/expense/33430100,2025-04-30,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,123000,p03
+opengov:33600330,2,https://opengov.seoul.go.kr/expense/33600330,2025-05-01,seoul_city,홍보기획관 홍보담당관,구이구이,서울 중구 을지로 6,78000,p03
+opengov:33624320,6,https://opengov.seoul.go.kr/expense/33624320,2025-05-02,seoul_city,관광체육국 관광정책과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:33575370,1,https://opengov.seoul.go.kr/expense/33575370,2025-05-08,seoul_city,시민건강국 정신건강과,구이구이,서울 중구 을지로 6,110000,p03
+opengov:33635008,4,https://opengov.seoul.go.kr/expense/33635008,2025-05-09,seoul_city,정원도시국 자연생태과,구이구이,서울 중구 을지로 6,148000,p03
+opengov:33600330,22,https://opengov.seoul.go.kr/expense/33600330,2025-05-13,seoul_city,홍보기획관 홍보담당관,구이구이,서울 중구 을지로 6,148000,p03
+opengov:33600585,17,https://opengov.seoul.go.kr/expense/33600585,2025-05-14,seoul_city,자치경찰위원회 자치경찰총괄과,구이구이,서울 중구 을지로 6,106000,p03
+opengov:33624130,90,https://opengov.seoul.go.kr/expense/33624130,2025-05-14,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,139000,p03
+opengov:33635000,5,https://opengov.seoul.go.kr/expense/33635000,2025-05-14,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,87000,p03
+opengov:33636142,28,https://opengov.seoul.go.kr/expense/33636142,2025-05-16,seoul_city,복지실 복지기획관 복지정책과,구이구이,서울 중구 을지로 6,54000,p03
+opengov:33655227,10,https://opengov.seoul.go.kr/expense/33655227,2025-05-16,seoul_city,민생노동국 노동정책과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:33600307,10,https://opengov.seoul.go.kr/expense/33600307,2025-05-19,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,166000,p03
+opengov:33600332,10,https://opengov.seoul.go.kr/expense/33600332,2025-05-20,seoul_city,교통실 도시철도과,구이구이,서울 중구 을지로 6,67000,p03
+opengov:33624334,10,https://opengov.seoul.go.kr/expense/33624334,2025-05-20,seoul_city,재난안전실 재난안전예방과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:33586778,18,https://opengov.seoul.go.kr/expense/33586778,2025-05-21,seoul_city,디자인정책담당관,구이구이,서울 중구 을지로 6,76000,p03
+opengov:33586934,21,https://opengov.seoul.go.kr/expense/33586934,2025-05-21,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,107000,p03
+opengov:33636103,32,https://opengov.seoul.go.kr/expense/33636103,2025-05-21,seoul_city,도시외교담당관,구이구이,서울 중구 을지로 6,219000,p03
+opengov:33611262,12,https://opengov.seoul.go.kr/expense/33611262,2025-05-22,seoul_city,감사위원회 감사담당관,구이구이,서울 중구 을지로 6,119000,p03
+opengov:33600597,12,https://opengov.seoul.go.kr/expense/33600597,2025-05-26,seoul_city,기후환경본부 녹색에너지과,구이구이,서울 중구 을지로 6,124000,p03
+opengov:33635004,6,https://opengov.seoul.go.kr/expense/33635004,2025-05-26,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,113000,p03
+opengov:33586934,27,https://opengov.seoul.go.kr/expense/33586934,2025-05-27,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,61000,p03
+opengov:33624346,36,https://opengov.seoul.go.kr/expense/33624346,2025-05-28,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,169000,p03
+opengov:33574272,10,https://opengov.seoul.go.kr/expense/33574272,2025-05-29,seoul_office,도시기반시설본부 도시철도건축부,구이구이,서울 중구 을지로 6,63000,p03
+opengov:33868357,4,https://opengov.seoul.go.kr/expense/33868357,2025-06-02,seoul_council,운영지원과,구이구이,서울 중구 을지로 6,128000,p03
+opengov:33792062,1,https://opengov.seoul.go.kr/expense/33792062,2025-06-04,seoul_city,경제실 뷰티패션산업과,구이구이,서울 중구 을지로 6,72000,p03
+opengov:33792086,2,https://opengov.seoul.go.kr/expense/33792086,2025-06-04,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,94000,p03
+opengov:33826578,39,https://opengov.seoul.go.kr/expense/33826578,2025-06-05,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,100000,p03
+opengov:33826578,52,https://opengov.seoul.go.kr/expense/33826578,2025-06-09,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,105000,p03
+opengov:33792086,7,https://opengov.seoul.go.kr/expense/33792086,2025-06-10,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,138000,p03
+opengov:33826572,10,https://opengov.seoul.go.kr/expense/33826572,2025-06-10,seoul_city,홍보기획관 홍보담당관,구이구이,서울 중구 을지로 6,92000,p03
+opengov:33857946,14,https://opengov.seoul.go.kr/expense/33857946,2025-06-10,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:33868908,5,https://opengov.seoul.go.kr/expense/33868908,2025-06-10,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,178000,p03
+opengov:33847546,7,https://opengov.seoul.go.kr/expense/33847546,2025-06-13,seoul_city,도시공간본부 도시계획과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:33837554,20,https://opengov.seoul.go.kr/expense/33837554,2025-06-16,seoul_city,도시공간본부 도시공간전략과,구이구이,서울 중구 을지로 6,184000,p03
+opengov:33877271,7,https://opengov.seoul.go.kr/expense/33877271,2025-06-17,seoul_city,복지실 디딤돌소득과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:33804490,4,https://opengov.seoul.go.kr/expense/33804490,2025-06-18,seoul_city,재무국 재산관리과,구이구이,서울 중구 을지로 6,124000,p03
+opengov:33868904,14,https://opengov.seoul.go.kr/expense/33868904,2025-06-18,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,142000,p03
+opengov:33792112,6,https://opengov.seoul.go.kr/expense/33792112,2025-06-19,seoul_city,디지털도시국 정보시스템과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:33868912,39,https://opengov.seoul.go.kr/expense/33868912,2025-06-19,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,110000,p03
+opengov:33825305,14,https://opengov.seoul.go.kr/expense/33825305,2025-06-23,seoul_fire,소방재난본부 소방행정과,구이구이,서울 중구 을지로 6,117000,p03
+opengov:33815699,12,https://opengov.seoul.go.kr/expense/33815699,2025-06-24,seoul_city,주택실 건축기획관 공동주택과,구이구이,서울 중구 을지로 6,99000,p03
+opengov:33837545,8,https://opengov.seoul.go.kr/expense/33837545,2025-06-25,seoul_city,복지실 장애인자립지원과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:33868898,34,https://opengov.seoul.go.kr/expense/33868898,2025-06-25,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,89000,p03
+opengov:33987581,11,https://opengov.seoul.go.kr/expense/33987581,2025-06-26,seoul_city,시민건강국 건강관리과,구이구이,서울 중구 을지로 6,61000,p03
+opengov:33836382,26,https://opengov.seoul.go.kr/expense/33836382,2025-06-27,seoul_city,글로벌도시정책관 외국인이민담당관,구이구이,서울 중구 을지로 6,196000,p03
+opengov:33825294,13,https://opengov.seoul.go.kr/expense/33825294,2025-06-30,seoul_city,도시공간본부 신속통합기획과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:33837490,11,https://opengov.seoul.go.kr/expense/33837490,2025-06-30,seoul_city,재난안전실 중대재해예방과,구이구이,서울 중구 을지로 6,211000,p03
+opengov:34037453,1,https://opengov.seoul.go.kr/expense/34037453,2025-07-01,seoul_city,복지실 고독대응과,구이구이,서울 중구 을지로 6,143000,p03
+opengov:34037603,1,https://opengov.seoul.go.kr/expense/34037603,2025-07-01,seoul_city,외국인이민담당관,구이구이,서울 중구 을지로 6,88000,p03
+opengov:34077510,20,https://opengov.seoul.go.kr/expense/34077510,2025-07-03,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,40000,p03
+opengov:34016223,4,https://opengov.seoul.go.kr/expense/34016223,2025-07-07,seoul_city,시민건강국 정신건강과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:34059225,8,https://opengov.seoul.go.kr/expense/34059225,2025-07-07,seoul_council,운영지원과,구이구이,서울 중구 을지로 6,127000,p03
+opengov:34015209,2,https://opengov.seoul.go.kr/expense/34015209,2025-07-08,seoul_city,문화본부 문화시설과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:34037605,4,https://opengov.seoul.go.kr/expense/34037605,2025-07-08,seoul_city,미래청년기획관 청년사업담당관,구이구이,서울 중구 을지로 6,124000,p03
+opengov:34076407,5,https://opengov.seoul.go.kr/expense/34076407,2025-07-08,seoul_office,서울식물원 기획행정과,구이구이,서울 중구 을지로 6,298500,p03
+opengov:34077540,3,https://opengov.seoul.go.kr/expense/34077540,2025-07-08,seoul_city,평생교육국 평생교육과,구이구이,서울 중구 을지로 6,127000,p03
+opengov:34144634,3,https://opengov.seoul.go.kr/expense/34144634,2025-07-08,seoul_city,재무국 세제과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:34233892,5,https://opengov.seoul.go.kr/expense/34233892,2025-07-09,seoul_city,정원도시국 공원여가사업과,구이구이,서울 중구 을지로 6,90000,p03
+opengov:34034816,11,https://opengov.seoul.go.kr/expense/34034816,2025-07-10,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,134000,p03
+opengov:34037563,5,https://opengov.seoul.go.kr/expense/34037563,2025-07-10,seoul_city,민생노동국 노동정책과,구이구이,서울 중구 을지로 6,60000,p03
+opengov:34067526,15,https://opengov.seoul.go.kr/expense/34067526,2025-07-10,seoul_city,기획조정실 예산담당관,구이구이,서울 중구 을지로 6,136000,p03
+opengov:34025098,16,https://opengov.seoul.go.kr/expense/34025098,2025-07-11,seoul_city,디자인정책담당관,구이구이,서울 중구 을지로 6,67000,p03
+opengov:34257447,32,https://opengov.seoul.go.kr/expense/34257447,2025-07-11,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,166000,p03
+opengov:34025083,29,https://opengov.seoul.go.kr/expense/34025083,2025-07-14,seoul_city,교통실 교통정책과,구이구이,서울 중구 을지로 6,176000,p03
+opengov:34077510,92,https://opengov.seoul.go.kr/expense/34077510,2025-07-14,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,231000,p03
+opengov:34034817,19,https://opengov.seoul.go.kr/expense/34034817,2025-07-16,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:34077510,114,https://opengov.seoul.go.kr/expense/34077510,2025-07-16,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,299000,p03
+opengov:34087190,36,https://opengov.seoul.go.kr/expense/34087190,2025-07-16,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,82000,p03
+opengov:34077507,5,https://opengov.seoul.go.kr/expense/34077507,2025-07-17,seoul_city,복지실 돌봄복지과,구이구이,서울 중구 을지로 6,93000,p03
+opengov:34047857,15,https://opengov.seoul.go.kr/expense/34047857,2025-07-21,seoul_city,여성가족실 저출생담당관,구이구이,서울 중구 을지로 6,64000,p03
+opengov:34086709,27,https://opengov.seoul.go.kr/expense/34086709,2025-07-21,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,144000,p03
+opengov:34077528,27,https://opengov.seoul.go.kr/expense/34077528,2025-07-22,seoul_council,의정국 의사과,구이구이,서울 중구 을지로 6,114000,p03
+opengov:34037550,30,https://opengov.seoul.go.kr/expense/34037550,2025-07-23,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,186000,p03
+opengov:34077510,170,https://opengov.seoul.go.kr/expense/34077510,2025-07-23,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:34077510,179,https://opengov.seoul.go.kr/expense/34077510,2025-07-23,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,100000,p03
+opengov:34086707,22,https://opengov.seoul.go.kr/expense/34086707,2025-07-23,seoul_city,디지털도시국 디지털정책과,구이구이,서울 중구 을지로 6,129000,p03
+opengov:34037592,15,https://opengov.seoul.go.kr/expense/34037592,2025-07-24,seoul_city,문화본부 문화예술과,구이구이,서울 중구 을지로 6,68000,p03
+opengov:34077505,34,https://opengov.seoul.go.kr/expense/34077505,2025-07-25,seoul_city,문화본부 문화정책과,구이구이,서울 중구 을지로 6,257000,p03
+opengov:34087190,59,https://opengov.seoul.go.kr/expense/34087190,2025-07-25,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,39000,p03
+opengov:34123773,34,https://opengov.seoul.go.kr/expense/34123773,2025-07-25,seoul_city,도시외교담당관,구이구이,서울 중구 을지로 6,59000,p03
+opengov:34326161,8,https://opengov.seoul.go.kr/expense/34326161,2025-07-25,seoul_city,재난안전실 도로기획관 지하안전과,구이구이,서울 중구 을지로 6,126000,p03
+opengov:34077510,217,https://opengov.seoul.go.kr/expense/34077510,2025-07-29,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,70000,p03
+opengov:34058161,13,https://opengov.seoul.go.kr/expense/34058161,2025-07-30,seoul_city,시민건강국 스마트건강과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:34454133,4,https://opengov.seoul.go.kr/expense/34454133,2025-07-30,seoul_city,기획조정실 규제개선담당관,구이구이,서울 중구 을지로 6,77000,p03
+opengov:34278410,6,https://opengov.seoul.go.kr/expense/34278410,2025-08-06,seoul_city,감사위원회 감사담당관,구이구이,서울 중구 을지로 6,65000,p03
+opengov:34289498,7,https://opengov.seoul.go.kr/expense/34289498,2025-08-06,seoul_city,기획조정실 정책기획관 조직담당관,구이구이,서울 중구 을지로 6,124000,p03
+opengov:34289484,35,https://opengov.seoul.go.kr/expense/34289484,2025-08-07,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,90000,p03
+opengov:34221050,14,https://opengov.seoul.go.kr/expense/34221050,2025-08-12,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,147000,p03
+opengov:34278436,4,https://opengov.seoul.go.kr/expense/34278436,2025-08-14,seoul_city,시민건강국 감염병관리과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:34299620,7,https://opengov.seoul.go.kr/expense/34299620,2025-08-14,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,80000,p03
+opengov:34220898,19,https://opengov.seoul.go.kr/expense/34220898,2025-08-18,seoul_city,디자인정책담당관,구이구이,서울 중구 을지로 6,111000,p03
+opengov:34221050,17,https://opengov.seoul.go.kr/expense/34221050,2025-08-18,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,104000,p03
+opengov:34266460,13,https://opengov.seoul.go.kr/expense/34266460,2025-08-19,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,87000,p03
+opengov:34289510,6,https://opengov.seoul.go.kr/expense/34289510,2025-08-19,seoul_city,평생교육국 평생교육과,구이구이,서울 중구 을지로 6,92000,p03
+opengov:34299647,10,https://opengov.seoul.go.kr/expense/34299647,2025-08-19,seoul_city,기획조정실 재정담당관,구이구이,서울 중구 을지로 6,67000,p03
+opengov:34243931,17,https://opengov.seoul.go.kr/expense/34243931,2025-08-20,seoul_council,재정분석과,구이구이,서울 중구 을지로 6,68000,p03
+opengov:34288313,22,https://opengov.seoul.go.kr/expense/34288313,2025-08-20,seoul_city,행정1부시장실,구이구이,서울 중구 을지로 6,113000,p03
+opengov:34278436,8,https://opengov.seoul.go.kr/expense/34278436,2025-08-21,seoul_city,시민건강국 감염병관리과,구이구이,서울 중구 을지로 6,124000,p03
+opengov:34298526,35,https://opengov.seoul.go.kr/expense/34298526,2025-08-21,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,91000,p03
+opengov:34232683,5,https://opengov.seoul.go.kr/expense/34232683,2025-08-22,seoul_city,복지실 장애인자립지원과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:34245182,27,https://opengov.seoul.go.kr/expense/34245182,2025-08-22,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,98000,p03
+opengov:34278398,25,https://opengov.seoul.go.kr/expense/34278398,2025-08-22,seoul_city,외국인이민담당관,구이구이,서울 중구 을지로 6,102000,p03
+opengov:34220922,11,https://opengov.seoul.go.kr/expense/34220922,2025-08-25,seoul_council,교육전문위원실,구이구이,서울 중구 을지로 6,62000,p03
+opengov:34278427,31,https://opengov.seoul.go.kr/expense/34278427,2025-08-25,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,121000,p03
+opengov:34298526,42,https://opengov.seoul.go.kr/expense/34298526,2025-08-25,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,58000,p03
+opengov:34232683,8,https://opengov.seoul.go.kr/expense/34232683,2025-08-27,seoul_city,복지실 장애인자립지원과,구이구이,서울 중구 을지로 6,108000,p03
+opengov:34289526,29,https://opengov.seoul.go.kr/expense/34289526,2025-08-27,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,82000,p03
+opengov:34232719,7,https://opengov.seoul.go.kr/expense/34232719,2025-08-28,seoul_office,서울도서관행정지원과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:34257453,76,https://opengov.seoul.go.kr/expense/34257453,2025-08-29,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,64000,p03
+opengov:34278371,9,https://opengov.seoul.go.kr/expense/34278371,2025-08-29,seoul_city,재난안전실 중대재해예방과,구이구이,서울 중구 을지로 6,99000,p03
+opengov:34288291,30,https://opengov.seoul.go.kr/expense/34288291,2025-08-29,seoul_fire,소방재난본부 소방행정과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:34538172,1,https://opengov.seoul.go.kr/expense/34538172,2025-09-01,seoul_city,경제실 일자리정책과,구이구이,서울 중구 을지로 6,104000,p03
+opengov:34465683,5,https://opengov.seoul.go.kr/expense/34465683,2025-09-02,seoul_city,정원도시국 정원도시정책과,구이구이,서울 중구 을지로 6,76000,p03
+opengov:34467205,5,https://opengov.seoul.go.kr/expense/34467205,2025-09-05,seoul_city,디자인정책관 도시경관담당관,구이구이,서울 중구 을지로 6,62000,p03
+opengov:34483852,4,https://opengov.seoul.go.kr/expense/34483852,2025-09-05,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,68000,p03
+opengov:34481819,6,https://opengov.seoul.go.kr/expense/34481819,2025-09-08,seoul_city,정원도시국 공원조성과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:34483996,58,https://opengov.seoul.go.kr/expense/34483996,2025-09-08,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,81000,p03
+opengov:34495693,8,https://opengov.seoul.go.kr/expense/34495693,2025-09-08,seoul_city,자치경찰위원회 자치경찰협력과,구이구이,서울 중구 을지로 6,62000,p03
+opengov:34495699,8,https://opengov.seoul.go.kr/expense/34495699,2025-09-08,seoul_city,비상기획관 민방위담당관,구이구이,서울 중구 을지로 6,41000,p03
+opengov:34483947,3,https://opengov.seoul.go.kr/expense/34483947,2025-09-09,seoul_city,재난안전실 재난안전예방과,구이구이,서울 중구 을지로 6,80000,p03
+opengov:34465647,6,https://opengov.seoul.go.kr/expense/34465647,2025-09-10,seoul_city,교통실 보행자전거과,구이구이,서울 중구 을지로 6,70000,p03
+opengov:34467205,10,https://opengov.seoul.go.kr/expense/34467205,2025-09-11,seoul_city,디자인정책관 도시경관담당관,구이구이,서울 중구 을지로 6,68000,p03
+opengov:34483821,26,https://opengov.seoul.go.kr/expense/34483821,2025-09-11,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:34484007,12,https://opengov.seoul.go.kr/expense/34484007,2025-09-15,seoul_council,의정국 의사과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:34484004,35,https://opengov.seoul.go.kr/expense/34484004,2025-09-16,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:34483982,31,https://opengov.seoul.go.kr/expense/34483982,2025-09-17,seoul_city,민생사법경찰국 경제수사과,구이구이,서울 중구 을지로 6,196000,p03
+opengov:34452870,25,https://opengov.seoul.go.kr/expense/34452870,2025-09-18,seoul_council,시의회사무처 의정국 법제과,구이구이,서울 중구 을지로 6,136000,p03
+opengov:34483996,167,https://opengov.seoul.go.kr/expense/34483996,2025-09-18,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,93000,p03
+opengov:34454116,12,https://opengov.seoul.go.kr/expense/34454116,2025-09-22,seoul_city,복지실 디딤돌소득과,구이구이,서울 중구 을지로 6,85000,p03
+opengov:34483844,6,https://opengov.seoul.go.kr/expense/34483844,2025-09-24,seoul_city,디지털도시국 정보시스템과,구이구이,서울 중구 을지로 6,153000,p03
+opengov:34550809,33,https://opengov.seoul.go.kr/expense/34550809,2025-09-24,seoul_city,감사위원회 감사담당관,구이구이,서울 중구 을지로 6,160000,p03
+opengov:34483821,57,https://opengov.seoul.go.kr/expense/34483821,2025-09-25,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:34495690,27,https://opengov.seoul.go.kr/expense/34495690,2025-09-26,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,113000,p03
+opengov:34527904,9,https://opengov.seoul.go.kr/expense/34527904,2025-09-26,seoul_city,물순환안전국 물재생시설과,구이구이,서울 중구 을지로 6,90000,p03
+opengov:34465696,11,https://opengov.seoul.go.kr/expense/34465696,2025-09-29,seoul_city,행정국 대외협력과,구이구이,서울 중구 을지로 6,131000,p03
+opengov:34680973,2,https://opengov.seoul.go.kr/expense/34680973,2025-10-01,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,188000,p03
+opengov:34701400,1,https://opengov.seoul.go.kr/expense/34701400,2025-10-01,seoul_city,행정국 인사과,구이구이,서울 중구 을지로 6,79000,p03
+opengov:34669125,5,https://opengov.seoul.go.kr/expense/34669125,2025-10-14,seoul_city,문화본부 문화예술과,구이구이,서울 중구 을지로 6,114000,p03
+opengov:34701400,6,https://opengov.seoul.go.kr/expense/34701400,2025-10-15,seoul_city,행정국 인사과,구이구이,서울 중구 을지로 6,153000,p03
+opengov:34711295,4,https://opengov.seoul.go.kr/expense/34711295,2025-10-15,seoul_city,기획조정실 정책기획관 법무담당관,구이구이,서울 중구 을지로 6,84000,p03
+opengov:34679738,3,https://opengov.seoul.go.kr/expense/34679738,2025-10-16,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,176000,p03
+opengov:34817832,13,https://opengov.seoul.go.kr/expense/34817832,2025-10-16,seoul_city,외국인이민담당관,구이구이,서울 중구 을지로 6,119000,p03
+opengov:34669113,26,https://opengov.seoul.go.kr/expense/34669113,2025-10-17,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,81000,p03
+opengov:34655493,8,https://opengov.seoul.go.kr/expense/34655493,2025-10-21,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,61000,p03
+opengov:34701379,4,https://opengov.seoul.go.kr/expense/34701379,2025-10-21,seoul_city,평생교육국 평생교육과,구이구이,서울 중구 을지로 6,127000,p03
+opengov:34711327,20,https://opengov.seoul.go.kr/expense/34711327,2025-10-21,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:34701397,5,https://opengov.seoul.go.kr/expense/34701397,2025-10-23,seoul_council,의회사무처 도시안전건설전문위원실,구이구이,서울 중구 을지로 6,196000,p03
+opengov:34711183,21,https://opengov.seoul.go.kr/expense/34711183,2025-10-23,seoul_fire,소방재난본부 소방행정과,구이구이,서울 중구 을지로 6,115000,p03
+opengov:34680950,9,https://opengov.seoul.go.kr/expense/34680950,2025-10-27,seoul_council,환경수자원전문위원실,구이구이,서울 중구 을지로 6,146000,p03
+opengov:34631797,4,https://opengov.seoul.go.kr/expense/34631797,2025-10-28,seoul_city,문화본부 문화시설과,구이구이,서울 중구 을지로 6,98000,p03
+opengov:34679731,10,https://opengov.seoul.go.kr/expense/34679731,2025-10-28,seoul_city,교통실 도시철도과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:34655435,28,https://opengov.seoul.go.kr/expense/34655435,2025-10-30,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:34655493,16,https://opengov.seoul.go.kr/expense/34655493,2025-10-30,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,58000,p03
+opengov:34655625,11,https://opengov.seoul.go.kr/expense/34655625,2025-10-31,seoul_city,정원도시국 공원여가사업과,구이구이,서울 중구 을지로 6,115000,p03
+opengov:34876536,2,https://opengov.seoul.go.kr/expense/34876536,2025-11-03,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,111000,p03
+opengov:34973588,1,https://opengov.seoul.go.kr/expense/34973588,2025-11-03,seoul_city,재난안전실 도로기획관 지하안전과,구이구이,서울 중구 을지로 6,101000,p03
+opengov:34902467,2,https://opengov.seoul.go.kr/expense/34902467,2025-11-06,seoul_city,교통실 보행자전거과,구이구이,서울 중구 을지로 6,116000,p03
+opengov:34952063,2,https://opengov.seoul.go.kr/expense/34952063,2025-11-06,seoul_office,서울식물원 기획행정과,구이구이,서울 중구 을지로 6,107000,p03
+opengov:34963723,5,https://opengov.seoul.go.kr/expense/34963723,2025-11-06,seoul_city,외국인이민담당관,구이구이,서울 중구 을지로 6,93000,p03
+opengov:34963687,13,https://opengov.seoul.go.kr/expense/34963687,2025-11-07,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,97000,p03
+opengov:34963714,8,https://opengov.seoul.go.kr/expense/34963714,2025-11-07,seoul_city,경제실 창조산업기획관 산업입지과,구이구이,서울 중구 을지로 6,99000,p03
+opengov:34876552,7,https://opengov.seoul.go.kr/expense/34876552,2025-11-10,seoul_office,체육시설관리사업소 운영기획과,구이구이,서울 중구 을지로 6,57000,p03
+opengov:34939506,4,https://opengov.seoul.go.kr/expense/34939506,2025-11-11,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,118000,p03
+opengov:34963687,17,https://opengov.seoul.go.kr/expense/34963687,2025-11-11,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,42000,p03
+opengov:34904062,7,https://opengov.seoul.go.kr/expense/34904062,2025-11-12,seoul_city,문화본부 문화예술과,구이구이,서울 중구 을지로 6,81000,p03
+opengov:34963693,10,https://opengov.seoul.go.kr/expense/34963693,2025-11-12,seoul_city,디자인정책관 도시경관담당관,구이구이,서울 중구 을지로 6,67000,p03
+opengov:34904042,29,https://opengov.seoul.go.kr/expense/34904042,2025-11-13,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,42000,p03
+opengov:34891353,10,https://opengov.seoul.go.kr/expense/34891353,2025-11-20,seoul_city,교통실 도시철도과,구이구이,서울 중구 을지로 6,86000,p03
+opengov:34939506,8,https://opengov.seoul.go.kr/expense/34939506,2025-11-20,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,55000,p03
+opengov:34876530,15,https://opengov.seoul.go.kr/expense/34876530,2025-11-21,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,122000,p03
+opengov:34952051,207,https://opengov.seoul.go.kr/expense/34952051,2025-11-25,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,84000,p03
+opengov:34876692,21,https://opengov.seoul.go.kr/expense/34876692,2025-11-27,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,101000,p03
+opengov:34876690,11,https://opengov.seoul.go.kr/expense/34876690,2025-11-28,seoul_city,시민건강국 건강관리과,구이구이,서울 중구 을지로 6,116000,p03
+opengov:35158194,1,https://opengov.seoul.go.kr/expense/35158194,2025-12-01,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,87000,p03
+opengov:35204384,2,https://opengov.seoul.go.kr/expense/35204384,2025-12-02,seoul_city,행정국 시민협력과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:35177679,1,https://opengov.seoul.go.kr/expense/35177679,2025-12-03,seoul_city,홍보기획관 서울브랜드담당관,구이구이,서울 중구 을지로 6,79000,p03
+opengov:35240417,2,https://opengov.seoul.go.kr/expense/35240417,2025-12-03,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,60000,p03
+opengov:35204386,13,https://opengov.seoul.go.kr/expense/35204386,2025-12-04,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,67000,p03
+opengov:35205479,19,https://opengov.seoul.go.kr/expense/35205479,2025-12-10,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,61000,p03
+opengov:35204386,24,https://opengov.seoul.go.kr/expense/35204386,2025-12-11,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,42000,p03
+opengov:35204404,12,https://opengov.seoul.go.kr/expense/35204404,2025-12-11,seoul_office,시립미술관 경영지원부 고객홍보과,구이구이,서울 중구 을지로 6,156000,p03
+opengov:35165356,2,https://opengov.seoul.go.kr/expense/35165356,2025-12-15,seoul_office,도시기반시설본부 도시철도사업부 공정관리과,구이구이,서울 중구 을지로 6,79000,p03
+opengov:35177670,15,https://opengov.seoul.go.kr/expense/35177670,2025-12-16,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,58000,p03
+opengov:35177671,164,https://opengov.seoul.go.kr/expense/35177671,2025-12-16,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,201000,p03
+opengov:35205474,10,https://opengov.seoul.go.kr/expense/35205474,2025-12-16,seoul_city,복지실 고독대응과,구이구이,서울 중구 을지로 6,78000,p03
+opengov:35167282,47,https://opengov.seoul.go.kr/expense/35167282,2025-12-17,seoul_city,기획조정실 기획담당관,구이구이,서울 중구 을지로 6,160000,p03
+opengov:35167293,8,https://opengov.seoul.go.kr/expense/35167293,2025-12-17,seoul_city,시민건강국 스마트건강과,구이구이,서울 중구 을지로 6,200000,p03
+opengov:35204384,9,https://opengov.seoul.go.kr/expense/35204384,2025-12-17,seoul_city,행정국 시민협력과,구이구이,서울 중구 을지로 6,76000,p03
+opengov:35214366,3,https://opengov.seoul.go.kr/expense/35214366,2025-12-17,seoul_council,예산결산특별전문위원실,구이구이,서울 중구 을지로 6,211000,p03
+opengov:35177670,22,https://opengov.seoul.go.kr/expense/35177670,2025-12-19,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,146000,p03
+opengov:35177671,219,https://opengov.seoul.go.kr/expense/35177671,2025-12-22,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,39000,p03
+opengov:35204422,30,https://opengov.seoul.go.kr/expense/35204422,2025-12-22,seoul_city,기획조정실 정책기획관 조직담당관,구이구이,서울 중구 을지로 6,98000,p03
+opengov:35205469,26,https://opengov.seoul.go.kr/expense/35205469,2025-12-22,seoul_city,기획조정실 예산담당관,구이구이,서울 중구 을지로 6,154000,p03
+opengov:35204384,18,https://opengov.seoul.go.kr/expense/35204384,2025-12-26,seoul_city,행정국 시민협력과,구이구이,서울 중구 을지로 6,82000,p03
+opengov:35205439,16,https://opengov.seoul.go.kr/expense/35205439,2025-12-29,seoul_council,기획경제위원회,구이구이,서울 중구 을지로 6,189000,p03
+opengov:35410367,18,https://opengov.seoul.go.kr/expense/35410367,2025-12-29,seoul_office,서울식물원 기획행정과,구이구이,서울 중구 을지로 6,202000,p03
+opengov:35205479,59,https://opengov.seoul.go.kr/expense/35205479,2025-12-30,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,193000,p03
+opengov:35214366,13,https://opengov.seoul.go.kr/expense/35214366,2025-12-30,seoul_council,예산결산특별전문위원실,구이구이,서울 중구 을지로 6,490000,p03
+opengov:35177671,306,https://opengov.seoul.go.kr/expense/35177671,2025-12-31,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,263000,p03
+opengov:35205492,38,https://opengov.seoul.go.kr/expense/35205492,2025-12-31,seoul_city,재난안전실 도로기획관 도로관리과,구이구이,서울 중구 을지로 6,203000,p03
+opengov:35357549,2,https://opengov.seoul.go.kr/expense/35357549,2026-01-06,seoul_city,여성가족실 아동담당관,구이구이,서울 중구 을지로 6,106000,p03
+opengov:35378904,2,https://opengov.seoul.go.kr/expense/35378904,2026-01-07,seoul_city,복지실 1인가구지원과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:35388713,1,https://opengov.seoul.go.kr/expense/35388713,2026-01-07,seoul_city,재무국 세무과,구이구이,서울 중구 을지로 6,51000,p03
+opengov:35399571,3,https://opengov.seoul.go.kr/expense/35399571,2026-01-07,seoul_city,문화본부 문화유산보존과,구이구이,서울 중구 을지로 6,51000,p03
+opengov:35421580,1,https://opengov.seoul.go.kr/expense/35421580,2026-01-07,seoul_city,복지실 돌봄복지과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:35398243,13,https://opengov.seoul.go.kr/expense/35398243,2026-01-08,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,94000,p03
+opengov:35388714,3,https://opengov.seoul.go.kr/expense/35388714,2026-01-09,seoul_city,관광체육국 관광산업과,구이구이,서울 중구 을지로 6,162000,p03
+opengov:35398228,5,https://opengov.seoul.go.kr/expense/35398228,2026-01-09,seoul_city,디지털도시국 정보시스템과,구이구이,서울 중구 을지로 6,126000,p03
+opengov:35398243,17,https://opengov.seoul.go.kr/expense/35398243,2026-01-09,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,169000,p03
+opengov:35369470,29,https://opengov.seoul.go.kr/expense/35369470,2026-01-12,seoul_city,기획조정실 기획담당관,구이구이,서울 중구 을지로 6,175000,p03
+opengov:35408997,7,https://opengov.seoul.go.kr/expense/35408997,2026-01-12,seoul_city,재난안전실 도로기획관 지하안전과,구이구이,서울 중구 을지로 6,101000,p03
+opengov:35434650,11,https://opengov.seoul.go.kr/expense/35434650,2026-01-12,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,200000,p03
+opengov:36229365,2,https://opengov.seoul.go.kr/expense/36229365,2026-01-12,seoul_city,균형발전본부 동남권사업과,구이구이,서울 중구 을지로 6,115000,p03
+opengov:35380356,15,https://opengov.seoul.go.kr/expense/35380356,2026-01-13,seoul_city,관광체육국 관광정책과,구이구이,서울 중구 을지로 6,101000,p03
+opengov:35420388,3,https://opengov.seoul.go.kr/expense/35420388,2026-01-13,seoul_city,평생교육국 평생교육과,구이구이,서울 중구 을지로 6,121000,p03
+opengov:35357537,17,https://opengov.seoul.go.kr/expense/35357537,2026-01-14,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:35357653,3,https://opengov.seoul.go.kr/expense/35357653,2026-01-14,seoul_city,재무국 재산관리과,구이구이,서울 중구 을지로 6,126000,p03
+opengov:35421608,3,https://opengov.seoul.go.kr/expense/35421608,2026-01-14,seoul_city,경제실 대학협력과,구이구이,서울 중구 을지로 6,79000,p03
+opengov:35389954,14,https://opengov.seoul.go.kr/expense/35389954,2026-01-16,seoul_city,디지털도시국 디지털정책과,구이구이,서울 중구 을지로 6,108000,p03
+opengov:35398221,124,https://opengov.seoul.go.kr/expense/35398221,2026-01-16,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,129000,p03
+opengov:35410374,19,https://opengov.seoul.go.kr/expense/35410374,2026-01-16,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,111000,p03
+opengov:35436052,9,https://opengov.seoul.go.kr/expense/35436052,2026-01-16,seoul_city,문화본부 문화유산활용과,구이구이,서울 중구 을지로 6,150000,p03
+opengov:35369464,7,https://opengov.seoul.go.kr/expense/35369464,2026-01-20,seoul_city,기획조정실 규제개선담당관,구이구이,서울 중구 을지로 6,226000,p03
+opengov:35408993,18,https://opengov.seoul.go.kr/expense/35408993,2026-01-20,seoul_city,주택실 임대주택과,구이구이,서울 중구 을지로 6,95000,p03
+opengov:35420389,19,https://opengov.seoul.go.kr/expense/35420389,2026-01-20,seoul_city,기획조정실 예산담당관,구이구이,서울 중구 을지로 6,114000,p03
+opengov:35389931,5,https://opengov.seoul.go.kr/expense/35389931,2026-01-21,seoul_city,38세금징수과,구이구이,서울 중구 을지로 6,166000,p03
+opengov:35369462,15,https://opengov.seoul.go.kr/expense/35369462,2026-01-22,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,138000,p03
+opengov:35420406,12,https://opengov.seoul.go.kr/expense/35420406,2026-01-22,seoul_city,행정국 인사과,구이구이,서울 중구 을지로 6,190000,p03
+opengov:35357577,11,https://opengov.seoul.go.kr/expense/35357577,2026-01-26,seoul_city,재난안전실 교량안전과,구이구이,서울 중구 을지로 6,94000,p03
+opengov:35420402,9,https://opengov.seoul.go.kr/expense/35420402,2026-01-26,seoul_city,홍보기획관 콘텐츠담당관,구이구이,서울 중구 을지로 6,182000,p03
+opengov:35421589,30,https://opengov.seoul.go.kr/expense/35421589,2026-01-26,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,196000,p03
+opengov:35389943,16,https://opengov.seoul.go.kr/expense/35389943,2026-01-29,seoul_city,행정국 시민협력과,구이구이,서울 중구 을지로 6,186000,p03
+opengov:35410323,12,https://opengov.seoul.go.kr/expense/35410323,2026-01-29,seoul_city,재난안전실 중대재해예방과,구이구이,서울 중구 을지로 6,59000,p03
+opengov:35398243,65,https://opengov.seoul.go.kr/expense/35398243,2026-01-30,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,61000,p03
+opengov:35410373,54,https://opengov.seoul.go.kr/expense/35410373,2026-01-30,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,58000,p03
+opengov:35877467,1,https://opengov.seoul.go.kr/expense/35877467,2026-02-02,seoul_city,교통실 버스정책과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:35547915,2,https://opengov.seoul.go.kr/expense/35547915,2026-02-03,seoul_city,시민건강국 식품정책과,구이구이,서울 중구 을지로 6,121000,p03
+opengov:35595076,2,https://opengov.seoul.go.kr/expense/35595076,2026-02-03,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,126000,p03
+opengov:35560801,3,https://opengov.seoul.go.kr/expense/35560801,2026-02-04,seoul_city,복지실 돌봄복지과,구이구이,서울 중구 을지로 6,103000,p03
+opengov:35595205,2,https://opengov.seoul.go.kr/expense/35595205,2026-02-04,seoul_city,재무국 계약심사과,구이구이,서울 중구 을지로 6,188000,p03
+opengov:35605727,4,https://opengov.seoul.go.kr/expense/35605727,2026-02-04,seoul_city,기획조정실 예산담당관,구이구이,서울 중구 을지로 6,132000,p03
+opengov:35595052,22,https://opengov.seoul.go.kr/expense/35595052,2026-02-09,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,164000,p03
+opengov:35583651,2,https://opengov.seoul.go.kr/expense/35583651,2026-02-10,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,88000,p03
+opengov:35595258,4,https://opengov.seoul.go.kr/expense/35595258,2026-02-10,seoul_city,경제실 대학협력과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:35572194,21,https://opengov.seoul.go.kr/expense/35572194,2026-02-11,seoul_city,디자인정책관 디자인정책담당관,구이구이,서울 중구 을지로 6,100000,p03
+opengov:35595236,10,https://opengov.seoul.go.kr/expense/35595236,2026-02-11,seoul_city,주택실 임대주택과,구이구이,서울 중구 을지로 6,118000,p03
+opengov:35548129,7,https://opengov.seoul.go.kr/expense/35548129,2026-02-12,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:35605728,5,https://opengov.seoul.go.kr/expense/35605728,2026-02-12,seoul_city,재난안전실 재난안전예방과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:35548129,11,https://opengov.seoul.go.kr/expense/35548129,2026-02-20,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:35595052,43,https://opengov.seoul.go.kr/expense/35595052,2026-02-20,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,164000,p03
+opengov:35595250,12,https://opengov.seoul.go.kr/expense/35595250,2026-02-23,seoul_office,동부공원여가센터 공원운영과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:35605738,157,https://opengov.seoul.go.kr/expense/35605738,2026-02-23,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,180000,p03
+opengov:35583669,28,https://opengov.seoul.go.kr/expense/35583669,2026-02-25,seoul_fire,소방재난본부 소방행정과,구이구이,서울 중구 을지로 6,132000,p03
+opengov:35606776,8,https://opengov.seoul.go.kr/expense/35606776,2026-02-26,seoul_council,기획경제위원회,구이구이,서울 중구 을지로 6,50000,p03
+opengov:35606793,34,https://opengov.seoul.go.kr/expense/35606793,2026-02-26,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,107000,p03
+opengov:35547927,27,https://opengov.seoul.go.kr/expense/35547927,2026-02-27,seoul_city,기획조정실 조직담당관,구이구이,서울 중구 을지로 6,174000,p03
+opengov:35798917,1,https://opengov.seoul.go.kr/expense/35798917,2026-03-04,seoul_city,시민건강국 감염병관리과,구이구이,서울 중구 을지로 6,138000,p03
+opengov:35845460,10,https://opengov.seoul.go.kr/expense/35845460,2026-03-04,seoul_council,운영지원과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:35824086,3,https://opengov.seoul.go.kr/expense/35824086,2026-03-05,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:35812204,3,https://opengov.seoul.go.kr/expense/35812204,2026-03-06,seoul_city,기획조정실 평가담당관,구이구이,서울 중구 을지로 6,70000,p03
+opengov:35787111,11,https://opengov.seoul.go.kr/expense/35787111,2026-03-09,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:35824072,10,https://opengov.seoul.go.kr/expense/35824072,2026-03-10,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,51000,p03
+opengov:35824072,11,https://opengov.seoul.go.kr/expense/35824072,2026-03-10,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,210000,p03
+opengov:35834086,53,https://opengov.seoul.go.kr/expense/35834086,2026-03-10,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,54000,p03
+opengov:35845454,3,https://opengov.seoul.go.kr/expense/35845454,2026-03-10,seoul_office,서부공원여가센터 공원운영과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:35787138,8,https://opengov.seoul.go.kr/expense/35787138,2026-03-11,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,95000,p03
+opengov:35835449,35,https://opengov.seoul.go.kr/expense/35835449,2026-03-11,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,42000,p03
+opengov:35787122,3,https://opengov.seoul.go.kr/expense/35787122,2026-03-13,seoul_city,첨단산업과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:35824072,17,https://opengov.seoul.go.kr/expense/35824072,2026-03-13,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,168000,p03
+opengov:35855699,51,https://opengov.seoul.go.kr/expense/35855699,2026-03-13,seoul_city,대변인 언론담당관,구이구이,서울 중구 을지로 6,58000,p03
+opengov:35776337,8,https://opengov.seoul.go.kr/expense/35776337,2026-03-16,seoul_city,주택실 전략주택공급과,구이구이,서울 중구 을지로 6,97000,p03
+opengov:35787138,14,https://opengov.seoul.go.kr/expense/35787138,2026-03-16,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,183000,p03
+opengov:35823041,7,https://opengov.seoul.go.kr/expense/35823041,2026-03-16,seoul_city,여성가족실 아동담당관,구이구이,서울 중구 을지로 6,89000,p03
+opengov:35834087,16,https://opengov.seoul.go.kr/expense/35834087,2026-03-16,seoul_office,시립미술관 경영지원부 총무과,구이구이,서울 중구 을지로 6,74000,p03
+opengov:35787107,13,https://opengov.seoul.go.kr/expense/35787107,2026-03-19,seoul_office,서울도서관행정지원과,구이구이,서울 중구 을지로 6,59200,p03
+opengov:35787138,25,https://opengov.seoul.go.kr/expense/35787138,2026-03-23,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:35855699,108,https://opengov.seoul.go.kr/expense/35855699,2026-03-25,seoul_city,대변인 언론담당관,구이구이,서울 중구 을지로 6,95000,p03
+opengov:35775013,3,https://opengov.seoul.go.kr/expense/35775013,2026-03-26,seoul_city,디자인정책관 도시경관담당관,구이구이,서울 중구 을지로 6,89000,p03
+opengov:35788452,15,https://opengov.seoul.go.kr/expense/35788452,2026-03-26,seoul_city,기후환경본부 대기정책과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:35799976,53,https://opengov.seoul.go.kr/expense/35799976,2026-03-26,seoul_city,경제실 경제정책과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:35834086,218,https://opengov.seoul.go.kr/expense/35834086,2026-03-26,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,213000,p03
+opengov:35824066,33,https://opengov.seoul.go.kr/expense/35824066,2026-03-31,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,141000,p03
+opengov:35834109,57,https://opengov.seoul.go.kr/expense/35834109,2026-03-31,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:36042193,5,https://opengov.seoul.go.kr/expense/36042193,2026-04-02,seoul_council,운영지원과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:36048315,10,https://opengov.seoul.go.kr/expense/36048315,2026-04-02,seoul_city,대변인 언론담당관,구이구이,서울 중구 을지로 6,64000,p03
+opengov:36059179,2,https://opengov.seoul.go.kr/expense/36059179,2026-04-02,seoul_city,글로벌도시정책관 외국인이민담당관,구이구이,서울 중구 을지로 6,120000,p03
+opengov:36013010,3,https://opengov.seoul.go.kr/expense/36013010,2026-04-03,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,95000,p03
+opengov:35998671,3,https://opengov.seoul.go.kr/expense/35998671,2026-04-06,seoul_city,기후환경본부 친환경건물과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36013145,2,https://opengov.seoul.go.kr/expense/36013145,2026-04-06,seoul_city,감사위원회 공공감사담당관,구이구이,서울 중구 을지로 6,83000,p03
+opengov:36047169,4,https://opengov.seoul.go.kr/expense/36047169,2026-04-06,seoul_city,경제실 창조산업과,구이구이,서울 중구 을지로 6,109000,p03
+opengov:36037088,3,https://opengov.seoul.go.kr/expense/36037088,2026-04-07,seoul_city,기후환경본부 친환경차량과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:36058328,77,https://opengov.seoul.go.kr/expense/36058328,2026-04-08,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,174000,p03
+opengov:36025200,10,https://opengov.seoul.go.kr/expense/36025200,2026-04-09,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,73000,p03
+opengov:36031960,21,https://opengov.seoul.go.kr/expense/36031960,2026-04-09,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,151000,p03
+opengov:36013010,11,https://opengov.seoul.go.kr/expense/36013010,2026-04-10,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,95000,p03
+opengov:36037116,25,https://opengov.seoul.go.kr/expense/36037116,2026-04-14,seoul_city,도시외교담당관,구이구이,서울 중구 을지로 6,125000,p03
+opengov:36013181,4,https://opengov.seoul.go.kr/expense/36013181,2026-04-15,seoul_council,의회사무처 도시안전건설전문위원실,구이구이,서울 중구 을지로 6,229000,p03
+opengov:36059064,14,https://opengov.seoul.go.kr/expense/36059064,2026-04-15,seoul_city,평생교육국 교육지원정책과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36026819,28,https://opengov.seoul.go.kr/expense/36026819,2026-04-17,seoul_city,주택실 건축기획과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:36031960,44,https://opengov.seoul.go.kr/expense/36031960,2026-04-17,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:36048332,16,https://opengov.seoul.go.kr/expense/36048332,2026-04-17,seoul_city,시민감사옴부즈만위원회,구이구이,서울 중구 을지로 6,136000,p03
+opengov:36058328,178,https://opengov.seoul.go.kr/expense/36058328,2026-04-20,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,107000,p03
+opengov:36010870,9,https://opengov.seoul.go.kr/expense/36010870,2026-04-22,seoul_city,평생교육국 청소년정책과,구이구이,서울 중구 을지로 6,64000,p03
+opengov:36013021,41,https://opengov.seoul.go.kr/expense/36013021,2026-04-22,seoul_city,균형발전본부 균형발전정책과,구이구이,서울 중구 을지로 6,76000,p03
+opengov:36024935,13,https://opengov.seoul.go.kr/expense/36024935,2026-04-22,seoul_council,서울시의회사무처 인사과,구이구이,서울 중구 을지로 6,174000,p03
+opengov:36037096,7,https://opengov.seoul.go.kr/expense/36037096,2026-04-27,seoul_city,시민건강국 공공의료과,구이구이,서울 중구 을지로 6,102000,p03
+opengov:35998769,20,https://opengov.seoul.go.kr/expense/35998769,2026-04-29,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:36025196,5,https://opengov.seoul.go.kr/expense/36025196,2026-04-30,seoul_city,재무국 재산관리과,구이구이,서울 중구 을지로 6,39000,p03
+opengov:36202435,1,https://opengov.seoul.go.kr/expense/36202435,2026-05-04,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,150000,p03
+opengov:36271397,2,https://opengov.seoul.go.kr/expense/36271397,2026-05-04,seoul_council,운영지원과,구이구이,서울 중구 을지로 6,65000,p03
+opengov:36271412,2,https://opengov.seoul.go.kr/expense/36271412,2026-05-04,seoul_city,재무국 재무과,구이구이,서울 중구 을지로 6,134000,p03
+opengov:36216600,5,https://opengov.seoul.go.kr/expense/36216600,2026-05-06,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,139000,p03
+opengov:36593999,1,https://opengov.seoul.go.kr/expense/36593999,2026-05-06,seoul_city,주택실 주택정책과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:36272394,6,https://opengov.seoul.go.kr/expense/36272394,2026-05-07,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,367000,p03
+opengov:36202435,10,https://opengov.seoul.go.kr/expense/36202435,2026-05-12,seoul_city,물순환안전국 수변감성도시과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36371702,3,https://opengov.seoul.go.kr/expense/36371702,2026-05-12,seoul_city,여성가족실 아동담당관,구이구이,서울 중구 을지로 6,74000,p03
+opengov:36202439,8,https://opengov.seoul.go.kr/expense/36202439,2026-05-14,seoul_council,서울시의회사무처 인사과,구이구이,서울 중구 을지로 6,80000,p03
+opengov:36203841,18,https://opengov.seoul.go.kr/expense/36203841,2026-05-18,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,65000,p03
+opengov:36203864,19,https://opengov.seoul.go.kr/expense/36203864,2026-05-18,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,109000,p03
+opengov:36239608,16,https://opengov.seoul.go.kr/expense/36239608,2026-05-19,seoul_city,여성가족실 저출생담당관,구이구이,서울 중구 을지로 6,123000,p03
+opengov:36272394,26,https://opengov.seoul.go.kr/expense/36272394,2026-05-20,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,237000,p03
+opengov:36203710,10,https://opengov.seoul.go.kr/expense/36203710,2026-05-21,seoul_city,재난안전실 교량안전과,구이구이,서울 중구 을지로 6,50000,p03
+opengov:36414577,8,https://opengov.seoul.go.kr/expense/36414577,2026-05-21,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,64000,p03
+opengov:36240392,26,https://opengov.seoul.go.kr/expense/36240392,2026-05-27,seoul_city,주택실 건축기획과,구이구이,서울 중구 을지로 6,85000,p03
+opengov:36261030,9,https://opengov.seoul.go.kr/expense/36261030,2026-05-27,seoul_city,교통실 물류정책과,구이구이,서울 중구 을지로 6,138000,p03
+opengov:36438873,3,https://opengov.seoul.go.kr/expense/36438873,2026-06-01,seoul_city,관광체육국 관광정책과,구이구이,서울 중구 을지로 6,154000,p03
+opengov:36436339,4,https://opengov.seoul.go.kr/expense/36436339,2026-06-04,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,67000,p03
+opengov:36436339,5,https://opengov.seoul.go.kr/expense/36436339,2026-06-04,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,138000,p03
+opengov:36449305,2,https://opengov.seoul.go.kr/expense/36449305,2026-06-04,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36438872,5,https://opengov.seoul.go.kr/expense/36438872,2026-06-05,seoul_city,시민건강국 공공의료과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36554988,1,https://opengov.seoul.go.kr/expense/36554988,2026-06-05,seoul_city,미래공간기획관 용산입체도시담당관,구이구이,서울 중구 을지로 6,115000,p03
+opengov:36449228,5,https://opengov.seoul.go.kr/expense/36449228,2026-06-08,seoul_city,복지실 1인가구지원과,구이구이,서울 중구 을지로 6,38000,p03
+opengov:36512557,16,https://opengov.seoul.go.kr/expense/36512557,2026-06-09,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,352000,p03
+opengov:36426432,10,https://opengov.seoul.go.kr/expense/36426432,2026-06-10,seoul_council,서울시의회사무처 인사과,구이구이,서울 중구 을지로 6,61000,p03
+opengov:36449305,5,https://opengov.seoul.go.kr/expense/36449305,2026-06-10,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:36492733,28,https://opengov.seoul.go.kr/expense/36492733,2026-06-10,seoul_council,운영지원과,구이구이,서울 중구 을지로 6,120000,p03
+opengov:36461640,17,https://opengov.seoul.go.kr/expense/36461640,2026-06-11,seoul_city,교통실 교통정책과,구이구이,서울 중구 을지로 6,119000,p03
+opengov:36426423,4,https://opengov.seoul.go.kr/expense/36426423,2026-06-12,seoul_city,평생교육국 청소년정책과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:36512453,11,https://opengov.seoul.go.kr/expense/36512453,2026-06-15,seoul_city,문화본부 문화유산보존과,구이구이,서울 중구 을지로 6,83000,p03
+opengov:36438877,19,https://opengov.seoul.go.kr/expense/36438877,2026-06-16,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,147000,p03
+opengov:36492738,40,https://opengov.seoul.go.kr/expense/36492738,2026-06-16,seoul_city,행정2부시장실,구이구이,서울 중구 을지로 6,173000,p03
+opengov:36414578,11,https://opengov.seoul.go.kr/expense/36414578,2026-06-17,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,75000,p03
+opengov:36501216,49,https://opengov.seoul.go.kr/expense/36501216,2026-06-17,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,58000,p03
+opengov:36512557,29,https://opengov.seoul.go.kr/expense/36512557,2026-06-17,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,271000,p03
+opengov:36449305,9,https://opengov.seoul.go.kr/expense/36449305,2026-06-18,seoul_city,디지털도시국 공간정보과,구이구이,서울 중구 을지로 6,108000,p03
+opengov:36512557,31,https://opengov.seoul.go.kr/expense/36512557,2026-06-18,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,164000,p03
+opengov:36427694,13,https://opengov.seoul.go.kr/expense/36427694,2026-06-23,seoul_city,감사위원회 공공감사담당관,구이구이,서울 중구 을지로 6,112000,p03
+opengov:36438239,1,https://opengov.seoul.go.kr/expense/36438239,2026-06-23,seoul_city,주택실 부동산정책개발센터,구이구이,서울 중구 을지로 6,92000,p03
+opengov:36492736,48,https://opengov.seoul.go.kr/expense/36492736,2026-06-23,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,93000,p03
+opengov:36502153,29,https://opengov.seoul.go.kr/expense/36502153,2026-06-24,seoul_city,도시외교담당관,구이구이,서울 중구 을지로 6,74000,p03
+opengov:36511486,10,https://opengov.seoul.go.kr/expense/36511486,2026-06-24,seoul_city,경제실 대학협력과,구이구이,서울 중구 을지로 6,81000,p03
+opengov:36449805,41,https://opengov.seoul.go.kr/expense/36449805,2026-06-25,seoul_city,시민건강국 보건의료정책과,구이구이,서울 중구 을지로 6,128000,p03
+opengov:36438877,38,https://opengov.seoul.go.kr/expense/36438877,2026-06-29,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,70000,p03
+opengov:36461522,12,https://opengov.seoul.go.kr/expense/36461522,2026-06-29,seoul_council,교육전문위원실,구이구이,서울 중구 을지로 6,171000,p03
+opengov:36492736,61,https://opengov.seoul.go.kr/expense/36492736,2026-06-29,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,157000,p03
+opengov:36502183,18,https://opengov.seoul.go.kr/expense/36502183,2026-06-30,seoul_office,동부공원여가센터 공원운영과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36706996,7,https://opengov.seoul.go.kr/expense/36706996,2026-07-06,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,133000,p03
+opengov:36668115,6,https://opengov.seoul.go.kr/expense/36668115,2026-07-07,seoul_city,디자인정책관 도시경관담당관,구이구이,서울 중구 을지로 6,69000,p03
+opengov:36707516,6,https://opengov.seoul.go.kr/expense/36707516,2026-07-08,seoul_city,시민건강국 공공의료과,구이구이,서울 중구 을지로 6,96000,p03
+opengov:36697312,17,https://opengov.seoul.go.kr/expense/36697312,2026-07-09,seoul_city,정원도시국 정원도시정책과,구이구이,서울 중구 을지로 6,146000,p03
+opengov:36696427,6,https://opengov.seoul.go.kr/expense/36696427,2026-07-10,seoul_city,교통실 버스정책과,구이구이,서울 중구 을지로 6,63000,p03
+opengov:36707718,33,https://opengov.seoul.go.kr/expense/36707718,2026-07-10,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,357000,p03
+opengov:36686801,15,https://opengov.seoul.go.kr/expense/36686801,2026-07-14,seoul_city,기후환경본부 기후환경정책과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:36697259,35,https://opengov.seoul.go.kr/expense/36697259,2026-07-14,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,60000,p03
+opengov:36697268,14,https://opengov.seoul.go.kr/expense/36697268,2026-07-14,seoul_city,미래공간기획관 미래공간담당관,구이구이,서울 중구 을지로 6,89000,p03
+opengov:36707751,23,https://opengov.seoul.go.kr/expense/36707751,2026-07-15,seoul_city,글로벌도시정책관 외국인이민담당관,구이구이,서울 중구 을지로 6,114000,p03
+opengov:36668086,38,https://opengov.seoul.go.kr/expense/36668086,2026-07-16,seoul_city,기획조정실 기획담당관,구이구이,서울 중구 을지로 6,50000,p03
+opengov:36668115,14,https://opengov.seoul.go.kr/expense/36668115,2026-07-21,seoul_city,디자인정책관 도시경관담당관,구이구이,서울 중구 을지로 6,69000,p03
+opengov:36678333,10,https://opengov.seoul.go.kr/expense/36678333,2026-07-21,seoul_city,여성가족실 아동담당관,구이구이,서울 중구 을지로 6,173000,p03
+opengov:36697259,48,https://opengov.seoul.go.kr/expense/36697259,2026-07-21,seoul_city,재난안전실 재난안전정책과,구이구이,서울 중구 을지로 6,174000,p03
+opengov:36707718,62,https://opengov.seoul.go.kr/expense/36707718,2026-07-22,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,328000,p03
+opengov:36696416,8,https://opengov.seoul.go.kr/expense/36696416,2026-07-23,seoul_city,디자인정책관 디자인산업담당관,구이구이,서울 중구 을지로 6,93000,p03
+opengov:36707718,65,https://opengov.seoul.go.kr/expense/36707718,2026-07-23,seoul_city,정무부시장실,구이구이,서울 중구 을지로 6,156000,p03
+opengov:36716788,5,https://opengov.seoul.go.kr/expense/36716788,2026-07-24,seoul_city,주택실 건축기획관 주거정비과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:36655758,29,https://opengov.seoul.go.kr/expense/36655758,2026-07-27,seoul_city,기획조정실 창의규제담당관,구이구이,서울 중구 을지로 6,58000,p03
+opengov:36706996,44,https://opengov.seoul.go.kr/expense/36706996,2026-07-28,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,50000,p03
+opengov:36655909,32,https://opengov.seoul.go.kr/expense/36655909,2026-07-29,seoul_city,재난안전실 도로기획관 도로계획과,구이구이,서울 중구 을지로 6,89000,p03
+opengov:36687870,46,https://opengov.seoul.go.kr/expense/36687870,2026-07-29,seoul_city,교통실 주차계획과,구이구이,서울 중구 을지로 6,69000,p03
+opengov:36706844,188,https://opengov.seoul.go.kr/expense/36706844,2026-07-29,seoul_city,행정국 총무과,구이구이,서울 중구 을지로 6,131000,p03
+opengov:36857008,1,https://opengov.seoul.go.kr/expense/36857008,2026-08-04,seoul_city,재무국 세무과,구이구이,서울 중구 을지로 6,88000,p03
+opengov:36857009,4,https://opengov.seoul.go.kr/expense/36857009,2026-08-06,seoul_city,시민건강국 식품정책과,구이구이,서울 중구 을지로 6,96000,p03
+opengov:36868539,5,https://opengov.seoul.go.kr/expense/36868539,2026-08-06,seoul_city,시민건강국 공공의료과,구이구이,서울 중구 을지로 6,149000,p03
+opengov:36869660,4,https://opengov.seoul.go.kr/expense/36869660,2026-08-07,seoul_city,글로벌도시정책관 다문화담당관,구이구이,서울 중구 을지로 6,108000,p03
+opengov:36844670,3,https://opengov.seoul.go.kr/expense/36844670,2026-08-10,seoul_city,재난안전실 재난상황관리과,구이구이,서울 중구 을지로 6,188000,p03
+opengov:36856970,8,https://opengov.seoul.go.kr/expense/36856970,2026-08-12,seoul_city,감사위원회 공공감사담당관,구이구이,서울 중구 을지로 6,164000,p03
+opengov:36856956,20,https://opengov.seoul.go.kr/expense/36856956,2026-08-14,seoul_city,문화본부 문화정책과,구이구이,서울 중구 을지로 6,129000,p03
+opengov:36856975,10,https://opengov.seoul.go.kr/expense/36856975,2026-08-18,seoul_city,기후환경본부 대기정책과,구이구이,서울 중구 을지로 6,60000,p03
+opengov:36844661,7,https://opengov.seoul.go.kr/expense/36844661,2026-08-19,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,58000,p03
+opengov:36868554,19,https://opengov.seoul.go.kr/expense/36868554,2026-08-19,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:36868539,9,https://opengov.seoul.go.kr/expense/36868539,2026-08-20,seoul_city,시민건강국 공공의료과,구이구이,서울 중구 을지로 6,64000,p03
+opengov:36868554,24,https://opengov.seoul.go.kr/expense/36868554,2026-08-20,seoul_city,자치경찰위원회 자치경찰운영과,구이구이,서울 중구 을지로 6,44000,p03
+opengov:36844661,15,https://opengov.seoul.go.kr/expense/36844661,2026-08-26,seoul_city,재난안전실 도로기획관 도로시설과,구이구이,서울 중구 을지로 6,55000,p03
+opengov:36868539,14,https://opengov.seoul.go.kr/expense/36868539,2026-08-31,seoul_city,시민건강국 공공의료과,구이구이,서울 중구 을지로 6,69000,p03

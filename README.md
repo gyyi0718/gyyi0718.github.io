@@ -9,4 +9,6 @@ Only the files in this current tree are published. 228 retired regional pages an
 
 Nationwide map: data/nationwide-locations.json preserves all 229 regional datasets and 2,189 place entries from the previous curated catalogue. It omits unverified counts, amounts and rankings; saved coordinates are not current business verification. Home and map.html share tools/map_component.py. Leaflet 1.9.4 is vendored with its license; OpenStreetMap provides attributed background tiles.
 
-Input data: data/nationwide-locations.json, data/seoul-2025-evidence.json and data/jeju-observation.json. Field definitions and source restrictions are in method.html and sources.html. Build is deterministic and does not crawl, publish, or run paid generation.
+Place guide: python3 -B tools/place_records.py /path/to/opengov (read-only source; regenerates separate derived files). Test: python3 -B tools/test_place_records.py /path/to/opengov.
+
+Input data: data/place-records.json, data/nationwide-locations.json, data/seoul-2025-evidence.json and data/jeju-observation.json. Field definitions and source restrictions are in method.html and sources.html. Build is deterministic and does not crawl, publish, or run paid generation.

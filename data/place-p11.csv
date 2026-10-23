@@ -1,0 +1,414 @@
+source_id,parsed_row,source_url,date,organization,department,merchant,address,amount,place_id
+opengov:32743365,7,https://opengov.seoul.go.kr/expense/32743365,2025-01-06,seoul_city,감사위원회 감사담당관,오리마당,서울 중구 세종대로 92,240000,p11
+opengov:32793770,11,https://opengov.seoul.go.kr/expense/32793770,2025-01-07,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,106000,p11
+opengov:32765853,8,https://opengov.seoul.go.kr/expense/32765853,2025-01-08,seoul_city,도시공간본부 도시공간전략과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:32793676,3,https://opengov.seoul.go.kr/expense/32793676,2025-01-08,seoul_city,교통실 도시철도과,오리마당,서울 중구 세종대로 92,105000,p11
+opengov:32793738,5,https://opengov.seoul.go.kr/expense/32793738,2025-01-08,seoul_city,정원도시국 공원여가사업과,오리마당,서울 중구 세종대로 92,76000,p11
+opengov:32743264,4,https://opengov.seoul.go.kr/expense/32743264,2025-01-09,seoul_city,민생노동국 농수산유통과,오리마당,서울 중구 세종대로 92,63000,p11
+opengov:32743356,4,https://opengov.seoul.go.kr/expense/32743356,2025-01-10,seoul_city,경제실 대학협력과,오리마당,서울 중구 세종대로 92,156000,p11
+opengov:32784063,7,https://opengov.seoul.go.kr/expense/32784063,2025-01-10,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,185000,p11
+opengov:32784035,6,https://opengov.seoul.go.kr/expense/32784035,2025-01-13,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,오리마당,서울 중구 세종대로 92,113000,p11
+opengov:32743361,16,https://opengov.seoul.go.kr/expense/32743361,2025-01-14,seoul_city,디자인정책관디자인정책담당관,오리마당,서울 중구 세종대로 92,50000,p11
+opengov:32775009,17,https://opengov.seoul.go.kr/expense/32775009,2025-01-14,seoul_city,행정2부시장실,오리마당,서울 중구 세종대로 92,281000,p11
+opengov:32784063,11,https://opengov.seoul.go.kr/expense/32784063,2025-01-15,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,64000,p11
+opengov:32812985,20,https://opengov.seoul.go.kr/expense/32812985,2025-01-15,seoul_city,정원도시국 정원도시정책과,오리마당,서울 중구 세종대로 92,100000,p11
+opengov:32793738,10,https://opengov.seoul.go.kr/expense/32793738,2025-01-16,seoul_city,정원도시국 공원여가사업과,오리마당,서울 중구 세종대로 92,32000,p11
+opengov:32784034,6,https://opengov.seoul.go.kr/expense/32784034,2025-01-17,seoul_city,경제실 산업입지과,오리마당,서울 중구 세종대로 92,36000,p11
+opengov:32743261,9,https://opengov.seoul.go.kr/expense/32743261,2025-01-20,seoul_council,재정분석담당관,오리마당,서울 중구 세종대로 92,60000,p11
+opengov:32839362,44,https://opengov.seoul.go.kr/expense/32839362,2025-01-20,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,105000,p11
+opengov:32765845,18,https://opengov.seoul.go.kr/expense/32765845,2025-01-21,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,64000,p11
+opengov:32773751,14,https://opengov.seoul.go.kr/expense/32773751,2025-01-21,seoul_city,민생노동국 노동정책과,오리마당,서울 중구 세종대로 92,156000,p11
+opengov:32793525,6,https://opengov.seoul.go.kr/expense/32793525,2025-01-21,seoul_city,교통실 물류정책과,오리마당,서울 중구 세종대로 92,42000,p11
+opengov:32775040,13,https://opengov.seoul.go.kr/expense/32775040,2025-01-22,seoul_council,시의회사무처 도시계획균형전문위원실,오리마당,서울 중구 세종대로 92,206000,p11
+opengov:32784068,30,https://opengov.seoul.go.kr/expense/32784068,2025-01-23,seoul_city,디지털도시국 디지털정책과,오리마당,서울 중구 세종대로 92,162000,p11
+opengov:32765845,24,https://opengov.seoul.go.kr/expense/32765845,2025-01-24,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,150000,p11
+opengov:32839362,56,https://opengov.seoul.go.kr/expense/32839362,2025-01-24,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:32926855,1,https://opengov.seoul.go.kr/expense/32926855,2025-02-03,seoul_city,물순환안전국 치수안전과,오리마당,서울 중구 세종대로 92,48000,p11
+opengov:32941226,1,https://opengov.seoul.go.kr/expense/32941226,2025-02-03,seoul_city,미래공간기획관 도시활력담당관,오리마당,서울 중구 세종대로 92,80000,p11
+opengov:32974362,2,https://opengov.seoul.go.kr/expense/32974362,2025-02-03,seoul_office,은평병원 원무과,오리마당,서울 중구 세종대로 92,210000,p11
+opengov:32985686,1,https://opengov.seoul.go.kr/expense/32985686,2025-02-04,seoul_city,복지실 고독대응과,오리마당,서울 중구 세종대로 92,126000,p11
+opengov:32962308,6,https://opengov.seoul.go.kr/expense/32962308,2025-02-05,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,414000,p11
+opengov:32974373,5,https://opengov.seoul.go.kr/expense/32974373,2025-02-06,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,80000,p11
+opengov:32984592,8,https://opengov.seoul.go.kr/expense/32984592,2025-02-06,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,126000,p11
+opengov:32935340,3,https://opengov.seoul.go.kr/expense/32935340,2025-02-07,seoul_council,보건복지전문위원실,오리마당,서울 중구 세종대로 92,100000,p11
+opengov:32926832,4,https://opengov.seoul.go.kr/expense/32926832,2025-02-10,seoul_city,민생노동국 농수산유통과,오리마당,서울 중구 세종대로 92,35000,p11
+opengov:32985689,19,https://opengov.seoul.go.kr/expense/32985689,2025-02-10,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,54000,p11
+opengov:32907482,4,https://opengov.seoul.go.kr/expense/32907482,2025-02-11,seoul_city,교통실 보행자전거과,오리마당,서울 중구 세종대로 92,80000,p11
+opengov:32941221,4,https://opengov.seoul.go.kr/expense/32941221,2025-02-11,seoul_city,재무국 세무과,오리마당,서울 중구 세종대로 92,169000,p11
+opengov:32951602,5,https://opengov.seoul.go.kr/expense/32951602,2025-02-11,seoul_city,균형발전본부 동북권사업과,오리마당,서울 중구 세종대로 92,166000,p11
+opengov:32952928,11,https://opengov.seoul.go.kr/expense/32952928,2025-02-11,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,74000,p11
+opengov:32985681,14,https://opengov.seoul.go.kr/expense/32985681,2025-02-11,seoul_city,행정1부시장실,오리마당,서울 중구 세종대로 92,350000,p11
+opengov:32952943,5,https://opengov.seoul.go.kr/expense/32952943,2025-02-12,seoul_city,교통실 택시정책과,오리마당,서울 중구 세종대로 92,195000,p11
+opengov:32962308,14,https://opengov.seoul.go.kr/expense/32962308,2025-02-12,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,156000,p11
+opengov:32984592,19,https://opengov.seoul.go.kr/expense/32984592,2025-02-13,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:32985450,7,https://opengov.seoul.go.kr/expense/32985450,2025-02-13,seoul_city,재난안전실 도로기획관 도로시설과,오리마당,서울 중구 세종대로 92,200000,p11
+opengov:32985681,19,https://opengov.seoul.go.kr/expense/32985681,2025-02-14,seoul_city,행정1부시장실,오리마당,서울 중구 세종대로 92,365000,p11
+opengov:32951601,4,https://opengov.seoul.go.kr/expense/32951601,2025-02-17,seoul_city,감사위원회 청렴담당관,오리마당,서울 중구 세종대로 92,113000,p11
+opengov:32940013,7,https://opengov.seoul.go.kr/expense/32940013,2025-02-18,seoul_council,주택공간전문위원실,오리마당,서울 중구 세종대로 92,150000,p11
+opengov:32963674,12,https://opengov.seoul.go.kr/expense/32963674,2025-02-18,seoul_city,시민건강국 식품정책과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:32985435,25,https://opengov.seoul.go.kr/expense/32985435,2025-02-18,seoul_council,의정담당관,오리마당,서울 중구 세종대로 92,250000,p11
+opengov:32985688,25,https://opengov.seoul.go.kr/expense/32985688,2025-02-19,seoul_city,균형발전본부 균형발전정책과,오리마당,서울 중구 세종대로 92,163000,p11
+opengov:32939990,10,https://opengov.seoul.go.kr/expense/32939990,2025-02-20,seoul_city,디지털도시국 공간정보과,오리마당,서울 중구 세종대로 92,132000,p11
+opengov:32974348,13,https://opengov.seoul.go.kr/expense/32974348,2025-02-20,seoul_city,경제실 산업입지과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:32985689,46,https://opengov.seoul.go.kr/expense/32985689,2025-02-20,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:32939988,25,https://opengov.seoul.go.kr/expense/32939988,2025-02-25,seoul_city,비상기획관 민방위담당관,오리마당,서울 중구 세종대로 92,171000,p11
+opengov:32951631,12,https://opengov.seoul.go.kr/expense/32951631,2025-02-25,seoul_city,미래공간기획관 공공개발담당관,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:32963611,14,https://opengov.seoul.go.kr/expense/32963611,2025-02-25,seoul_city,미래공간기획관 미래공간담당관,오리마당,서울 중구 세종대로 92,144000,p11
+opengov:32985681,31,https://opengov.seoul.go.kr/expense/32985681,2025-02-25,seoul_city,행정1부시장실,오리마당,서울 중구 세종대로 92,162000,p11
+opengov:33140859,14,https://opengov.seoul.go.kr/expense/33140859,2025-02-25,seoul_city,미래공간기획관 용산입체도시담당관,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:32952941,10,https://opengov.seoul.go.kr/expense/32952941,2025-02-28,seoul_city,재무국 계약심사과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:33152568,1,https://opengov.seoul.go.kr/expense/33152568,2025-03-04,seoul_city,문화본부 문화시설과,오리마당,서울 중구 세종대로 92,63000,p11
+opengov:33188804,1,https://opengov.seoul.go.kr/expense/33188804,2025-03-04,seoul_city,재무국 38세금징수과,오리마당,서울 중구 세종대로 92,156000,p11
+opengov:33209071,7,https://opengov.seoul.go.kr/expense/33209071,2025-03-04,seoul_city,행정국 총무과,오리마당,서울 중구 세종대로 92,126000,p11
+opengov:33229627,1,https://opengov.seoul.go.kr/expense/33229627,2025-03-04,seoul_city,정원도시국 자연생태과,오리마당,서울 중구 세종대로 92,178000,p11
+opengov:33166341,4,https://opengov.seoul.go.kr/expense/33166341,2025-03-05,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,98000,p11
+opengov:33210229,2,https://opengov.seoul.go.kr/expense/33210229,2025-03-05,seoul_city,재무국 세제과,오리마당,서울 중구 세종대로 92,289000,p11
+opengov:33229598,2,https://opengov.seoul.go.kr/expense/33229598,2025-03-05,seoul_council,의회사무처 도시안전건설전문위원실,오리마당,서울 중구 세종대로 92,83000,p11
+opengov:33229600,3,https://opengov.seoul.go.kr/expense/33229600,2025-03-05,seoul_city,균형발전본부 균형발전정책과,오리마당,서울 중구 세종대로 92,156000,p11
+opengov:33199347,3,https://opengov.seoul.go.kr/expense/33199347,2025-03-07,seoul_city,교통실 도시철도과,오리마당,서울 중구 세종대로 92,121000,p11
+opengov:33177860,7,https://opengov.seoul.go.kr/expense/33177860,2025-03-10,seoul_city,민생노동국 노동정책과,오리마당,서울 중구 세종대로 92,100000,p11
+opengov:33209061,5,https://opengov.seoul.go.kr/expense/33209061,2025-03-10,seoul_city,기후환경본부 친환경건물과,오리마당,서울 중구 세종대로 92,118000,p11
+opengov:33220328,6,https://opengov.seoul.go.kr/expense/33220328,2025-03-10,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,100000,p11
+opengov:33166326,8,https://opengov.seoul.go.kr/expense/33166326,2025-03-11,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,126000,p11
+opengov:33198729,5,https://opengov.seoul.go.kr/expense/33198729,2025-03-11,seoul_city,재무국 계약심사과,오리마당,서울 중구 세종대로 92,96000,p11
+opengov:33199459,3,https://opengov.seoul.go.kr/expense/33199459,2025-03-11,seoul_city,행정국 평화기반조성과,오리마당,서울 중구 세종대로 92,63000,p11
+opengov:33177845,14,https://opengov.seoul.go.kr/expense/33177845,2025-03-12,seoul_city,기획조정실 예산담당관,오리마당,서울 중구 세종대로 92,32000,p11
+opengov:33177872,12,https://opengov.seoul.go.kr/expense/33177872,2025-03-13,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:33210273,6,https://opengov.seoul.go.kr/expense/33210273,2025-03-14,seoul_city,디자인정책관 도시경관담당관,오리마당,서울 중구 세종대로 92,72000,p11
+opengov:33152566,8,https://opengov.seoul.go.kr/expense/33152566,2025-03-17,seoul_city,기획조정실 법률지원담당관,오리마당,서울 중구 세종대로 92,168000,p11
+opengov:33152570,9,https://opengov.seoul.go.kr/expense/33152570,2025-03-17,seoul_city,민생사법경찰국 안전수사과,오리마당,서울 중구 세종대로 92,96000,p11
+opengov:33199357,5,https://opengov.seoul.go.kr/expense/33199357,2025-03-17,seoul_city,교통실 물류정책과,오리마당,서울 중구 세종대로 92,42000,p11
+opengov:33153790,6,https://opengov.seoul.go.kr/expense/33153790,2025-03-18,seoul_city,교통실 교통운영과,오리마당,서울 중구 세종대로 92,115000,p11
+opengov:33177869,8,https://opengov.seoul.go.kr/expense/33177869,2025-03-18,seoul_city,정원도시국 산지방재과,오리마당,서울 중구 세종대로 92,47000,p11
+opengov:33219260,16,https://opengov.seoul.go.kr/expense/33219260,2025-03-18,seoul_city,관광체육국 체육정책과,오리마당,서울 중구 세종대로 92,42000,p11
+opengov:33229608,9,https://opengov.seoul.go.kr/expense/33229608,2025-03-18,seoul_city,복지실 돌봄복지과,오리마당,서울 중구 세종대로 92,48000,p11
+opengov:33153774,11,https://opengov.seoul.go.kr/expense/33153774,2025-03-19,seoul_city,여성가족실 아동담당관,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:33166326,21,https://opengov.seoul.go.kr/expense/33166326,2025-03-19,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,90000,p11
+opengov:33220325,18,https://opengov.seoul.go.kr/expense/33220325,2025-03-20,seoul_council,의회사무처 의사담당관,오리마당,서울 중구 세종대로 92,166000,p11
+opengov:33229619,29,https://opengov.seoul.go.kr/expense/33229619,2025-03-20,seoul_city,행정2부시장실,오리마당,서울 중구 세종대로 92,259000,p11
+opengov:33128592,10,https://opengov.seoul.go.kr/expense/33128592,2025-03-21,seoul_city,교통실 보행자전거과,오리마당,서울 중구 세종대로 92,63000,p11
+opengov:33166340,11,https://opengov.seoul.go.kr/expense/33166340,2025-03-21,seoul_city,평생교육국 친환경급식과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33199369,3,https://opengov.seoul.go.kr/expense/33199369,2025-03-21,seoul_city,복지실 디딤돌소득과,오리마당,서울 중구 세종대로 92,92000,p11
+opengov:33199473,15,https://opengov.seoul.go.kr/expense/33199473,2025-03-26,seoul_city,버스정책과,오리마당,서울 중구 세종대로 92,122000,p11
+opengov:33188816,67,https://opengov.seoul.go.kr/expense/33188816,2025-03-27,seoul_city,기획조정실 기획담당관,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:33220326,29,https://opengov.seoul.go.kr/expense/33220326,2025-03-28,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:33249126,40,https://opengov.seoul.go.kr/expense/33249126,2025-03-28,seoul_city,평생교육국 교육지원정책과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33249126,43,https://opengov.seoul.go.kr/expense/33249126,2025-03-28,seoul_city,평생교육국 교육지원정책과,오리마당,서울 중구 세종대로 92,145000,p11
+opengov:33199347,14,https://opengov.seoul.go.kr/expense/33199347,2025-03-31,seoul_city,교통실 도시철도과,오리마당,서울 중구 세종대로 92,64000,p11
+opengov:33383915,2,https://opengov.seoul.go.kr/expense/33383915,2025-04-02,seoul_city,재난안전실 도로기획관 도로관리과,오리마당,서울 중구 세종대로 92,208000,p11
+opengov:33383927,4,https://opengov.seoul.go.kr/expense/33383927,2025-04-02,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,80000,p11
+opengov:33383922,4,https://opengov.seoul.go.kr/expense/33383922,2025-04-07,seoul_city,감사위원회 청렴담당관,오리마당,서울 중구 세종대로 92,167000,p11
+opengov:33383893,3,https://opengov.seoul.go.kr/expense/33383893,2025-04-08,seoul_city,재무국 재산관리과,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:33440718,5,https://opengov.seoul.go.kr/expense/33440718,2025-04-08,seoul_city,여성가족실 가족담당관,오리마당,서울 중구 세종대로 92,44000,p11
+opengov:33406230,13,https://opengov.seoul.go.kr/expense/33406230,2025-04-10,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33406238,12,https://opengov.seoul.go.kr/expense/33406238,2025-04-10,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,232000,p11
+opengov:33417507,22,https://opengov.seoul.go.kr/expense/33417507,2025-04-10,seoul_city,홍보기획관 홍보담당관,오리마당,서울 중구 세종대로 92,131000,p11
+opengov:33404726,135,https://opengov.seoul.go.kr/expense/33404726,2025-04-11,seoul_city,행정국 총무과,오리마당,서울 중구 세종대로 92,342000,p11
+opengov:33361814,5,https://opengov.seoul.go.kr/expense/33361814,2025-04-14,seoul_city,교통실 보행자전거과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:33382568,27,https://opengov.seoul.go.kr/expense/33382568,2025-04-14,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,189000,p11
+opengov:33430100,35,https://opengov.seoul.go.kr/expense/33430100,2025-04-14,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:33430100,36,https://opengov.seoul.go.kr/expense/33430100,2025-04-14,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,106000,p11
+opengov:33392400,30,https://opengov.seoul.go.kr/expense/33392400,2025-04-17,seoul_city,디자인정책담당관,오리마당,서울 중구 세종대로 92,156000,p11
+opengov:33383927,19,https://opengov.seoul.go.kr/expense/33383927,2025-04-21,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,64000,p11
+opengov:33430098,28,https://opengov.seoul.go.kr/expense/33430098,2025-04-21,seoul_city,문화본부 문화정책과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:33430110,37,https://opengov.seoul.go.kr/expense/33430110,2025-04-21,seoul_city,균형발전본부 균형발전정책과,오리마당,서울 중구 세종대로 92,206000,p11
+opengov:33383890,11,https://opengov.seoul.go.kr/expense/33383890,2025-04-23,seoul_office,데이터센터 기획관리과,오리마당,서울 중구 세종대로 92,48000,p11
+opengov:33404704,29,https://opengov.seoul.go.kr/expense/33404704,2025-04-23,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:33406238,27,https://opengov.seoul.go.kr/expense/33406238,2025-04-23,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:33440576,16,https://opengov.seoul.go.kr/expense/33440576,2025-04-23,seoul_city,미래공간기획관 용산입체도시담당관,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:33430079,35,https://opengov.seoul.go.kr/expense/33430079,2025-04-24,seoul_city,행정1부시장실,오리마당,서울 중구 세종대로 92,94000,p11
+opengov:33406230,36,https://opengov.seoul.go.kr/expense/33406230,2025-04-28,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:33430104,8,https://opengov.seoul.go.kr/expense/33430104,2025-04-28,seoul_city,재무국 세제과,오리마당,서울 중구 세종대로 92,278000,p11
+opengov:33382568,67,https://opengov.seoul.go.kr/expense/33382568,2025-04-30,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,32000,p11
+opengov:33406213,8,https://opengov.seoul.go.kr/expense/33406213,2025-04-30,seoul_city,물순환안전국 물재생계획과,오리마당,서울 중구 세종대로 92,165000,p11
+opengov:33429129,12,https://opengov.seoul.go.kr/expense/33429129,2025-04-30,seoul_city,건설기술정책관 건설혁신담당관,오리마당,서울 중구 세종대로 92,50000,p11
+opengov:33430107,16,https://opengov.seoul.go.kr/expense/33430107,2025-04-30,seoul_city,정원도시국 공원여가사업과,오리마당,서울 중구 세종대로 92,40000,p11
+opengov:33612364,1,https://opengov.seoul.go.kr/expense/33612364,2025-05-01,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33586934,4,https://opengov.seoul.go.kr/expense/33586934,2025-05-02,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,144000,p11
+opengov:33624332,1,https://opengov.seoul.go.kr/expense/33624332,2025-05-02,seoul_city,교통실 물류정책과,오리마당,서울 중구 세종대로 92,42000,p11
+opengov:33715398,5,https://opengov.seoul.go.kr/expense/33715398,2025-05-07,seoul_city,기술심사담당관,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:33586909,3,https://opengov.seoul.go.kr/expense/33586909,2025-05-08,seoul_city,디지털도시국 공간정보과,오리마당,서울 중구 세종대로 92,108000,p11
+opengov:33636115,4,https://opengov.seoul.go.kr/expense/33636115,2025-05-08,seoul_city,경제실 창조산업과,오리마당,서울 중구 세종대로 92,32000,p11
+opengov:33586932,5,https://opengov.seoul.go.kr/expense/33586932,2025-05-09,seoul_city,물순환안전국 치수안전과,오리마당,서울 중구 세종대로 92,264000,p11
+opengov:33598537,2,https://opengov.seoul.go.kr/expense/33598537,2025-05-09,seoul_city,기획조정실 공기업담당관,오리마당,서울 중구 세종대로 92,112000,p11
+opengov:33635000,4,https://opengov.seoul.go.kr/expense/33635000,2025-05-13,seoul_city,디자인정책관 디자인산업담당관,오리마당,서울 중구 세종대로 92,79000,p11
+opengov:33636141,31,https://opengov.seoul.go.kr/expense/33636141,2025-05-14,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:33624346,15,https://opengov.seoul.go.kr/expense/33624346,2025-05-15,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:33599587,15,https://opengov.seoul.go.kr/expense/33599587,2025-05-16,seoul_city,도시공간본부 도시공간전략과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33600301,28,https://opengov.seoul.go.kr/expense/33600301,2025-05-19,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,147000,p11
+opengov:33600303,5,https://opengov.seoul.go.kr/expense/33600303,2025-05-19,seoul_city,민생노동국 농수산유통과,오리마당,서울 중구 세종대로 92,60000,p11
+opengov:33586934,19,https://opengov.seoul.go.kr/expense/33586934,2025-05-20,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,206000,p11
+opengov:33600301,40,https://opengov.seoul.go.kr/expense/33600301,2025-05-21,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,81000,p11
+opengov:33611281,33,https://opengov.seoul.go.kr/expense/33611281,2025-05-21,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,81000,p11
+opengov:33624115,23,https://opengov.seoul.go.kr/expense/33624115,2025-05-21,seoul_council,의정담당관,오리마당,서울 중구 세종대로 92,83000,p11
+opengov:33612354,5,https://opengov.seoul.go.kr/expense/33612354,2025-05-22,seoul_city,재난안전실 도로기획관 도로관리과,오리마당,서울 중구 세종대로 92,187000,p11
+opengov:33636141,49,https://opengov.seoul.go.kr/expense/33636141,2025-05-22,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,58000,p11
+opengov:33586764,11,https://opengov.seoul.go.kr/expense/33586764,2025-05-23,seoul_city,민생사법경찰국 안전수사과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:33612374,33,https://opengov.seoul.go.kr/expense/33612374,2025-05-26,seoul_city,감사위원회 조사담당관,오리마당,서울 중구 세종대로 92,106000,p11
+opengov:33599587,28,https://opengov.seoul.go.kr/expense/33599587,2025-05-27,seoul_city,도시공간본부 도시공간전략과,오리마당,서울 중구 세종대로 92,84000,p11
+opengov:33624345,10,https://opengov.seoul.go.kr/expense/33624345,2025-05-27,seoul_city,디자인정책관 도시경관담당관,오리마당,서울 중구 세종대로 92,96000,p11
+opengov:33645591,27,https://opengov.seoul.go.kr/expense/33645591,2025-05-27,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,68000,p11
+opengov:33611271,14,https://opengov.seoul.go.kr/expense/33611271,2025-05-28,seoul_city,문화본부 문화유산보존과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:33586764,14,https://opengov.seoul.go.kr/expense/33586764,2025-05-29,seoul_city,민생사법경찰국 안전수사과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:33636146,58,https://opengov.seoul.go.kr/expense/33636146,2025-05-30,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,490000,p11
+opengov:33848774,2,https://opengov.seoul.go.kr/expense/33848774,2025-06-04,seoul_city,교통실 택시정책과,오리마당,서울 중구 세종대로 92,160000,p11
+opengov:33792086,4,https://opengov.seoul.go.kr/expense/33792086,2025-06-05,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:33826586,1,https://opengov.seoul.go.kr/expense/33826586,2025-06-05,seoul_office,보건환경연구원 운영기획부,오리마당,서울 중구 세종대로 92,72000,p11
+opengov:33804490,1,https://opengov.seoul.go.kr/expense/33804490,2025-06-10,seoul_city,재무국 재산관리과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:33826563,9,https://opengov.seoul.go.kr/expense/33826563,2025-06-10,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,202000,p11
+opengov:33792086,9,https://opengov.seoul.go.kr/expense/33792086,2025-06-11,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,126000,p11
+opengov:33815729,4,https://opengov.seoul.go.kr/expense/33815729,2025-06-12,seoul_city,주택실 임대주택과,오리마당,서울 중구 세종대로 92,60000,p11
+opengov:33826563,12,https://opengov.seoul.go.kr/expense/33826563,2025-06-12,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,48000,p11
+opengov:33814564,11,https://opengov.seoul.go.kr/expense/33814564,2025-06-13,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:33857946,22,https://opengov.seoul.go.kr/expense/33857946,2025-06-18,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,144000,p11
+opengov:33868357,32,https://opengov.seoul.go.kr/expense/33868357,2025-06-18,seoul_council,운영지원과(의장실),오리마당,서울 중구 세종대로 92,201000,p11
+opengov:33848789,19,https://opengov.seoul.go.kr/expense/33848789,2025-06-19,seoul_city,문화본부 문화정책과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33790688,40,https://opengov.seoul.go.kr/expense/33790688,2025-06-20,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,105000,p11
+opengov:33803296,72,https://opengov.seoul.go.kr/expense/33803296,2025-06-20,seoul_city,대변인 언론담당관,오리마당,서울 중구 세종대로 92,200000,p11
+opengov:33792086,21,https://opengov.seoul.go.kr/expense/33792086,2025-06-23,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,48000,p11
+opengov:33848779,30,https://opengov.seoul.go.kr/expense/33848779,2025-06-23,seoul_city,기획조정실 예산담당관,오리마당,서울 중구 세종대로 92,315000,p11
+opengov:33857931,6,https://opengov.seoul.go.kr/expense/33857931,2025-06-23,seoul_city,관광체육국 체육진흥과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:33868908,8,https://opengov.seoul.go.kr/expense/33868908,2025-06-23,seoul_city,디자인정책관 디자인산업담당관,오리마당,서울 중구 세종대로 92,42000,p11
+opengov:33868912,45,https://opengov.seoul.go.kr/expense/33868912,2025-06-23,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,64000,p11
+opengov:33814564,21,https://opengov.seoul.go.kr/expense/33814564,2025-06-24,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:33848773,20,https://opengov.seoul.go.kr/expense/33848773,2025-06-24,seoul_city,감사위원회 감사담당관,오리마당,서울 중구 세종대로 92,22000,p11
+opengov:33889481,15,https://opengov.seoul.go.kr/expense/33889481,2025-06-24,seoul_city,교통실 물류정책과,오리마당,서울 중구 세종대로 92,44000,p11
+opengov:33836382,27,https://opengov.seoul.go.kr/expense/33836382,2025-06-27,seoul_city,글로벌도시정책관 외국인이민담당관,오리마당,서울 중구 세종대로 92,360000,p11
+opengov:33847547,9,https://opengov.seoul.go.kr/expense/33847547,2025-06-27,seoul_city,주택실 재정비촉진과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:33792073,13,https://opengov.seoul.go.kr/expense/33792073,2025-06-30,seoul_city,디지털도시국 공간정보과,오리마당,서울 중구 세종대로 92,85000,p11
+opengov:33837570,11,https://opengov.seoul.go.kr/expense/33837570,2025-06-30,seoul_city,평생교육국 친환경급식과,오리마당,서울 중구 세종대로 92,104000,p11
+opengov:34025112,1,https://opengov.seoul.go.kr/expense/34025112,2025-07-01,seoul_city,경제실 대학협력과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34067530,1,https://opengov.seoul.go.kr/expense/34067530,2025-07-01,seoul_city,기획조정실 창의규제담당관,오리마당,서울 중구 세종대로 92,68000,p11
+opengov:34067537,11,https://opengov.seoul.go.kr/expense/34067537,2025-07-03,seoul_city,기획조정실 기획담당관,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34025083,6,https://opengov.seoul.go.kr/expense/34025083,2025-07-07,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:34034816,4,https://opengov.seoul.go.kr/expense/34034816,2025-07-07,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,65000,p11
+opengov:34025083,14,https://opengov.seoul.go.kr/expense/34025083,2025-07-09,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:34037443,9,https://opengov.seoul.go.kr/expense/34037443,2025-07-09,seoul_city,재무국 재산관리과,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:34058176,13,https://opengov.seoul.go.kr/expense/34058176,2025-07-09,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:34077470,19,https://opengov.seoul.go.kr/expense/34077470,2025-07-10,seoul_city,행정1부시장실,오리마당,서울 중구 세종대로 92,246000,p11
+opengov:34026259,9,https://opengov.seoul.go.kr/expense/34026259,2025-07-14,seoul_city,도시공간본부 도시관리과,오리마당,서울 중구 세종대로 92,197000,p11
+opengov:34047887,7,https://opengov.seoul.go.kr/expense/34047887,2025-07-15,seoul_city,물순환안전국 물재생시설과,오리마당,서울 중구 세종대로 92,68000,p11
+opengov:34035941,9,https://opengov.seoul.go.kr/expense/34035941,2025-07-16,seoul_city,민생노동국 상권활성화과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:34077460,8,https://opengov.seoul.go.kr/expense/34077460,2025-07-16,seoul_city,도시공간본부 도시계획과,오리마당,서울 중구 세종대로 92,114000,p11
+opengov:34025083,44,https://opengov.seoul.go.kr/expense/34025083,2025-07-17,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:34025083,45,https://opengov.seoul.go.kr/expense/34025083,2025-07-17,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:34025112,11,https://opengov.seoul.go.kr/expense/34025112,2025-07-17,seoul_city,경제실 대학협력과,오리마당,서울 중구 세종대로 92,204000,p11
+opengov:34007129,11,https://opengov.seoul.go.kr/expense/34007129,2025-07-18,seoul_city,교통실 보행자전거과,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:34037596,11,https://opengov.seoul.go.kr/expense/34037596,2025-07-18,seoul_city,재무국 세무과,오리마당,서울 중구 세종대로 92,239000,p11
+opengov:34049251,21,https://opengov.seoul.go.kr/expense/34049251,2025-07-18,seoul_city,건축기획과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:34049243,15,https://opengov.seoul.go.kr/expense/34049243,2025-07-22,seoul_council,재정분석담당관,오리마당,서울 중구 세종대로 92,105000,p11
+opengov:34077460,11,https://opengov.seoul.go.kr/expense/34077460,2025-07-23,seoul_city,도시공간본부 도시계획과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:34076402,10,https://opengov.seoul.go.kr/expense/34076402,2025-07-28,seoul_city,경제실 일자리정책과,오리마당,서울 중구 세종대로 92,76000,p11
+opengov:34067500,10,https://opengov.seoul.go.kr/expense/34067500,2025-07-29,seoul_city,디자인정책관 도시경관담당관,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:34077460,14,https://opengov.seoul.go.kr/expense/34077460,2025-07-29,seoul_city,도시공간본부 도시계획과,오리마당,서울 중구 세종대로 92,132000,p11
+opengov:34087207,14,https://opengov.seoul.go.kr/expense/34087207,2025-07-30,seoul_council,예산결산특별전문위원실,오리마당,서울 중구 세종대로 92,34000,p11
+opengov:34047879,16,https://opengov.seoul.go.kr/expense/34047879,2025-07-31,seoul_city,여성가족실 가족담당관,오리마당,서울 중구 세종대로 92,26000,p11
+opengov:34087190,71,https://opengov.seoul.go.kr/expense/34087190,2025-07-31,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,169000,p11
+opengov:34289498,1,https://opengov.seoul.go.kr/expense/34289498,2025-08-01,seoul_city,기획조정실 정책기획관 조직담당관,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:34289526,1,https://opengov.seoul.go.kr/expense/34289526,2025-08-01,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:34220891,3,https://opengov.seoul.go.kr/expense/34220891,2025-08-05,seoul_office,도시기반시설본부 도시철도설비부,오리마당,서울 중구 세종대로 92,248000,p11
+opengov:34243931,7,https://opengov.seoul.go.kr/expense/34243931,2025-08-06,seoul_council,재정분석과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34298531,2,https://opengov.seoul.go.kr/expense/34298531,2025-08-06,seoul_city,재무국 계약심사과,오리마당,서울 중구 세종대로 92,154000,p11
+opengov:34299620,3,https://opengov.seoul.go.kr/expense/34299620,2025-08-07,seoul_city,디자인정책관 디자인산업담당관,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34254470,12,https://opengov.seoul.go.kr/expense/34254470,2025-08-08,seoul_city,시민건강국 보건의료정책과,오리마당,서울 중구 세종대로 92,125000,p11
+opengov:34278427,9,https://opengov.seoul.go.kr/expense/34278427,2025-08-08,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:34289534,1,https://opengov.seoul.go.kr/expense/34289534,2025-08-11,seoul_city,경제실 첨단산업과,오리마당,서울 중구 세종대로 92,106000,p11
+opengov:34243900,3,https://opengov.seoul.go.kr/expense/34243900,2025-08-12,seoul_city,도시공간본부 도시계획상임기획과,오리마당,서울 중구 세종대로 92,387000,p11
+opengov:34278432,9,https://opengov.seoul.go.kr/expense/34278432,2025-08-12,seoul_city,기획조정실 창의규제담당관,오리마당,서울 중구 세종대로 92,186000,p11
+opengov:34289484,79,https://opengov.seoul.go.kr/expense/34289484,2025-08-13,seoul_city,행정국 총무과,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:34289526,12,https://opengov.seoul.go.kr/expense/34289526,2025-08-13,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34221050,16,https://opengov.seoul.go.kr/expense/34221050,2025-08-14,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,123000,p11
+opengov:34232719,5,https://opengov.seoul.go.kr/expense/34232719,2025-08-14,seoul_office,서울도서관행정지원과,오리마당,서울 중구 세종대로 92,95500,p11
+opengov:34220886,22,https://opengov.seoul.go.kr/expense/34220886,2025-08-18,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:34243909,4,https://opengov.seoul.go.kr/expense/34243909,2025-08-19,seoul_city,복지실 돌봄고독정책관,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34233941,8,https://opengov.seoul.go.kr/expense/34233941,2025-08-20,seoul_city,주택정책실한옥건축자산과,오리마당,서울 중구 세종대로 92,52000,p11
+opengov:34221073,4,https://opengov.seoul.go.kr/expense/34221073,2025-08-21,seoul_office,도시기반시설본부 도시철도사업부 공정관리과,오리마당,서울 중구 세종대로 92,200000,p11
+opengov:34233942,9,https://opengov.seoul.go.kr/expense/34233942,2025-08-21,seoul_city,기후환경본부 친환경차량과,오리마당,서울 중구 세종대로 92,43000,p11
+opengov:34289498,24,https://opengov.seoul.go.kr/expense/34289498,2025-08-21,seoul_city,기획조정실 정책기획관 조직담당관,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:34220920,5,https://opengov.seoul.go.kr/expense/34220920,2025-08-22,seoul_city,재난안전실 교량안전과,오리마당,서울 중구 세종대로 92,247000,p11
+opengov:34233941,9,https://opengov.seoul.go.kr/expense/34233941,2025-08-22,seoul_city,주택정책실한옥건축자산과,오리마당,서울 중구 세종대로 92,43000,p11
+opengov:34233901,8,https://opengov.seoul.go.kr/expense/34233901,2025-08-26,seoul_city,행정국 평화기반조성과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:34254439,15,https://opengov.seoul.go.kr/expense/34254439,2025-08-26,seoul_city,복지실 디딤돌소득과,오리마당,서울 중구 세종대로 92,53000,p11
+opengov:34220922,15,https://opengov.seoul.go.kr/expense/34220922,2025-08-27,seoul_council,교육전문위원실,오리마당,서울 중구 세종대로 92,139000,p11
+opengov:34233941,13,https://opengov.seoul.go.kr/expense/34233941,2025-08-27,seoul_city,주택정책실한옥건축자산과,오리마당,서울 중구 세종대로 92,52000,p11
+opengov:34267820,35,https://opengov.seoul.go.kr/expense/34267820,2025-08-27,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:34289542,4,https://opengov.seoul.go.kr/expense/34289542,2025-08-27,seoul_council,의회사무처 도시안전건설전문위원실,오리마당,서울 중구 세종대로 92,217000,p11
+opengov:34257452,12,https://opengov.seoul.go.kr/expense/34257452,2025-08-28,seoul_city,재난안전실 도로기획관 도로시설과,오리마당,서울 중구 세종대로 92,39000,p11
+opengov:34221050,28,https://opengov.seoul.go.kr/expense/34221050,2025-08-29,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,68000,p11
+opengov:34465655,1,https://opengov.seoul.go.kr/expense/34465655,2025-09-01,seoul_city,미래공간기획관 미래공간담당관,오리마당,서울 중구 세종대로 92,198000,p11
+opengov:34467195,1,https://opengov.seoul.go.kr/expense/34467195,2025-09-01,seoul_city,도시공간본부 도시계획과,오리마당,서울 중구 세종대로 92,43000,p11
+opengov:34483821,1,https://opengov.seoul.go.kr/expense/34483821,2025-09-01,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,470000,p11
+opengov:34465655,3,https://opengov.seoul.go.kr/expense/34465655,2025-09-03,seoul_city,미래공간기획관 미래공간담당관,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:34442151,15,https://opengov.seoul.go.kr/expense/34442151,2025-09-04,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:34452876,2,https://opengov.seoul.go.kr/expense/34452876,2025-09-04,seoul_city,민생노동국 농수산유통과,오리마당,서울 중구 세종대로 92,64000,p11
+opengov:34495690,5,https://opengov.seoul.go.kr/expense/34495690,2025-09-04,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,120000,p11
+opengov:34454101,11,https://opengov.seoul.go.kr/expense/34454101,2025-09-05,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,153000,p11
+opengov:34454145,2,https://opengov.seoul.go.kr/expense/34454145,2025-09-05,seoul_council,교육전문위원실,오리마당,서울 중구 세종대로 92,114000,p11
+opengov:34483823,3,https://opengov.seoul.go.kr/expense/34483823,2025-09-08,seoul_city,주택정책실한옥건축자산과,오리마당,서울 중구 세종대로 92,94000,p11
+opengov:34440887,2,https://opengov.seoul.go.kr/expense/34440887,2025-09-09,seoul_city,문화본부 문화시설과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:34483218,7,https://opengov.seoul.go.kr/expense/34483218,2025-09-09,seoul_city,재무국 세제과,오리마당,서울 중구 세종대로 92,233000,p11
+opengov:34483820,14,https://opengov.seoul.go.kr/expense/34483820,2025-09-10,seoul_city,행정2부시장실,오리마당,서울 중구 세종대로 92,193000,p11
+opengov:34495684,18,https://opengov.seoul.go.kr/expense/34495684,2025-09-10,seoul_city,디자인정책담당관,오리마당,서울 중구 세종대로 92,44000,p11
+opengov:34454122,5,https://opengov.seoul.go.kr/expense/34454122,2025-09-11,seoul_city,재무국 재산관리과,오리마당,서울 중구 세종대로 92,250000,p11
+opengov:34454143,7,https://opengov.seoul.go.kr/expense/34454143,2025-09-11,seoul_city,기획조정실 창의규제담당관,오리마당,서울 중구 세종대로 92,34000,p11
+opengov:34483946,13,https://opengov.seoul.go.kr/expense/34483946,2025-09-11,seoul_city,기획조정실 예산담당관,오리마당,서울 중구 세종대로 92,405000,p11
+opengov:34483982,25,https://opengov.seoul.go.kr/expense/34483982,2025-09-11,seoul_city,민생사법경찰국 경제수사과,오리마당,서울 중구 세종대로 92,39000,p11
+opengov:34467222,10,https://opengov.seoul.go.kr/expense/34467222,2025-09-12,seoul_city,경제실 창조산업기획관 산업입지과,오리마당,서울 중구 세종대로 92,138000,p11
+opengov:34467223,15,https://opengov.seoul.go.kr/expense/34467223,2025-09-12,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34454101,20,https://opengov.seoul.go.kr/expense/34454101,2025-09-15,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34484006,29,https://opengov.seoul.go.kr/expense/34484006,2025-09-15,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,113000,p11
+opengov:34484009,6,https://opengov.seoul.go.kr/expense/34484009,2025-09-15,seoul_city,기후환경본부 친환경차량과,오리마당,서울 중구 세종대로 92,37000,p11
+opengov:34467176,6,https://opengov.seoul.go.kr/expense/34467176,2025-09-16,seoul_city,민생노동국 상권활성화과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:34467188,49,https://opengov.seoul.go.kr/expense/34467188,2025-09-17,seoul_city,기획조정실 기획담당관,오리마당,서울 중구 세종대로 92,234000,p11
+opengov:34483822,33,https://opengov.seoul.go.kr/expense/34483822,2025-09-18,seoul_city,도시공간본부 도시공간전략과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34454098,9,https://opengov.seoul.go.kr/expense/34454098,2025-09-19,seoul_city,재난안전실 도로기획관 도로시설과,오리마당,서울 중구 세종대로 92,103000,p11
+opengov:34483844,5,https://opengov.seoul.go.kr/expense/34483844,2025-09-19,seoul_city,디지털도시국 정보시스템과,오리마당,서울 중구 세종대로 92,116000,p11
+opengov:34483996,180,https://opengov.seoul.go.kr/expense/34483996,2025-09-19,seoul_city,행정국 총무과,오리마당,서울 중구 세종대로 92,98000,p11
+opengov:34495645,8,https://opengov.seoul.go.kr/expense/34495645,2025-09-19,seoul_city,정원도시국 공원여가사업과,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:34495690,21,https://opengov.seoul.go.kr/expense/34495690,2025-09-19,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,148000,p11
+opengov:34442151,55,https://opengov.seoul.go.kr/expense/34442151,2025-09-22,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,34000,p11
+opengov:34452832,6,https://opengov.seoul.go.kr/expense/34452832,2025-09-23,seoul_city,민생사법경찰국 안전수사과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34484004,44,https://opengov.seoul.go.kr/expense/34484004,2025-09-23,seoul_city,자치경찰위원회 자치경찰운영과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34454122,8,https://opengov.seoul.go.kr/expense/34454122,2025-09-24,seoul_city,재무국 재산관리과,오리마당,서울 중구 세종대로 92,102000,p11
+opengov:34483996,225,https://opengov.seoul.go.kr/expense/34483996,2025-09-24,seoul_city,행정국 총무과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:34454145,8,https://opengov.seoul.go.kr/expense/34454145,2025-09-25,seoul_council,교육전문위원실,오리마당,서울 중구 세종대로 92,99000,p11
+opengov:34483844,8,https://opengov.seoul.go.kr/expense/34483844,2025-09-25,seoul_city,디지털도시국 정보시스템과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34483938,52,https://opengov.seoul.go.kr/expense/34483938,2025-09-25,seoul_city,평생교육국 교육지원정책과,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:34442151,70,https://opengov.seoul.go.kr/expense/34442151,2025-09-26,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34482217,8,https://opengov.seoul.go.kr/expense/34482217,2025-09-29,seoul_city,기획조정실 법률지원담당관,오리마당,서울 중구 세종대로 92,198000,p11
+opengov:34483830,77,https://opengov.seoul.go.kr/expense/34483830,2025-09-29,seoul_council,운영지원과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:34679735,1,https://opengov.seoul.go.kr/expense/34679735,2025-10-01,seoul_city,주택정책실한옥건축자산과,오리마당,서울 중구 세종대로 92,65000,p11
+opengov:34734638,1,https://opengov.seoul.go.kr/expense/34734638,2025-10-01,seoul_council,재정분석과,오리마당,서울 중구 세종대로 92,44000,p11
+opengov:34679738,1,https://opengov.seoul.go.kr/expense/34679738,2025-10-02,seoul_city,디지털도시국 공간정보과,오리마당,서울 중구 세종대로 92,77000,p11
+opengov:34711333,1,https://opengov.seoul.go.kr/expense/34711333,2025-10-02,seoul_city,물순환안전국 물재생계획과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34643614,3,https://opengov.seoul.go.kr/expense/34643614,2025-10-13,seoul_city,경제실 대학협력과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34655435,4,https://opengov.seoul.go.kr/expense/34655435,2025-10-13,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,102000,p11
+opengov:34669089,2,https://opengov.seoul.go.kr/expense/34669089,2025-10-13,seoul_city,감사위원회 공공감사담당관,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:34655622,10,https://opengov.seoul.go.kr/expense/34655622,2025-10-14,seoul_city,주택실 임대주택과,오리마당,서울 중구 세종대로 92,291000,p11
+opengov:34669113,17,https://opengov.seoul.go.kr/expense/34669113,2025-10-14,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,154000,p11
+opengov:34691333,18,https://opengov.seoul.go.kr/expense/34691333,2025-10-14,seoul_city,기획조정실 기획담당관,오리마당,서울 중구 세종대로 92,102000,p11
+opengov:34667916,5,https://opengov.seoul.go.kr/expense/34667916,2025-10-17,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,오리마당,서울 중구 세종대로 92,53000,p11
+opengov:34902465,1,https://opengov.seoul.go.kr/expense/34902465,2025-10-17,seoul_city,기후환경본부 친환경차량과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:34680967,31,https://opengov.seoul.go.kr/expense/34680967,2025-10-20,seoul_city,기후환경본부 기후환경정책과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34711308,16,https://opengov.seoul.go.kr/expense/34711308,2025-10-22,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:34711338,24,https://opengov.seoul.go.kr/expense/34711338,2025-10-22,seoul_city,민생사법경찰국 경제수사과,오리마당,서울 중구 세종대로 92,130000,p11
+opengov:34667916,11,https://opengov.seoul.go.kr/expense/34667916,2025-10-23,seoul_city,기후환경본부 자원회수시설추진단 생활환경과,오리마당,서울 중구 세종대로 92,170000,p11
+opengov:34711340,22,https://opengov.seoul.go.kr/expense/34711340,2025-10-23,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,99000,p11
+opengov:34655418,39,https://opengov.seoul.go.kr/expense/34655418,2025-10-24,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,154000,p11
+opengov:34655619,23,https://opengov.seoul.go.kr/expense/34655619,2025-10-24,seoul_city,평생교육국 교육지원정책과,오리마당,서울 중구 세종대로 92,210000,p11
+opengov:34902465,3,https://opengov.seoul.go.kr/expense/34902465,2025-10-24,seoul_city,기후환경본부 친환경차량과,오리마당,서울 중구 세종대로 92,86000,p11
+opengov:34655435,25,https://opengov.seoul.go.kr/expense/34655435,2025-10-28,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,68000,p11
+opengov:34655440,19,https://opengov.seoul.go.kr/expense/34655440,2025-10-28,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34655622,23,https://opengov.seoul.go.kr/expense/34655622,2025-10-28,seoul_city,주택실 임대주택과,오리마당,서울 중구 세종대로 92,52000,p11
+opengov:34711324,5,https://opengov.seoul.go.kr/expense/34711324,2025-10-28,seoul_city,경제실 창업정책과,오리마당,서울 중구 세종대로 92,298000,p11
+opengov:34655482,8,https://opengov.seoul.go.kr/expense/34655482,2025-10-29,seoul_city,교통실 교통운영과,오리마당,서울 중구 세종대로 92,172000,p11
+opengov:34680972,32,https://opengov.seoul.go.kr/expense/34680972,2025-10-29,seoul_city,행정2부시장실,오리마당,서울 중구 세종대로 92,420000,p11
+opengov:34701400,19,https://opengov.seoul.go.kr/expense/34701400,2025-10-30,seoul_city,행정국 인사과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:34876692,2,https://opengov.seoul.go.kr/expense/34876692,2025-11-03,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,60000,p11
+opengov:34891341,6,https://opengov.seoul.go.kr/expense/34891341,2025-11-04,seoul_city,기획조정실 기획담당관,오리마당,서울 중구 세종대로 92,328000,p11
+opengov:34950548,1,https://opengov.seoul.go.kr/expense/34950548,2025-11-04,seoul_city,문화본부 문화유산보존과,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:34876692,4,https://opengov.seoul.go.kr/expense/34876692,2025-11-06,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,73000,p11
+opengov:34904042,11,https://opengov.seoul.go.kr/expense/34904042,2025-11-06,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:34876572,5,https://opengov.seoul.go.kr/expense/34876572,2025-11-07,seoul_city,민생노동국 농수산유통과,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:34963711,10,https://opengov.seoul.go.kr/expense/34963711,2025-11-07,seoul_city,디지털도시국 디지털정책과,오리마당,서울 중구 세종대로 92,237000,p11
+opengov:34889823,10,https://opengov.seoul.go.kr/expense/34889823,2025-11-10,seoul_city,디자인정책관 디자인정책담당관,오리마당,서울 중구 세종대로 92,106000,p11
+opengov:35158183,3,https://opengov.seoul.go.kr/expense/35158183,2025-11-11,seoul_city,미래공간기획관 용산입체도시담당관,오리마당,서울 중구 세종대로 92,136000,p11
+opengov:34904036,29,https://opengov.seoul.go.kr/expense/34904036,2025-11-14,seoul_city,기후환경본부 기후환경정책과,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:34876506,30,https://opengov.seoul.go.kr/expense/34876506,2025-11-17,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,146000,p11
+opengov:34876507,10,https://opengov.seoul.go.kr/expense/34876507,2025-11-18,seoul_city,주택정책실한옥건축자산과,오리마당,서울 중구 세종대로 92,96000,p11
+opengov:34876536,15,https://opengov.seoul.go.kr/expense/34876536,2025-11-18,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,132000,p11
+opengov:34889813,11,https://opengov.seoul.go.kr/expense/34889813,2025-11-18,seoul_city,건설기술정책관 지역건축안전센터,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34904036,35,https://opengov.seoul.go.kr/expense/34904036,2025-11-20,seoul_city,기후환경본부 기후환경정책과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:34963710,20,https://opengov.seoul.go.kr/expense/34963710,2025-11-20,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:34904042,51,https://opengov.seoul.go.kr/expense/34904042,2025-11-24,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,489000,p11
+opengov:34904048,29,https://opengov.seoul.go.kr/expense/34904048,2025-11-24,seoul_council,재정분석과,오리마당,서울 중구 세종대로 92,182000,p11
+opengov:34904037,20,https://opengov.seoul.go.kr/expense/34904037,2025-11-25,seoul_city,미래공간기획관 미래공간담당관,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:34889816,6,https://opengov.seoul.go.kr/expense/34889816,2025-11-26,seoul_city,디지털도시국 정보시스템과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:34904062,14,https://opengov.seoul.go.kr/expense/34904062,2025-11-27,seoul_city,문화본부 문화예술과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:34876506,61,https://opengov.seoul.go.kr/expense/34876506,2025-11-28,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:35145918,3,https://opengov.seoul.go.kr/expense/35145918,2025-12-01,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:35167284,2,https://opengov.seoul.go.kr/expense/35167284,2025-12-01,seoul_city,주택실 건축기획관 공동주택과,오리마당,서울 중구 세종대로 92,68000,p11
+opengov:35145918,5,https://opengov.seoul.go.kr/expense/35145918,2025-12-02,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,218000,p11
+opengov:35125272,4,https://opengov.seoul.go.kr/expense/35125272,2025-12-03,seoul_office,서북병원 간호부,오리마당,서울 중구 세종대로 92,96000,p11
+opengov:35145918,9,https://opengov.seoul.go.kr/expense/35145918,2025-12-03,seoul_city,교통실 교통정책과,오리마당,서울 중구 세종대로 92,176000,p11
+opengov:35165355,9,https://opengov.seoul.go.kr/expense/35165355,2025-12-03,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35167282,9,https://opengov.seoul.go.kr/expense/35167282,2025-12-03,seoul_city,기획조정실 기획담당관,오리마당,서울 중구 세종대로 92,92000,p11
+opengov:35205469,3,https://opengov.seoul.go.kr/expense/35205469,2025-12-03,seoul_city,기획조정실 예산담당관,오리마당,서울 중구 세종대로 92,299000,p11
+opengov:35167232,11,https://opengov.seoul.go.kr/expense/35167232,2025-12-04,seoul_city,비상기획관 민방위담당관,오리마당,서울 중구 세종대로 92,267000,p11
+opengov:35241582,8,https://opengov.seoul.go.kr/expense/35241582,2025-12-04,seoul_council,재정분석과,오리마당,서울 중구 세종대로 92,200000,p11
+opengov:35157901,13,https://opengov.seoul.go.kr/expense/35157901,2025-12-05,seoul_city,평생교육국 교육지원정책과,오리마당,서울 중구 세종대로 92,215000,p11
+opengov:35167310,8,https://opengov.seoul.go.kr/expense/35167310,2025-12-05,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,95000,p11
+opengov:35196497,9,https://opengov.seoul.go.kr/expense/35196497,2025-12-05,seoul_city,기획조정실 공기업담당관,오리마당,서울 중구 세종대로 92,51000,p11
+opengov:35157872,5,https://opengov.seoul.go.kr/expense/35157872,2025-12-09,seoul_city,정원도시국 공원여가사업과,오리마당,서울 중구 세종대로 92,102000,p11
+opengov:35157243,10,https://opengov.seoul.go.kr/expense/35157243,2025-12-11,seoul_city,재무국 세무과,오리마당,서울 중구 세종대로 92,331000,p11
+opengov:35204405,14,https://opengov.seoul.go.kr/expense/35204405,2025-12-11,seoul_city,기후환경본부 기후환경정책과,오리마당,서울 중구 세종대로 92,53000,p11
+opengov:35197489,6,https://opengov.seoul.go.kr/expense/35197489,2025-12-12,seoul_city,도시공간본부 도시계획과,오리마당,서울 중구 세종대로 92,234000,p11
+opengov:35241582,12,https://opengov.seoul.go.kr/expense/35241582,2025-12-12,seoul_council,재정분석과,오리마당,서울 중구 세종대로 92,236000,p11
+opengov:35167311,14,https://opengov.seoul.go.kr/expense/35167311,2025-12-15,seoul_office,북부공원여가센터 공원운영과,오리마당,서울 중구 세종대로 92,175000,p11
+opengov:35184925,12,https://opengov.seoul.go.kr/expense/35184925,2025-12-15,seoul_city,균형발전본부 광화문광장사업과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:35197521,27,https://opengov.seoul.go.kr/expense/35197521,2025-12-16,seoul_city,시민건강국 보건의료정책과,오리마당,서울 중구 세종대로 92,99000,p11
+opengov:35158194,14,https://opengov.seoul.go.kr/expense/35158194,2025-12-19,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:35186072,11,https://opengov.seoul.go.kr/expense/35186072,2025-12-19,seoul_city,재무국 계약심사과,오리마당,서울 중구 세종대로 92,315000,p11
+opengov:35158194,24,https://opengov.seoul.go.kr/expense/35158194,2025-12-23,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,190000,p11
+opengov:35177670,25,https://opengov.seoul.go.kr/expense/35177670,2025-12-23,seoul_city,미래공간기획관 미래공간담당관,오리마당,서울 중구 세종대로 92,202000,p11
+opengov:35205486,42,https://opengov.seoul.go.kr/expense/35205486,2025-12-24,seoul_city,기획조정실 창의규제담당관,오리마당,서울 중구 세종대로 92,299000,p11
+opengov:35205479,50,https://opengov.seoul.go.kr/expense/35205479,2025-12-26,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,490000,p11
+opengov:35157842,14,https://opengov.seoul.go.kr/expense/35157842,2025-12-30,seoul_city,재무국 세제과,오리마당,서울 중구 세종대로 92,258700,p11
+opengov:35177653,15,https://opengov.seoul.go.kr/expense/35177653,2025-12-30,seoul_city,경제실 대학협력과,오리마당,서울 중구 세종대로 92,100360,p11
+opengov:35186070,13,https://opengov.seoul.go.kr/expense/35186070,2025-12-30,seoul_city,디지털도시국 정보시스템과,오리마당,서울 중구 세종대로 92,142100,p11
+opengov:35369443,1,https://opengov.seoul.go.kr/expense/35369443,2026-01-02,seoul_city,디지털도시국 공간정보과,오리마당,서울 중구 세종대로 92,91000,p11
+opengov:35388733,1,https://opengov.seoul.go.kr/expense/35388733,2026-01-02,seoul_city,도시공간본부 도시공간전략과,오리마당,서울 중구 세종대로 92,75000,p11
+opengov:35369462,2,https://opengov.seoul.go.kr/expense/35369462,2026-01-05,seoul_city,재난안전실 도로기획관 도로계획과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35398221,33,https://opengov.seoul.go.kr/expense/35398221,2026-01-06,seoul_city,행정국 총무과,오리마당,서울 중구 세종대로 92,168000,p11
+opengov:35357681,3,https://opengov.seoul.go.kr/expense/35357681,2026-01-07,seoul_city,감사위원회 청렴담당관,오리마당,서울 중구 세종대로 92,105000,p11
+opengov:35369464,1,https://opengov.seoul.go.kr/expense/35369464,2026-01-07,seoul_city,기획조정실 규제개선담당관,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:35410197,8,https://opengov.seoul.go.kr/expense/35410197,2026-01-07,seoul_city,경제실 창조산업과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:35421601,2,https://opengov.seoul.go.kr/expense/35421601,2026-01-07,seoul_city,건설기술정책관 지역건축안전센터,오리마당,서울 중구 세종대로 92,99000,p11
+opengov:35421612,2,https://opengov.seoul.go.kr/expense/35421612,2026-01-07,seoul_city,주택실 한옥건축자산과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:35357577,3,https://opengov.seoul.go.kr/expense/35357577,2026-01-08,seoul_city,재난안전실 교량안전과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:35357549,4,https://opengov.seoul.go.kr/expense/35357549,2026-01-09,seoul_city,여성가족실 아동담당관,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:35378925,11,https://opengov.seoul.go.kr/expense/35378925,2026-01-09,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35388722,13,https://opengov.seoul.go.kr/expense/35388722,2026-01-12,seoul_council,의정국 언론홍보과,오리마당,서울 중구 세종대로 92,30000,p11
+opengov:35421601,5,https://opengov.seoul.go.kr/expense/35421601,2026-01-12,seoul_city,건설기술정책관 지역건축안전센터,오리마당,서울 중구 세종대로 92,78000,p11
+opengov:35357537,15,https://opengov.seoul.go.kr/expense/35357537,2026-01-13,seoul_city,물순환안전국 수변감성도시과,오리마당,서울 중구 세종대로 92,175000,p11
+opengov:35410164,13,https://opengov.seoul.go.kr/expense/35410164,2026-01-13,seoul_office,북부공원여가센터 공원운영과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35421551,31,https://opengov.seoul.go.kr/expense/35421551,2026-01-13,seoul_city,경제실 경제정책과,오리마당,서울 중구 세종대로 92,102000,p11
+opengov:35434650,12,https://opengov.seoul.go.kr/expense/35434650,2026-01-13,seoul_city,미래공간기획관 미래공간담당관,오리마당,서울 중구 세종대로 92,202000,p11
+opengov:35444903,4,https://opengov.seoul.go.kr/expense/35444903,2026-01-13,seoul_city,행정국 평화기반조성과,오리마당,서울 중구 세종대로 92,88000,p11
+opengov:35399580,4,https://opengov.seoul.go.kr/expense/35399580,2026-01-14,seoul_city,복지실 고독대응과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35410374,15,https://opengov.seoul.go.kr/expense/35410374,2026-01-14,seoul_city,시민감사옴부즈만위원회,오리마당,서울 중구 세종대로 92,127000,p11
+opengov:35369461,16,https://opengov.seoul.go.kr/expense/35369461,2026-01-15,seoul_city,비상기획관 민방위담당관,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:35421589,17,https://opengov.seoul.go.kr/expense/35421589,2026-01-15,seoul_city,재무국 재무과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:35378925,25,https://opengov.seoul.go.kr/expense/35378925,2026-01-16,seoul_city,민생노동국 소상공인정책과,오리마당,서울 중구 세종대로 92,217000,p11
+opengov:35367975,28,https://opengov.seoul.go.kr/expense/35367975,2026-01-19,seoul_city,시민건강국 보건의료정책과,오리마당,서울 중구 세종대로 92,255000,p11
+opengov:35380352,12,https://opengov.seoul.go.kr/expense/35380352,2026-01-19,seoul_city,주택실 재정비촉진과,오리마당,서울 중구 세종대로 92,150000,p11
+opengov:35410278,16,https://opengov.seoul.go.kr/expense/35410278,2026-01-21,seoul_council,의정국 재정분석과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35388722,35,https://opengov.seoul.go.kr/expense/35388722,2026-01-26,seoul_council,의정국 언론홍보과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:35357693,34,https://opengov.seoul.go.kr/expense/35357693,2026-01-27,seoul_city,기획조정실 조직담당관,오리마당,서울 중구 세종대로 92,128000,p11
+opengov:35420408,10,https://opengov.seoul.go.kr/expense/35420408,2026-01-28,seoul_city,재무국 계약심사과,오리마당,서울 중구 세종대로 92,110000,p11
+opengov:35367975,43,https://opengov.seoul.go.kr/expense/35367975,2026-01-29,seoul_city,시민건강국 보건의료정책과,오리마당,서울 중구 세종대로 92,66000,p11
+opengov:35446150,28,https://opengov.seoul.go.kr/expense/35446150,2026-01-30,seoul_city,경제실 일자리정책과,오리마당,서울 중구 세종대로 92,69000,p11
+opengov:35547890,1,https://opengov.seoul.go.kr/expense/35547890,2026-02-02,seoul_city,재난안전실 교량안전과,오리마당,서울 중구 세종대로 92,186000,p11
+opengov:35547878,2,https://opengov.seoul.go.kr/expense/35547878,2026-02-03,seoul_city,재무국 세제과,오리마당,서울 중구 세종대로 92,113000,p11
+opengov:36013146,1,https://opengov.seoul.go.kr/expense/36013146,2026-02-03,seoul_city,건설기술정책관 지역건축안전센터,오리마당,서울 중구 세종대로 92,44000,p11
+opengov:35547880,2,https://opengov.seoul.go.kr/expense/35547880,2026-02-04,seoul_office,서울도서관행정지원과,오리마당,서울 중구 세종대로 92,58000,p11
+opengov:35547880,6,https://opengov.seoul.go.kr/expense/35547880,2026-02-09,seoul_office,서울도서관행정지원과,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35572171,6,https://opengov.seoul.go.kr/expense/35572171,2026-02-09,seoul_city,균형발전본부 도시정비과,오리마당,서울 중구 세종대로 92,132000,p11
+opengov:35595052,24,https://opengov.seoul.go.kr/expense/35595052,2026-02-09,seoul_city,재난안전실 재난안전정책과,오리마당,서울 중구 세종대로 92,211000,p11
+opengov:35548114,5,https://opengov.seoul.go.kr/expense/35548114,2026-02-10,seoul_city,민생노동국 농수산유통과,오리마당,서울 중구 세종대로 92,175000,p11
+opengov:35583668,4,https://opengov.seoul.go.kr/expense/35583668,2026-02-10,seoul_city,시민건강국 공공의료과,오리마당,서울 중구 세종대로 92,135000,p11
+opengov:35571123,8,https://opengov.seoul.go.kr/expense/35571123,2026-02-12,seoul_city,정원도시국 공원조성과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:35572171,8,https://opengov.seoul.go.kr/expense/35572171,2026-02-12,seoul_city,균형발전본부 도시정비과,오리마당,서울 중구 세종대로 92,148000,p11
+opengov:35595210,4,https://opengov.seoul.go.kr/expense/35595210,2026-02-13,seoul_council,환경수자원전문위원실,오리마당,서울 중구 세종대로 92,57000,p11
+opengov:35560821,7,https://opengov.seoul.go.kr/expense/35560821,2026-02-20,seoul_city,평생교육국 친환경급식과,오리마당,서울 중구 세종대로 92,53000,p11
+opengov:35548104,23,https://opengov.seoul.go.kr/expense/35548104,2026-02-23,seoul_city,시민건강국 보건의료정책과,오리마당,서울 중구 세종대로 92,164000,p11
+opengov:35595053,39,https://opengov.seoul.go.kr/expense/35595053,2026-02-23,seoul_city,행정1부시장실,오리마당,서울 중구 세종대로 92,82000,p11
+opengov:35595258,12,https://opengov.seoul.go.kr/expense/35595258,2026-02-24,seoul_city,경제실 대학협력과,오리마당,서울 중구 세종대로 92,53000,p11
+opengov:35547923,6,https://opengov.seoul.go.kr/expense/35547923,2026-02-25,seoul_city,기후환경본부 대기정책과,오리마당,서울 중구 세종대로 92,65000,p11
+opengov:35548089,3,https://opengov.seoul.go.kr/expense/35548089,2026-02-25,seoul_city,정원도시국 공원여가사업과,오리마당,서울 중구 세종대로 92,129000,p11
+opengov:35581592,10,https://opengov.seoul.go.kr/expense/35581592,2026-02-25,seoul_city,균형발전본부 광화문광장사업과,오리마당,서울 중구 세종대로 92,43000,p11
+opengov:35581593,8,https://opengov.seoul.go.kr/expense/35581593,2026-02-25,seoul_city,교통실 택시정책과,오리마당,서울 중구 세종대로 92,132000,p11
+opengov:35583679,5,https://opengov.seoul.go.kr/expense/35583679,2026-02-25,seoul_city,기획조정실 규제개선담당관,오리마당,서울 중구 세종대로 92,140000,p11
+opengov:35594633,24,https://opengov.seoul.go.kr/expense/35594633,2026-02-25,seoul_office,북부공원여가센터 공원운영과,오리마당,서울 중구 세종대로 92,93000,p11
+opengov:35572174,2,https://opengov.seoul.go.kr/expense/35572174,2026-02-27,seoul_city,도시공간본부 도시계획과,오리마당,서울 중구 세종대로 92,217000,p11
+opengov:36471821,4,https://opengov.seoul.go.kr/expense/36471821,2026-06-04,seoul_city,주택실 건축기획과,오리마당,서울 중구 세종대로 92,56000,p11
